@@ -1,0 +1,333 @@
+{
+ "broker.MAX_AGE_DAYS": 7,
+ "broker.PREOPEN_HOURS": 16,
+ "config.BASE_RATE": {
+  "horizon_days": 20,
+  "min_group": 100,
+  "rebuild_days": 30,
+  "recent_gap_warn": 5,
+  "recent_years": 5,
+  "shrink": 200,
+  "start": "2010-01-01"
+ },
+ "config.COUNCIL": [
+  {
+   "id": "graham",
+   "lens": "Benjamin Graham: margin of safety, balance-sheet strength, price versus conservative value"
+  },
+  {
+   "id": "lynch",
+   "lens": "Peter Lynch: growth at a reasonable price, earnings growth versus P/E, is the story simple and intact"
+  },
+  {
+   "id": "druckenmiller",
+   "lens": "Stanley Druckenmiller: inflections in fundamentals and liquidity, what changes in the next few months"
+  }
+ ],
+ "config.COUNCIL_JUDGE": {
+  "enabled": true,
+  "id": "sonnet_council",
+  "live": false,
+  "model": "claude-sonnet-5",
+  "sample": 1.0,
+  "thinking": "medium"
+ },
+ "config.DEBATE_POOL": [
+  {
+   "max_stocks": 200,
+   "model": "xai:grok-4.3"
+  },
+  {
+   "max_stocks": 40,
+   "model": "nvidia:deepseek-ai/deepseek-v4.1-flash"
+  }
+ ],
+ "config.DROP_REVIEW_PCT": -25.0,
+ "config.EVAL_RULE": {
+  "brier_min_forecasts": 300,
+  "futility_from_look": 2,
+  "futility_ic": 0.0,
+  "horizon": "4w",
+  "looks_months": [
+   3,
+   6,
+   9,
+   12
+  ],
+  "macro_review_months": 12,
+  "min_dates": 6,
+  "promote_horizon": "13w",
+  "promote_margin": 0.02,
+  "promote_min_dates": 12,
+  "promote_t": 2.0,
+  "prune_max_benefit": 0.001,
+  "prune_min_pairs": 300,
+  "t_boundaries": [
+   3.0,
+   2.6,
+   2.3,
+   2.0
+  ]
+ },
+ "config.EVENT_LOOKAHEAD_DAYS": 28,
+ "config.JUDGED_PER_REBUILD": 80,
+ "config.JUDGE_DISAGREEMENT": 10,
+ "config.JUDGE_PANEL": [
+  {
+   "enabled": true,
+   "id": "sonnet",
+   "live": true,
+   "model": "claude-sonnet-5",
+   "sample": 1.0,
+   "thinking": "medium"
+  },
+  {
+   "enabled": true,
+   "id": "sonnet55",
+   "live": false,
+   "model": "claude-sonnet-5-5",
+   "sample": 1.0,
+   "thinking": "medium"
+  },
+  {
+   "enabled": true,
+   "id": "gpt_sol",
+   "live": true,
+   "model": "openai:gpt-6-sol",
+   "sample": 1.0,
+   "thinking": "medium"
+  },
+  {
+   "enabled": true,
+   "id": "gemini_pro",
+   "live": true,
+   "model": "gemini-3.1-pro-preview",
+   "sample": 1.0,
+   "thinking": "medium"
+  },
+  {
+   "enabled": false,
+   "id": "opus",
+   "live": false,
+   "model": "claude-opus-5-5",
+   "sample": 1.0,
+   "thinking": "medium"
+  },
+  {
+   "enabled": false,
+   "id": "gpt_astra",
+   "live": false,
+   "model": "openai:gpt-6-astra",
+   "sample": 1.0,
+   "thinking": "medium"
+  },
+  {
+   "enabled": true,
+   "id": "grok",
+   "live": false,
+   "model": "xai:grok-4.3",
+   "sample": 1.0,
+   "thinking": null
+  },
+  {
+   "enabled": false,
+   "id": "deepseek",
+   "live": false,
+   "model": "nvidia:deepseek-ai/deepseek-v4.1-flash",
+   "sample": 1.0,
+   "thinking": null
+  },
+  {
+   "enabled": false,
+   "id": "mistral",
+   "live": false,
+   "model": "mistral:mistral-medium-latest",
+   "sample": 1.0,
+   "thinking": null
+  }
+ ],
+ "config.MACRO_HORIZON_WEEKS": 4,
+ "config.MACRO_TILT": {
+  "full": 5,
+  "hysteresis": 1,
+  "max_full": 2,
+  "narrative_cap": 5,
+  "small": 2
+ },
+ "config.MAX_PER_FACTOR": 6,
+ "config.MIN_HISTORY_DAYS": 365,
+ "config.MODELS": {
+  "catalyst": "gemini-3.8-flash",
+  "council": "gemini-3.8-flash",
+  "debate_bear": "xai:grok-4.3",
+  "debate_bull": "xai:grok-4.3",
+  "filing_diff": "gemini-3.8-flash",
+  "filing_summary": "gemini-3.8-flash",
+  "fundamentals": "gemini-3.8-flash",
+  "fundamentals_escalation": "claude-sonnet-5",
+  "judge": "claude-sonnet-5",
+  "macro_critic": "claude-sonnet-5-5",
+  "macro_extract": "gemini-3.8-flash",
+  "macro_gather": "claude-haiku-4-5-20251001",
+  "macro_reason_1": "claude-sonnet-5",
+  "macro_reason_2": "claude-opus-5-5",
+  "macro_reason_3": "gemini-3.8-flash",
+  "macro_reason_4": "xai:grok-4.3",
+  "news": [
+   "claude-haiku-4-5-20251001",
+   "gemma-4-31b-it"
+  ],
+  "portfolio_critic": "claude-sonnet-5",
+  "portfolio_manager": "claude-opus-5-5",
+  "shadow_signals": "gemini-3.8-flash",
+  "watch_escalation": "claude-sonnet-5-5",
+  "watch_news": [
+   "claude-haiku-4-5-20251001",
+   "gemma-4-31b-it"
+  ]
+ },
+ "config.MOMENTUM_CAP": 40.0,
+ "config.MOMENTUM_MAX_LEVEL": 0.8,
+ "config.PANEL_SHARPEN": 1.5,
+ "config.PEER_WINDOW_DAYS": 35,
+ "config.PROB": {
+  "adjust_cap": 15,
+  "buy_edge": 2,
+  "buy_min": 0.5,
+  "clip": [
+   0.03,
+   0.97
+  ],
+  "confirm_rebuilds": 2,
+  "keep_edge": -2,
+  "keep_min": 0.47,
+  "long_term_guard_days": 30,
+  "swap_margin": 4,
+  "tax_points_per_5pct": 1
+ },
+ "config.SHADOW_SIGNALS": [
+  "beat_quality",
+  "guidance",
+  "read_across"
+ ],
+ "config.SIZE_BY_EDGE": false,
+ "config.STARTING_VALUE": 10000.0,
+ "config.THEMES": [
+  "oil_price",
+  "natural_gas",
+  "refining_margins",
+  "ai_datacenter_buildout",
+  "semiconductors",
+  "consumer_spending",
+  "interest_rates",
+  "housing",
+  "healthcare_policy",
+  "defense_spending",
+  "industrial_metals",
+  "agriculture",
+  "insurance_pricing",
+  "asset_management_flows",
+  "trade_tariffs",
+  "shipping",
+  "other"
+ ],
+ "config.THEME_CAP": 25.0,
+ "config.TILT_RANGES": {
+  "-1": [
+   0,
+   10
+  ],
+  "-2": [
+   0,
+   5
+  ],
+  "0": [
+   0,
+   18
+  ],
+  "1": [
+   5,
+   22
+  ],
+  "2": [
+   10,
+   25
+  ]
+ },
+ "pm.BAND": 2.0,
+ "pm.CLUSTER_CAP": 20.0,
+ "pm.CLUSTER_CORR": 0.45,
+ "pm.MAX_STOCKS": 20,
+ "pm.MIN_BUY_CONVICTION": 3,
+ "pm.MIN_STOCKS": 15,
+ "pm.MIN_TRADE": 50.0,
+ "pm.PARKING": "SPY",
+ "pm.POS_MAX": 10.0,
+ "pm.POS_MIN": 3.0,
+ "rebuild.MAX_TURNOVER": 0.5,
+ "screen.CANDIDATE_T_MIN": 1.5,
+ "screen.CANDIDATE_T_MIN_NEW": {
+  "asset_growth": 2.0,
+  "filing_similarity": 2.0,
+  "frog_momentum": 2.0,
+  "fscore": 2.0,
+  "high_52w": 2.0,
+  "low_short": 2.0,
+  "net_issuance": 2.0
+ },
+ "screen.CONTROL_SIZE": 18,
+ "screen.FAMILIES": {
+  "momentum": [
+   "momentum",
+   "industry",
+   "resid_momentum",
+   "riskadj_momentum",
+   "high_52w",
+   "frog_momentum"
+  ],
+  "quality": [
+   "quality",
+   "roic",
+   "stability",
+   "fscore"
+  ]
+ },
+ "screen.MIN_DOLLAR_VOLUME": 3000000,
+ "screen.MIN_EVIDENCE_MONTHS": 60,
+ "screen.MIN_PRICE": 5.0,
+ "screen.MOMENTUM_GUARD": true,
+ "screen.PRIOR_WEIGHTS": {
+  "asset_growth": 0.0,
+  "earnings": 0.22,
+  "filing_similarity": 0.0,
+  "frog_momentum": 0.0,
+  "fscore": 0.0,
+  "high_52w": 0.0,
+  "industry": 0.08,
+  "insider": 0.05,
+  "low_short": 0.0,
+  "low_vol": 0.0,
+  "momentum": 0.22,
+  "net_issuance": 0.0,
+  "quality": 0.2,
+  "reaction": 0.06,
+  "resid_momentum": 0.0,
+  "reversal": 0.02,
+  "riskadj_momentum": 0.0,
+  "roic": 0.0,
+  "stability": 0.0,
+  "value": 0.15
+ },
+ "screen.SLOT_WEIGHT": {
+  "-1": 1,
+  "-2": 0,
+  "0": 2,
+  "1": 4,
+  "2": 6
+ },
+ "screen.STANDOUT_PCT": 0.95,
+ "screen.SUB_CAP_MIN": 4,
+ "screen.SUB_CAP_SHARE": 0.35,
+ "screen.WEIGHT_REFRESH_DAYS": 365,
+ "screen.WEIGHT_RULE": 2
+}

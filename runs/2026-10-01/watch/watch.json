@@ -1,0 +1,32 @@
+{
+ "date": "2026-10-01",
+ "price_flags": {},
+ "triggers": [],
+ "news_screen": {
+  "ALL": {
+   "status": "ok",
+   "why": "Stock price decline and CLO AI exposure cap are routine market/capital structure news. Neither signals catastrophe losses exceeding $2.5B in a quarter or reversal of underwriting income improvement. No exit condition triggered."
+  },
+  "DAR": {
+   "status": "watch",
+   "why": "Announcement of Q3 2026 earnings release date (Oct 29) is procedural. No actual results reported yet. This is a setup for potential binary risk within the 4-week window, but the headline itself does not constitute earnings data that would trigger the exit condition on margin contraction or contribution decline."
+  },
+  "DLTR": {
+   "status": "ok",
+   "why": "Analyst research calls and valuation mentions are supportive of the thesis (positive revisions, attractive multiples). No EPS guidance cut below $0.80 reported. The generic sector article does not signal the exit condition."
+  },
+  "HLIT": {
+   "status": "ok",
+   "why": "Partnership announcement with Comcast on new Recon product family is positive news reinforcing the broadband-focused strategy. Does not signal a top customer capex reduction or delay. Supports the thesis of fresh strategic momentum."
+  },
+  "PARR": {
+   "status": "ok",
+   "why": "PBF debt reduction and refinery efficiency news is supportive but addresses a peer, not PARR directly. No indication that refining crack spreads have fallen below the $20/bbl exit threshold (currently cited at $41.22/bbl). Macro backdrop remains stable."
+  },
+  "VCTR": {
+   "status": "ok",
+   "why": "First Eagle acquisition and pro forma AUM growth to $570B are positive developments aligned with the thesis. No indication of net outflows or AUM dropping below $340B. Analyst upgrade reinforces conviction."
+  }
+ },
+ "reviews": {}
+}

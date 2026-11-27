@@ -1,0 +1,32 @@
+{
+ "date": "2026-10-05",
+ "price_flags": {},
+ "triggers": [],
+ "news_screen": {
+  "ALL": {
+   "status": "watch",
+   "why": "Senate probe into claims denials (Warren/Hawley) is reputationally damaging and could lead to regulatory pressure or operational changes, but does not directly signal catastrophe losses exceeding $2.5B in a quarter. The investigation is relevant to underwriting practices and consumer satisfaction but falls short of the exit condition threshold. Monitor for regulatory outcomes."
+  },
+  "DAR": {
+   "status": "ok",
+   "why": "Closure of CTH sausage casings divestiture is a minor portfolio management event. No impact on Q3 operating margins or the Fuel Ingredients/DGD segment contribution that forms the exit condition. This is a non-core business sale consistent with company strategy."
+  },
+  "DLTR": {
+   "status": "ok",
+   "why": "Keep America Beautiful partnership and commentary on consumer sentiment are tangential to Q3 earnings guidance. The Scaramucci commentary on consumer confidence is macro color but does not trigger an EPS guidance cut below $0.80. The mention of DLTR as a defensive pick in tough markets is actually supportive of the thesis."
+  },
+  "HLIT": {
+   "status": "ok",
+   "why": "Recon fiber monitoring launch with Comcast is a positive product development that enhances HLIT's competitive positioning. This suggests continued customer engagement and capex commitment rather than a reduction or delay. Aligns with the positive momentum narrative."
+  },
+  "PARR": {
+   "status": "ok",
+   "why": "PSX valuation commentary acknowledges premium pricing but does not signal a crack spread collapse below $20/bbl. Current refining environment remains supportive at $41.22/bbl per thesis. No immediate signal of margin deterioration."
+  },
+  "VCTR": {
+   "status": "ok",
+   "why": "Q2 2026 earnings transcript reference is backward-looking and does not provide new information about current AUM trends or net flows. No indication of outflows or AUM dropping below $340B. Awaiting next monthly or quarterly update for decision-relevant data."
+  }
+ },
+ "reviews": {}
+}

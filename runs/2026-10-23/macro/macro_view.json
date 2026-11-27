@@ -1,0 +1,104 @@
+{
+ "date": "2026-10-23",
+ "status": "NEEDS_REVIEW",
+ "regime": "Reflation (growth up, inflation up)",
+ "fed": "on hold",
+ "tilts": {
+  "Technology": -1,
+  "Financials": 0,
+  "Health Care": 0,
+  "Energy": 1,
+  "Industrials": 0,
+  "Consumer Discretionary": -1,
+  "Consumer Staples": 2,
+  "Utilities": 0,
+  "Materials": 0,
+  "Real Estate": 0,
+  "Communication Services": 0
+ },
+ "sector_probabilities": {
+  "Technology": 0.4221,
+  "Financials": 0.4787,
+  "Health Care": 0.6189,
+  "Energy": 0.6156,
+  "Industrials": 0.5354,
+  "Consumer Discretionary": 0.4323,
+  "Consumer Staples": 0.6303,
+  "Utilities": 0.5681,
+  "Materials": 0.5208,
+  "Real Estate": 0.4554,
+  "Communication Services": 0.5007
+ },
+ "factor_view": {
+  "rates_10y": 5.0,
+  "oil": 2.5,
+  "dollar": 0.0,
+  "credit": -0.5,
+  "inflation_exp": 0.25
+ },
+ "weight_ranges_%": {
+  "Technology": [
+   0,
+   12
+  ],
+  "Financials": [
+   0,
+   25
+  ],
+  "Health Care": [
+   0,
+   25
+  ],
+  "Energy": [
+   6,
+   35
+  ],
+  "Industrials": [
+   0,
+   25
+  ],
+  "Consumer Discretionary": [
+   0,
+   12
+  ],
+  "Consumer Staples": [
+   12,
+   45
+  ],
+  "Utilities": [
+   0,
+   25
+  ],
+  "Materials": [
+   0,
+   25
+  ],
+  "Real Estate": [
+   0,
+   25
+  ],
+  "Communication Services": [
+   0,
+   25
+  ]
+ },
+ "triggers": [],
+ "why": [
+  "tripwire: WTI crude oil $/bbl is newly unusual (z +1.6 -> +2.0)"
+ ],
+ "key_risks": [
+  "10-year Treasury yields breaking sharply above 5.00%, creating equity market multiple compression across growth sectors.",
+  "Active Iran/Israel escalation risk (NOTE:E13: post-midterm strike planning; NOTE:E14: Saudi evacuation) could push oil well above the current $107.89 level, a tail scenario the recession_risk model's top drivers (financial conditions, yield curve, S&P 6m return) don't directly capture - oil/GPR are not among its listed drivers despite GPR sitting at the 96th percentile (CALC:risk_indicators).",
+  "Consumer spending retrenchment due to sustained >$4.20/gal gasoline prices impacting holiday retail demand.",
+  "Credit spreads are already widening (BAMLH0A0HYM2 3.40%, 83.8th pctile) even though pullback_risk model reads low (p=0.076) with a weaker out-of-sample accuracy (oos_auc=0.68) than the recession model; a credit-led drawdown is the kind of regime shift this lower-accuracy model may be slower to flag.",
+  "Direct military escalation between the U.S./Israel and Iran closing the Strait of Hormuz entirely, sending oil to $130+/bbl.",
+  "FOMC meets Oct 27-28 with the Fed on hold (3.88%) while the market prices further tightening (2yr-FF spread 0.77) - any dovish surprise could sharply reverse the rates_10y and dollar forecasts.",
+  "Faster-than-expected inflation reacceleration from energy",
+  "Gulf escalation (Saudi facilities, Hormuz closure, post-midterm US/Israeli strikes) sends Brent above $125; the pullback model underweights this given geopolitical risk at the 96th percentile and OVX 55.6.",
+  "HY spread widening (+65bp in 3m) extends; the pullback model's low reading relies on calm realized volatility.",
+  "Hawkish FOMC Oct 27-28 (dots imply 4.1 vs 3.88) pushes the 10y above 5%, hitting long-duration equities and housing (mortgage 7.32%).",
+  "Mortgage rates at 7.32% (96.7th pctile) alongside weak permits (9.8th pctile) could feed into a housing-sector-specific slowdown that broad-market recession models underweight since housing is a small direct GDP share but has historically led downturns.",
+  "Oil supply disruption escalation beyond current pricing",
+  "Rapid de-escalation collapses the oil premium (EIA $105 Q4, IEA demand cut), reversing the Energy outperformance."
+ ]
+}

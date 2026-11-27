@@ -1,0 +1,64 @@
+{
+ "date": "2026-11-17",
+ "price_flags": {},
+ "triggers": [],
+ "news_screen": {
+  "ADM": {
+   "status": "ok",
+   "why": "Headlines confirm the thesis tailwind: earnings outlook raised, biofuel strength ongoing, company investing in capacity. No sign of credit spread widening >50bps or guidance cut below $5.15. Recent pullback and policy risks acknowledged but thesis intact."
+  },
+  "ALL": {
+   "status": "ok",
+   "why": "JPMorgan maintains Overweight with modest PT adjustment ($292\u2192$291). No catastrophe loss disclosure. Analyst support and improving underwriting thesis remains in play despite near-term EPS headwinds."
+  },
+  "APA": {
+   "status": "watch",
+   "why": "North Sea strike halting production is a negative operational development, but does not trigger the oil price exit condition (WTI <$55/bbl over 4 weeks). Warrants monitoring for broader production impacts and any margin pressure, but not yet a clear breach."
+  },
+  "CHRD": {
+   "status": "ok",
+   "why": "No thesis or exit condition specified. Headline about dividend yield distortion is generic sector commentary without direct bearing on this holding."
+  },
+  "DLTR": {
+   "status": "ok",
+   "why": "Multiple analyst initiations/upgrades (Stifel Buy $160, UBS Buy $165) and positive commentary on consumer spending trends support the thesis. Q3 tariff reinvestment headwind already priced into expectations. No EPS guidance cut below $0.80 signaled. Momentum supports the near-term draw against sector."
+  },
+  "DRH": {
+   "status": "ok",
+   "why": "Recent acquisition of Carmel Mission Inn announced at $444k/key aligns with capital deployment and leisure market positioning. No negative RevPAR guidance or outlook cut disclosed. Thesis remains intact."
+  },
+  "DXCM": {
+   "status": "watch",
+   "why": "Headline on Medicare delay risk for type 2 diabetes coverage is relevant to revenue drivers but does not constitute a material refinancing disclosure or margin guidance cut. The CMS decision timing is uncertain and could materially impact trajectory; warrants close monitoring but no exit trigger yet."
+  },
+  "OXY": {
+   "status": "ok",
+   "why": "No thesis or exit condition specified. Headlines include mixed sentiment (downgrade to Neutral, debt reduction, Berkshire stake discussion) but without a defined thesis, cannot assess signal clarity."
+  },
+  "PGNY": {
+   "status": "ok",
+   "why": "Headlines confirm strong momentum and 52-week high, consistent with the thesis. No disclosure of EPS estimate consensus falling below $2.10. Repurchase and guidance thesis remains supported."
+  },
+  "REGN": {
+   "status": "ok",
+   "why": "News highlights collaboration progress (CytomX milestone), EYLEA HD approval pathway intact (Libtayo EU approval, Jefferies conference discussions). No complete response letter for EYLEA HD disclosed. Regulatory and pipeline thesis remains in play."
+  },
+  "RS": {
+   "status": "ok",
+   "why": "No headline directly addressing Metals Service Centers revenue trend or Q3 earnings. Sector commentary on steel and ATI capital plans shows broad product growth narrative, but October 21 earnings test has not yet occurred."
+  },
+  "STBA": {
+   "status": "ok",
+   "why": "No NIM disclosure or sequential compression reported. SCHD inclusion headline is sector-level validation. Deposit-funded margin expansion thesis and slight edge remain intact pending next quarterly filing."
+  },
+  "VCTR": {
+   "status": "ok",
+   "why": "Headlines confirm positive milestones: stockholders approved First Eagle acquisition and Apollo strategic partnership announced. These support operating improvement and growth narrative. No net outflow disclosure; momentum thesis intact."
+  },
+  "XOM": {
+   "status": "ok",
+   "why": "No thesis or exit condition specified. Headlines include debt tender, dividend positioning, and historical performance commentary, but without defined thesis, assessment cannot proceed."
+  }
+ },
+ "reviews": {}
+}

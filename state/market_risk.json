@@ -1,0 +1,469 @@
+{
+ "date": "2026-11-20",
+ "spx_as_of": "2026-11-20",
+ "recession_12m": {
+  "probability": 0.299,
+  "base_rate": 0.229,
+  "as_of": "2026-11-30",
+  "drivers": [
+   {
+    "input": "S&P 500, 6-month return (%)",
+    "value": -8.835,
+    "push": 0.98
+   },
+   {
+    "input": "10-yr minus 3-month Treasury spread (pts)",
+    "value": 0.713,
+    "push": 0.8
+   },
+   {
+    "input": "Chicago Fed financial conditions (above 0 = tighter than average)",
+    "value": -0.475,
+    "push": -0.79
+   },
+   {
+    "input": "Sahm rule, real time (0.5+ has marked every recession start)",
+    "value": 0.0,
+    "push": -0.03
+   },
+   {
+    "input": "Jobless claims, 6-month change (%)",
+    "value": -4.301,
+    "push": 0.01
+   }
+  ],
+  "samples": 658,
+  "trained_from": "1971-01-31",
+  "out_of_sample": {
+   "auc": 0.874,
+   "months": 430,
+   "from": "1990-01",
+   "brier_skill_%": 13.2
+  },
+  "history": [
+   [
+    "2023-12-31",
+    0.521
+   ],
+   [
+    "2024-01-31",
+    0.518
+   ],
+   [
+    "2024-02-29",
+    0.344
+   ],
+   [
+    "2024-03-31",
+    0.201
+   ],
+   [
+    "2024-04-30",
+    0.184
+   ],
+   [
+    "2024-05-31",
+    0.255
+   ],
+   [
+    "2024-06-30",
+    0.307
+   ],
+   [
+    "2024-07-31",
+    0.329
+   ],
+   [
+    "2024-08-31",
+    0.436
+   ],
+   [
+    "2024-09-30",
+    0.398
+   ],
+   [
+    "2024-10-31",
+    0.214
+   ],
+   [
+    "2024-11-30",
+    0.148
+   ],
+   [
+    "2024-12-31",
+    0.187
+   ],
+   [
+    "2025-01-31",
+    0.129
+   ],
+   [
+    "2025-02-28",
+    0.192
+   ],
+   [
+    "2025-03-31",
+    0.352
+   ],
+   [
+    "2025-04-30",
+    0.369
+   ],
+   [
+    "2025-05-31",
+    0.321
+   ],
+   [
+    "2025-06-30",
+    0.204
+   ],
+   [
+    "2025-07-31",
+    0.205
+   ],
+   [
+    "2025-08-31",
+    0.162
+   ],
+   [
+    "2025-09-30",
+    0.077
+   ],
+   [
+    "2025-10-31",
+    0.059
+   ],
+   [
+    "2025-11-30",
+    0.09
+   ],
+   [
+    "2025-12-31",
+    0.105
+   ],
+   [
+    "2026-01-31",
+    0.096
+   ],
+   [
+    "2026-02-28",
+    0.133
+   ],
+   [
+    "2026-03-31",
+    0.227
+   ],
+   [
+    "2026-04-30",
+    0.132
+   ],
+   [
+    "2026-05-31",
+    0.077
+   ],
+   [
+    "2026-06-30",
+    0.088
+   ],
+   [
+    "2026-07-31",
+    0.09
+   ],
+   [
+    "2026-08-31",
+    0.062
+   ],
+   [
+    "2026-09-30",
+    0.04
+   ],
+   [
+    "2026-10-31",
+    0.097
+   ],
+   [
+    "2026-11-30",
+    0.299
+   ]
+  ],
+  "benchmarks": {
+   "ny_fed_style_yield_curve_model": 0.162,
+   "chauvet_piger_in_recession_now": 0.004,
+   "chauvet_piger_as_of": "2026-09-01"
+  }
+ },
+ "pullback_10pct_3m": {
+  "probability": 0.15,
+  "base_rate": 0.132,
+  "as_of": "2026-11-20",
+  "drivers": [
+   {
+    "input": "S&P 500 vs its 200-day average (%)",
+    "value": -5.963,
+    "push": 0.36
+   },
+   {
+    "input": "S&P 500 1-month realized volatility (log)",
+    "value": -1.363,
+    "push": 0.19
+   },
+   {
+    "input": "Baa corporate bond spread over 10-yr Treasury (pts)",
+    "value": 1.56,
+    "push": -0.12
+   },
+   {
+    "input": "Baa spread, 3-month change (pts)",
+    "value": -0.07,
+    "push": -0.05
+   },
+   {
+    "input": "Chicago Fed financial conditions",
+    "value": -0.478,
+    "push": -0.05
+   }
+  ],
+  "samples": 484,
+  "trained_from": "1986-04-30",
+  "out_of_sample": {
+   "auc": 0.68,
+   "months": 319,
+   "from": "2000-01",
+   "brier_skill_%": -1.8
+  },
+  "history": [
+   [
+    "2023-12-29",
+    0.067
+   ],
+   [
+    "2024-01-31",
+    0.066
+   ],
+   [
+    "2024-02-29",
+    0.063
+   ],
+   [
+    "2024-03-28",
+    0.056
+   ],
+   [
+    "2024-04-30",
+    0.078
+   ],
+   [
+    "2024-05-31",
+    0.064
+   ],
+   [
+    "2024-06-28",
+    0.064
+   ],
+   [
+    "2024-07-31",
+    0.097
+   ],
+   [
+    "2024-08-30",
+    0.104
+   ],
+   [
+    "2024-09-30",
+    0.084
+   ],
+   [
+    "2024-10-31",
+    0.065
+   ],
+   [
+    "2024-11-29",
+    0.063
+   ],
+   [
+    "2024-12-31",
+    0.076
+   ],
+   [
+    "2025-01-31",
+    0.081
+   ],
+   [
+    "2025-02-28",
+    0.103
+   ],
+   [
+    "2025-03-31",
+    0.175
+   ],
+   [
+    "2025-04-30",
+    0.246
+   ],
+   [
+    "2025-05-30",
+    0.133
+   ],
+   [
+    "2025-06-30",
+    0.083
+   ],
+   [
+    "2025-07-31",
+    0.057
+   ],
+   [
+    "2025-08-29",
+    0.078
+   ],
+   [
+    "2025-09-30",
+    0.06
+   ],
+   [
+    "2025-10-31",
+    0.071
+   ],
+   [
+    "2025-11-28",
+    0.078
+   ],
+   [
+    "2025-12-31",
+    0.073
+   ],
+   [
+    "2026-01-30",
+    0.076
+   ],
+   [
+    "2026-02-27",
+    0.094
+   ],
+   [
+    "2026-03-31",
+    0.133
+   ],
+   [
+    "2026-04-30",
+    0.087
+   ],
+   [
+    "2026-05-29",
+    0.058
+   ],
+   [
+    "2026-06-30",
+    0.073
+   ],
+   [
+    "2026-07-31",
+    0.08
+   ],
+   [
+    "2026-08-31",
+    0.079
+   ],
+   [
+    "2026-09-30",
+    0.078
+   ],
+   [
+    "2026-10-30",
+    0.088
+   ],
+   [
+    "2026-11-20",
+    0.15
+   ]
+  ],
+  "inputs_tested": {
+   "Geopolitical Risk Index, 30-day average (log)": {
+    "kept": false,
+    "auc_without": 0.68,
+    "auc_with": 0.676
+   },
+   "Economic policy uncertainty, 30-day average (log)": {
+    "kept": false,
+    "auc_without": 0.68,
+    "auc_with": 0.669
+   }
+  }
+ },
+ "indicators": [
+  {
+   "name": "Yield curve (10y - 3m)",
+   "value": 0.71,
+   "as_of": "2026-11-20",
+   "reading": "positive; inverted 0 of the last 24 months"
+  },
+  {
+   "name": "Sahm rule (real time)",
+   "value": 0.0,
+   "as_of": "2026-10-01",
+   "reading": "calm"
+  },
+  {
+   "name": "High-yield credit spread",
+   "value": 3.52,
+   "as_of": "2026-11-19",
+   "change_3m": 0.83,
+   "reading": "92th percentile since 2023; widening"
+  },
+  {
+   "name": "Chicago Fed financial conditions (NFCI)",
+   "value": -0.48,
+   "as_of": "2026-11-13",
+   "reading": "looser than average"
+  },
+  {
+   "name": "S&P 500 vs 200-day average",
+   "value": "-6.0%",
+   "as_of": "2026-11-20",
+   "reading": "below (downtrend)"
+  },
+  {
+   "name": "S&P 500 1-month volatility",
+   "value": "26%",
+   "as_of": "2026-11-20",
+   "reading": "92th percentile since 1970 (stressed)"
+  },
+  {
+   "name": "Geopolitical Risk Index (30-day avg)",
+   "value": 151.5,
+   "as_of": "2026-11-16",
+   "reading": "91th percentile since 1985 (elevated)"
+  },
+  {
+   "name": "Economic policy uncertainty (30-day avg)",
+   "value": 295.3,
+   "as_of": "2026-11-19",
+   "reading": "95th percentile since 1985 (elevated)"
+  },
+  {
+   "name": "Trade policy uncertainty (monthly)",
+   "value": 1400.8,
+   "as_of": "2026-09-01",
+   "reading": "96th percentile since 1985 (elevated)"
+  },
+  {
+   "name": "Oil volatility (OVX)",
+   "value": 50.7,
+   "as_of": "2026-11-19",
+   "reading": "86th percentile since 2007 (elevated)"
+  },
+  {
+   "name": "Oil futures curve (front vs ~6 months out)",
+   "value": "+7.8%",
+   "as_of": "2026-11-20",
+   "reading": "steep backwardation: oil is scarce NOW (real supply squeeze)"
+  },
+  {
+   "name": "Jobless claims, 6-month change",
+   "value": "-4%",
+   "as_of": "2026-11-14",
+   "reading": "stable"
+  }
+ ],
+ "summary": "Recession within 12 months: 30% (elevated; typical 23%). S&P 500 10%+ pullback within 3 months: 15% (normal; typical 13%)."
+}

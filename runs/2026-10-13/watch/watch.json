@@ -1,0 +1,36 @@
+{
+ "date": "2026-10-13",
+ "price_flags": {},
+ "triggers": [],
+ "news_screen": {
+  "ADM": {
+   "status": "watch",
+   "why": "Wilmar earnings falling 22% signals mounting pressure on a key investment, and JP Morgan's downgrade with price target cut are concerning developments. However, these don't directly trigger the exit condition (Section 45Z/RVO policy changes). The core thesis on estimate revisions and guidance remains intact, but Wilmar weakness warrants close monitoring."
+  },
+  "ALL": {
+   "status": "ok",
+   "why": "Hurricane Isaias support activity and analyst downgrades/upgrades are normal market activity. No headline suggests catastrophe losses approaching the $2.5B single-quarter exit threshold. Protection Services margin pressure is a headwind but doesn't breach the exit condition."
+  },
+  "DLTR": {
+   "status": "ok",
+   "why": "The two headlines are about competitor ROST and UBER\u2014not relevant to DLTR's Q3 EPS guidance outlook. No news on DLTR's tariff reinvestment impact or Q3 EPS guidance cuts. Thesis remains supported until guidance is cut below $0.80."
+  },
+  "DXCM": {
+   "status": "ok",
+   "why": "Headlines are broadly supportive: factory ramp discussion, market growth forecasts, affordable valuation commentary, and BTIG price target raise. Forex and input-price pressures are noted but don't breach the 20% operating margin guidance exit threshold or signal refinancing difficulty around the October 2026 credit facility maturity."
+  },
+  "IDCC": {
+   "status": "ok",
+   "why": "Announcement of Q3 earnings date and HDR research report are routine corporate communications. No indication of revenue guidance cuts below $775M or loss of top-3 customer licenses. Thesis remains supported by recent litigation resolution and upgrades."
+  },
+  "RS": {
+   "status": "watch",
+   "why": "The final headline ('Reliance: Growth Metrics Don't Support The Premium Valuation') signals a bearish turn in commodity sentiment. This is relevant to sector momentum but indirect. The October 21 earnings report is a critical test for Metals Service Centers revenue trends. No direct breach of exit condition yet, but sector headwind warrants close attention."
+  },
+  "VCTR": {
+   "status": "ok",
+   "why": "September AUM report shows $351.9B, well above the $340B exit threshold, with continued organic growth. Monthly AUM update confirms the thesis remains intact with no sign of outflows or AUM deterioration."
+  }
+ },
+ "reviews": {}
+}

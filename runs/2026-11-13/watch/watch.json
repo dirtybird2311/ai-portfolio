@@ -1,0 +1,52 @@
+{
+ "date": "2026-11-13",
+ "price_flags": {},
+ "triggers": [],
+ "news_screen": {
+  "ADM": {
+   "status": "ok",
+   "why": "Headlines discuss RPV fund weighting and analyst cautious outlook, neither of which directly address credit spreads widening >50bps or EPS guidance cuts below $5.15. The cautious analyst view is consistent with the thesis's 'modestly positive' edge characterization."
+  },
+  "ALL": {
+   "status": "ok",
+   "why": "Headlines cover Lemonade's renters expansion, Allstate's dividend announcement, and Progressive's telematics tool\u2014none signal catastrophe losses exceeding $2.5B in a quarter. The dividend announcement actually reinforces financial stability."
+  },
+  "APA": {
+   "status": "ok",
+   "why": "Multiple headlines confirm Q3 beat, production above guidance, Permian efficiency gains, and analyst price target raises ($37\u2192$41). No indication of oil falling below $55/bbl; current framing remains supportive of the reflationary tailwind thesis."
+  },
+  "DLTR": {
+   "status": "watch",
+   "why": "FTC settlement ($63M with Family Dollar) creates potential reputational and operational headwind, but does not directly cut Q3 EPS guidance below $0.80. The amount is material but appears manageable relative to the company's scale; warrants monitoring for any guidance revision."
+  },
+  "DXCM": {
+   "status": "ok",
+   "why": "Headlines highlight Health Canada pregnancy approval for G7 sensor, margin expansion prospects, and bullish analyst commentary. No disclosure of operating margin guidance cuts below 20% or refinancing difficulty tied to the October 2026 credit facility maturity."
+  },
+  "KMX": {
+   "status": "ok",
+   "why": "Headline discusses Carvana and consumer advice on dealership shopping, not a specific CarMax margin decline signal. No evidence of used vehicle unit margin decline exceeding $200/unit guidance for FY2027."
+  },
+  "MU": {
+   "status": "watch",
+   "why": "Chip sector weakness is evident (Nvidia down 29%, sector selloff, AI trade headwinds), and headlines reference memory stock declines including MU. However, no specific guidance cut below 80% gross margin is reported. The broad sector weakness warrants close monitoring of MU's next guidance update."
+  },
+  "PBF": {
+   "status": "ok",
+   "why": "Headlines reinforce oil pricing strength (Trump opposition to Iran deal, Fed commentary on supply constraints keeping fuel prices elevated) and momentum themes. No signal of WTI falling below $70/bbl; refining thesis remains intact."
+  },
+  "RS": {
+   "status": "watch",
+   "why": "The November 16 Q3 earnings call is imminent and represents the test mentioned in the thesis. Headlines show RS momentum momentum (>55% annual gains) and strong pricing, but the exit condition\u2014YoY decline in Metals Service Centers revenue\u2014will only be known after the earnings release. Current headlines do not confirm or deny the outcome."
+  },
+  "SEI": {
+   "status": "ok",
+   "why": "Headlines highlight fund backing, potential undervaluation, and power-generation thesis. No loss of the 63%-revenue customer or guidance cut below the $90-105M Adjusted EBITDA range is reported. AI power-demand risk noted but not a definitive exit trigger."
+  },
+  "VCTR": {
+   "status": "ok",
+   "why": "Headlines feature positive screening results (affordable growth, reasonable valuation, strong balance sheet) and fund performance commentary. No evidence of net client outflows reversing the $4.1B net inflows from June quarter."
+  }
+ },
+ "reviews": {}
+}

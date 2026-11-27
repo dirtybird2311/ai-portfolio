@@ -1,0 +1,82 @@
+{
+ "date": "2026-11-04",
+ "price_flags": {
+  "APA": {
+   "move": -6.95,
+   "flags": [
+    "down -6.9% today (-2.6x its usual daily move)"
+   ]
+  },
+  "MU": {
+   "move": -7.04,
+   "flags": [
+    "down -7.0% today (-1.8x its usual daily move)"
+   ]
+  },
+  "SEI": {
+   "move": -16.81,
+   "flags": [
+    "down -16.8% today (-2.6x its usual daily move)"
+   ]
+  }
+ },
+ "triggers": [],
+ "news_screen": {
+  "ADM": {
+   "status": "ok",
+   "why": "Q3 earnings beat with third consecutive guidance raise and strong biofuels outlook reinforce the thesis. Dividend declaration and JPMorgan upgrade to Neutral (from Underweight) are supportive. No evidence of credit spread widening >50bps or EPS guidance falling below $5.15. Headline mix is positive and aligned with thesis."
+  },
+  "ALL": {
+   "status": "ok",
+   "why": "Q3 earnings beat with strong underwriting and investment income, plus strategic acquisition of Replica ownership stake, support the improving underwriting income thesis. No catastrophe losses mentioned; no breach of the $2.5B single-quarter exit condition. After-hours price slip is typical profit-taking, not a fundamental break."
+  },
+  "APA": {
+   "status": "ok",
+   "why": "Q3 earnings handily beat expectations with 21.9% EPS surprise and 18.5% revenue surprise, supporting the reflationary oil tailwind thesis. Strong analyst revisions evident. No indication that WTI has fallen below $55/bbl (the exit condition). Valuation stretch and below-market price target noted in thesis remain unchanged."
+  },
+  "DLTR": {
+   "status": "watch",
+   "why": "Earnings release date set for November 24, 2026. The thesis relies on Q3 EPS staying above $0.80 despite tariff reinvestment headwinds and buyback authorization offsetting the drag. No Q3 results or guidance cuts reported yet, so the thesis remains intact, but the upcoming earnings call (when it occurs) is a critical test of the $0.80 floor."
+  },
+  "DXCM": {
+   "status": "ok",
+   "why": "Canadian G7 launch announcement and continued biosensor market tailwinds support the bullish revision trend and sector momentum. Kevin Sayer's board appointment at Guardant Health (not material to DXCM thesis). No evidence of operating margin guidance cuts below 20% or refinancing difficulties tied to the October 2026 credit facility maturity. Positive momentum intact."
+  },
+  "KMX": {
+   "status": "ok",
+   "why": "CarMax's strategic update and new GEAR plan targeting mid-teens EPS growth through 2030 with mid-single-digit used retail unit CAGR directly support the analyst revisions and growth trajectory. Needham maintains bullish stance. No evidence of used-vehicle unit margin declines exceeding $200/unit guidance. Modest edge thesis remains supported."
+  },
+  "MU": {
+   "status": "ok",
+   "why": "Q3 earnings scorecard shows strong beats across Tech sector with earnings up 44.2% YoY, supporting MU's position. Strong guidance and upward revisions are mentioned; no gross-margin guidance cut below 80% reported. Macro concerns and capital spending noted in headlines but do not breach the specific exit condition of FQ1-27 gross-margin guidance below 80%."
+  },
+  "PBF": {
+   "status": "watch",
+   "why": "Refining headlines focus on Valero and HF Sinclair, not PBF specifically. While the tight fuel market and refining margin environment remain favorable (supporting the thesis), there is limited PBF-specific news. WTI remains well above the $70/bbl exit level, but the absence of fresh PBF news warrants monitoring as macro oil-price sensitivity is the core thesis."
+  },
+  "RS": {
+   "status": "watch",
+   "why": "The exit condition explicitly references the October 21 Q3 earnings release reporting a YoY decline in Metals Service Centers revenue. No such earnings report is reflected in these November 4-5 headlines. The thesis status remains uncertain pending the October 21 earnings outcome, which is the material test."
+  },
+  "SEI": {
+   "status": "watch",
+   "why": "Solaris Energy Infrastructure (SEI) Q3 results announced with adjusted EBITDA of $136M and additional power contracts, alongside increased guidance. This supports the new contracts and operational improvement thesis. However, customer concentration risk (63% from single customer) remains unaddressed in these headlines. No loss-of-customer announcement, so exit condition not breached, but concentration risk bears continued monitoring."
+  },
+  "VCTR": {
+   "status": "ok",
+   "why": "Victory Capital Q3 earnings reported with profit beat and strong growth momentum narrative confirmed by technical breakout setup commentary. No evidence of net client outflows; the June quarter had $4.1B inflows and this quarter shows continued positive momentum. Modest 51.7% edge thesis remains supported by operating improvement evidence."
+  }
+ },
+ "reviews": {
+  "MU": {
+   "verdict": "intact",
+   "action": "hold",
+   "why": "No reported cut to FQ1-27 gross-margin guidance below 80%, so the exit condition has not occurred. The -7% move appears tied to a post-election selloff in data center hardware on regulatory fears, which is a risk to monitor but not evidence the thesis is broken."
+  },
+  "SEI": {
+   "verdict": "at_risk",
+   "action": "review",
+   "why": "Q3 adjusted EBITDA of $136M beat the $90-105M exit range, guidance was raised and new power contracts were added, and no loss of the 63% customer was reported, so the exit condition is not triggered. However, the 16.8% drop on data-center pause politics in states like Texas threatens the demand runway for a leveraged, cash-burning, concentrated name, so exposure of its contracts should be reviewed."
+  }
+ }
+}

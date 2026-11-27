@@ -1,0 +1,104 @@
+{
+ "date": "2026-10-16",
+ "status": "OK",
+ "regime": "Reflation (growth up, inflation up)",
+ "fed": "on hold",
+ "tilts": {
+  "Technology": -1,
+  "Financials": 0,
+  "Health Care": 1,
+  "Energy": 2,
+  "Industrials": 0,
+  "Consumer Discretionary": -1,
+  "Consumer Staples": 2,
+  "Utilities": 1,
+  "Materials": 0,
+  "Real Estate": 0,
+  "Communication Services": 0
+ },
+ "sector_probabilities": {
+  "Technology": 0.4648,
+  "Financials": 0.4739,
+  "Health Care": 0.5741,
+  "Energy": 0.5818,
+  "Industrials": 0.5326,
+  "Consumer Discretionary": 0.4469,
+  "Consumer Staples": 0.5624,
+  "Utilities": 0.5158,
+  "Materials": 0.4922,
+  "Real Estate": 0.4278,
+  "Communication Services": 0.4932
+ },
+ "factor_view": {
+  "rates_10y": 5.0,
+  "oil": 2.0,
+  "dollar": 0.0,
+  "credit": -0.25,
+  "inflation_exp": 0.25
+ },
+ "weight_ranges_%": {
+  "Technology": [
+   0,
+   12
+  ],
+  "Financials": [
+   0,
+   25
+  ],
+  "Health Care": [
+   6,
+   35
+  ],
+  "Energy": [
+   12,
+   45
+  ],
+  "Industrials": [
+   0,
+   25
+  ],
+  "Consumer Discretionary": [
+   0,
+   12
+  ],
+  "Consumer Staples": [
+   12,
+   45
+  ],
+  "Utilities": [
+   6,
+   35
+  ],
+  "Materials": [
+   0,
+   25
+  ],
+  "Real Estate": [
+   0,
+   25
+  ],
+  "Communication Services": [
+   0,
+   25
+  ]
+ },
+ "triggers": [],
+ "why": [
+  "monthly run: this month's jobs report (2026-10-02) and CPI (2026-10-14) are both out"
+ ],
+ "key_risks": [
+  "10-year Treasury yields breaking sustainably above 5.25% would trigger multiple compression across high-duration growth sectors and tighten borrowing conditions.",
+  "10y at 5.10% and a hawkish Oct 27-28 FOMC pressuring valuations; HY spreads already widening to 3.23.",
+  "CALC:pullback_risk (p=0.074, oos_auc only 0.68 \u2014 the weakest model in the packet) is based on Baa spreads and realized vol, both still calm (VIX 16.46, 42nd pctile), but it doesn't capture the 96th-percentile Geopolitical Risk Index, 94th-percentile EPU, or 84th-percentile oil volatility (OVX 49.1) \u2014 all flashing risk that a low-vol equity tape is currently ignoring.",
+  "CALC:recession_risk (p_12m=0.094, oos_auc=0.873) is low and driven mainly by loose NFCI and a positive yield curve, but it does not directly model an active, compounding supply shock (Hormuz exports -40%, diesel +70% YoY, Brent 97th percentile) that could squeeze corporate margins and consumer spending power faster than its financial-conditions-based drivers would pick up.",
+  "Ceasefire collapse in the Russia-Ukraine energy war (NOTE:E11/E12) and continuing Hormuz tanker attacks (NOTE:E1/E4) raise the odds of a further oil/diesel spike that a model calibrated on 5-year history (DCOILBRENTEU z=+2.5) may underweight as an outlier.",
+  "Geopolitical escalation widens oil volatility beyond current price",
+  "Headline CPI reacceleration (3.72%) risks a sentiment/political reaction even though core inflation (2.57%) is stable; a misreading of this as broad-based inflation could trigger a more hawkish Fed repricing than our modest +10bp rates call assumes.",
+  "Hormuz/Gulf escalation removing more supply (Brent already $126.55, OVX 49) while the pullback model misses geopolitics.",
+  "Low saving rate (4.1) and sentiment (51.7) with $4.33 gasoline and $6.33 diesel could crack consumer spending.",
+  "Payrolls remain below 50k triggering policy shift",
+  "Prolonged closure or worsening naval attacks in the Strait of Hormuz could push crude above $140/bbl, driving headline inflation well above 4.5% and causing broad consumer retrenchment.",
+  "Statistical pullback risk is estimated at 7.4%, but a rapid flare-up in geopolitical tensions could spike VIX from 16.46 and widen HY credit spreads rapidly from 3.23%.",
+  "Upside risk: ceasefire or de-escalation triggers a sharp oil reversal toward EIA $105."
+ ]
+}

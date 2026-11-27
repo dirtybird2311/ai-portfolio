@@ -1,0 +1,24 @@
+{
+ "date": "2026-09-29",
+ "price_flags": {},
+ "triggers": [],
+ "news_screen": {
+  "ALL": {
+   "status": "watch",
+   "why": "Meta's Muse AI and insurance marketplace blocking it is relevant to ALL's digital/tech initiatives and competitive positioning, but doesn't directly signal catastrophe losses exceeding $2.5B in a quarter. This is a competitive/strategic watch rather than an exit-condition trigger."
+  },
+  "DLTR": {
+   "status": "ok",
+   "why": "The rebranding headline is operational/strategic news but doesn't impact Q3 EPS guidance or threaten the $0.80 floor. The analyst note reinforces the valuation thesis. No exit condition signaled."
+  },
+  "PARR": {
+   "status": "ok",
+   "why": "Leadership transition (Stumbo appointment, Creamer retirement in 2027) is governance news but doesn't signal a collapse in refining crack spreads below $20/bbl. Recent cash flow and revenue metrics remain supportive. No exit condition indicated."
+  },
+  "VCTR": {
+   "status": "ok",
+   "why": "Positive technical and earnings commentary reinforces the growth thesis. No indication of net outflows or AUM dropping below $340B. The strong growth framing is consistent with the bull case despite valuation concerns."
+  }
+ },
+ "reviews": {}
+}

@@ -1,0 +1,105 @@
+{
+ "date": "2026-10-09",
+ "status": "OK",
+ "regime": "Goldilocks (growth up, inflation down)",
+ "fed": "on hold",
+ "tilts": {
+  "Technology": 0,
+  "Financials": 0,
+  "Health Care": 0,
+  "Energy": -1,
+  "Industrials": 0,
+  "Consumer Discretionary": 1,
+  "Consumer Staples": 0,
+  "Utilities": -1,
+  "Materials": 0,
+  "Real Estate": -1,
+  "Communication Services": 0
+ },
+ "sector_probabilities": {
+  "Technology": 0.5052,
+  "Financials": 0.4762,
+  "Health Care": 0.5089,
+  "Energy": 0.3785,
+  "Industrials": 0.513,
+  "Consumer Discretionary": 0.539,
+  "Consumer Staples": 0.431,
+  "Utilities": 0.4892,
+  "Materials": 0.4937,
+  "Real Estate": 0.3622,
+  "Communication Services": 0.5156
+ },
+ "factor_view": {
+  "rates_10y": 0.0,
+  "oil": -5.5,
+  "dollar": 0.0,
+  "credit": 0.0,
+  "inflation_exp": 0.0
+ },
+ "weight_ranges_%": {
+  "Technology": [
+   0,
+   25
+  ],
+  "Financials": [
+   0,
+   25
+  ],
+  "Health Care": [
+   0,
+   25
+  ],
+  "Energy": [
+   0,
+   12
+  ],
+  "Industrials": [
+   0,
+   25
+  ],
+  "Consumer Discretionary": [
+   6,
+   35
+  ],
+  "Consumer Staples": [
+   0,
+   25
+  ],
+  "Utilities": [
+   0,
+   12
+  ],
+  "Materials": [
+   0,
+   25
+  ],
+  "Real Estate": [
+   0,
+   12
+  ],
+  "Communication Services": [
+   0,
+   25
+  ]
+ },
+ "triggers": [],
+ "why": [
+  "tripwire: Brent crude oil $/bbl is newly unusual (z +1.9 -> +2.4)"
+ ],
+ "key_risks": [
+  "10yr yields at 5.22% (96.7th percentile, 5yr) combined with 30yr mortgage at 7.4% could choke housing and rate-sensitive sectors faster than the 'Goldilocks' label implies if growth data (GDP Oct 29, payrolls Nov 6) disappoint.",
+  "Credit spreads are quietly widening (BAMLH0A0HYM2 3.15, up from 2.75 three months ago) even as recession and pullback models read 'low' risk; if the oil shock or further equity drawdown triggers a faster re-pricing, it could outpace the models' oos_auc-validated but historically-average-conditions calibration.",
+  "EIA's $105/bbl Q4 Brent forecast (NOTE:B1) could prove wrong if the conflict escalates further (e.g., Hormuz closure, additional tanker losses), which would invalidate the oil mean-reversion factor call and hit the base-case scenario.",
+  "Geopolitical escalation leading to direct closure of the Strait of Hormuz, driving Brent crude significantly above $130/bbl (NOTE:E1: 118, NOTE:E3: 8.5).",
+  "High 10-year Treasury yields (5.22%, FRED:DGS10: 5.22) triggering equity valuation pullbacks, despite low statistical pullback risk (CALC:pullback_risk: 0.072).",
+  "Hormuz/Bab el-Mandeb escalation causes a further oil spike (NOTE:E2, NOTE:E4); OVX 48.4.",
+  "Live Iran-Israel energy war: Hormuz exports down ~40% (NOTE:E3), 11 tanker attacks in the week of Oct 4 (NOTE:E2), and Houthi capture of Mayun island (NOTE:E4) represent a real, ongoing supply disruption that CALC:recession_risk and CALC:pullback_risk (both trained mainly on financial-conditions/yield-curve data) likely underweight; OVX at the 83rd percentile and oil-curve backwardation of +7.7% (CALC:risk_indicators) corroborate genuine near-term scarcity, not just a threat.",
+  "October 27-28 FOMC hike plus a hot headline CPI on Oct 14 extends the rates selloff.",
+  "Pullback model (7.2%) understates risk from the 10y at 5.22 and 95th-percentile geopolitical risk.",
+  "Rapid de-escalation sends Brent toward the EIA's $105, reversing energy and inflation trades.",
+  "Recession model (7.9%) may lag consumer weakness: 29k payrolls, 4.1% saving rate.",
+  "Secondary wage and inflation pressures emerging from high retail fuel prices ($4.35/gal, FRED:GASREGW: 4.35), compelling the Fed to raise rates past 4.1% (FACT:SEP_FEDTARMD_2026: 4.1).",
+  "further 10y yield rise above 5.3%",
+  "oil remains above $110 for longer than EIA path"
+ ]
+}

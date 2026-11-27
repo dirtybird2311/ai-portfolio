@@ -1,0 +1,67 @@
+{
+ "date": "2026-11-20",
+ "price_flags": {},
+ "triggers": [
+  "VIX at 35.9 (above 35)",
+  "S&P 500 down -8.6% in a week"
+ ],
+ "news_screen": {
+  "ADM": {
+   "status": "ok",
+   "why": "Headline is generic retirement/dividend content with no specific ADM news. Does not address credit spreads, FY2026 EPS guidance, or the reflationary thesis."
+  },
+  "ALL": {
+   "status": "ok",
+   "why": "October cat losses of $232M are well below the $2.5B exit threshold. Mizuho's price target raise and analyst upgrade support the thesis. No exit condition triggered."
+  },
+  "APA": {
+   "status": "ok",
+   "why": "Headlines highlight APA as a Strong Buy momentum and income stock, consistent with the thesis. No indication that WTI has fallen below $55/bbl. Exit condition not triggered."
+  },
+  "CHRD": {
+   "status": "ok",
+   "why": "Headlines highlight CHRD's operational strength, cash flow generation, and buyback potential at current oil prices ($75+ WTI). No thesis or exit condition defined for this holding, so treating as generally positive."
+  },
+  "DLTR": {
+   "status": "watch",
+   "why": "Multiple headlines reference Q3 earnings expectations and upcoming quarterly print. Headlines suggest analyst caution and that Q3/Q4 results are key to justifying valuations. The Q3 EPS print is imminent and critical to the exit condition ($0.80 threshold), but no actual EPS guidance cut has been reported yet."
+  },
+  "DXCM": {
+   "status": "ok",
+   "why": "New manufacturing facility opening in Ireland is a positive operational milestone. Market report highlights strong sector growth. No indication of operating margin guidance cuts or refinancing difficulty."
+  },
+  "OXY": {
+   "status": "ok",
+   "why": "No thesis or exit condition defined. Headlines reference crude backdrop softening and cash tender offer; without defined thesis, treating as neutral commentary on sector dynamics."
+  },
+  "PBF": {
+   "status": "watch",
+   "why": "WTI is currently $83.54, down 15.2% over 1 month but still well above the $70/bbl exit threshold. Headlines confirm tight fuel markets and strong refining prospects. Exit condition not triggered, but the 15% monthly decline merits monitoring given the commodity sensitivity."
+  },
+  "PGNY": {
+   "status": "ok",
+   "why": "Headlines confirm Strong Buy upgrade, solid EPS momentum, and affordable growth fundamentals. No indication of analyst consensus EPS falling below $2.10."
+  },
+  "REGN": {
+   "status": "ok",
+   "why": "FDA approval of Livsayis (collaboration product) is a positive catalyst supporting the Sanofi collaboration thesis. No indication of a complete response letter for EYLEA HD pre-filled syringe."
+  },
+  "RS": {
+   "status": "watch",
+   "why": "Exit condition hinges on Q3 earnings release reporting year-over-year decline in Metals Service Centers revenue. While headlines reference recent earnings and Q3 outlook, the actual Q3 earnings have not yet been reported. This is a key upcoming test date."
+  },
+  "STBA": {
+   "status": "ok",
+   "why": "Generic dividend news with no STBA-specific content. No reported decline in net interest margin."
+  },
+  "VCTR": {
+   "status": "ok",
+   "why": "Apollo partnership and positive technical/growth ratings support thesis momentum. No indication of net client outflows in the next quarterly filing."
+  },
+  "XOM": {
+   "status": "ok",
+   "why": "No thesis or exit condition defined. Rovuma LNG approval and Guyana subsea partnerships are positive operational news, but without defined thesis, treating as neutral sector activity."
+  }
+ },
+ "reviews": {}
+}

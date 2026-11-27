@@ -1,0 +1,56 @@
+{
+ "date": "2026-11-12",
+ "price_flags": {},
+ "triggers": [],
+ "news_screen": {
+  "ADM": {
+   "status": "ok",
+   "why": "Headlines discuss analyst outlook and dividend investing but contain no information about credit spreads, FY2026 EPS guidance changes, or threats to the reflationary thesis. Wall Street caution is noted but doesn't breach the exit condition."
+  },
+  "ALL": {
+   "status": "ok",
+   "why": "Dividend announcement, Q3 earnings beat, and discussion of underwriting improvements are all consistent with the positive thesis. No catastrophe losses exceeding $2.5B in a single quarter are reported. Competitive commentary on Progressive is tangential."
+  },
+  "APA": {
+   "status": "watch",
+   "why": "Multiple headlines show oil prices (WTI/Brent) easing lower; December NYMEX WTI at $86.04 and January Brent at $91.49. EIA commentary notes crude futures closed lower for a second straight session. While not yet breaching the $55/bbl exit condition, the directional weakness and near-term price weakness merit close monitoring given the oil-price sensitivity thesis."
+  },
+  "DLTR": {
+   "status": "ok",
+   "why": "Headlines discuss Dollar Tree's candy line, competitive positioning vs. traditional grocers, and Five Below/Dollar General dynamics. No mention of Q3 EPS guidance cuts below $0.80 or negative earnings revisions. The exclusive product launch is consistent with company strength."
+  },
+  "DXCM": {
+   "status": "ok",
+   "why": "Headlines highlight Health Canada G7 pregnancy approval, improved clinical data, and valuation analysis suggesting upside. These represent positive news flow and sector tailwind supporting the thesis. No operating margin guidance cuts or refinancing disclosures are reported."
+  },
+  "KMX": {
+   "status": "ok",
+   "why": "Limited headline data; only Carvana competitive commentary appears. No CarMax-specific guidance cuts or evidence of unit margin deterioration exceeding $200/unit guidance are reported. Insufficient information to signal an exit condition breach."
+  },
+  "LPG": {
+   "status": "watch",
+   "why": "Headline confirms ongoing tightness in global tanker market and mentions energy shippers reporting quarters, which is broadly supportive of the VLGC freight rate strength thesis. However, crude oil futures trading near $88, while up on the day, remains vulnerable if the macro reflation narrative falters. No specific revenue guidance breach yet, but monitoring is warranted."
+  },
+  "MU": {
+   "status": "watch",
+   "why": "Multiple headlines discuss semiconductor sector volatility, AI spending doubts, Nvidia CEO resignation rumors, and Micron's valuation. While Micron stock is described as cheap and CoreWeave demand commentary is bullish for memory demand, the sector-wide AI spending skepticism and technology selloff create near-term headwinds. Gross margin guidance remains intact, but macro uncertainty warrants close monitoring."
+  },
+  "PBF": {
+   "status": "watch",
+   "why": "Headlines confirm tight global fuel supplies and strong refining margins, supporting the thesis. However, oil prices (WTI at $86-88, Brent at $91-94) are trading in the mid-range and showed weakness earlier (easing again per one headline). While not breaching the $70/bbl exit condition, the recent price weakness and macro uncertainty tied to tech selloff and rate fears merit monitoring."
+  },
+  "RS": {
+   "status": "watch",
+   "why": "Headlines show broad sectoral discussion (Nucor, commodities, BASF capacity expansion) but no specific RS revenue or earnings data. One headline ranks RS alongside other Basic Materials stocks and includes it in momentum anomaly picks. The October 21 earnings test (per exit condition) has not yet occurred, so monitoring ahead of that report is appropriate."
+  },
+  "SEI": {
+   "status": "ok",
+   "why": "Needham maintains Buy and raises price target from $104 to $126, supporting upward estimate revisions and momentum narrative. AI data-center power demand commentary is broadly supportive of new power generation contracts. No customer loss or guidance cut below $90-105M Adjusted EBITDA range is reported."
+  },
+  "VCTR": {
+   "status": "ok",
+   "why": "Headlines describe Victory Capital as affordable growth with reasonable valuation and report October 2026 client assets announcement. Prior June quarter showed $4.1B net inflows; no net client outflows are reported in current headlines. Valuation remains stretched but no exit condition breach is evident."
+  }
+ },
+ "reviews": {}
+}

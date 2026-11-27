@@ -1,0 +1,48 @@
+name: Backfill 10-K similarity (manual, once)
+
+# Reads every company's annual reports since 2014 and saves how much each one's wording changed from the
+# year before ("Lazy Prices" signal). Takes a few hours once; the weekly run then keeps it current (~40 min
+# per run) and would also finish the backfill on its own over a few weeks. Safe to re-run: it resumes.
+
+on:
+  workflow_dispatch:
+    inputs:
+      minutes:
+        description: "time budget in minutes (max ~330)"
+        required: false
+        default: "320"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pipeline-state
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 350
+    env:
+      GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}   # identifies us to the SEC, as SEC asks
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install (pinned versions)
+        run: pip install -r requirements.txt
+      - name: Backfill
+        run: python -m pipeline.altdata --minutes ${{ inputs.minutes }}
+      - name: Save state
+        if: always()
+        run: |
+          git config user.name "portfolio-bot"
+          git config user.email "portfolio-bot@users.noreply.github.com"
+          git add state 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "10-K similarity backfill $(date -u +%F)"
+          git pull --rebase --autostash
+          git push

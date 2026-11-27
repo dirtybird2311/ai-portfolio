@@ -1,0 +1,4899 @@
+{
+ "packet": {
+  "today": "2026-11-13",
+  "why_this_run": [
+   "monthly run: this month's jobs report (2026-11-06) and CPI (2026-11-10) are both out",
+   "tripwire: WTI crude oil $/bbl moved -1.3 standard deviations since the last full run (107.89 -> 89.62)",
+   "tripwire: Brent crude oil $/bbl moved -1.4 standard deviations since the last full run (115.22 -> 92.14)"
+  ],
+  "fred": {
+   "PCEPILFE": {
+    "id": "PCEPILFE",
+    "label": "Core PCE inflation YoY %",
+    "tier": "core",
+    "latest": 3.12,
+    "as_of": "2026-09-30",
+    "3m_ago": 3.04,
+    "12m_ago": 2.82,
+    "direction_3m": "flat",
+    "z_5yr": -0.61,
+    "percentile_5yr": 45.9,
+    "flags": []
+   },
+   "CPIAUCSL": {
+    "id": "CPIAUCSL",
+    "label": "CPI inflation YoY %",
+    "tier": "core",
+    "latest": 4.08,
+    "as_of": "2026-10-31",
+    "3m_ago": 3.3,
+    "12m_ago": 2.73,
+    "direction_3m": "rising",
+    "z_5yr": -0.15,
+    "percentile_5yr": 63.93,
+    "flags": []
+   },
+   "CPILFESL": {
+    "id": "CPILFESL",
+    "label": "Core CPI inflation YoY %",
+    "tier": "core",
+    "latest": 2.87,
+    "as_of": "2026-10-31",
+    "3m_ago": 2.47,
+    "12m_ago": 2.7,
+    "direction_3m": "rising",
+    "z_5yr": -0.89,
+    "percentile_5yr": 24.59,
+    "flags": []
+   },
+   "CES0500000003": {
+    "id": "CES0500000003",
+    "label": "Average hourly earnings YoY %",
+    "tier": "core",
+    "latest": 3.12,
+    "as_of": "2026-10-31",
+    "3m_ago": 3.21,
+    "12m_ago": 3.92,
+    "direction_3m": "flat",
+    "z_5yr": -1.68,
+    "percentile_5yr": 1.64,
+    "flags": []
+   },
+   "UNRATE": {
+    "id": "UNRATE",
+    "label": "Unemployment rate %",
+    "tier": "core",
+    "latest": 4.1,
+    "as_of": "2026-10-01",
+    "3m_ago": 4.2,
+    "12m_ago": 4.4,
+    "direction_3m": "falling",
+    "z_5yr": 0.44,
+    "percentile_5yr": 50.82,
+    "flags": []
+   },
+   "PAYEMS": {
+    "id": "PAYEMS",
+    "label": "Payrolls monthly change (thousands)",
+    "tier": "core",
+    "latest": 165.0,
+    "as_of": "2026-10-31",
+    "3m_ago": -10.0,
+    "12m_ago": -140.0,
+    "direction_3m": "rising",
+    "z_5yr": -0.12,
+    "percentile_5yr": 55.74,
+    "flags": []
+   },
+   "IC4WSA": {
+    "id": "IC4WSA",
+    "label": "Initial jobless claims, 4-wk avg",
+    "tier": "core",
+    "latest": 195250.0,
+    "as_of": "2026-11-07",
+    "3m_ago": 203250.0,
+    "12m_ago": 226750.0,
+    "direction_3m": "falling",
+    "z_5yr": -1.93,
+    "percentile_5yr": 0.0,
+    "flags": []
+   },
+   "DFF": {
+    "id": "DFF",
+    "label": "Fed funds effective rate %",
+    "tier": "core",
+    "latest": 3.88,
+    "as_of": "2026-11-12",
+    "3m_ago": 3.63,
+    "12m_ago": 3.86,
+    "direction_3m": "flat",
+    "z_5yr": 0.02,
+    "percentile_5yr": 37.7,
+    "flags": []
+   },
+   "DGS2": {
+    "id": "DGS2",
+    "label": "2-yr Treasury yield %",
+    "tier": "core",
+    "latest": 4.86,
+    "as_of": "2026-11-12",
+    "3m_ago": 4.28,
+    "12m_ago": 3.6,
+    "direction_3m": "rising",
+    "z_5yr": 0.98,
+    "percentile_5yr": 86.89,
+    "flags": []
+   },
+   "DGS10": {
+    "id": "DGS10",
+    "label": "10-yr Treasury yield %",
+    "tier": "core",
+    "latest": 5.1,
+    "as_of": "2026-11-12",
+    "3m_ago": 4.75,
+    "12m_ago": 4.11,
+    "direction_3m": "rising",
+    "z_5yr": 1.43,
+    "percentile_5yr": 96.72,
+    "flags": []
+   },
+   "T10Y2Y": {
+    "id": "T10Y2Y",
+    "label": "10-yr minus 2-yr spread",
+    "tier": "core",
+    "latest": 0.27,
+    "as_of": "2026-11-13",
+    "3m_ago": 0.47,
+    "12m_ago": 0.51,
+    "direction_3m": "falling",
+    "z_5yr": 0.45,
+    "percentile_5yr": 54.1,
+    "flags": []
+   },
+   "BAMLH0A0HYM2": {
+    "id": "BAMLH0A0HYM2",
+    "label": "High-yield credit spread",
+    "tier": "core",
+    "latest": 3.2,
+    "as_of": "2026-11-12",
+    "3m_ago": 2.85,
+    "12m_ago": 2.94,
+    "direction_3m": "rising",
+    "z_5yr": 0.36,
+    "percentile_5yr": 64.86,
+    "flags": []
+   },
+   "NFCI": {
+    "id": "NFCI",
+    "label": "Chicago Fed financial conditions (negative = loose)",
+    "tier": "core",
+    "latest": -0.46,
+    "as_of": "2026-11-06",
+    "3m_ago": -0.54,
+    "12m_ago": -0.51,
+    "direction_3m": "rising",
+    "z_5yr": -0.53,
+    "percentile_5yr": 39.34,
+    "flags": []
+   },
+   "DCOILWTICO": {
+    "id": "DCOILWTICO",
+    "label": "WTI crude oil $/bbl",
+    "tier": "core",
+    "latest": 89.62,
+    "as_of": "2026-11-11",
+    "3m_ago": 86.16,
+    "12m_ago": 61.75,
+    "direction_3m": "rising",
+    "z_5yr": 0.71,
+    "percentile_5yr": 77.05,
+    "flags": []
+   },
+   "DCOILBRENTEU": {
+    "id": "DCOILBRENTEU",
+    "label": "Brent crude oil $/bbl",
+    "tier": "core",
+    "latest": 92.14,
+    "as_of": "2026-11-11",
+    "3m_ago": 96.95,
+    "12m_ago": 65.44,
+    "direction_3m": "falling",
+    "z_5yr": 0.4,
+    "percentile_5yr": 72.13,
+    "flags": []
+   },
+   "DTWEXBGS": {
+    "id": "DTWEXBGS",
+    "label": "Trade-weighted dollar index",
+    "tier": "driver",
+    "latest": 121.88,
+    "as_of": "2026-11-06",
+    "3m_ago": 119.7,
+    "12m_ago": 121.39,
+    "direction_3m": "rising",
+    "z_5yr": 0.21,
+    "percentile_5yr": 68.85,
+    "flags": []
+   },
+   "MORTGAGE30US": {
+    "id": "MORTGAGE30US",
+    "label": "30-yr mortgage rate %",
+    "tier": "driver",
+    "latest": 7.11,
+    "as_of": "2026-11-12",
+    "3m_ago": 6.66,
+    "12m_ago": 6.17,
+    "direction_3m": "rising",
+    "z_5yr": 0.81,
+    "percentile_5yr": 88.52,
+    "flags": []
+   },
+   "PERMIT": {
+    "id": "PERMIT",
+    "label": "Building permits (thousands, annual rate)",
+    "tier": "driver",
+    "latest": 1398.0,
+    "as_of": "2026-09-01",
+    "3m_ago": 1410.0,
+    "12m_ago": 1347.0,
+    "direction_3m": "flat",
+    "z_5yr": -0.88,
+    "percentile_5yr": 6.56,
+    "flags": []
+   },
+   "TOTLL": {
+    "id": "TOTLL",
+    "label": "Bank loans & leases YoY %",
+    "tier": "driver",
+    "latest": 7.25,
+    "as_of": "2026-11-30",
+    "3m_ago": 7.16,
+    "12m_ago": 5.57,
+    "direction_3m": "flat",
+    "z_5yr": 0.45,
+    "percentile_5yr": 67.21,
+    "flags": []
+   },
+   "DHHNGSP": {
+    "id": "DHHNGSP",
+    "label": "Henry Hub natural gas $/MMBtu",
+    "tier": "driver",
+    "latest": 3.0,
+    "as_of": "2026-11-11",
+    "3m_ago": 2.59,
+    "12m_ago": 3.57,
+    "direction_3m": "flat",
+    "z_5yr": -0.34,
+    "percentile_5yr": 50.82,
+    "flags": []
+   },
+   "PCOPPUSDM": {
+    "id": "PCOPPUSDM",
+    "label": "Copper $/metric ton",
+    "tier": "driver",
+    "latest": 14473.06,
+    "as_of": "2026-09-01",
+    "3m_ago": 13512.16,
+    "12m_ago": 9671.88,
+    "direction_3m": "rising",
+    "z_5yr": 2.7,
+    "percentile_5yr": 98.36,
+    "flags": [
+     "UNUSUAL (z=+2.7 vs 5-yr history)"
+    ]
+   },
+   "GASREGW": {
+    "id": "GASREGW",
+    "label": "Regular gasoline $/gal",
+    "tier": "driver",
+    "latest": 4.0,
+    "as_of": "2026-11-09",
+    "3m_ago": 4.1,
+    "12m_ago": 3.04,
+    "direction_3m": "flat",
+    "z_5yr": 0.96,
+    "percentile_5yr": 80.33,
+    "flags": []
+   },
+   "PFOODINDEXM": {
+    "id": "PFOODINDEXM",
+    "label": "Global food price index",
+    "tier": "driver",
+    "latest": 137.11,
+    "as_of": "2026-09-01",
+    "3m_ago": 136.14,
+    "12m_ago": 124.08,
+    "direction_3m": "flat",
+    "z_5yr": 0.16,
+    "percentile_5yr": 68.85,
+    "flags": []
+   },
+   "IR": {
+    "id": "IR",
+    "label": "Import prices YoY %",
+    "tier": "driver",
+    "latest": 8.1,
+    "as_of": "2026-09-30",
+    "3m_ago": 6.75,
+    "12m_ago": -0.07,
+    "direction_3m": "rising",
+    "z_5yr": 1.09,
+    "percentile_5yr": 80.33,
+    "flags": []
+   },
+   "RSAFS": {
+    "id": "RSAFS",
+    "label": "Retail sales YoY %",
+    "tier": "driver",
+    "latest": 6.29,
+    "as_of": "2026-09-30",
+    "3m_ago": 5.93,
+    "12m_ago": 3.69,
+    "direction_3m": "flat",
+    "z_5yr": 0.36,
+    "percentile_5yr": 72.13,
+    "flags": []
+   },
+   "PSAVERT": {
+    "id": "PSAVERT",
+    "label": "Personal saving rate %",
+    "tier": "driver",
+    "latest": 3.8,
+    "as_of": "2026-09-01",
+    "3m_ago": 4.4,
+    "12m_ago": 5.2,
+    "direction_3m": "falling",
+    "z_5yr": -1.23,
+    "percentile_5yr": 13.11,
+    "flags": []
+   },
+   "CP": {
+    "id": "CP",
+    "label": "Corporate profits YoY %",
+    "tier": "driver",
+    "latest": 26.61,
+    "as_of": "2026-04-30",
+    "3m_ago": 4.57,
+    "12m_ago": -0.84,
+    "direction_3m": "rising",
+    "z_5yr": 1.23,
+    "percentile_5yr": 93.44,
+    "flags": []
+   },
+   "T10YIE": {
+    "id": "T10YIE",
+    "label": "10-yr breakeven inflation %",
+    "tier": "watch",
+    "latest": 2.24,
+    "as_of": "2026-11-13",
+    "3m_ago": 2.28,
+    "12m_ago": 2.3,
+    "direction_3m": "falling",
+    "z_5yr": -0.77,
+    "percentile_5yr": 16.39,
+    "flags": []
+   },
+   "A191RL1Q225SBEA": {
+    "id": "A191RL1Q225SBEA",
+    "label": "Real GDP growth, annualized %",
+    "tier": "watch",
+    "latest": 3.4,
+    "as_of": "2026-07-01",
+    "3m_ago": 2.5,
+    "12m_ago": 4.0,
+    "direction_3m": "rising",
+    "z_5yr": 0.45,
+    "percentile_5yr": 63.93,
+    "flags": []
+   },
+   "GDPNOW": {
+    "id": "GDPNOW",
+    "label": "Atlanta Fed GDPNow estimate %",
+    "tier": "watch",
+    "latest": 3.48,
+    "as_of": "2026-10-01",
+    "3m_ago": 1.54,
+    "12m_ago": 3.47,
+    "direction_3m": "rising",
+    "z_5yr": 0.53,
+    "percentile_5yr": 78.69,
+    "flags": []
+   },
+   "INDPRO": {
+    "id": "INDPRO",
+    "label": "Industrial production YoY %",
+    "tier": "watch",
+    "latest": 2.25,
+    "as_of": "2026-09-30",
+    "3m_ago": 1.46,
+    "12m_ago": 1.86,
+    "direction_3m": "rising",
+    "z_5yr": 1.04,
+    "percentile_5yr": 85.25,
+    "flags": []
+   },
+   "UMCSENT": {
+    "id": "UMCSENT",
+    "label": "U. Michigan consumer sentiment",
+    "tier": "watch",
+    "latest": 48.1,
+    "as_of": "2026-09-01",
+    "3m_ago": 44.8,
+    "12m_ago": 58.2,
+    "direction_3m": "rising",
+    "z_5yr": -1.68,
+    "percentile_5yr": 1.64,
+    "flags": []
+   },
+   "VIXCLS": {
+    "id": "VIXCLS",
+    "label": "VIX",
+    "tier": "watch",
+    "latest": 18.7,
+    "as_of": "2026-11-12",
+    "3m_ago": 15.99,
+    "12m_ago": 17.44,
+    "direction_3m": "rising",
+    "z_5yr": -0.02,
+    "percentile_5yr": 60.66,
+    "flags": []
+   },
+   "OVXCLS": {
+    "id": "OVXCLS",
+    "label": "Oil volatility index (OVX)",
+    "tier": "driver",
+    "latest": 51.72,
+    "as_of": "2026-11-12",
+    "3m_ago": 63.04,
+    "12m_ago": 36.2,
+    "direction_3m": "falling",
+    "z_5yr": 0.66,
+    "percentile_5yr": 73.77,
+    "flags": []
+   },
+   "EPUTRADE": {
+    "id": "EPUTRADE",
+    "label": "Trade policy uncertainty index",
+    "tier": "driver",
+    "latest": 1400.77,
+    "as_of": "2026-09-01",
+    "3m_ago": 1631.64,
+    "12m_ago": 2727.15,
+    "direction_3m": "flat",
+    "z_5yr": 0.17,
+    "percentile_5yr": 68.85,
+    "flags": []
+   },
+   "USEPUINDXD": {
+    "id": "USEPUINDXD",
+    "label": "Economic policy uncertainty index (daily news)",
+    "tier": "watch",
+    "latest": 157.36,
+    "as_of": "2026-11-12",
+    "3m_ago": 251.66,
+    "12m_ago": 439.77,
+    "direction_3m": "falling",
+    "z_5yr": -0.4,
+    "percentile_5yr": 44.26,
+    "flags": []
+   },
+   "SAHMREALTIME": {
+    "id": "SAHMREALTIME",
+    "label": "Sahm rule recession indicator",
+    "tier": "watch",
+    "latest": 0.0,
+    "as_of": "2026-10-01",
+    "3m_ago": 0.07,
+    "12m_ago": 0.23,
+    "direction_3m": "falling",
+    "z_5yr": -0.7,
+    "percentile_5yr": 19.67,
+    "flags": []
+   },
+   "ECIWAG": {
+    "id": "ECIWAG",
+    "label": "Employment Cost Index (wages) YoY %",
+    "tier": "watch",
+    "latest": 3.12,
+    "as_of": "2026-07-31",
+    "3m_ago": 3.14,
+    "12m_ago": 3.58,
+    "direction_3m": "flat",
+    "z_5yr": -1.49,
+    "percentile_5yr": 0.0,
+    "flags": []
+   },
+   "JTSJOL": {
+    "id": "JTSJOL",
+    "label": "Job openings (thousands)",
+    "tier": "watch",
+    "latest": 7523.0,
+    "as_of": "2026-09-01",
+    "3m_ago": 7537.0,
+    "12m_ago": 6919.0,
+    "direction_3m": "flat",
+    "z_5yr": -0.7,
+    "percentile_5yr": 39.34,
+    "flags": []
+   },
+   "JTSQUR": {
+    "id": "JTSQUR",
+    "label": "Quits rate %",
+    "tier": "watch",
+    "latest": 2.1,
+    "as_of": "2026-09-01",
+    "3m_ago": 2.0,
+    "12m_ago": 2.0,
+    "direction_3m": "rising",
+    "z_5yr": -0.55,
+    "percentile_5yr": 34.43,
+    "flags": []
+   },
+   "DTB3": {
+    "id": "DTB3",
+    "label": "3-month T-bill %",
+    "tier": "watch",
+    "latest": 4.14,
+    "as_of": "2026-11-12",
+    "3m_ago": 3.69,
+    "12m_ago": 3.73,
+    "direction_3m": "rising",
+    "z_5yr": 0.19,
+    "percentile_5yr": 44.26,
+    "flags": []
+   },
+   "DRTSCILM": {
+    "id": "DRTSCILM",
+    "label": "Banks tightening business loan standards (net %)",
+    "tier": "watch",
+    "latest": 1.7,
+    "as_of": "2026-10-01",
+    "3m_ago": 8.1,
+    "12m_ago": 9.5,
+    "direction_3m": "falling",
+    "z_5yr": -0.68,
+    "percentile_5yr": 24.59,
+    "flags": []
+   },
+   "PALLFNFINDEXM": {
+    "id": "PALLFNFINDEXM",
+    "label": "Global all-commodity price index",
+    "tier": "watch",
+    "latest": 222.43,
+    "as_of": "2026-09-01",
+    "3m_ago": 214.47,
+    "12m_ago": 163.35,
+    "direction_3m": "rising",
+    "z_5yr": 1.67,
+    "percentile_5yr": 88.52,
+    "flags": []
+   },
+   "BOPGSTB": {
+    "id": "BOPGSTB",
+    "label": "U.S. trade balance ($M)",
+    "tier": "watch",
+    "latest": -105047.0,
+    "as_of": "2026-09-01",
+    "3m_ago": -75752.0,
+    "12m_ago": -59642.0,
+    "direction_3m": "falling",
+    "z_5yr": -1.86,
+    "percentile_5yr": 6.56,
+    "flags": []
+   },
+   "MTSDS133FMS": {
+    "id": "MTSDS133FMS",
+    "label": "Federal deficit, 12-month total ($M)",
+    "tier": "watch",
+    "latest": -2112241.66,
+    "as_of": "2026-10-01",
+    "3m_ago": -1804507.92,
+    "12m_ago": -1775711.46,
+    "direction_3m": "falling",
+    "z_5yr": -0.86,
+    "percentile_5yr": 16.39,
+    "flags": []
+   },
+   "B235RC1Q027SBEA": {
+    "id": "B235RC1Q027SBEA",
+    "label": "Customs duties (tariff revenue) YoY %",
+    "tier": "watch",
+    "latest": -17.51,
+    "as_of": "2026-07-31",
+    "3m_ago": 13.23,
+    "12m_ago": 292.26,
+    "direction_3m": "falling",
+    "z_5yr": -0.7,
+    "percentile_5yr": 14.75,
+    "flags": []
+   },
+   "CLVMNACSCAB1GQEA19": {
+    "id": "CLVMNACSCAB1GQEA19",
+    "label": "Euro area real GDP YoY %",
+    "tier": "watch",
+    "latest": 1.28,
+    "as_of": "2026-07-31",
+    "3m_ago": 1.19,
+    "12m_ago": 1.11,
+    "direction_3m": "flat",
+    "z_5yr": -0.39,
+    "percentile_5yr": 49.18,
+    "flags": []
+   }
+  },
+  "fed_projections_dot_plot": {
+   "Fed funds rate, median projection %": {
+    "series": "FEDTARMD",
+    "by_year": {
+     "2026": 4.1,
+     "2027": 4.1,
+     "2028": 3.9,
+     "2029": 3.6
+    }
+   },
+   "Fed funds rate, longer-run median %": {
+    "series": "FEDTARMDLR",
+    "by_year": {
+     "2025": 3.0,
+     "2026": 3.2
+    }
+   },
+   "Core PCE inflation, median projection %": {
+    "series": "JCXFEMD",
+    "by_year": {
+     "2026": 3.4,
+     "2027": 2.5,
+     "2028": 2.2,
+     "2029": 2.0
+    }
+   },
+   "Unemployment rate, median projection %": {
+    "series": "UNRATEMD",
+    "by_year": {
+     "2026": 4.1,
+     "2027": 4.1,
+     "2028": 4.1,
+     "2029": 4.1
+    }
+   },
+   "Real GDP growth, median projection %": {
+    "series": "GDPC1MD",
+    "by_year": {
+     "2026": 2.3,
+     "2027": 2.4,
+     "2028": 2.2,
+     "2029": 2.1
+    }
+   }
+  },
+  "facts": {
+   "SEP_FEDTARMD_2026": 4.1,
+   "SEP_FEDTARMD_2027": 4.1,
+   "SEP_FEDTARMD_2028": 3.9,
+   "SEP_FEDTARMD_2029": 3.6,
+   "SEP_FEDTARMDLR_2025": 3.0,
+   "SEP_FEDTARMDLR_2026": 3.2,
+   "SEP_JCXFEMD_2026": 3.4,
+   "SEP_JCXFEMD_2027": 2.5,
+   "SEP_JCXFEMD_2028": 2.2,
+   "SEP_JCXFEMD_2029": 2.0,
+   "SEP_UNRATEMD_2026": 4.1,
+   "SEP_UNRATEMD_2027": 4.1,
+   "SEP_UNRATEMD_2028": 4.1,
+   "SEP_UNRATEMD_2029": 4.1,
+   "SEP_GDPC1MD_2026": 2.3,
+   "SEP_GDPC1MD_2027": 2.4,
+   "SEP_GDPC1MD_2028": 2.2,
+   "SEP_GDPC1MD_2029": 2.1
+  },
+  "calc": {
+   "regime": "Reflation (growth up, inflation up)",
+   "fed_direction": "on hold",
+   "market_implied_fed_path": {
+    "2yr_minus_fed_funds": 0.98,
+    "reading": "markets price further hikes"
+   },
+   "copper_gold_ratio": {
+    "latest": 3.315,
+    "3m_ago": 3.183,
+    "as_of": "2026-09-30"
+   },
+   "gold": {
+    "latest": 3887.6,
+    "as_of": "2026-11-13",
+    "3m_ago": 4473.7
+   },
+   "recession_risk": {
+    "p_12m": 0.189,
+    "typical": 0.229,
+    "level": "normal",
+    "yield_curve_model": 0.163,
+    "in_recession_now_p": 0.004,
+    "top_drivers": "10-yr minus 3-month Treasury spread (pts) +0.8, Chicago Fed financial conditions (above 0 = tighter than average) -0.8, S&P 500, 6-month return (%) +0.4",
+    "oos_auc": 0.874
+   },
+   "pullback_risk": {
+    "p_10pct_3m": 0.097,
+    "typical": 0.132,
+    "level": "normal",
+    "top_drivers": "Baa spread, 3-month change (pts) -0.1, S&P 500 1-month realized volatility (log) +0.1, Baa corporate bond spread over 10-yr Treasury (pts) -0.1",
+    "oos_auc": 0.68
+   },
+   "risk_indicators": {
+    "Yield curve (10y - 3m)": "0.71 (positive; inverted 0 of the last 24 months)",
+    "Sahm rule (real time)": "0.0 (calm)",
+    "High-yield credit spread": "3.2 (71th percentile since 2023; widening)",
+    "Chicago Fed financial conditions (NFCI)": "-0.46 (looser than average)",
+    "S&P 500 vs 200-day average": "+3.0% (above (uptrend))",
+    "S&P 500 1-month volatility": "22% (88th percentile since 1970 (stressed))",
+    "Geopolitical Risk Index (30-day avg)": "184.7 (96th percentile since 1985 (elevated))",
+    "Economic policy uncertainty (30-day avg)": "290.5 (95th percentile since 1985 (elevated))",
+    "Trade policy uncertainty (monthly)": "1400.8 (96th percentile since 1985 (elevated))",
+    "Oil volatility (OVX)": "51.7 (87th percentile since 2007 (elevated))",
+    "Oil futures curve (front vs ~6 months out)": "+10.2% (steep backwardation: oil is scarce NOW (real supply squeeze))",
+    "Jobless claims, 6-month change": "-5% (stable)"
+   }
+  },
+  "history_by_regime": {
+   "current_regime": "Reflation (growth up, inflation up)",
+   "current_fed": "on hold",
+   "sectors": {
+    "Technology": {
+     "same_regime_1m": {
+      "avg_excess_%": 0.34,
+      "beat_spy_%": 52.4,
+      "n_months": 82
+     },
+     "same_regime_and_fed_1m": {
+      "avg_excess_%": 0.29,
+      "beat_spy_%": 54.7,
+      "n_months": 53
+     },
+     "same_regime_3m": {
+      "avg_excess_%": 0.35,
+      "beat_spy_%": 55.6,
+      "n_months": 81
+     },
+     "same_regime_and_fed_3m": {
+      "avg_excess_%": 0.25,
+      "beat_spy_%": 53.8,
+      "n_months": 52
+     }
+    },
+    "Financials": {
+     "same_regime_1m": {
+      "avg_excess_%": 0.39,
+      "beat_spy_%": 48.8,
+      "n_months": 82
+     },
+     "same_regime_and_fed_1m": {
+      "avg_excess_%": 0.48,
+      "beat_spy_%": 49.1,
+      "n_months": 53
+     },
+     "same_regime_3m": {
+      "avg_excess_%": 0.45,
+      "beat_spy_%": 44.4,
+      "n_months": 81
+     },
+     "same_regime_and_fed_3m": {
+      "avg_excess_%": 0.52,
+      "beat_spy_%": 46.2,
+      "n_months": 52
+     }
+    },
+    "Health Care": {
+     "same_regime_1m": {
+      "avg_excess_%": 0.0,
+      "beat_spy_%": 52.4,
+      "n_months": 82
+     },
+     "same_regime_and_fed_1m": {
+      "avg_excess_%": 0.21,
+      "beat_spy_%": 50.9,
+      "n_months": 53
+     },
+     "same_regime_3m": {
+      "avg_excess_%": 0.05,
+      "beat_spy_%": 53.1,
+      "n_months": 81
+     },
+     "same_regime_and_fed_3m": {
+      "avg_excess_%": 0.17,
+      "beat_spy_%": 55.8,
+      "n_months": 52
+     }
+    },
+    "Energy": {
+     "same_regime_1m": {
+      "avg_excess_%": 0.23,
+      "beat_spy_%": 46.3,
+      "n_months": 82
+     },
+     "same_regime_and_fed_1m": {
+      "avg_excess_%": 0.68,
+      "beat_spy_%": 49.1,
+      "n_months": 53
+     },
+     "same_regime_3m": {
+      "avg_excess_%": 3.75,
+      "beat_spy_%": 56.8,
+      "n_months": 81
+     },
+     "same_regime_and_fed_3m": {
+      "avg_excess_%": 3.8,
+      "beat_spy_%": 53.8,
+      "n_months": 52
+     }
+    },
+    "Industrials": {
+     "same_regime_1m": {
+      "avg_excess_%": 0.16,
+      "beat_spy_%": 54.9,
+      "n_months": 82
+     },
+     "same_regime_and_fed_1m": {
+      "avg_excess_%": 0.44,
+      "beat_spy_%": 60.4,
+      "n_months": 53
+     },
+     "same_regime_3m": {
+      "avg_excess_%": 0.74,
+      "beat_spy_%": 54.3,
+      "n_months": 81
+     },
+     "same_regime_and_fed_3m": {
+      "avg_excess_%": 1.04,
+      "beat_spy_%": 57.7,
+      "n_months": 52
+     }
+    },
+    "Consumer Discretionary": {
+     "same_regime_1m": {
+      "avg_excess_%": -0.12,
+      "beat_spy_%": 48.8,
+      "n_months": 82
+     },
+     "same_regime_and_fed_1m": {
+      "avg_excess_%": -0.04,
+      "beat_spy_%": 49.1,
+      "n_months": 53
+     },
+     "same_regime_3m": {
+      "avg_excess_%": -0.49,
+      "beat_spy_%": 44.4,
+      "n_months": 81
+     },
+     "same_regime_and_fed_3m": {
+      "avg_excess_%": 0.08,
+      "beat_spy_%": 50.0,
+      "n_months": 52
+     }
+    },
+    "Consumer Staples": {
+     "same_regime_1m": {
+      "avg_excess_%": -0.24,
+      "beat_spy_%": 46.3,
+      "n_months": 82
+     },
+     "same_regime_and_fed_1m": {
+      "avg_excess_%": -0.4,
+      "beat_spy_%": 43.4,
+      "n_months": 53
+     },
+     "same_regime_3m": {
+      "avg_excess_%": -1.23,
+      "beat_spy_%": 38.3,
+      "n_months": 81
+     },
+     "same_regime_and_fed_3m": {
+      "avg_excess_%": -1.0,
+      "beat_spy_%": 38.5,
+      "n_months": 52
+     }
+    },
+    "Utilities": {
+     "same_regime_1m": {
+      "avg_excess_%": -0.68,
+      "beat_spy_%": 46.3,
+      "n_months": 82
+     },
+     "same_regime_and_fed_1m": {
+      "avg_excess_%": -0.63,
+      "beat_spy_%": 47.2,
+      "n_months": 53
+     },
+     "same_regime_3m": {
+      "avg_excess_%": -1.24,
+      "beat_spy_%": 40.7,
+      "n_months": 81
+     },
+     "same_regime_and_fed_3m": {
+      "avg_excess_%": -1.32,
+      "beat_spy_%": 40.4,
+      "n_months": 52
+     }
+    },
+    "Materials": {
+     "same_regime_1m": {
+      "avg_excess_%": -0.36,
+      "beat_spy_%": 45.1,
+      "n_months": 82
+     },
+     "same_regime_and_fed_1m": {
+      "avg_excess_%": -0.18,
+      "beat_spy_%": 47.2,
+      "n_months": 53
+     },
+     "same_regime_3m": {
+      "avg_excess_%": -0.84,
+      "beat_spy_%": 40.7,
+      "n_months": 81
+     },
+     "same_regime_and_fed_3m": {
+      "avg_excess_%": -0.27,
+      "beat_spy_%": 42.3,
+      "n_months": 52
+     }
+    },
+    "Real Estate": {
+     "same_regime_1m": {
+      "avg_excess_%": -0.62,
+      "beat_spy_%": 38.5,
+      "n_months": 26
+     },
+     "same_regime_and_fed_1m": {
+      "avg_excess_%": -0.37,
+      "beat_spy_%": 43.8,
+      "n_months": 16
+     },
+     "same_regime_3m": {
+      "avg_excess_%": -1.55,
+      "beat_spy_%": 44.0,
+      "n_months": 25
+     },
+     "same_regime_and_fed_3m": {
+      "avg_excess_%": 0.68,
+      "beat_spy_%": 60.0,
+      "n_months": 15
+     }
+    },
+    "Communication Services": {
+     "same_regime_1m": {
+      "avg_excess_%": -0.5,
+      "beat_spy_%": 45.0,
+      "n_months": 20
+     },
+     "same_regime_and_fed_1m": {
+      "avg_excess_%": 0.07,
+      "beat_spy_%": 46.2,
+      "n_months": 13
+     },
+     "same_regime_3m": {
+      "avg_excess_%": -1.79,
+      "beat_spy_%": 36.8,
+      "n_months": 19
+     },
+     "same_regime_and_fed_3m": {
+      "avg_excess_%": -1.27,
+      "beat_spy_%": 41.7,
+      "n_months": 12
+     }
+    }
+   }
+  },
+  "momentum": {
+   "Technology": {
+    "excess_vs_spy_1m_%": -7.74,
+    "excess_vs_spy_3m_%": -8.3,
+    "excess_vs_spy_6m_%": -5.74
+   },
+   "Financials": {
+    "excess_vs_spy_1m_%": 8.43,
+    "excess_vs_spy_3m_%": 4.4,
+    "excess_vs_spy_6m_%": 13.07
+   },
+   "Health Care": {
+    "excess_vs_spy_1m_%": 8.84,
+    "excess_vs_spy_3m_%": 15.61,
+    "excess_vs_spy_6m_%": 28.65
+   },
+   "Energy": {
+    "excess_vs_spy_1m_%": -0.15,
+    "excess_vs_spy_3m_%": 6.55,
+    "excess_vs_spy_6m_%": 8.16
+   },
+   "Industrials": {
+    "excess_vs_spy_1m_%": 2.79,
+    "excess_vs_spy_3m_%": -7.04,
+    "excess_vs_spy_6m_%": -3.59
+   },
+   "Consumer Discretionary": {
+    "excess_vs_spy_1m_%": 8.05,
+    "excess_vs_spy_3m_%": 5.12,
+    "excess_vs_spy_6m_%": 0.82
+   },
+   "Consumer Staples": {
+    "excess_vs_spy_1m_%": 8.8,
+    "excess_vs_spy_3m_%": 11.9,
+    "excess_vs_spy_6m_%": 8.02
+   },
+   "Utilities": {
+    "excess_vs_spy_1m_%": 8.0,
+    "excess_vs_spy_3m_%": 2.54,
+    "excess_vs_spy_6m_%": -0.8
+   },
+   "Materials": {
+    "excess_vs_spy_1m_%": 5.56,
+    "excess_vs_spy_3m_%": 2.57,
+    "excess_vs_spy_6m_%": 2.13
+   },
+   "Real Estate": {
+    "excess_vs_spy_1m_%": 7.93,
+    "excess_vs_spy_3m_%": 1.93,
+    "excess_vs_spy_6m_%": 1.83
+   },
+   "Communication Services": {
+    "excess_vs_spy_1m_%": -1.08,
+    "excess_vs_spy_3m_%": 0.53,
+    "excess_vs_spy_6m_%": -8.39
+   }
+  },
+  "calendar": [
+   {
+    "date": "2026-11-13",
+    "release": "Producer Price Index"
+   },
+   {
+    "date": "2026-11-16",
+    "release": "Chicago Fed Advance Retail Trade Summary"
+   },
+   {
+    "date": "2026-11-17",
+    "release": "Advance Monthly Sales for Retail and Food Services"
+   },
+   {
+    "date": "2026-11-17",
+    "release": "G.17 Industrial Production and Capacity Utilization"
+   },
+   {
+    "date": "2026-11-17",
+    "release": "Monthly Retail Trade and Food Services"
+   },
+   {
+    "date": "2026-11-17",
+    "release": "Selected Real Retail Sales Series"
+   },
+   {
+    "date": "2026-11-19",
+    "release": "Quarterly Retail E-Commerce Sales"
+   },
+   {
+    "date": "2026-11-25",
+    "release": "Debt to Gross Domestic Product Ratios"
+   },
+   {
+    "date": "2026-11-25",
+    "release": "Gross Domestic Product"
+   },
+   {
+    "date": "2026-11-25",
+    "release": "Personal Income and Outlays"
+   },
+   {
+    "date": "2026-12-01",
+    "release": "Job Openings and Labor Turnover Survey"
+   },
+   {
+    "date": "2026-12-02",
+    "release": "Gross Domestic Product by County"
+   },
+   {
+    "date": "2026-12-04",
+    "release": "Employment Situation"
+   },
+   {
+    "date": "2026-12-07",
+    "release": "Chicago Fed Advance Retail Trade Summary"
+   },
+   {
+    "date": "2026-12-10",
+    "release": "Consumer Price Index"
+   },
+   {
+    "date": "2026-12-10",
+    "release": "Consumer Price Index Excluding Energy Commodities"
+   },
+   {
+    "date": "2026-12-10",
+    "release": "Research Consumer Price Index"
+   },
+   {
+    "date": "2026-12-15",
+    "release": "Producer Price Index"
+   },
+   {
+    "date": "2026-12-16",
+    "release": "Advance Monthly Sales for Retail and Food Services"
+   },
+   {
+    "date": "2026-12-16",
+    "release": "Chicago Fed Advance Retail Trade Summary"
+   },
+   {
+    "date": "2026-12-16",
+    "release": "G.17 Industrial Production and Capacity Utilization"
+   },
+   {
+    "date": "2026-12-16",
+    "release": "Monthly Retail Trade and Food Services"
+   },
+   {
+    "date": "2026-12-16",
+    "release": "Selected Real Retail Sales Series"
+   }
+  ],
+  "triggers": [],
+  "sector_sensitivities": {
+   "Technology": {
+    "beta": {
+     "rates_10y": -0.0458,
+     "oil": -0.0239,
+     "dollar": 0.0358,
+     "credit": 1.2765,
+     "inflation_exp": 0.2425
+    },
+    "sd_4w_%": 3.485
+   },
+   "Financials": {
+    "beta": {
+     "rates_10y": -0.0104,
+     "oil": -0.0034,
+     "dollar": 0.2667,
+     "credit": 0.0524,
+     "inflation_exp": 0.1693
+    },
+    "sd_4w_%": 3.23
+   },
+   "Health Care": {
+    "beta": {
+     "rates_10y": 0.0702,
+     "oil": 0.0122,
+     "dollar": -0.2559,
+     "credit": -1.7485,
+     "inflation_exp": -0.7733
+    },
+    "sd_4w_%": 4.127
+   },
+   "Energy": {
+    "beta": {
+     "rates_10y": 0.0805,
+     "oil": 0.3265,
+     "dollar": 0.1166,
+     "credit": -1.419,
+     "inflation_exp": 0.2304
+    },
+    "sd_4w_%": 5.641
+   },
+   "Industrials": {
+    "beta": {
+     "rates_10y": -0.0066,
+     "oil": -0.0292,
+     "dollar": 0.0706,
+     "credit": 0.0107,
+     "inflation_exp": 0.3196
+    },
+    "sd_4w_%": 2.641
+   },
+   "Consumer Discretionary": {
+    "beta": {
+     "rates_10y": -0.0718,
+     "oil": -0.0692,
+     "dollar": 0.0481,
+     "credit": 0.4364,
+     "inflation_exp": 1.0708
+    },
+    "sd_4w_%": 2.84
+   },
+   "Consumer Staples": {
+    "beta": {
+     "rates_10y": 0.0816,
+     "oil": 0.0143,
+     "dollar": -0.2474,
+     "credit": -2.3041,
+     "inflation_exp": -0.2469
+    },
+    "sd_4w_%": 3.692
+   },
+   "Utilities": {
+    "beta": {
+     "rates_10y": 0.0808,
+     "oil": 0.0744,
+     "dollar": 0.0906,
+     "credit": -2.1376,
+     "inflation_exp": -1.4804
+    },
+    "sd_4w_%": 4.345
+   },
+   "Materials": {
+    "beta": {
+     "rates_10y": -0.0058,
+     "oil": -0.0054,
+     "dollar": -0.4464,
+     "credit": -0.7588,
+     "inflation_exp": 0.4909
+    },
+    "sd_4w_%": 3.779
+   },
+   "Real Estate": {
+    "beta": {
+     "rates_10y": -0.0341,
+     "oil": 0.0663,
+     "dollar": -0.1107,
+     "credit": -0.9087,
+     "inflation_exp": -0.6072
+    },
+    "sd_4w_%": 3.779
+   },
+   "Communication Services": {
+    "beta": {
+     "rates_10y": 0.0258,
+     "oil": -0.001,
+     "dollar": -0.1456,
+     "credit": -0.3022,
+     "inflation_exp": -0.2909
+    },
+    "sd_4w_%": 3.055
+   }
+  },
+  "oil_shock": {
+   "Energy": {
+    "oil_up_20%": 6.53,
+    "oil_down_20%": -6.53
+   },
+   "Utilities": {
+    "oil_up_20%": 1.49,
+    "oil_down_20%": -1.49
+   },
+   "Real Estate": {
+    "oil_up_20%": 1.33,
+    "oil_down_20%": -1.33
+   },
+   "Consumer Staples": {
+    "oil_up_20%": 0.29,
+    "oil_down_20%": -0.29
+   },
+   "Health Care": {
+    "oil_up_20%": 0.24,
+    "oil_down_20%": -0.24
+   },
+   "Communication Services": {
+    "oil_up_20%": -0.02,
+    "oil_down_20%": 0.02
+   },
+   "Financials": {
+    "oil_up_20%": -0.07,
+    "oil_down_20%": 0.07
+   },
+   "Materials": {
+    "oil_up_20%": -0.11,
+    "oil_down_20%": 0.11
+   },
+   "Technology": {
+    "oil_up_20%": -0.48,
+    "oil_down_20%": 0.48
+   },
+   "Industrials": {
+    "oil_up_20%": -0.58,
+    "oil_down_20%": 0.58
+   },
+   "Consumer Discretionary": {
+    "oil_up_20%": -1.38,
+    "oil_down_20%": 1.38
+   }
+  },
+  "market_implied": {
+   "rates_10y": 0.0,
+   "oil": 0.0,
+   "dollar": 0.0,
+   "credit": 0.0,
+   "inflation_exp": 0.0,
+   "fed_funds_3m_implied_bp": 26
+  },
+  "momentum_rule": {
+   "Energy": {
+    "rank": 1,
+    "p": 0.6,
+    "tilt": 2,
+    "excess_12m_%": 36.5
+   },
+   "Health Care": {
+    "rank": 2,
+    "p": 0.58,
+    "tilt": 2,
+    "excess_12m_%": 14.1
+   },
+   "Consumer Staples": {
+    "rank": 3,
+    "p": 0.56,
+    "tilt": 1,
+    "excess_12m_%": 11.1
+   },
+   "Materials": {
+    "rank": 4,
+    "p": 0.54,
+    "tilt": 1,
+    "excess_12m_%": 9.1
+   },
+   "Technology": {
+    "rank": 5,
+    "p": 0.52,
+    "tilt": 0,
+    "excess_12m_%": 4.9
+   },
+   "Financials": {
+    "rank": 6,
+    "p": 0.5,
+    "tilt": 0,
+    "excess_12m_%": -0.5
+   },
+   "Real Estate": {
+    "rank": 7,
+    "p": 0.48,
+    "tilt": 0,
+    "excess_12m_%": -0.5
+   },
+   "Industrials": {
+    "rank": 8,
+    "p": 0.46,
+    "tilt": -1,
+    "excess_12m_%": -1.0
+   },
+   "Consumer Discretionary": {
+    "rank": 9,
+    "p": 0.44,
+    "tilt": -1,
+    "excess_12m_%": -9.9
+   },
+   "Utilities": {
+    "rank": 10,
+    "p": 0.42,
+    "tilt": -2,
+    "excess_12m_%": -10.8
+   },
+   "Communication Services": {
+    "rank": 11,
+    "p": 0.4,
+    "tilt": -2,
+    "excess_12m_%": -14.7
+   }
+  },
+  "previous_view": {
+   "date": "2026-10-23",
+   "tilts": {
+    "Technology": -1,
+    "Financials": 0,
+    "Health Care": 0,
+    "Energy": 1,
+    "Industrials": 0,
+    "Consumer Discretionary": -1,
+    "Consumer Staples": 2,
+    "Utilities": 0,
+    "Materials": 0,
+    "Real Estate": 0,
+    "Communication Services": 0
+   }
+  },
+  "prediction_scorecard": {
+   "graded": 81,
+   "hits": 32,
+   "hit_rate_%": 39.5,
+   "by_model": {
+    "claude-opus-5-5": "15/23",
+    "claude-sonnet-5": "4/24",
+    "gemini-3.8-flash": "6/18",
+    "gemini-3.8-flash (fallback)": "1/3",
+    "gemini-3.8-flash@paid (fallback)": "1/3",
+    "gemma-4-31b-it (fallback)": "1/3",
+    "xai:grok-4.3": "4/7"
+   }
+  },
+  "missing_data": [],
+  "market_risk": {
+   "date": "2026-11-13",
+   "spx_as_of": "2026-11-13",
+   "recession_12m": {
+    "probability": 0.189,
+    "base_rate": 0.229,
+    "as_of": "2026-11-30",
+    "drivers": [
+     {
+      "input": "10-yr minus 3-month Treasury spread (pts)",
+      "value": 0.711,
+      "push": 0.8
+     },
+     {
+      "input": "Chicago Fed financial conditions (above 0 = tighter than average)",
+      "value": -0.462,
+      "push": -0.77
+     },
+     {
+      "input": "S&P 500, 6-month return (%)",
+      "value": -0.243,
+      "push": 0.36
+     },
+     {
+      "input": "Sahm rule, real time (0.5+ has marked every recession start)",
+      "value": 0.0,
+      "push": -0.03
+     },
+     {
+      "input": "Jobless claims, 6-month change (%)",
+      "value": -5.482,
+      "push": 0.01
+     }
+    ],
+    "samples": 658,
+    "trained_from": "1971-01-31",
+    "out_of_sample": {
+     "auc": 0.874,
+     "months": 430,
+     "from": "1990-01",
+     "brier_skill_%": 13.2
+    },
+    "history": [
+     [
+      "2023-12-31",
+      0.521
+     ],
+     [
+      "2024-01-31",
+      0.518
+     ],
+     [
+      "2024-02-29",
+      0.344
+     ],
+     [
+      "2024-03-31",
+      0.201
+     ],
+     [
+      "2024-04-30",
+      0.184
+     ],
+     [
+      "2024-05-31",
+      0.255
+     ],
+     [
+      "2024-06-30",
+      0.307
+     ],
+     [
+      "2024-07-31",
+      0.329
+     ],
+     [
+      "2024-08-31",
+      0.436
+     ],
+     [
+      "2024-09-30",
+      0.398
+     ],
+     [
+      "2024-10-31",
+      0.215
+     ],
+     [
+      "2024-11-30",
+      0.148
+     ],
+     [
+      "2024-12-31",
+      0.187
+     ],
+     [
+      "2025-01-31",
+      0.129
+     ],
+     [
+      "2025-02-28",
+      0.192
+     ],
+     [
+      "2025-03-31",
+      0.352
+     ],
+     [
+      "2025-04-30",
+      0.369
+     ],
+     [
+      "2025-05-31",
+      0.321
+     ],
+     [
+      "2025-06-30",
+      0.204
+     ],
+     [
+      "2025-07-31",
+      0.205
+     ],
+     [
+      "2025-08-31",
+      0.162
+     ],
+     [
+      "2025-09-30",
+      0.077
+     ],
+     [
+      "2025-10-31",
+      0.059
+     ],
+     [
+      "2025-11-30",
+      0.09
+     ],
+     [
+      "2025-12-31",
+      0.105
+     ],
+     [
+      "2026-01-31",
+      0.096
+     ],
+     [
+      "2026-02-28",
+      0.133
+     ],
+     [
+      "2026-03-31",
+      0.227
+     ],
+     [
+      "2026-04-30",
+      0.132
+     ],
+     [
+      "2026-05-31",
+      0.077
+     ],
+     [
+      "2026-06-30",
+      0.088
+     ],
+     [
+      "2026-07-31",
+      0.09
+     ],
+     [
+      "2026-08-31",
+      0.062
+     ],
+     [
+      "2026-09-30",
+      0.04
+     ],
+     [
+      "2026-10-31",
+      0.096
+     ],
+     [
+      "2026-11-30",
+      0.189
+     ]
+    ],
+    "benchmarks": {
+     "ny_fed_style_yield_curve_model": 0.163,
+     "chauvet_piger_in_recession_now": 0.004,
+     "chauvet_piger_as_of": "2026-09-01"
+    }
+   },
+   "pullback_10pct_3m": {
+    "probability": 0.097,
+    "base_rate": 0.132,
+    "as_of": "2026-11-13",
+    "drivers": [
+     {
+      "input": "Baa spread, 3-month change (pts)",
+      "value": -0.21,
+      "push": -0.15
+     },
+     {
+      "input": "S&P 500 1-month realized volatility (log)",
+      "value": -1.53,
+      "push": 0.14
+     },
+     {
+      "input": "Baa corporate bond spread over 10-yr Treasury (pts)",
+      "value": 1.48,
+      "push": -0.14
+     },
+     {
+      "input": "Chicago Fed financial conditions",
+      "value": -0.462,
+      "push": -0.05
+     },
+     {
+      "input": "S&P 500 vs its 200-day average (%)",
+      "value": 3.016,
+      "push": 0.02
+     }
+    ],
+    "samples": 484,
+    "trained_from": "1986-04-30",
+    "out_of_sample": {
+     "auc": 0.68,
+     "months": 319,
+     "from": "2000-01",
+     "brier_skill_%": -1.8
+    },
+    "history": [
+     [
+      "2023-12-29",
+      0.067
+     ],
+     [
+      "2024-01-31",
+      0.066
+     ],
+     [
+      "2024-02-29",
+      0.063
+     ],
+     [
+      "2024-03-28",
+      0.056
+     ],
+     [
+      "2024-04-30",
+      0.078
+     ],
+     [
+      "2024-05-31",
+      0.064
+     ],
+     [
+      "2024-06-28",
+      0.064
+     ],
+     [
+      "2024-07-31",
+      0.097
+     ],
+     [
+      "2024-08-30",
+      0.104
+     ],
+     [
+      "2024-09-30",
+      0.084
+     ],
+     [
+      "2024-10-31",
+      0.065
+     ],
+     [
+      "2024-11-29",
+      0.063
+     ],
+     [
+      "2024-12-31",
+      0.076
+     ],
+     [
+      "2025-01-31",
+      0.081
+     ],
+     [
+      "2025-02-28",
+      0.103
+     ],
+     [
+      "2025-03-31",
+      0.175
+     ],
+     [
+      "2025-04-30",
+      0.246
+     ],
+     [
+      "2025-05-30",
+      0.133
+     ],
+     [
+      "2025-06-30",
+      0.083
+     ],
+     [
+      "2025-07-31",
+      0.057
+     ],
+     [
+      "2025-08-29",
+      0.078
+     ],
+     [
+      "2025-09-30",
+      0.06
+     ],
+     [
+      "2025-10-31",
+      0.071
+     ],
+     [
+      "2025-11-28",
+      0.078
+     ],
+     [
+      "2025-12-31",
+      0.073
+     ],
+     [
+      "2026-01-30",
+      0.076
+     ],
+     [
+      "2026-02-27",
+      0.094
+     ],
+     [
+      "2026-03-31",
+      0.133
+     ],
+     [
+      "2026-04-30",
+      0.087
+     ],
+     [
+      "2026-05-29",
+      0.058
+     ],
+     [
+      "2026-06-30",
+      0.073
+     ],
+     [
+      "2026-07-31",
+      0.08
+     ],
+     [
+      "2026-08-31",
+      0.079
+     ],
+     [
+      "2026-09-30",
+      0.078
+     ],
+     [
+      "2026-10-30",
+      0.088
+     ],
+     [
+      "2026-11-13",
+      0.097
+     ]
+    ],
+    "inputs_tested": {
+     "Geopolitical Risk Index, 30-day average (log)": {
+      "kept": false,
+      "auc_without": 0.68,
+      "auc_with": 0.676
+     },
+     "Economic policy uncertainty, 30-day average (log)": {
+      "kept": false,
+      "auc_without": 0.68,
+      "auc_with": 0.669
+     }
+    }
+   },
+   "indicators": [
+    {
+     "name": "Yield curve (10y - 3m)",
+     "value": 0.71,
+     "as_of": "2026-11-13",
+     "reading": "positive; inverted 0 of the last 24 months"
+    },
+    {
+     "name": "Sahm rule (real time)",
+     "value": 0.0,
+     "as_of": "2026-10-01",
+     "reading": "calm"
+    },
+    {
+     "name": "High-yield credit spread",
+     "value": 3.2,
+     "as_of": "2026-11-12",
+     "change_3m": 0.53,
+     "reading": "71th percentile since 2023; widening"
+    },
+    {
+     "name": "Chicago Fed financial conditions (NFCI)",
+     "value": -0.46,
+     "as_of": "2026-11-06",
+     "reading": "looser than average"
+    },
+    {
+     "name": "S&P 500 vs 200-day average",
+     "value": "+3.0%",
+     "as_of": "2026-11-13",
+     "reading": "above (uptrend)"
+    },
+    {
+     "name": "S&P 500 1-month volatility",
+     "value": "22%",
+     "as_of": "2026-11-13",
+     "reading": "88th percentile since 1970 (stressed)"
+    },
+    {
+     "name": "Geopolitical Risk Index (30-day avg)",
+     "value": 184.7,
+     "as_of": "2026-11-02",
+     "reading": "96th percentile since 1985 (elevated)"
+    },
+    {
+     "name": "Economic policy uncertainty (30-day avg)",
+     "value": 290.5,
+     "as_of": "2026-11-12",
+     "reading": "95th percentile since 1985 (elevated)"
+    },
+    {
+     "name": "Trade policy uncertainty (monthly)",
+     "value": 1400.8,
+     "as_of": "2026-09-01",
+     "reading": "96th percentile since 1985 (elevated)"
+    },
+    {
+     "name": "Oil volatility (OVX)",
+     "value": 51.7,
+     "as_of": "2026-11-12",
+     "reading": "87th percentile since 2007 (elevated)"
+    },
+    {
+     "name": "Oil futures curve (front vs ~6 months out)",
+     "value": "+10.2%",
+     "as_of": "2026-11-13",
+     "reading": "steep backwardation: oil is scarce NOW (real supply squeeze)"
+    },
+    {
+     "name": "Jobless claims, 6-month change",
+     "value": "-5%",
+     "as_of": "2026-11-07",
+     "reading": "stable"
+    }
+   ],
+   "summary": "Recession within 12 months: 19% (normal; typical 23%). S&P 500 10%+ pullback within 3 months: 10% (normal; typical 13%)."
+  },
+  "notes": [
+   {
+    "id": "A1",
+    "topic": "Next FOMC meeting dates",
+    "finding": "The Federal Reserve scheduled an upcoming FOMC meeting for December 8-9, 2026.",
+    "value": "8-9*",
+    "as_of": "2026-11-12",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "source_id": "fomc_calendar",
+    "quote": "December \n\n 8-9* \n\n * Meeting associated with a Summary of Economic Projections.",
+    "source_class": "allowed",
+    "score_eligible": true,
+    "method": "direct fetch",
+    "verified_number": false
+   },
+   {
+    "id": "A2",
+    "topic": "Future FOMC meeting schedule",
+    "finding": "The Federal Reserve released a revised tentative schedule for FOMC meetings in 2027.",
+    "value": "2027",
+    "as_of": "2026-11-12",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+    "source_id": "fed_policy",
+    "quote": "The Federal Reserve on Thursday announced a revised tentative schedule of Federal Open Market Committee meetings in 2027.",
+    "source_class": "allowed",
+    "score_eligible": true,
+    "method": "direct fetch",
+    "verified_number": true
+   },
+   {
+    "id": "A3",
+    "topic": "Vice Chair speech on technology and productivity",
+    "finding": "Vice Chair Philip N. Jefferson delivered a speech examining historical productivity puzzles and modern AI adoption.",
+    "value": null,
+    "as_of": "2026-11-13",
+    "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
+    "source_id": "fed_speeches",
+    "quote": "How could rapid technological change affect our economy, and what could that mean for monetary policy?",
+    "source_class": "allowed",
+    "score_eligible": true,
+    "method": "direct fetch",
+    "verified_number": null
+   },
+   {
+    "id": "A4",
+    "topic": "Latest Beige Book publication",
+    "finding": "The October 2026 Beige Book was updated, covering economic conditions across the 12 Federal Reserve Districts without district summaries present in the extract.",
+    "value": null,
+    "as_of": "2026-10-14",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook202610.htm",
+    "source_id": "beige_book",
+    "quote": "The Beige Book is a Federal Reserve System publication about current economic conditions across the 12 Federal Reserve Districts.",
+    "source_class": "allowed",
+    "score_eligible": true,
+    "method": "direct fetch",
+    "verified_number": null
+   },
+   {
+    "id": "B1",
+    "topic": "Truflation US Inflation Reading",
+    "finding": "Truflation advertises daily inflation tracking and forecasts 45 days ahead of official numbers, but does not state a current numerical US inflation reading on the page.",
+    "value": null,
+    "as_of": "2026-11-13",
+    "url": "https://truflation.com/",
+    "source_id": "truflation",
+    "quote": "The government reports them up to 45 days later. So you see the move first. Then, before each BLS release, we publish the number we expect it to print.",
+    "source_class": "allowed",
+    "score_eligible": true,
+    "method": "direct fetch",
+    "verified_number": null
+   },
+   {
+    "id": "B2",
+    "topic": "Cleveland Fed Inflation Nowcast",
+    "finding": "The Cleveland Fed page lists Inflation Nowcasting as a navigation indicator but provides no specific nowcast values for upcoming CPI and PCE releases.",
+    "value": null,
+    "as_of": "2026-11-13",
+    "url": "https://www.clevelandfed.org/indicators-and-data/inflation-nowcasting",
+    "source_id": "cleveland_nowcast",
+    "quote": "We produce indicators and datasets to inform the public, policymakers, and researchers about economic conditions, including inflation, employment, and risks to the financial system.",
+    "source_class": "allowed",
+    "score_eligible": true,
+    "method": "direct fetch",
+    "verified_number": null
+   },
+   {
+    "id": "B3",
+    "topic": "EIA STEO Brent Crude Price Forecast",
+    "finding": "EIA forecasts the Brent crude oil spot price will remain near $100 per barrel for the remainder of 2026 before declining to an average of $77 per barrel in the fourth quarter of 2027.",
+    "value": "$100 per barrel",
+    "as_of": "2026-11-10",
+    "url": "https://www.eia.gov/outlooks/steo/",
+    "source_id": "eia_steo",
+    "quote": "we expect the Brent crude oil spot price will remain near $100 per barrel (b) for the remainder of this year.",
+    "source_class": "allowed",
+    "score_eligible": true,
+    "method": "direct fetch",
+    "verified_number": true
+   },
+   {
+    "id": "B4",
+    "topic": "EIA STEO Natural Gas Price Forecast",
+    "finding": "EIA forecasts Henry Hub natural gas spot prices will average $2.87 per million British thermal units from November through March.",
+    "value": "$2.87 per million British thermal units",
+    "as_of": "2026-11-10",
+    "url": "https://www.eia.gov/outlooks/steo/",
+    "source_id": "eia_steo",
+    "quote": "We forecast the Henry Hub spot price for natural gas to average $2.87 per million British thermal units from November through March, 16% lower than we expected last month.",
+    "source_class": "allowed",
+    "score_eligible": true,
+    "method": "direct fetch",
+    "verified_number": true
+   },
+   {
+    "id": "B5",
+    "topic": "EIA Crude Inventories vs 5-Year Average",
+    "finding": "U.S. commercial crude oil inventories dropped to 410 million barrels at the end of October and are forecast to stay below the five-year average through mid-2027.",
+    "value": "410 million barrels",
+    "as_of": "2026-10",
+    "url": "https://www.eia.gov/outlooks/steo/",
+    "source_id": "eia_steo",
+    "quote": "U.S. commercial crude oil inventories fell to 410 million barrels at the end of October, the lowest end-of-October level since 2014.",
+    "source_class": "allowed",
+    "score_eligible": true,
+    "method": "direct fetch",
+    "verified_number": true
+   },
+   {
+    "id": "B6",
+    "topic": "Trade Action - AGOA Termination Intent",
+    "finding": "Ambassador Greer issued a statement regarding the intent to terminate Rwanda and South Africa from the AGOA trade preference program.",
+    "value": null,
+    "as_of": "2026-11-02",
+    "url": "https://ustr.gov/about-us/policy-offices/press-office/press-releases",
+    "source_id": "ustr",
+    "quote": "Ambassador Greer Issues Statement on President Trump\u2019s Intent to Terminate Rwanda and South Africa from the AGOA Trade Preference Program",
+    "source_class": "allowed",
+    "score_eligible": true,
+    "method": "direct fetch",
+    "verified_number": null
+   },
+   {
+    "id": "B7",
+    "topic": "Treasury Quarterly Refunding Issuance",
+    "finding": "The Treasury quarterly refunding page provides an overview of the refunding framework but does not state the size or direction of issuance from the latest announcement.",
+    "value": null,
+    "as_of": "2026-11-13",
+    "url": "https://home.treasury.gov/policy-issues/financing-the-government/quarterly-refunding",
+    "source_id": "treasury_refunding",
+    "quote": "Changes in debt management policy are generally informed by and communicated through the quarterly refunding process near the middle of each calendar quarter.",
+    "source_class": "allowed",
+    "score_eligible": true,
+    "method": "direct fetch",
+    "verified_number": null
+   },
+   {
+    "id": "D1",
+    "topic": "Bank of England policy decision",
+    "finding": "The Bank of England's Monetary Policy Committee decided to increase Bank Rate to 4% in November 2026.",
+    "value": "4%",
+    "as_of": "2026-11-05",
+    "url": "https://www.bankofengland.co.uk/news/2026/november/the-boe-monetary-authority-of-singapore-and-bank-of-thailand-media-release",
+    "source_id": "boe",
+    "quote": "Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
+    "source_class": "allowed",
+    "score_eligible": true,
+    "method": "direct fetch",
+    "verified_number": true
+   },
+   {
+    "id": "D2",
+    "topic": "IMF global growth forecast 2026",
+    "finding": "In its January 2026 World Economic Outlook Update, the IMF projected global growth at 3.3 percent for 2026, slightly revised up from October 2025.",
+    "value": "3.3 percent",
+    "as_of": "2026-01-19",
+    "url": "https://www.imf.org/en/Publications/WEO",
+    "source_id": "imf_weo",
+    "quote": "Global growth is projected at 3.3 percent for 2026 and 3.2 percent for 2027, revised slightly up since the October 2025 World Economic Outlook.",
+    "source_class": "allowed",
+    "score_eligible": true,
+    "method": "direct fetch",
+    "verified_number": true
+   },
+   {
+    "id": "D3",
+    "topic": "IMF global growth forecast 2027",
+    "finding": "In its January 2026 World Economic Outlook Update, the IMF projected global growth at 3.2 percent for 2027.",
+    "value": "3.2 percent",
+    "as_of": "2026-01-19",
+    "url": "https://www.imf.org/en/Publications/WEO",
+    "source_id": "imf_weo",
+    "quote": "Global growth is projected at 3.3 percent for 2026 and 3.2 percent for 2027, revised slightly up since the October 2025 World Economic Outlook.",
+    "source_class": "allowed",
+    "score_eligible": true,
+    "method": "direct fetch",
+    "verified_number": true
+   },
+   {
+    "id": "E1",
+    "topic": "Shipping freight rates",
+    "finding": "The Drewry World Container Index decreased by 2% to $4,305 per 40ft container.",
+    "value": "$4,305 per 40ft container",
+    "as_of": "2026-11-12",
+    "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
+    "source_id": "drewry_wci",
+    "quote": "The Drewry World Container Index (WCI), the benchmark widely referenced by procurement teams, decreased 2% to $4,305 per 40ft container this week",
+    "source_class": "allowed",
+    "score_eligible": true,
+    "method": "direct fetch",
+    "verified_number": false
+   },
+   {
+    "id": "E2",
+    "topic": "Shipping chokepoint disruptions",
+    "finding": "Last week, 53 vessels transited the Suez Canal while only one vessel transited the Strait of Hormuz.",
+    "value": "53 vessels",
+    "as_of": "2026-11-12",
+    "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
+    "source_id": "drewry_wci",
+    "quote": "Meanwhile, 53 vessels transited the Suez Canal last week, while only one vessel transited the Strait of Hormuz.",
+    "source_class": "allowed",
+    "score_eligible": true,
+    "method": "direct fetch",
+    "verified_number": true
+   },
+   {
+    "id": "E3",
+    "topic": "U.S. sanctions - Iran",
+    "finding": "The U.S. Department of the Treasury's OFAC issued an update to Iran designations on November 9, 2026.",
+    "value": null,
+    "as_of": "2026-11-09",
+    "url": "https://ofac.treasury.gov/recent-actions",
+    "source_id": "ofac_actions",
+    "quote": "Iran Designation Update \n\n November 09, 2026 - \n Sanctions List Updates",
+    "source_class": "allowed",
+    "score_eligible": true,
+    "method": "direct fetch",
+    "verified_number": null
+   },
+   {
+    "id": "E4",
+    "topic": "U.S. sanctions - Iran",
+    "finding": "OFAC issued Iran-related designations on November 6, 2026.",
+    "value": null,
+    "as_of": "2026-11-06",
+    "url": "https://ofac.treasury.gov/recent-actions",
+    "source_id": "ofac_actions",
+    "quote": "Iran-related Designations \n\n November 06, 2026 - \n Sanctions List Updates",
+    "source_class": "allowed",
+    "score_eligible": true,
+    "method": "direct fetch",
+    "verified_number": null
+   },
+   {
+    "id": "E5",
+    "topic": "U.S. sanctions - Iran, Venezuela",
+    "finding": "OFAC issued Iran-related designations, updates to listings, an Iran-related alert, and an amended Venezuela-related general license.",
+    "value": null,
+    "as_of": "2026-11-04",
+    "url": "https://ofac.treasury.gov/recent-actions",
+    "source_id": "ofac_actions",
+    "quote": "Iran-related Designations; Updates to Certain Iran-related Listings; Publication of Iran-related OFAC Alert; Issuance of Amended Venezuela-related General License and Frequently Asked Question",
+    "source_class": "allowed",
+    "score_eligible": true,
+    "method": "direct fetch",
+    "verified_number": null
+   },
+   {
+    "id": "E6",
+    "topic": "U.S. sanctions - Iran",
+    "finding": "OFAC issued an amended Iran-related General License on October 29, 2026.",
+    "value": null,
+    "as_of": "2026-10-29",
+    "url": "https://ofac.treasury.gov/recent-actions",
+    "source_id": "ofac_actions",
+    "quote": "Issuance of Amended Iran-related General License \n\n October 29, 2026 - \n General Licenses",
+    "source_class": "allowed",
+    "score_eligible": true,
+    "method": "direct fetch",
+    "verified_number": null
+   },
+   {
+    "id": "E7",
+    "topic": "U.S. sanctions - Russia, Iran, North Korea, Belarus",
+    "finding": "OFAC issued Iran-related designations, Belarus and North Korea designation removals, and Iran-related and Russia-related general licenses.",
+    "value": null,
+    "as_of": "2026-10-21",
+    "url": "https://ofac.treasury.gov/recent-actions",
+    "source_id": "ofac_actions",
+    "quote": "Iran-related Designations; Belarus and North Korea Designations Removals; Issuance of Iran-related and Russia-related General Licenses and Amended Frequently Asked Questions",
+    "source_class": "allowed",
+    "score_eligible": true,
+    "method": "direct fetch",
+    "verified_number": null
+   },
+   {
+    "id": "C1",
+    "topic": "FactSet Earnings Insight EPS revisions",
+    "finding": "Analysts increased EPS estimates for S&P 500 companies for the second consecutive quarter.",
+    "value": "2nd Straight Quarter",
+    "as_of": "2026-10-07",
+    "url": "https://insight.factset.com/topic/earnings/page/2",
+    "source_id": "factset",
+    "quote": "Analysts Increased EPS Estimates for S&P 500 Companies for 2nd Straight Quarter",
+    "source_class": "allowed",
+    "score_eligible": true,
+    "method": "direct fetch",
+    "verified_number": true
+   },
+   {
+    "id": "C2",
+    "topic": "AAII Sentiment Survey bullish percentage",
+    "finding": "Individual investor bullish sentiment stood at 30.8% for the week ending November 11, 2026.",
+    "value": "30.8%",
+    "as_of": "2026-11-11",
+    "url": "https://www.aaii.com/sentimentsurvey",
+    "source_id": "aaii",
+    "quote": "This week's results \n Week ending November 11, 2026 \n\n Bullish\n\n 30.8%",
+    "source_class": "allowed",
+    "score_eligible": true,
+    "method": "direct fetch",
+    "verified_number": true
+   },
+   {
+    "id": "C3",
+    "topic": "AAII Sentiment Survey bearish percentage",
+    "finding": "Individual investor bearish sentiment was reported at 51.4% for the week ending November 11, 2026.",
+    "value": "51.4%",
+    "as_of": "2026-11-11",
+    "url": "https://www.aaii.com/sentimentsurvey",
+    "source_id": "aaii",
+    "quote": "Bearish\n\n 51.4%\n\n Avg 31.5%\n\n \u25bc\n Bull\u2013Bear Spread: -20.6 pp",
+    "source_class": "allowed",
+    "score_eligible": true,
+    "method": "direct fetch",
+    "verified_number": true
+   },
+   {
+    "id": "C4",
+    "topic": "CFTC Commitments of Traders crude oil positioning",
+    "finding": "Managed money held 13,415 long contracts and 25,233 short contracts in Light Sweet Crude Oil (WTI) futures on ICE Futures Europe.",
+    "value": "13,415",
+    "as_of": "2026-11-03",
+    "url": "https://www.cftc.gov/dea/futures/petroleum_sf.htm",
+    "source_id": "cftc_petroleum",
+    "quote": "CRUDE OIL, LIGHT SWEET-WTI - ICE FUTURES EUROPE (CONTRACTS OF 1,000 BARRELS) :\nCFTC Code #067411 Open Interest is 769,009 :\n: Positions :\n: 461,341 340,763 5,083 101,226 57,094 13,415 25,233 27,990 43,382 56,715 146,808 :",
+    "source_class": "allowed",
+    "score_eligible": true,
+    "method": "direct fetch",
+    "verified_number": false
+   },
+   {
+    "id": "E1",
+    "topic": "Iran-U.S. Military Escalation",
+    "finding": "U.S. and Israel prepared plans for possible attack on Iran in early November 2026 after midterm elections; Iran attacked seven oil tankers in Strait of Hormuz on October 22, 2026.",
+    "value": "7 tankers hit; 4 caught fire, 3 hit naval mines on 2026-10-22",
+    "as_of": "2026-10-22",
+    "url": "https://www.npr.org/2026/10/22/nx-s1-6011514/us-israel-iran-war",
+    "source_class": "allowed",
+    "score_eligible": true,
+    "verified_number": null
+   },
+   {
+    "id": "E2",
+    "topic": "Iran Strait of Hormuz Attacks",
+    "finding": "Iran attacked more ships in October 2026 than any month since war began in February; U.S. struck Iranian island in Strait of Hormuz on November 13, 2026 and Iran retaliated against U.S. radar in Bahrain.",
+    "value": "More than 2 dozen vessels struck in October; 37 ships attacked in October per Washington Institute data",
+    "as_of": "2026-10 and 2026-11-13",
+    "url": "https://www.crisisgroup.org/crisiswatch/october-trends-and-november-alerts-2026",
+    "source_class": "allowed",
+    "score_eligible": true,
+    "verified_number": null
+   },
+   {
+    "id": "E3",
+    "topic": "Russia-Ukraine Peace Talks",
+    "finding": "Russia and Ukraine agreed to large prisoner of war exchange in Abu Dhabi talks; largest humanitarian release since war began in 2022.",
+    "value": "Largest POW exchange since start of war",
+    "as_of": "2026-11-11",
+    "url": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
+    "source_class": "allowed",
+    "score_eligible": true,
+    "verified_number": null
+   },
+   {
+    "id": "E4",
+    "topic": "Russia-Ukraine Recent Strikes",
+    "finding": "Ukraine launched massive drone attack on Russia on November 13, 2026, killing at least 4 in Volgograd; Ukraine conducted over 1,200 drone strikes.",
+    "value": "More than 1,200 drones launched by Ukraine; 4 killed in Volgograd",
+    "as_of": "2026-11-13",
+    "url": "https://www.cfr.org/global-conflict-tracker/conflict/conflict-ukraine",
+    "source_class": "allowed",
+    "score_eligible": true,
+    "verified_number": null
+   },
+   {
+    "id": "E5",
+    "topic": "Houthi Red Sea Attacks",
+    "finding": "Saudi forces intercepted Houthi missile attacks on November 11, 2026; Houthis attacked Saudi East-West pipeline, oil facility in Yanbu, and Aramco building in Riyadh on November 12, 2026.",
+    "value": "3 cruise missiles and 2 ballistic missiles intercepted on 2026-11-11",
+    "as_of": "2026-11-11",
+    "url": "https://www.cfr.org/global-conflict-tracker/conflict/war-yemen",
+    "source_class": "allowed",
+    "score_eligible": true,
+    "verified_number": null
+   },
+   {
+    "id": "E6",
+    "topic": "Drewry World Container Index",
+    "finding": "Drewry World Container Index decreased 2% to $4,305 per 40ft container on November 12, 2026.",
+    "value": "$4,305 per 40ft container",
+    "as_of": "2026-11-12",
+    "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
+    "source_class": "allowed",
+    "score_eligible": true,
+    "verified_number": null
+   },
+   {
+    "id": "E8",
+    "topic": "Suez Canal vs Strait of Hormuz Transit",
+    "finding": "53 vessels transited Suez Canal in week of November 12, 2026; only 1 vessel transited Strait of Hormuz same week due to geopolitical uncertainty.",
+    "value": "53 vessels Suez vs 1 Hormuz in week ending 2026-11-12",
+    "as_of": "2026-11-12",
+    "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
+    "source_class": "allowed",
+    "score_eligible": true,
+    "verified_number": null
+   },
+   {
+    "id": "E9",
+    "topic": "U.S. Naval Blockade Iran Impact",
+    "finding": "U.S. naval blockade of Iran has cut Iran off from at least $25 billion in revenue according to U.S. military.",
+    "value": "$25 billion",
+    "as_of": "November 2026",
+    "url": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
+    "source_class": "allowed",
+    "score_eligible": true,
+    "verified_number": null
+   }
+  ],
+  "sources": [
+   {
+    "theme": "A",
+    "source": "fed_policy",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+    "status": "used"
+   },
+   {
+    "theme": "A",
+    "source": "fed_speeches",
+    "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
+    "status": "used"
+   },
+   {
+    "theme": "A",
+    "source": "fomc_calendar",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "status": "used"
+   },
+   {
+    "theme": "A",
+    "source": "beige_book",
+    "url": "https://www.federalreserve.gov/monetarypolicy/beigebook202610.htm",
+    "status": "used"
+   },
+   {
+    "theme": "B",
+    "source": "truflation",
+    "url": "https://truflation.com/",
+    "status": "used"
+   },
+   {
+    "theme": "B",
+    "source": "cleveland_nowcast",
+    "url": "https://www.clevelandfed.org/indicators-and-data/inflation-nowcasting",
+    "status": "used"
+   },
+   {
+    "theme": "B",
+    "source": "eia_steo",
+    "url": "https://www.eia.gov/outlooks/steo/",
+    "status": "used"
+   },
+   {
+    "theme": "B",
+    "source": "eia_weekly",
+    "url": "https://www.eia.gov/petroleum/supply/weekly/",
+    "status": "read, nothing extracted"
+   },
+   {
+    "theme": "B",
+    "source": "ustr",
+    "url": "https://ustr.gov/about-us/policy-offices/press-office/press-releases",
+    "status": "used"
+   },
+   {
+    "theme": "B",
+    "source": "treasury_refunding",
+    "url": "https://home.treasury.gov/policy-issues/financing-the-government/quarterly-refunding",
+    "status": "used"
+   },
+   {
+    "theme": "D",
+    "source": "ism_manufacturing",
+    "url": "https://ecommerce.ismworld.org/SSO/Login.aspx?DPLF=Y&vi=10&vt=200b1404824b0dbf1a22aa7e5f7e0fd39a6914102aaee73bfb73b69e1e7d6c4f25e6c909d494e831a0bf809cf3549fc69b4bc34bee97978868f3813f6e952d00def9961dc5a7076c266d5605d77e7ece1c164d6b3c087a43392e19a666b97227206c7e96066f6633bc39d1c40b7e6eec",
+    "status": "too little readable text (JavaScript page?)"
+   },
+   {
+    "theme": "D",
+    "source": "ecb",
+    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html",
+    "status": "read, nothing extracted"
+   },
+   {
+    "theme": "D",
+    "source": "boe",
+    "url": "https://www.bankofengland.co.uk/news/2026/november/the-boe-monetary-authority-of-singapore-and-bank-of-thailand-media-release",
+    "status": "used"
+   },
+   {
+    "theme": "D",
+    "source": "boj",
+    "url": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261110.xlsx",
+    "status": "read, nothing extracted"
+   },
+   {
+    "theme": "D",
+    "source": "imf_weo",
+    "url": "https://www.imf.org/en/Publications/WEO",
+    "status": "used"
+   },
+   {
+    "theme": "D",
+    "source": "oecd_outlook",
+    "url": "https://www.oecd.org/en/publications/oecd-economic-outlook_16097408.html",
+    "status": "page unavailable"
+   },
+   {
+    "theme": "E",
+    "source": "eia_twip",
+    "url": "https://www.eia.gov/petroleum/weekly/",
+    "status": "read, nothing extracted"
+   },
+   {
+    "theme": "E",
+    "source": "ofac_actions",
+    "url": "https://ofac.treasury.gov/recent-actions",
+    "status": "used"
+   },
+   {
+    "theme": "E",
+    "source": "iea_omr",
+    "url": "https://www.iea.org/topics/oil-market-report",
+    "status": "page unavailable"
+   },
+   {
+    "theme": "E",
+    "source": "drewry_wci",
+    "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
+    "status": "used"
+   },
+   {
+    "theme": "E",
+    "source": "gpr_index",
+    "url": "https://www.matteoiacoviello.com/gpr.htm",
+    "status": "read, nothing extracted"
+   },
+   {
+    "theme": "C",
+    "source": "factset",
+    "url": "https://insight.factset.com/topic/earnings/page/2",
+    "status": "used"
+   },
+   {
+    "theme": "C",
+    "source": "fedwatch",
+    "url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+    "status": "HTTPSConnectionPool(host='www.cmegroup.com', port=443): Read timed out. (read timeout=30)"
+   },
+   {
+    "theme": "C",
+    "source": "nyfed_nowcast",
+    "url": "https://www.newyorkfed.org/research/policy/nowcast",
+    "status": "read, nothing extracted"
+   },
+   {
+    "theme": "C",
+    "source": "aaii",
+    "url": "https://www.aaii.com/sentimentsurvey",
+    "status": "used"
+   },
+   {
+    "theme": "C",
+    "source": "cftc_petroleum",
+    "url": "https://www.cftc.gov/dea/futures/petroleum_sf.htm",
+    "status": "used"
+   },
+   {
+    "theme": "C",
+    "source": "shiller",
+    "url": "https://shillerdata.com/",
+    "status": "read, nothing extracted"
+   }
+  ],
+  "sector_base_rates": {
+   "Technology": {
+    "p": 0.5186,
+    "n_months": 82
+   },
+   "Financials": {
+    "p": 0.4907,
+    "n_months": 82
+   },
+   "Health Care": {
+    "p": 0.5186,
+    "n_months": 82
+   },
+   "Energy": {
+    "p": 0.4714,
+    "n_months": 82
+   },
+   "Industrials": {
+    "p": 0.5379,
+    "n_months": 82
+   },
+   "Consumer Discretionary": {
+    "p": 0.4907,
+    "n_months": 82
+   },
+   "Consumer Staples": {
+    "p": 0.4714,
+    "n_months": 82
+   },
+   "Utilities": {
+    "p": 0.4714,
+    "n_months": 82
+   },
+   "Materials": {
+    "p": 0.4621,
+    "n_months": 82
+   },
+   "Real Estate": {
+    "p": 0.4402,
+    "n_months": 26
+   },
+   "Communication Services": {
+    "p": 0.4773,
+    "n_months": 20
+   }
+  },
+  "factor_view_combined": {
+   "rates_10y": 0.0,
+   "oil": 3.5,
+   "dollar": 0.0,
+   "credit": -0.25,
+   "inflation_exp": 0.0
+  },
+  "review_url": null
+ },
+ "runs": [
+  {
+   "regime": {
+    "code_regime_agrees": true,
+    "assessment": "Growth remains strong (GDPNow 3.48%, real GDP 3.4% annualized, payrolls +165k, claims falling, UNRATE 4.1%) while inflation is re-accelerating (CPI 4.08% YoY rising from 3.3% three months ago, core CPI 2.87% rising, core PCE 3.12%). This is a textbook reflation print and the Fed is on hold (DFF 3.88%) even as the market prices further tightening (2yr yield 4.86% vs fed funds, spread +0.98). The code's 'Reflation, Fed on hold' label is correct, but the magnitude of the yield back-up (DGS10 5.10%, 96.7th percentile 5yr) and credit widening (HY spread 3.2%, rising) show this reflation is now colliding with tighter financial conditions than typical for the regime.",
+    "evidence": [
+     {
+      "ref": "FRED:CPIAUCSL",
+      "value": 4.08
+     },
+     {
+      "ref": "FRED:GDPNOW",
+      "value": 3.48
+     },
+     {
+      "ref": "FRED:PAYEMS",
+      "value": 165
+     },
+     {
+      "ref": "FRED:DGS10",
+      "value": 5.1
+     },
+     {
+      "ref": "FRED:DGS2",
+      "value": 4.86
+     },
+     {
+      "ref": "CALC:regime",
+      "value": "Reflation (growth up, inflation up)"
+     }
+    ]
+   },
+   "core_review": [
+    {
+     "variable": "CPIAUCSL",
+     "reading": "4.08% YoY, rising sharply from 3.3% 3m ago",
+     "consensus": "~0 change priced",
+     "view_vs_consensus": "above",
+     "evidence": [
+      {
+       "ref": "FRED:CPIAUCSL",
+       "value": 4.08
+      }
+     ]
+    },
+    {
+     "variable": "CPILFESL/PCEPILFE",
+     "reading": "Core CPI 2.87% rising, core PCE 3.12% flat, both above Fed's 2026 core PCE median of 3.4% is actually just below target path",
+     "consensus": "SEP_JCXFEMD_2026=3.4",
+     "view_vs_consensus": "in line",
+     "evidence": [
+      {
+       "ref": "FRED:CPILFESL",
+       "value": 2.87
+      },
+      {
+       "ref": "FRED:PCEPILFE",
+       "value": 3.12
+      },
+      {
+       "ref": "FACT:SEP_JCXFEMD_2026",
+       "value": 3.4
+      }
+     ]
+    },
+    {
+     "variable": "UNRATE/PAYEMS",
+     "reading": "4.1% unemployment matches dot-plot median, payrolls rebounded to +165k from -10k",
+     "consensus": "SEP_UNRATEMD_2026=4.1",
+     "view_vs_consensus": "in line",
+     "evidence": [
+      {
+       "ref": "FRED:UNRATE",
+       "value": 4.1
+      },
+      {
+       "ref": "FRED:PAYEMS",
+       "value": 165
+      },
+      {
+       "ref": "FACT:SEP_UNRATEMD_2026",
+       "value": 4.1
+      }
+     ]
+    },
+    {
+     "variable": "DFF/DGS2/T10Y2Y",
+     "reading": "Fed funds 3.88% on hold; 2yr 4.86% and 10yr 5.10% both rising sharply; curve flattening to 0.27",
+     "consensus": "market prices ~0 change in yields",
+     "view_vs_consensus": "above",
+     "evidence": [
+      {
+       "ref": "FRED:DFF",
+       "value": 3.88
+      },
+      {
+       "ref": "FRED:DGS2",
+       "value": 4.86
+      },
+      {
+       "ref": "FRED:T10Y2Y",
+       "value": 0.27
+      },
+      {
+       "ref": "CALC:market_implied_fed_path",
+       "value": "2yr_minus_fed_funds=0.98; markets price further hikes"
+      }
+     ]
+    },
+    {
+     "variable": "BAMLH0A0HYM2/NFCI",
+     "reading": "HY spread 3.2% rising from 2.85%, 64.9th percentile; NFCI -0.46 still loose but tightening from -0.54",
+     "consensus": "market prices ~0 change in credit",
+     "view_vs_consensus": "below (spreads widening = credit deteriorating vs flat consensus)",
+     "evidence": [
+      {
+       "ref": "FRED:BAMLH0A0HYM2",
+       "value": 3.2
+      },
+      {
+       "ref": "FRED:NFCI",
+       "value": -0.46
+      }
+     ]
+    },
+    {
+     "variable": "DCOILWTICO/DCOILBRENTEU",
+     "reading": "WTI fell to 89.62 from 107.89 tripwire move; Brent to 92.14, yet futures curve is in steep backwardation (+10.2%) signaling a real near-term supply squeeze despite the price drop",
+     "consensus": "market prices ~0 change",
+     "view_vs_consensus": "above (we expect a bounce vs flat consensus)",
+     "evidence": [
+      {
+       "ref": "FRED:DCOILWTICO",
+       "value": 89.62
+      },
+      {
+       "ref": "FRED:DCOILBRENTEU",
+       "value": 92.14
+      },
+      {
+       "ref": "CALC:risk_indicators",
+       "value": "Oil futures curve +10.2% backwardation: oil is scarce NOW"
+      }
+     ]
+    }
+   ],
+   "factor_view": {
+    "rates_10y": {
+     "change": 15.0,
+     "why": "10y already up 35bp in 3 months and 99bp in 12 months (z=1.43, 96.7th pctile) on accelerating CPI (4.08% vs 3.3% 3m ago) and a market now pricing further hikes, not cuts, despite Fed on hold.",
+     "evidence": [
+      {
+       "ref": "FRED:DGS10",
+       "value": 5.1
+      },
+      {
+       "ref": "FRED:CPIAUCSL",
+       "value": 4.08
+      },
+      {
+       "ref": "CALC:market_implied_fed_path",
+       "value": 0.98
+      }
+     ]
+    },
+    "oil": {
+     "change": 3.0,
+     "why": "Price fell sharply (tripwire -1.3/-1.4 SD) even as the futures curve shows steep backwardation (real scarcity now) and the conflict is escalating, not de-escalating: US struck an Iranian island Nov 13, Iran retaliated against a US radar base, Houthis hit Saudi pipeline/Aramco facilities Nov 11-12, and Hormuz transits collapsed to 1 vessel/week vs 53 at Suez. We expect a partial reversal as realized-supply-loss risk is still rising, not falling.",
+     "evidence": [
+      {
+       "ref": "CALC:risk_indicators",
+       "value": "Oil futures curve +10.2% backwardation"
+      },
+      {
+       "ref": "NOTE:E2",
+       "value": "US struck Iranian island Nov 13; Iran retaliated vs Bahrain radar"
+      },
+      {
+       "ref": "NOTE:E5",
+       "value": "Houthi strikes on Saudi pipeline, Yanbu facility, Aramco building Nov 11-12"
+      },
+      {
+       "ref": "NOTE:E8",
+       "value": "1 vessel transited Hormuz vs 53 at Suez in week of Nov 12"
+      }
+     ]
+    },
+    "dollar": {
+     "change": 1.0,
+     "why": "DTWEXBGS has risen from 119.7 to 121.88 (68.9th pctile) tracking the repriced-hawkish rate path; trend continuation expected.",
+     "evidence": [
+      {
+       "ref": "FRED:DTWEXBGS",
+       "value": 121.88
+      }
+     ]
+    },
+    "credit": {
+     "change": -1.0,
+     "why": "HY spreads are widening (2.85 -> 3.2, rising) and NFCI is tightening off its loosest point; momentum favors continued modest spread widening over the next 4 weeks.",
+     "evidence": [
+      {
+       "ref": "FRED:BAMLH0A0HYM2",
+       "value": 3.2
+      },
+      {
+       "ref": "FRED:NFCI",
+       "value": -0.46
+      }
+     ]
+    },
+    "inflation_exp": {
+     "change": -0.5,
+     "why": "10yr breakeven (T10YIE) is falling (2.28 -> 2.24) even as realized CPI rises, suggesting the market still treats the CPI pop as partly transitory/tariff-driven; modest further breakeven softening expected.",
+     "evidence": [
+      {
+       "ref": "FRED:T10YIE",
+       "value": 2.24
+      }
+     ]
+    }
+   },
+   "scenarios": [
+    {
+     "name": "base",
+     "probability": 0.55,
+     "description": "Reflation persists: growth stays strong, CPI stays sticky near 4%, Fed stays on hold through the Dec 8-9 FOMC, yields drift higher, oil stabilizes/rebounds modestly on Hormuz risk, credit spreads widen slowly."
+    },
+    {
+     "name": "downside",
+     "probability": 0.25,
+     "description": "Iran conflict escalates into an actual supply disruption (not just threats) through the Strait of Hormuz, oil spikes, credit spreads widen further, risk-off hits cyclicals; recession_risk and pullback_risk models likely understate this since they don't explicitly price war/geopolitical escalation (GPR at 96th percentile, OVX 87th percentile, VIX 1m vol 88th percentile stressed) even though their headline probabilities read 'normal'."
+    },
+    {
+     "name": "upside",
+     "probability": 0.2,
+     "description": "De-escalation in Iran and Ukraine/Russia (POW exchange, E3) cools oil and geopolitical risk premia, inflation surprises cool with the Dec 10 CPI, allowing yields to ease and risk assets to broaden out."
+    }
+   ],
+   "key_risks": [
+    "CALC:recession_risk reads 18.9% (below its 22.9% typical rate, oos AUC 0.874) and CALC:pullback_risk reads 9.7% (below its 13.2% typical, oos AUC only 0.68) -- both models say 'normal,' but neither directly inputs geopolitical risk, which CALC:risk_indicators shows at a 96th-percentile extreme (GRI 184.7) alongside 95th-percentile policy uncertainty and 87th-percentile oil volatility; a realized Hormuz supply shock is a tail scenario these models likely underweight.",
+    "Binary event: Dec 8-9 FOMC meeting (NOTE:A1) -- market is pricing further hikes (2yr-fedfunds spread 0.98) against a Fed that has stated it is on hold; a hawkish or dovish surprise would move rates, dollar, and credit sharply.",
+    "Binary event: further Iran/Hormuz escalation (US struck an Iranian island Nov 13, Iran retaliated against a Bahrain radar) could produce an actual tanker/export disruption, which the current oil price (-1.3 SD since last run) does not fully reflect given the futures curve backwardation.",
+    "Inflation path risk: CPI accelerating to 4.08% YoY while breakevens (T10YIE) are falling -- a divergence that could resolve violently in either direction at the Dec 10 CPI release."
+   ],
+   "upcoming_events": [
+    {
+     "date": "2026-11-25",
+     "event": "GDP (Q3 third estimate) and Personal Income/Outlays (incl. PCE inflation)",
+     "exposed": [
+      "broad market",
+      "rates-sensitive sectors"
+     ],
+     "evidence": [
+      {
+       "ref": "FRED:PCEPILFE",
+       "value": 3.12
+      }
+     ]
+    },
+    {
+     "date": "2026-12-04",
+     "event": "Employment Situation (November payrolls)",
+     "exposed": [
+      "Financials",
+      "Consumer Discretionary",
+      "broad market"
+     ],
+     "evidence": [
+      {
+       "ref": "FRED:PAYEMS",
+       "value": 165
+      }
+     ]
+    },
+    {
+     "date": "2026-12-08",
+     "event": "FOMC meeting (Dec 8-9)",
+     "exposed": [
+      "Technology",
+      "Financials",
+      "Real Estate",
+      "rates-sensitive sectors"
+     ],
+     "evidence": [
+      {
+       "ref": "NOTE:A1",
+       "value": "8-9*"
+      }
+     ]
+    },
+    {
+     "date": "2026-12-10",
+     "event": "CPI release (November)",
+     "exposed": [
+      "Technology",
+      "Consumer Discretionary",
+      "Health Care",
+      "Utilities"
+     ],
+     "evidence": [
+      {
+       "ref": "FRED:CPIAUCSL",
+       "value": 4.08
+      }
+     ]
+    }
+   ],
+   "predictions": [
+    {
+     "type": "sector_vs_spy",
+     "etf": "XLE",
+     "direction": "outperform",
+     "weeks": 4
+    },
+    {
+     "type": "sector_vs_spy",
+     "etf": "XLY",
+     "direction": "underperform",
+     "weeks": 6
+    },
+    {
+     "type": "sector_vs_spy",
+     "etf": "VNQ",
+     "direction": "underperform",
+     "weeks": 8
+    },
+    {
+     "type": "fred_threshold",
+     "series": "DGS10",
+     "comparison": ">=",
+     "value": 5.2,
+     "check_after": "2026-12-11"
+    },
+    {
+     "type": "fred_threshold",
+     "series": "DCOILWTICO",
+     "comparison": ">=",
+     "value": 92.0,
+     "check_after": "2026-12-11"
+    }
+   ],
+   "model": "claude-sonnet-5",
+   "tilts": {
+    "Technology": {
+     "adjustments": [],
+     "rationale": "Factor math (rising rates, widening credit, dollar up) is a clear headwind given Tech's large positive credit-spread beta (1.28) and negative rate beta; 1/3/6m momentum is already badly negative (-7.7/-8.3/-5.7%).",
+     "counterargument": "History in this regime+Fed combo actually favors Tech modestly (+0.25-0.35% excess); AI-adoption narrative (Fed speech A3) could offset. Not strong enough to add a sector-specific point adjustment beyond the factor flow-through.",
+     "survives": false,
+     "change_note": "No new sector-specific adjustment; maintaining negative tilt consistent with prior view via factor effects alone.",
+     "evidence": [],
+     "points": 0.0,
+     "tilt": 0
+    },
+    "Financials": {
+     "adjustments": [],
+     "rationale": "Low net factor sensitivity; dollar strength is a modest positive (+0.27 beta), rates/credit roughly offsetting. Momentum strong (+8.4/4.4/13.1%).",
+     "counterargument": "Credit widening could dent Financials via risk-based lending standards tightening narrative, but DRTSCILM is actually falling (1.7 vs 8.1 3m ago), undercutting that case.",
+     "survives": false,
+     "change_note": "No change from neutral stance.",
+     "evidence": [],
+     "points": 0.0,
+     "tilt": 0
+    },
+    "Health Care": {
+     "adjustments": [],
+     "rationale": "Defensive factor profile (negative credit and inflation-exp betas) benefits from our widening-credit, falling-breakeven forecast; momentum is very strong (+8.8/15.6/28.7%).",
+     "counterargument": "No sector-specific regulatory or pricing event is cited in the packet to justify an idiosyncratic adjustment beyond factor flow-through.",
+     "survives": false,
+     "change_note": "No adjustment; bullish tilt comes entirely from factor exposures.",
+     "evidence": [],
+     "points": 0.0,
+     "tilt": 0
+    },
+    "Energy": {
+     "adjustments": [
+      {
+       "points": 2.0,
+       "reason": "Escalating, not de-escalating, Iran conflict (US strike on Iranian island, Houthi attacks on Saudi oil infrastructure, Hormuz transit collapse) plus steep futures backwardation signal rising odds of an actual realized supply loss beyond what today's lower spot price reflects.",
+       "evidence": [
+        {
+         "ref": "NOTE:E2",
+         "value": null
+        },
+        {
+         "ref": "NOTE:E5",
+         "value": null
+        },
+        {
+         "ref": "NOTE:E9",
+         "value": "$25B Iran revenue cut by blockade"
+        },
+        {
+         "ref": "CALC:risk_indicators",
+         "value": "backwardation +10.2%"
+        }
+       ]
+      }
+     ],
+     "rationale": "Positive oil factor forecast (+3%) plus strong sector oil-beta (0.33) and the best 3m regime history (+3.75% avg excess, 56.8% beat rate) support a clear overweight.",
+     "counterargument": "Price has already fallen -1.3 SD despite the conflict, implying markets may be discounting a demand-destruction/oversupply story (OVX actually falling from 63 to 51.7) that would cap upside.",
+     "survives": true,
+     "change_note": "Raised from prior +1 given renewed escalation evidence (US strike, Houthi attacks) since the Oct 23 view.",
+     "evidence": [
+      {
+       "ref": "NOTE:E2",
+       "value": null
+      },
+      {
+       "ref": "NOTE:E5",
+       "value": null
+      },
+      {
+       "ref": "NOTE:E9",
+       "value": "$25B Iran revenue cut by blockade"
+      },
+      {
+       "ref": "CALC:risk_indicators",
+       "value": "backwardation +10.2%"
+      }
+     ],
+     "points": 2.0,
+     "tilt": 1
+    },
+    "Industrials": {
+     "adjustments": [],
+     "rationale": "Factor exposures are small and roughly balanced; momentum is mixed (3m -7.0%, 6m -3.6%, 1m +2.8%). History favors modest outperformance in regime+Fed match (+1.04% 3m).",
+     "counterargument": "Rising dollar is a modest headwind for exporters within Industrials, but beta is small (+0.07) and not cited as sector-specific.",
+     "survives": false,
+     "change_note": "No change.",
+     "evidence": [],
+     "points": 0.0,
+     "tilt": 0
+    },
+    "Consumer Discretionary": {
+     "adjustments": [],
+     "rationale": "Large negative factor exposure to rising rates (-0.072) and widening credit (+0.436 beta hurt by -1% credit) plus collapsing consumer sentiment (UMCSENT 48.1, 1.6th percentile 5yr) and falling savings rate (3.8%, 13th percentile) suggest consumers are dissaving to sustain spending, a fragile base.",
+     "counterargument": "1/3/6m momentum is actually positive (+8.1/5.1/0.8%), and retail sales YoY remains robust (6.29%), undercutting a strongly bearish sector-specific call.",
+     "survives": false,
+     "change_note": "Maintaining negative tilt similar to prior -1, driven by factor forecast, not adding incremental sector adjustment.",
+     "evidence": [],
+     "points": 0.0,
+     "tilt": 0
+    },
+    "Consumer Staples": {
+     "adjustments": [],
+     "rationale": "Strong defensive beta to widening credit (-2.30) and falling breakevens (-0.25) supports outperformance; momentum also strong (+8.8/11.9/8.0%).",
+     "counterargument": "Regime history is actually the worst of any sector for Staples (-1.23% 3m avg excess, only 38.3% beat rate), arguing the regime itself (growth-up reflation) typically rotates away from staples even if factors are favorable this month.",
+     "survives": false,
+     "change_note": "Lowered conviction vs prior +2 given regime-history conflict; keep modest positive tilt from factors only.",
+     "evidence": [],
+     "points": 0.0,
+     "tilt": 0
+    },
+    "Utilities": {
+     "adjustments": [],
+     "rationale": "Large positive factor exposure (credit widening -2.14 beta, inflation-exp falling -1.48 beta) points to outperformance; momentum strong (+8.0/2.5%).",
+     "counterargument": "Regime history for Utilities is the second-worst of all sectors (-1.24% 3m excess, 40.7% beat rate) -- growth-up reflation typically favors cyclicals, and EIA's own forecast of lower natural gas costs (B4) doesn't change this cyclical rotation risk.",
+     "survives": false,
+     "change_note": "No sector-specific adjustment added; factor tailwind offset by negative regime history.",
+     "evidence": [],
+     "points": 0.0,
+     "tilt": 0
+    },
+    "Materials": {
+     "adjustments": [
+      {
+       "points": 1.0,
+       "reason": "Copper is at an extreme, unusual level (z=+2.7, 98.4th percentile 5yr) signaling strong underlying industrial/AI-infrastructure demand not captured by the five macro factors.",
+       "evidence": [
+        {
+         "ref": "FRED:PCOPPUSDM",
+         "value": 14473.1
+        }
+       ]
+      }
+     ],
+     "rationale": "Factor exposures roughly net to zero; the copper signal plus positive momentum (+5.6/2.6/2.1%) tips this slightly positive.",
+     "counterargument": "Copper's rise could simply reflect dollar-denominated commodity inflation broadly (PALLFNFINDEXM also at 88.5th percentile) rather than a Materials-specific story, and the tiny excess doesn't clearly survive a dollar-strength headwind (-0.45 beta).",
+     "survives": true,
+     "change_note": "New small positive adjustment vs prior neutral view, based on the copper extreme noted this run.",
+     "evidence": [
+      {
+       "ref": "FRED:PCOPPUSDM",
+       "value": 14473.1
+      }
+     ],
+     "points": 1.0,
+     "tilt": 0
+    },
+    "Real Estate": {
+     "adjustments": [
+      {
+       "points": -2.0,
+       "reason": "Mortgage rates have surged to 7.11% (88.5th percentile 5yr) and building permits remain depressed (6.6th percentile), a housing-specific stress not fully captured by the broad 10y-rate sensitivity used for the sector.",
+       "evidence": [
+        {
+         "ref": "FRED:MORTGAGE30US",
+         "value": 7.11
+        },
+        {
+         "ref": "FRED:PERMIT",
+         "value": 1398
+        }
+       ]
+      }
+     ],
+     "rationale": "Net factor math is close to flat (credit-widening benefit roughly offsets rate-rise hit), but housing-specific financing stress argues for an extra markdown.",
+     "counterargument": "Real Estate's rates_10y beta is already the second-most-negative in the table (-0.034), so some of this is already priced through the rates factor; mortgage-permit weakness could be viewed as already reflected in trailing weak momentum (+7.9/1.9/1.8% actually still positive, undercutting the bear case).",
+     "survives": true,
+     "change_note": "New negative sector adjustment not present in prior view, based on this run's mortgage/permit readings.",
+     "evidence": [
+      {
+       "ref": "FRED:MORTGAGE30US",
+       "value": 7.11
+      },
+      {
+       "ref": "FRED:PERMIT",
+       "value": 1398
+      }
+     ],
+     "points": -2.0,
+     "tilt": -1
+    },
+    "Communication Services": {
+     "adjustments": [],
+     "rationale": "Small, mixed factor exposures; momentum weak (-1.1% 1m, -8.4% 6m) and regime history is the worst among sectors (-1.79% 3m avg excess, 36.8% beat rate).",
+     "counterargument": "No sector-specific catalyst (AI capex, regulation) is cited in this packet strong enough to warrant a specific adjustment either way.",
+     "survives": false,
+     "change_note": "No change.",
+     "evidence": [],
+     "points": 0.0,
+     "tilt": 0
+    }
+   }
+  },
+  {
+   "regime": {
+    "code_regime_agrees": true,
+    "assessment": "Reflation confirmed: labor and activity strong, inflation re-accelerating mainly via headline/energy. Fed formally on hold but markets price further hikes (2y-FF 0.98; 3m bill 26bp over FF) consistent with the 2026 dot of 4.1 vs DFF 3.88. Recession model (p12m 0.189 vs typical 0.229, AUC 0.874): agree - Sahm 0, claims at 5-yr low, curve positive. Pullback model (0.097 vs typical 0.132, AUC only 0.68): I think it understates risk. Its drivers are spread/vol based and miss the geopolitical shock now escalating (US strike on Iranian island 11-13, Houthi hits on Saudi East-West pipeline 11-12), the 10y at 5.1% (97th pct), and realized vol already at 88th pct. I would put 10% pullback odds nearer typical, ~13-15%.",
+    "evidence": [
+     {
+      "ref": "CALC:regime",
+      "value": "Reflation (growth up, inflation up)"
+     },
+     {
+      "ref": "CALC:recession_risk",
+      "value": 0.189
+     },
+     {
+      "ref": "CALC:pullback_risk",
+      "value": 0.097
+     },
+     {
+      "ref": "CALC:risk_indicators",
+      "value": "S&P 1m vol 22% (88th pct); GPR 96th pct; yield curve 10y-3m 0.71"
+     },
+     {
+      "ref": "FRED:DGS10",
+      "value": 5.1
+     },
+     {
+      "ref": "NOTE:E2",
+      "value": "US struck Iranian island 2026-11-13"
+     },
+     {
+      "ref": "NOTE:E5",
+      "value": "Houthis attacked Saudi East-West pipeline 2026-11-12"
+     },
+     {
+      "ref": "CALC:market_implied_fed_path",
+      "value": "2yr_minus_fed_funds=0.98"
+     }
+    ]
+   },
+   "core_review": [
+    {
+     "variable": "PCEPILFE",
+     "reading": "3.12% YoY, flat",
+     "consensus": "SEP 2026 core PCE 3.4",
+     "view_vs_consensus": "below",
+     "evidence": [
+      {
+       "ref": "FRED:PCEPILFE",
+       "value": 3.12
+      },
+      {
+       "ref": "FACT:SEP_JCXFEMD_2026",
+       "value": 3.4
+      }
+     ]
+    },
+    {
+     "variable": "CPIAUCSL",
+     "reading": "4.08% YoY, up from 3.3 three months ago - energy-driven",
+     "consensus": "Oil retreat (WTI 107.89->89.62) and gasoline 4.0 vs 4.1 should cap further headline gains near term",
+     "view_vs_consensus": "in line",
+     "evidence": [
+      {
+       "ref": "FRED:CPIAUCSL",
+       "value": 4.08
+      },
+      {
+       "ref": "FRED:GASREGW",
+       "value": 4
+      },
+      {
+       "ref": "FRED:IR",
+       "value": 8.1
+      }
+     ]
+    },
+    {
+     "variable": "CPILFESL",
+     "reading": "2.87% YoY, rising from 2.47",
+     "consensus": "Pass-through from import prices (+8.1% YoY) keeps core drifting up",
+     "view_vs_consensus": "in line",
+     "evidence": [
+      {
+       "ref": "FRED:CPILFESL",
+       "value": 2.87
+      },
+      {
+       "ref": "FRED:IR",
+       "value": 8.1
+      }
+     ]
+    },
+    {
+     "variable": "CES0500000003",
+     "reading": "3.12% YoY, 1.6th pct of 5 yrs",
+     "consensus": "Wages not a source of inflation; ECI 3.12",
+     "view_vs_consensus": "in line",
+     "evidence": [
+      {
+       "ref": "FRED:CES0500000003",
+       "value": 3.12
+      },
+      {
+       "ref": "FRED:ECIWAG",
+       "value": 3.12
+      }
+     ]
+    },
+    {
+     "variable": "UNRATE",
+     "reading": "4.1%, falling",
+     "consensus": "SEP 4.1",
+     "view_vs_consensus": "in line",
+     "evidence": [
+      {
+       "ref": "FRED:UNRATE",
+       "value": 4.1
+      },
+      {
+       "ref": "FACT:SEP_UNRATEMD_2026",
+       "value": 4.1
+      }
+     ]
+    },
+    {
+     "variable": "PAYEMS",
+     "reading": "+165k, rebounding from -10k three months ago",
+     "consensus": "Labor re-accelerating",
+     "view_vs_consensus": "in line",
+     "evidence": [
+      {
+       "ref": "FRED:PAYEMS",
+       "value": 165
+      }
+     ]
+    },
+    {
+     "variable": "IC4WSA",
+     "reading": "195,250, 0th pct of 5 yrs",
+     "consensus": "Very tight labor market, no layoff signal",
+     "view_vs_consensus": "in line",
+     "evidence": [
+      {
+       "ref": "FRED:IC4WSA",
+       "value": 195250
+      },
+      {
+       "ref": "FRED:SAHMREALTIME",
+       "value": 0
+      }
+     ]
+    },
+    {
+     "variable": "DFF",
+     "reading": "3.88%",
+     "consensus": "Dot plot 4.1 end-2026 implies one more hike; bills price it",
+     "view_vs_consensus": "in line",
+     "evidence": [
+      {
+       "ref": "FRED:DFF",
+       "value": 3.88
+      },
+      {
+       "ref": "FACT:SEP_FEDTARMD_2026",
+       "value": 4.1
+      },
+      {
+       "ref": "FRED:DTB3",
+       "value": 4.14
+      }
+     ]
+    },
+    {
+     "variable": "DGS2",
+     "reading": "4.86%, up 58bp in 3m",
+     "consensus": "Prices hikes beyond the dots",
+     "view_vs_consensus": "in line",
+     "evidence": [
+      {
+       "ref": "FRED:DGS2",
+       "value": 4.86
+      }
+     ]
+    },
+    {
+     "variable": "DGS10",
+     "reading": "5.10%, 96.7th pct",
+     "consensus": "Markets price ~0 change",
+     "view_vs_consensus": "in line",
+     "evidence": [
+      {
+       "ref": "FRED:DGS10",
+       "value": 5.1
+      }
+     ]
+    },
+    {
+     "variable": "T10Y2Y",
+     "reading": "0.27, flattening",
+     "consensus": "Bear flattening as front end prices hikes",
+     "view_vs_consensus": "in line",
+     "evidence": [
+      {
+       "ref": "FRED:T10Y2Y",
+       "value": 0.27
+      }
+     ]
+    },
+    {
+     "variable": "BAMLH0A0HYM2",
+     "reading": "3.20, widening from 2.85",
+     "consensus": "Spreads still low historically",
+     "view_vs_consensus": "below",
+     "evidence": [
+      {
+       "ref": "FRED:BAMLH0A0HYM2",
+       "value": 3.2
+      }
+     ]
+    },
+    {
+     "variable": "NFCI",
+     "reading": "-0.46, loose but tightening",
+     "consensus": "Conditions supportive",
+     "view_vs_consensus": "in line",
+     "evidence": [
+      {
+       "ref": "FRED:NFCI",
+       "value": -0.46
+      }
+     ]
+    },
+    {
+     "variable": "DCOILWTICO",
+     "reading": "89.62 (as of 11-11), down from 107.89 at last run",
+     "consensus": "EIA sees Brent near $100 rest of 2026",
+     "view_vs_consensus": "above",
+     "evidence": [
+      {
+       "ref": "FRED:DCOILWTICO",
+       "value": 89.62
+      },
+      {
+       "ref": "NOTE:B3",
+       "value": "$100 per barrel"
+      }
+     ]
+    },
+    {
+     "variable": "DCOILBRENTEU",
+     "reading": "92.14, down from 115.22",
+     "consensus": "Backwardation +10.2% implies futures expect decline",
+     "view_vs_consensus": "above",
+     "evidence": [
+      {
+       "ref": "FRED:DCOILBRENTEU",
+       "value": 92.14
+      },
+      {
+       "ref": "CALC:risk_indicators",
+       "value": "Oil futures curve +10.2% backwardation"
+      }
+     ]
+    }
+   ],
+   "factor_view": {
+    "rates_10y": {
+     "change": 0.0,
+     "why": "Upward pressure from rising core CPI and hike pricing is offset by falling breakevens and geopolitical haven demand; no edge vs market.",
+     "evidence": [
+      {
+       "ref": "FRED:CPILFESL",
+       "value": 2.87
+      },
+      {
+       "ref": "FRED:T10YIE",
+       "value": 2.24
+      }
+     ]
+    },
+    "oil": {
+     "change": 4.0,
+     "why": "Prices (as of 11-11) predate the 11-12 Houthi strike on the Saudi East-West pipeline (the Hormuz bypass) and the 11-13 US strike on Iran. Hormuz traffic is near zero (1 vessel), inventories are low and set to stay below average, EIA sees ~$100 Brent, and speculators are net short (squeeze risk). Tempered by backwardation roll-down.",
+     "evidence": [
+      {
+       "ref": "NOTE:E5",
+       "value": "Houthis attacked Saudi East-West pipeline, Yanbu"
+      },
+      {
+       "ref": "NOTE:E2",
+       "value": "US struck Iranian island 2026-11-13"
+      },
+      {
+       "ref": "NOTE:E8",
+       "value": "1 vessel transited Hormuz"
+      },
+      {
+       "ref": "NOTE:B5",
+       "value": "410 million barrels"
+      },
+      {
+       "ref": "NOTE:B3",
+       "value": "$100 per barrel"
+      },
+      {
+       "ref": "FRED:DCOILBRENTEU",
+       "value": 92.14
+      }
+     ]
+    },
+    "dollar": {
+     "change": 0.0,
+     "why": "No clear evidence; dollar flat vs 12m ago.",
+     "evidence": [
+      {
+       "ref": "FRED:DTWEXBGS",
+       "value": 121.88
+      }
+     ]
+    },
+    "credit": {
+     "change": -0.5,
+     "why": "HY spreads widening with stressed realized vol and escalating geopolitics; recession risk low limits the downside.",
+     "evidence": [
+      {
+       "ref": "FRED:BAMLH0A0HYM2",
+       "value": 3.2
+      },
+      {
+       "ref": "CALC:risk_indicators",
+       "value": "S&P 1m vol 22% (88th pct)"
+      },
+      {
+       "ref": "CALC:recession_risk",
+       "value": 0.189
+      }
+     ]
+    },
+    "inflation_exp": {
+     "change": 0.3,
+     "why": "Breakevens fell with oil; an oil rebound per the oil view should lift them modestly.",
+     "evidence": [
+      {
+       "ref": "FRED:T10YIE",
+       "value": 2.24
+      },
+      {
+       "ref": "NOTE:E5",
+       "value": "pipeline attack"
+      }
+     ]
+    }
+   },
+   "scenarios": [
+    {
+     "name": "base",
+     "probability": 0.55,
+     "description": "Strong labor data, Fed hikes or signals a hike in December, oil grinds back toward the mid-90s on Gulf disruption, equities choppy with high vol."
+    },
+    {
+     "name": "upside",
+     "probability": 0.2,
+     "description": "Gulf de-escalation reopens Hormuz flows; oil falls further, breakevens and yields ease, cyclicals/tech rally."
+    },
+    {
+     "name": "downside",
+     "probability": 0.25,
+     "description": "Direct US-Iran escalation plus damaged Saudi export routes; oil spikes >$110, 10y pushes higher on inflation, credit widens, 10% equity pullback."
+    }
+   ],
+   "key_risks": [
+    "US-Iran escalation after the 11-13 strike and Bahrain retaliation; Houthi attacks on the Saudi East-West pipeline could remove the Hormuz bypass (binary oil spike).",
+    "Pullback model (0.097, AUC 0.68) likely understates risk given realized vol at 88th pct, GPR at 96th pct and 10y at 5.1%.",
+    "December FOMC (Dec 8-9): a hike plus hawkish dots could push 10y further above 5% (binary).",
+    "Oil de-escalation downside: backwardation +10.2% and OVX 51.7 mean large moves either way; my +4% oil view would be wrong.",
+    "Recession model (0.189) is reassuring and I agree, but HY spreads are widening from 2.85 to 3.2."
+   ],
+   "upcoming_events": [
+    {
+     "date": "2026-11-17",
+     "event": "Retail sales and industrial production (Oct)",
+     "exposed": [
+      "Consumer Discretionary",
+      "Industrials"
+     ],
+     "evidence": [
+      {
+       "ref": "FRED:RSAFS",
+       "value": 6.29
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "event": "GDP and Personal Income/Outlays (core PCE)",
+     "exposed": [
+      "rates",
+      "Technology",
+      "Real Estate"
+     ],
+     "evidence": [
+      {
+       "ref": "FRED:PCEPILFE",
+       "value": 3.12
+      }
+     ]
+    },
+    {
+     "date": "2026-12-04",
+     "event": "Employment Situation (Nov)",
+     "exposed": [
+      "rates",
+      "Financials"
+     ],
+     "evidence": [
+      {
+       "ref": "FRED:PAYEMS",
+       "value": 165
+      }
+     ]
+    },
+    {
+     "date": "2026-12-09",
+     "event": "FOMC decision with new dot plot (Dec 8-9)",
+     "exposed": [
+      "rates",
+      "Real Estate",
+      "Utilities",
+      "Technology"
+     ],
+     "evidence": [
+      {
+       "ref": "NOTE:A1",
+       "value": "8-9"
+      },
+      {
+       "ref": "FACT:SEP_FEDTARMD_2026",
+       "value": 4.1
+      }
+     ]
+    },
+    {
+     "date": "2026-12-10",
+     "event": "CPI (Nov)",
+     "exposed": [
+      "rates",
+      "inflation_exp",
+      "Consumer Staples"
+     ],
+     "evidence": [
+      {
+       "ref": "FRED:CPIAUCSL",
+       "value": 4.08
+      }
+     ]
+    }
+   ],
+   "predictions": [
+    {
+     "type": "sector_vs_spy",
+     "etf": "XLE",
+     "direction": "outperform",
+     "weeks": 4
+    },
+    {
+     "type": "fred_threshold",
+     "series": "IC4WSA",
+     "comparison": "<=",
+     "value": 220000,
+     "check_after": "2026-12-11"
+    },
+    {
+     "type": "fred_threshold",
+     "series": "DGS10",
+     "comparison": ">=",
+     "value": 4.85,
+     "check_after": "2026-12-11"
+    }
+   ],
+   "model": "claude-opus-5-5",
+   "tilts": {
+    "Technology": {
+     "adjustments": [],
+     "rationale": "Handled by factors (credit, oil negative).",
+     "counterargument": "Deep underperformance (-7.74 1m) could mean-revert.",
+     "survives": false,
+     "change_note": "Prior -1 now expressed via credit/oil factors; no new sector-specific evidence.",
+     "evidence": [],
+     "points": 0.0,
+     "tilt": 0
+    },
+    "Financials": {
+     "adjustments": [],
+     "rationale": "Factor-driven only.",
+     "counterargument": "Loan growth 7.25% supports, but not sector-specific news.",
+     "survives": false,
+     "change_note": "Unchanged at 0.",
+     "evidence": [],
+     "points": 0.0,
+     "tilt": 0
+    },
+    "Health Care": {
+     "adjustments": [],
+     "rationale": "Defensive benefit flows via credit factor.",
+     "counterargument": "Already +15.6% 3m vs SPY; crowded.",
+     "survives": false,
+     "change_note": "Unchanged at 0.",
+     "evidence": [],
+     "points": 0.0,
+     "tilt": 0
+    },
+    "Energy": {
+     "adjustments": [],
+     "rationale": "Oil +4% view feeds Energy via SENS; Saudi pipeline attack is oil-wide, so a separate adjustment would double count.",
+     "counterargument": "Backwardation and possible de-escalation could keep oil sliding.",
+     "survives": false,
+     "change_note": "Prior +1 now carried by the explicit oil factor forecast after the oil tripwire.",
+     "evidence": [],
+     "points": 0.0,
+     "tilt": 0
+    },
+    "Industrials": {
+     "adjustments": [],
+     "rationale": "Factors only.",
+     "counterargument": "n/a",
+     "survives": false,
+     "change_note": "Unchanged.",
+     "evidence": [],
+     "points": 0.0,
+     "tilt": 0
+    },
+    "Consumer Discretionary": {
+     "adjustments": [],
+     "rationale": "Oil up and low saving rate (3.8) hurt, captured via oil factor.",
+     "counterargument": "Retail sales +6.29% YoY strong.",
+     "survives": false,
+     "change_note": "Prior -1 moved into oil factor.",
+     "evidence": [],
+     "points": 0.0,
+     "tilt": 0
+    },
+    "Consumer Staples": {
+     "adjustments": [],
+     "rationale": "Credit-widening view helps via SENS.",
+     "counterargument": "HIST shows Staples lag in Reflation (-1.0 3m).",
+     "survives": false,
+     "change_note": "Prior +2 dropped as a discretionary tilt; the credit factor carries the defensive view.",
+     "evidence": [],
+     "points": 0.0,
+     "tilt": 0
+    },
+    "Utilities": {
+     "adjustments": [],
+     "rationale": "Factors only.",
+     "counterargument": "n/a",
+     "survives": false,
+     "change_note": "Unchanged.",
+     "evidence": [],
+     "points": 0.0,
+     "tilt": 0
+    },
+    "Materials": {
+     "adjustments": [],
+     "rationale": "Copper at z=+2.7 is notable, but price momentum is not a sector-specific shock.",
+     "counterargument": "Copper strength could support miners.",
+     "survives": false,
+     "change_note": "Unchanged.",
+     "evidence": [],
+     "points": 0.0,
+     "tilt": 0
+    },
+    "Real Estate": {
+     "adjustments": [],
+     "rationale": "Mortgage rate 7.11 and permits weak; captured by rates factor.",
+     "counterargument": "n/a",
+     "survives": false,
+     "change_note": "Unchanged.",
+     "evidence": [],
+     "points": 0.0,
+     "tilt": 0
+    },
+    "Communication Services": {
+     "adjustments": [],
+     "rationale": "Factors only.",
+     "counterargument": "n/a",
+     "survives": false,
+     "change_note": "Unchanged.",
+     "evidence": [],
+     "points": 0.0,
+     "tilt": 0
+    }
+   }
+  },
+  {
+   "regime": {
+    "code_regime_agrees": true,
+    "assessment": "The economy is in Reflation with robust growth and firm inflation. Real GDP grew at 3.4% annualized in Q2, with Atlanta Fed GDPNow tracking Q3 at 3.48%, alongside payroll gains of 165k and unemployment falling to 4.1%. Headline CPI accelerated to 4.08% YoY while Core CPI rose to 2.87% YoY. Statistical recession risk remains subdued at 18.9% (below the 22.9% historical baseline), and 3-month pullback risk is modest at 9.7% against a 13.2% typical baseline. Macro stress indicators show tight physical oil markets with 10.2% backwardation and elevated policy uncertainty, but broad financial conditions remain loose.",
+    "evidence": [
+     {
+      "ref": "CALC:regime",
+      "value": "Reflation (growth up, inflation up)"
+     },
+     {
+      "ref": "FRED:A191RL1Q225SBEA",
+      "value": 3.4
+     },
+     {
+      "ref": "FRED:GDPNOW",
+      "value": 3.48
+     },
+     {
+      "ref": "FRED:PAYEMS",
+      "value": 165
+     },
+     {
+      "ref": "FRED:UNRATE",
+      "value": 4.1
+     },
+     {
+      "ref": "FRED:CPIAUCSL",
+      "value": 4.08
+     },
+     {
+      "ref": "FRED:CPILFESL",
+      "value": 2.87
+     },
+     {
+      "ref": "CALC:recession_risk",
+      "value": 0.189
+     },
+     {
+      "ref": "CALC:pullback_risk",
+      "value": 0.097
+     },
+     {
+      "ref": "CALC:risk_indicators",
+      "value": "Oil futures curve (front vs ~6 months out)=+10.2%"
+     }
+    ]
+   },
+   "core_review": [
+    {
+     "variable": "PCEPILFE",
+     "reading": "Core PCE inflation printed at 3.12% YoY for September, holding relatively flat from 3.04% three months prior.",
+     "consensus": "Expected to stay sticky near 3.0-3.2% given service wage dynamics.",
+     "view_vs_consensus": "in line",
+     "evidence": [
+      {
+       "ref": "FRED:PCEPILFE",
+       "value": 3.12
+      }
+     ]
+    },
+    {
+     "variable": "CPIAUCSL",
+     "reading": "Headline CPI inflation jumped to 4.08% YoY in October from 3.3% three months prior, pushed up by commodity and energy costs.",
+     "consensus": "Around 3.8-4.0% YoY.",
+     "view_vs_consensus": "above",
+     "evidence": [
+      {
+       "ref": "FRED:CPIAUCSL",
+       "value": 4.08
+      }
+     ]
+    },
+    {
+     "variable": "CPILFESL",
+     "reading": "Core CPI rose to 2.87% YoY in October from 2.47% three months prior, demonstrating mild underlying price acceleration.",
+     "consensus": "2.8% YoY.",
+     "view_vs_consensus": "in line",
+     "evidence": [
+      {
+       "ref": "FRED:CPILFESL",
+       "value": 2.87
+      }
+     ]
+    },
+    {
+     "variable": "CES0500000003",
+     "reading": "Average hourly earnings grew 3.12% YoY in October, remaining flat relative to 3.21% three months ago and down from 3.92% a year ago.",
+     "consensus": "Around 3.2% YoY.",
+     "view_vs_consensus": "in line",
+     "evidence": [
+      {
+       "ref": "FRED:CES0500000003",
+       "value": 3.12
+      }
+     ]
+    },
+    {
+     "variable": "UNRATE",
+     "reading": "The unemployment rate declined to 4.1% in October from 4.2% three months prior, precisely matching the Fed's 2026 SEP median expectation.",
+     "consensus": "4.1% to 4.2%.",
+     "view_vs_consensus": "in line",
+     "evidence": [
+      {
+       "ref": "FRED:UNRATE",
+       "value": 4.1
+      },
+      {
+       "ref": "FACT:SEP_UNRATEMD_2026",
+       "value": 4.1
+      }
+     ]
+    },
+    {
+     "variable": "PAYEMS",
+     "reading": "Nonfarm payrolls rebounded sharply with an addition of 165k jobs in October, recovering from -10k three months ago.",
+     "consensus": "Expected around 130k-150k.",
+     "view_vs_consensus": "above",
+     "evidence": [
+      {
+       "ref": "FRED:PAYEMS",
+       "value": 165
+      }
+     ]
+    },
+    {
+     "variable": "IC4WSA",
+     "reading": "Initial jobless claims 4-week average fell to 195,250, touching the 0th percentile of its 5-year range and confirming an exceptionally tight labor market with low layoff activity.",
+     "consensus": "Expected around 205k-215k.",
+     "view_vs_consensus": "below",
+     "evidence": [
+      {
+       "ref": "FRED:IC4WSA",
+       "value": 195250
+      }
+     ]
+    },
+    {
+     "variable": "DFF",
+     "reading": "The effective federal funds rate stood at 3.88% as of November 12, flat against 3.86% a year ago.",
+     "consensus": "Target policy rate range remains steady at current levels.",
+     "view_vs_consensus": "in line",
+     "evidence": [
+      {
+       "ref": "FRED:DFF",
+       "value": 3.88
+      }
+     ]
+    },
+    {
+     "variable": "DGS2",
+     "reading": "The 2-year Treasury yield rose to 4.86% from 4.28% three months ago, trading 98 bps above the effective Fed funds rate.",
+     "consensus": "Pricing hawkish policy expectations with potential additional rate hikes.",
+     "view_vs_consensus": "above",
+     "evidence": [
+      {
+       "ref": "FRED:DGS2",
+       "value": 4.86
+      },
+      {
+       "ref": "CALC:market_implied_fed_path",
+       "value": "2yr_minus_fed_funds=0.98; reading=markets price further hikes"
+      }
+     ]
+    },
+    {
+     "variable": "DGS10",
+     "reading": "The 10-year Treasury yield climbed to 5.10% (96.7th percentile over 5 years), up 35 bps over 3 months.",
+     "consensus": "Expected around 4.80%-5.00%.",
+     "view_vs_consensus": "above",
+     "evidence": [
+      {
+       "ref": "FRED:DGS10",
+       "value": 5.1
+      }
+     ]
+    },
+    {
+     "variable": "T10Y2Y",
+     "reading": "The 10-year minus 2-year yield spread narrowed to +0.27% (+27 bps) from +0.47% three months ago, maintaining a normal upward slope.",
+     "consensus": "Steepening bias or mild flattening on hawkish repricing.",
+     "view_vs_consensus": "in line",
+     "evidence": [
+      {
+       "ref": "FRED:T10Y2Y",
+       "value": 0.27
+      }
+     ]
+    },
+    {
+     "variable": "BAMLH0A0HYM2",
+     "reading": "High-yield credit spreads widened slightly to 3.20% from 2.85% three months ago, but remain tight by historical standards.",
+     "consensus": "Expected around 3.00-3.30%.",
+     "view_vs_consensus": "in line",
+     "evidence": [
+      {
+       "ref": "FRED:BAMLH0A0HYM2",
+       "value": 3.2
+      }
+     ]
+    },
+    {
+     "variable": "NFCI",
+     "reading": "Chicago Fed National Financial Conditions Index printed at -0.46, indicating overall financial conditions remain loose.",
+     "consensus": "Accommodative conditions below 0.0.",
+     "view_vs_consensus": "in line",
+     "evidence": [
+      {
+       "ref": "FRED:NFCI",
+       "value": -0.46
+      }
+     ]
+    },
+    {
+     "variable": "DCOILWTICO",
+     "reading": "WTI crude oil traded at $89.62/bbl, pulling back recently from over $107/bbl triggering a -1.3 std dev tripwire.",
+     "consensus": "Near $90/bbl with upside risk from Middle East transit disruption.",
+     "view_vs_consensus": "in line",
+     "evidence": [
+      {
+       "ref": "FRED:DCOILWTICO",
+       "value": 89.62
+      }
+     ]
+    },
+    {
+     "variable": "DCOILBRENTEU",
+     "reading": "Brent crude settled at $92.14/bbl, down from $115/bbl earlier in the month, triggering a -1.4 std dev tripwire.",
+     "consensus": "EIA forecasts Brent spot price will remain near $100/bbl through year-end 2026.",
+     "view_vs_consensus": "below",
+     "evidence": [
+      {
+       "ref": "FRED:DCOILBRENTEU",
+       "value": 92.14
+      },
+      {
+       "ref": "NOTE:B3",
+       "value": "$100 per barrel"
+      }
+     ]
+    }
+   ],
+   "factor_view": {
+    "rates_10y": {
+     "change": 0.0,
+     "why": "At 5.10%, the 10-year yield sits at the 96.7th percentile of its 5-year distribution. With markets already pricing Fed funds rate hikes (2-year yield at 4.86% vs effective funds of 3.88%), market pricing is fully aligned with hawkish risks, while long-run dot plots remain anchored at 3.2% and 10-year breakevens sit subdued at 2.24%. Zero basis point move priced.",
+     "evidence": [
+      {
+       "ref": "FRED:DGS10",
+       "value": 5.1
+      },
+      {
+       "ref": "FRED:DGS2",
+       "value": 4.86
+      },
+      {
+       "ref": "FRED:DFF",
+       "value": 3.88
+      },
+      {
+       "ref": "FACT:SEP_FEDTARMDLR_2026",
+       "value": 3.2
+      },
+      {
+       "ref": "FRED:T10YIE",
+       "value": 2.24
+      }
+     ]
+    },
+    "oil": {
+     "change": 8.0,
+     "why": "Following the recent pullbacks to $89.62 WTI and $92.14 Brent, physical supply fundamentals are intensely tight: the oil futures curve shows extreme backwardation of +10.2%, U.S. commercial crude inventories dropped to 410 million barrels (forecast below 5-year average through mid-2027), only 1 vessel transited the Strait of Hormuz last week amid ongoing clashes and blockade actions, and the EIA forecasts Brent spot prices to remain near $100/bbl for the rest of 2026, implying an ~8.5% recovery.",
+     "evidence": [
+      {
+       "ref": "FRED:DCOILBRENTEU",
+       "value": 92.14
+      },
+      {
+       "ref": "NOTE:B3",
+       "value": "$100 per barrel"
+      },
+      {
+       "ref": "NOTE:B5",
+       "value": "410 million barrels"
+      },
+      {
+       "ref": "CALC:risk_indicators",
+       "value": "Oil futures curve (front vs ~6 months out)=+10.2%"
+      },
+      {
+       "ref": "NOTE:E8",
+       "value": "53 vessels Suez vs 1 Hormuz in week ending 2026-11-12"
+      },
+      {
+       "ref": "NOTE:E9",
+       "value": "$25 billion"
+      }
+     ]
+    },
+    "dollar": {
+     "change": 0.0,
+     "why": "The trade-weighted dollar index stands at 121.88, close to neutral 68th percentile levels, balancing resilient U.S. growth (GDP 3.4%) against global rate tightening such as the Bank of England hiking to 4.0%.",
+     "evidence": [
+      {
+       "ref": "FRED:DTWEXBGS",
+       "value": 121.88
+      },
+      {
+       "ref": "FRED:A191RL1Q225SBEA",
+       "value": 3.4
+      },
+      {
+       "ref": "NOTE:D1",
+       "value": "4%"
+      }
+     ]
+    },
+    "credit": {
+     "change": 0.0,
+     "why": "High-yield credit spreads sit at 3.20% with NFCI at -0.46, indicating stable corporate balance sheets with corporate profits expanding 26.61% YoY and bank lending standards tightening on only 1.7% net of loans.",
+     "evidence": [
+      {
+       "ref": "FRED:BAMLH0A0HYM2",
+       "value": 3.2
+      },
+      {
+       "ref": "FRED:NFCI",
+       "value": -0.46
+      },
+      {
+       "ref": "FRED:CP",
+       "value": 26.61
+      },
+      {
+       "ref": "FRED:DRTSCILM",
+       "value": 1.7
+      }
+     ]
+    },
+    "inflation_exp": {
+     "change": 0.0,
+     "why": "The 10-year breakeven inflation rate is well anchored at 2.24% (16.4th percentile), reflecting confidence in Fed discipline despite headline CPI reaching 4.08%.",
+     "evidence": [
+      {
+       "ref": "FRED:T10YIE",
+       "value": 2.24
+      },
+      {
+       "ref": "FRED:CPIAUCSL",
+       "value": 4.08
+      }
+     ]
+    }
+   },
+   "scenarios": [
+    {
+     "name": "base",
+     "probability": 0.65,
+     "description": "Reflation persists as solid domestic demand (3.4% GDP, 165k payrolls) and energy supply tightness keep physical commodities elevated, while the Fed remains on hold at 3.88%."
+    },
+    {
+     "name": "upside",
+     "probability": 0.2,
+     "description": "Geopolitical conflict in the Persian Gulf escalates further, blocking Hormuz crude flows entirely, driving Brent well past $110/bbl and pushing short yields even higher."
+    },
+    {
+     "name": "downside",
+     "probability": 0.15,
+     "description": "De-escalation in Middle East maritime clashes coupled with 7%+ mortgage rates dampening domestic housing and consumption, causing an abrupt cyclical cooling."
+    }
+   ],
+   "key_risks": [
+    "Binary risk of open military conflict in the Persian Gulf expanding beyond maritime tanker interdictions into direct strikes on upstream oil infrastructure.",
+    "Persistent core and headline inflation forcing the Federal Reserve to deliver an unexpected interest rate hike at the December 8-9 FOMC meeting.",
+    "Sharp contraction in consumer spending as depleted personal savings (3.8%) and elevated mortgage rates (7.11%) exhaust household buffers."
+   ],
+   "upcoming_events": [
+    {
+     "date": "2026-11-17",
+     "event": "U.S. Retail Sales and Food Services Release",
+     "exposed": [
+      "Consumer Discretionary",
+      "Consumer Staples"
+     ],
+     "evidence": [
+      {
+       "ref": "FRED:RSAFS",
+       "value": 6.29
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "event": "Personal Income and Outlays (October PCE / Core PCE)",
+     "exposed": [
+      "Financials",
+      "Technology",
+      "Real Estate"
+     ],
+     "evidence": [
+      {
+       "ref": "FRED:PCEPILFE",
+       "value": 3.12
+      }
+     ]
+    },
+    {
+     "date": "2026-12-04",
+     "event": "November Employment Situation Report",
+     "exposed": [
+      "Financials",
+      "Industrials",
+      "Consumer Discretionary"
+     ],
+     "evidence": [
+      {
+       "ref": "FRED:PAYEMS",
+       "value": 165
+      },
+      {
+       "ref": "FRED:UNRATE",
+       "value": 4.1
+      }
+     ]
+    },
+    {
+     "date": "2026-12-08",
+     "event": "FOMC Rate Decision and Policy Statement",
+     "exposed": [
+      "Financials",
+      "Real Estate",
+      "Utilities",
+      "Technology"
+     ],
+     "evidence": [
+      {
+       "ref": "NOTE:A1",
+       "value": "8-9*"
+      }
+     ]
+    },
+    {
+     "date": "2026-12-10",
+     "event": "November Consumer Price Index (CPI) Release",
+     "exposed": [
+      "Energy",
+      "Consumer Discretionary",
+      "Financials"
+     ],
+     "evidence": [
+      {
+       "ref": "FRED:CPIAUCSL",
+       "value": 4.08
+      }
+     ]
+    }
+   ],
+   "predictions": [
+    {
+     "type": "sector_vs_spy",
+     "etf": "XLE",
+     "direction": "outperform",
+     "weeks": 4
+    },
+    {
+     "type": "fred_threshold",
+     "series": "DCOILWTICO",
+     "comparison": ">=",
+     "value": 88.0,
+     "check_after": "2026-12-11"
+    },
+    {
+     "type": "fred_threshold",
+     "series": "UNRATE",
+     "comparison": "<=",
+     "value": 4.3,
+     "check_after": "2026-12-04"
+    }
+   ],
+   "model": "gemini-3.8-flash@paid (fallback)",
+   "tilts": {
+    "Technology": {
+     "adjustments": [
+      {
+       "points": -1.0,
+       "reason": "Elevated 10-year Treasury yields at 5.10% and continued negative sector momentum (-7.74% 1m, -8.30% 3m) pressure extended valuation multiples.",
+       "evidence": [
+        {
+         "ref": "FRED:DGS10",
+         "value": 5.1
+        },
+        {
+         "ref": "MOM:Technology",
+         "value": -7.74
+        }
+       ]
+      }
+     ],
+     "rationale": "High benchmark yields (5.10%) and sustained negative relative momentum (-7.74% 1m) create headwind for long-duration tech multiples.",
+     "counterargument": "Corporate profits surged 26.61% YoY and AI productivity adoption could support mega-cap tech earnings growth.",
+     "survives": true,
+     "change_note": "Unchanged from previous view of -1.",
+     "evidence": [
+      {
+       "ref": "FRED:DGS10",
+       "value": 5.1
+      },
+      {
+       "ref": "MOM:Technology",
+       "value": -7.74
+      }
+     ],
+     "points": -1.0,
+     "tilt": 0
+    },
+    "Financials": {
+     "adjustments": [],
+     "rationale": "Strong net loan growth of 7.25% YoY and high net interest yields support banks, balanced against flattening 2y-10y curve (27 bps). Factor model captures dynamics.",
+     "counterargument": "Higher short-term funding costs could compress net interest margins if deposit competition heats up.",
+     "survives": false,
+     "change_note": "Maintained at 0 adjustment.",
+     "evidence": [],
+     "points": 0.0,
+     "tilt": 0
+    },
+    "Health Care": {
+     "adjustments": [],
+     "rationale": "Health Care has exhibited massive momentum (+8.84% 1m, +15.61% 3m), but historical excess return in Reflation with Fed on hold is only +0.21% 1m. Factor sensitivities capture defensive posture.",
+     "counterargument": "Defensive rotation could accelerate if market volatility spikes further above 22% realized volatility.",
+     "survives": false,
+     "change_note": "Maintained at 0 adjustment.",
+     "evidence": [],
+     "points": 0.0,
+     "tilt": 0
+    },
+    "Energy": {
+     "adjustments": [
+      {
+       "points": 1.0,
+       "reason": "Severe bottleneck in the Strait of Hormuz with only 1 vessel transiting, commercial crude inventories down to 410m barrels, and backwardation at +10.2%.",
+       "evidence": [
+        {
+         "ref": "NOTE:E8",
+         "value": "53 vessels Suez vs 1 Hormuz in week ending 2026-11-12"
+        },
+        {
+         "ref": "NOTE:B5",
+         "value": "410 million barrels"
+        },
+        {
+         "ref": "CALC:risk_indicators",
+         "value": "Oil futures curve (front vs ~6 months out)=+10.2%"
+        }
+       ]
+      }
+     ],
+     "rationale": "The physical supply squeeze in global crude remains acute, as confirmed by steep 10.2% backwardation and near-complete shutdown of commercial maritime traffic through Hormuz.",
+     "counterargument": "Crude has experienced heavy volatility (OVX at 51.72) and managed money net positioning shows short contracts exceeding long contracts.",
+     "survives": true,
+     "change_note": "Maintained at +1.",
+     "evidence": [
+      {
+       "ref": "NOTE:E8",
+       "value": "53 vessels Suez vs 1 Hormuz in week ending 2026-11-12"
+      },
+      {
+       "ref": "NOTE:B5",
+       "value": "410 million barrels"
+      },
+      {
+       "ref": "CALC:risk_indicators",
+       "value": "Oil futures curve (front vs ~6 months out)=+10.2%"
+      }
+     ],
+     "points": 1.0,
+     "tilt": 0
+    },
+    "Industrials": {
+     "adjustments": [],
+     "rationale": "Industrial production is expanding at 2.25% YoY and copper prices remain strong at $14,473/ton, but container shipping costs dropped 2% and historical excess in regime is adequately captured by factor model.",
+     "counterargument": "Supply chain rerouting around the Cape of Good Hope adds freight costs and operational delays.",
+     "survives": false,
+     "change_note": "Maintained at 0 adjustment.",
+     "evidence": [],
+     "points": 0.0,
+     "tilt": 0
+    },
+    "Consumer Discretionary": {
+     "adjustments": [
+      {
+       "points": -1.0,
+       "reason": "Personal saving rate fell to 3.8% (13th percentile), mortgage rates jumped to 7.11%, and retail gasoline remains high at $4.00/gal, squeezing disposable income.",
+       "evidence": [
+        {
+         "ref": "FRED:PSAVERT",
+         "value": 3.8
+        },
+        {
+         "ref": "FRED:MORTGAGE30US",
+         "value": 7.11
+        },
+        {
+         "ref": "FRED:GASREGW",
+         "value": 4.0
+        }
+       ]
+      }
+     ],
+     "rationale": "Consumers face headwinds from higher borrowing rates (30-yr mortgage at 7.11%) and depleted savings (3.8% saving rate), while elevated fuel costs ($4.00/gal) divert discretionary spending.",
+     "counterargument": "Retail sales YoY growth remains solid at 6.29% and the quits rate ticked up to 2.1%, signaling labor confidence.",
+     "survives": true,
+     "change_note": "Maintained at -1.",
+     "evidence": [
+      {
+       "ref": "FRED:PSAVERT",
+       "value": 3.8
+      },
+      {
+       "ref": "FRED:MORTGAGE30US",
+       "value": 7.11
+      },
+      {
+       "ref": "FRED:GASREGW",
+       "value": 4.0
+      }
+     ],
+     "points": -1.0,
+     "tilt": 0
+    },
+    "Consumer Staples": {
+     "adjustments": [
+      {
+       "points": 2.0,
+       "reason": "Strong sector momentum (+8.80% 1m, +11.90% 3m) and consumer sentiment at historic lows (UMich sentiment at 48.1, 1.6th percentile) drive persistent defensive rotation.",
+       "evidence": [
+        {
+         "ref": "MOM:Consumer Staples",
+         "value": 8.8
+        },
+        {
+         "ref": "FRED:UMCSENT",
+         "value": 48.1
+        }
+       ]
+      }
+     ],
+     "rationale": "Dismal consumer sentiment at 48.1 reinforces consumer focus on non-discretionary necessities, driving robust momentum (+8.8% 1m vs SPY) for staples.",
+     "counterargument": "Historical excess return for Staples in Reflation with Fed on hold is -0.40% over 1 month and -1.00% over 3 months as cyclical sectors typically lead.",
+     "survives": true,
+     "change_note": "Maintained at +2.",
+     "evidence": [
+      {
+       "ref": "MOM:Consumer Staples",
+       "value": 8.8
+      },
+      {
+       "ref": "FRED:UMCSENT",
+       "value": 48.1
+      }
+     ],
+     "points": 2.0,
+     "tilt": 1
+    },
+    "Utilities": {
+     "adjustments": [],
+     "rationale": "Benchmark 10-year yields at 5.10% provide substantial competition for dividend yields, offsetting power demand tailwinds.",
+     "counterargument": "Utilities have posted strong 1-month momentum (+8.00% vs SPY) as defensive yield proxies.",
+     "survives": false,
+     "change_note": "Maintained at 0 adjustment.",
+     "evidence": [],
+     "points": 0.0,
+     "tilt": 0
+    },
+    "Materials": {
+     "adjustments": [],
+     "rationale": "Copper prices are exceptionally strong ($14,473/ton, z=+2.7), but global all-commodity index is elevated (222.43) and historical regime performance is slightly negative (-0.18% 1m).",
+     "counterargument": "High commodity input prices could squeeze downstream fabricators.",
+     "survives": false,
+     "change_note": "Maintained at 0 adjustment.",
+     "evidence": [],
+     "points": 0.0,
+     "tilt": 0
+    },
+    "Real Estate": {
+     "adjustments": [],
+     "rationale": "Mortgage rates above 7.11% and building permits suppressed at 1,398k create structural headwinds, though factor sensitivities fully account for interest rate exposures.",
+     "counterargument": "Real estate exhibited strong 1-month momentum (+7.93% vs SPY) following earlier pullbacks.",
+     "survives": false,
+     "change_note": "Maintained at 0 adjustment.",
+     "evidence": [],
+     "points": 0.0,
+     "tilt": 0
+    },
+    "Communication Services": {
+     "adjustments": [],
+     "rationale": "Sector momentum is lagging (-1.08% 1m, -8.39% 6m) and historical regime excess is flat (+0.07% 1m). No idiosyncratic catalysts justify a non-zero tilt.",
+     "counterargument": "Digital advertising spending could benefit from solid Q3 corporate profit growth (26.61%).",
+     "survives": false,
+     "change_note": "Maintained at 0 adjustment.",
+     "evidence": [],
+     "points": 0.0,
+     "tilt": 0
+    }
+   }
+  },
+  {
+   "regime": {
+    "code_regime_agrees": true,
+    "assessment": "Reflation regime holds with growth indicators firming and inflation pressures re-emerging; labor market cooling but not yet recessionary.",
+    "evidence": [
+     {
+      "ref": "FRED:PAYEMS",
+      "value": 165
+     },
+     {
+      "ref": "FRED:UNRATE",
+      "value": 4.1
+     },
+     {
+      "ref": "CALC:regime",
+      "value": "Reflation (growth up, inflation up)"
+     }
+    ]
+   },
+   "core_review": [
+    {
+     "variable": "PCEPILFE",
+     "reading": "3.12",
+     "consensus": "stable near target",
+     "view_vs_consensus": "above",
+     "evidence": [
+      {
+       "ref": "FRED:PCEPILFE",
+       "value": 3.12
+      }
+     ]
+    },
+    {
+     "variable": "UNRATE",
+     "reading": "4.1",
+     "consensus": "stable",
+     "view_vs_consensus": "in line",
+     "evidence": [
+      {
+       "ref": "FRED:UNRATE",
+       "value": 4.1
+      }
+     ]
+    },
+    {
+     "variable": "PAYEMS",
+     "reading": "165k",
+     "consensus": "modest gains",
+     "view_vs_consensus": "in line",
+     "evidence": [
+      {
+       "ref": "FRED:PAYEMS",
+       "value": 165
+      }
+     ]
+    },
+    {
+     "variable": "DGS10",
+     "reading": "5.1",
+     "consensus": "higher",
+     "view_vs_consensus": "above",
+     "evidence": [
+      {
+       "ref": "FRED:DGS10",
+       "value": 5.1
+      }
+     ]
+    },
+    {
+     "variable": "recession_risk",
+     "reading": "0.189",
+     "consensus": "low",
+     "view_vs_consensus": "in line",
+     "evidence": [
+      {
+       "ref": "CALC:recession_risk",
+       "value": 0.189
+      }
+     ]
+    }
+   ],
+   "factor_view": {
+    "rates_10y": {
+     "change": 0.0,
+     "why": "markets price zero; no new evidence for 4-week move",
+     "evidence": []
+    },
+    "oil": {
+     "change": 0.0,
+     "why": "markets price zero; sharp prior drop already reflected",
+     "evidence": []
+    },
+    "dollar": {
+     "change": 0.0,
+     "why": "markets price zero",
+     "evidence": []
+    },
+    "credit": {
+     "change": 0.0,
+     "why": "markets price zero",
+     "evidence": []
+    },
+    "inflation_exp": {
+     "change": 0.0,
+     "why": "markets price zero",
+     "evidence": []
+    }
+   },
+   "scenarios": [
+    {
+     "name": "base",
+     "probability": 0.6,
+     "description": "Reflation continues with stable growth and contained inflation; yields stay elevated."
+    },
+    {
+     "name": "upside",
+     "probability": 0.25,
+     "description": "Stronger payrolls and retail sales push growth higher, supporting cyclicals."
+    },
+    {
+     "name": "downside",
+     "probability": 0.15,
+     "description": "Oil volatility or policy surprise triggers brief risk-off."
+    }
+   ],
+   "key_risks": [
+    "FOMC Dec 8-9 decision",
+    "Dec 4 employment report",
+    "Oil supply response to Hormuz events"
+   ],
+   "upcoming_events": [
+    {
+     "date": "2026-12-04",
+     "event": "Employment Situation",
+     "exposed": [
+      "Financials",
+      "Industrials"
+     ],
+     "evidence": [
+      {
+       "ref": "NOTE:A1",
+       "value": null
+      }
+     ]
+    },
+    {
+     "date": "2026-12-10",
+     "event": "Consumer Price Index",
+     "exposed": [
+      "all sectors"
+     ],
+     "evidence": [
+      {
+       "ref": "NOTE:A1",
+       "value": null
+      }
+     ]
+    }
+   ],
+   "predictions": [
+    {
+     "type": "sector_vs_spy",
+     "etf": "XLE",
+     "direction": "underperform",
+     "weeks": 4
+    },
+    {
+     "type": "fred_threshold",
+     "series": "DCOILWTICO",
+     "comparison": "<=",
+     "value": 85,
+     "check_after": "2026-12-11"
+    },
+    {
+     "type": "sector_vs_spy",
+     "etf": "XLF",
+     "direction": "outperform",
+     "weeks": 6
+    }
+   ],
+   "model": "xai:grok-4.3",
+   "tilts": {
+    "Technology": {
+     "adjustments": [],
+     "rationale": "Historical outperformance modest in regime; recent momentum negative.",
+     "counterargument": "AI productivity may support longer-term but not 1-3m tilt.",
+     "survives": false,
+     "change_note": "no change from prior -1",
+     "evidence": [],
+     "points": 0.0,
+     "tilt": 0
+    },
+    "Financials": {
+     "adjustments": [],
+     "rationale": "Positive historical excess in reflation; strong recent momentum.",
+     "counterargument": "Rising credit spreads could pressure if widening persists.",
+     "survives": true,
+     "change_note": "no change from prior 0",
+     "evidence": [],
+     "points": 0,
+     "tilt": 0
+    },
+    "Health Care": {
+     "adjustments": [],
+     "rationale": "Stable historical performance; recent momentum strong.",
+     "counterargument": "Rate sensitivity limited in current data.",
+     "survives": true,
+     "change_note": "no change from prior 0",
+     "evidence": [],
+     "points": 0,
+     "tilt": 0
+    },
+    "Energy": {
+     "adjustments": [
+      {
+       "points": -3.0,
+       "reason": "Sharp oil price decline overrides regime historical edge",
+       "evidence": [
+        {
+         "ref": "FRED:DCOILWTICO",
+         "value": 89.62
+        }
+       ]
+      }
+     ],
+     "rationale": "Oil drop dominates near-term returns despite reflation regime.",
+     "counterargument": "EIA sees Brent near $100 longer-term.",
+     "survives": true,
+     "change_note": "from prior +1 to -2",
+     "evidence": [
+      {
+       "ref": "FRED:DCOILWTICO",
+       "value": 89.62
+      }
+     ],
+     "points": -3.0,
+     "tilt": -1
+    },
+    "Industrials": {
+     "adjustments": [],
+     "rationale": "Positive historical in regime and Fed hold.",
+     "counterargument": "Copper strength supportive but already in price.",
+     "survives": true,
+     "change_note": "no change from prior 0",
+     "evidence": [],
+     "points": 0,
+     "tilt": 0
+    },
+    "Consumer Discretionary": {
+     "adjustments": [],
+     "rationale": "Mixed historical; recent momentum positive.",
+     "counterargument": "Savings rate decline may weigh on spending.",
+     "survives": true,
+     "change_note": "no change from prior -1",
+     "evidence": [],
+     "points": 0,
+     "tilt": 0
+    },
+    "Consumer Staples": {
+     "adjustments": [],
+     "rationale": "Defensive but negative historical in reflation.",
+     "counterargument": "Recent momentum strong.",
+     "survives": true,
+     "change_note": "no change from prior +2",
+     "evidence": [],
+     "points": 0,
+     "tilt": 0
+    },
+    "Utilities": {
+     "adjustments": [],
+     "rationale": "Negative historical in regime.",
+     "counterargument": "Rate sensitivity but yields already high.",
+     "survives": true,
+     "change_note": "no change from prior 0",
+     "evidence": [],
+     "points": 0,
+     "tilt": 0
+    },
+    "Materials": {
+     "adjustments": [],
+     "rationale": "Negative historical; copper elevated.",
+     "counterargument": "Industrial production firming.",
+     "survives": true,
+     "change_note": "no change from prior 0",
+     "evidence": [],
+     "points": 0,
+     "tilt": 0
+    },
+    "Real Estate": {
+     "adjustments": [],
+     "rationale": "Negative historical in regime.",
+     "counterargument": "Mortgage rates rising further.",
+     "survives": true,
+     "change_note": "no change from prior 0",
+     "evidence": [],
+     "points": 0,
+     "tilt": 0
+    },
+    "Communication Services": {
+     "adjustments": [],
+     "rationale": "Negative historical in regime.",
+     "counterargument": "Recent momentum flat to down.",
+     "survives": true,
+     "change_note": "no change from prior 0",
+     "evidence": [],
+     "points": 0,
+     "tilt": 0
+    }
+   }
+  }
+ ],
+ "final": {
+  "Technology": {
+   "p": 0.4725,
+   "base_p": 0.5186,
+   "p_market": 0.5186,
+   "disagreement_pts": -4.61,
+   "factor_pts": -4.61,
+   "narrative_pts": 0.0,
+   "tilt": -1,
+   "note": "base 52%, factors -4.6, sector-specific +0.0 (models [0.0, 0.0, -1.0, 0.0]) -> 47%; vs market pricing -4.6 pts",
+   "range_%": [
+    0,
+    10
+   ]
+  },
+  "Financials": {
+   "p": 0.4876,
+   "base_p": 0.4907,
+   "p_market": 0.4907,
+   "disagreement_pts": -0.31,
+   "factor_pts": -0.31,
+   "narrative_pts": 0.0,
+   "tilt": 0,
+   "note": "base 49%, factors -0.3, sector-specific +0.0 (models [0.0, 0.0, 0.0, 0]) -> 49%; vs market pricing -0.3 pts",
+   "range_%": [
+    0,
+    18
+   ]
+  },
+  "Health Care": {
+   "p": 0.5647,
+   "base_p": 0.5186,
+   "p_market": 0.5186,
+   "disagreement_pts": 4.61,
+   "factor_pts": 4.61,
+   "narrative_pts": 0.0,
+   "tilt": 1,
+   "note": "base 52%, factors +4.6, sector-specific +0.0 (models [0.0, 0.0, 0.0, 0]) -> 56%; vs market pricing +4.6 pts",
+   "range_%": [
+    5,
+    22
+   ]
+  },
+  "Energy": {
+   "p": 0.5818,
+   "base_p": 0.4714,
+   "p_market": 0.4714,
+   "disagreement_pts": 11.04,
+   "factor_pts": 10.54,
+   "narrative_pts": 0.5,
+   "tilt": 2,
+   "note": "base 47%, factors +10.5, sector-specific +0.5 (models [2.0, 0.0, 1.0, -3.0]) -> 58%; vs market pricing +11.0 pts",
+   "range_%": [
+    10,
+    25
+   ]
+  },
+  "Industrials": {
+   "p": 0.5221,
+   "base_p": 0.5379,
+   "p_market": 0.5379,
+   "disagreement_pts": -1.58,
+   "factor_pts": -1.58,
+   "narrative_pts": 0.0,
+   "tilt": 0,
+   "note": "base 54%, factors -1.6, sector-specific +0.0 (models [0.0, 0.0, 0.0, 0]) -> 52%; vs market pricing -1.6 pts",
+   "range_%": [
+    0,
+    18
+   ]
+  },
+  "Consumer Discretionary": {
+   "p": 0.4416,
+   "base_p": 0.4907,
+   "p_market": 0.4907,
+   "disagreement_pts": -4.91,
+   "factor_pts": -4.91,
+   "narrative_pts": 0.0,
+   "tilt": -1,
+   "note": "base 49%, factors -4.9, sector-specific +0.0 (models [0.0, 0.0, -1.0, 0]) -> 44%; vs market pricing -4.9 pts",
+   "range_%": [
+    0,
+    10
+   ]
+  },
+  "Consumer Staples": {
+   "p": 0.539,
+   "base_p": 0.4714,
+   "p_market": 0.4714,
+   "disagreement_pts": 6.76,
+   "factor_pts": 6.76,
+   "narrative_pts": 0.0,
+   "tilt": 1,
+   "note": "base 47%, factors +6.8, sector-specific +0.0 (models [0.0, 0.0, 2.0, 0]) -> 54%; vs market pricing +6.8 pts; capped at +/-1 (only two full tilts allowed)",
+   "range_%": [
+    5,
+    22
+   ]
+  },
+  "Utilities": {
+   "p": 0.5443,
+   "base_p": 0.4714,
+   "p_market": 0.4714,
+   "disagreement_pts": 7.29,
+   "factor_pts": 7.29,
+   "narrative_pts": 0.0,
+   "tilt": 1,
+   "note": "base 47%, factors +7.3, sector-specific +0.0 (models [0.0, 0.0, 0.0, 0]) -> 54%; vs market pricing +7.3 pts; critic flagged it (The +2 rests entirely on the credit-widening factor call (+7.3 pts), which only two of four models make and which loose ): tilt +2 -> +1",
+   "range_%": [
+    5,
+    22
+   ]
+  },
+  "Materials": {
+   "p": 0.4801,
+   "base_p": 0.4621,
+   "p_market": 0.4621,
+   "disagreement_pts": 1.8,
+   "factor_pts": 1.8,
+   "narrative_pts": 0.0,
+   "tilt": 0,
+   "note": "base 46%, factors +1.8, sector-specific +0.0 (models [1.0, 0.0, 0.0, 0]) -> 48%; vs market pricing +1.8 pts",
+   "range_%": [
+    0,
+    18
+   ]
+  },
+  "Real Estate": {
+   "p": 0.4885,
+   "base_p": 0.4402,
+   "p_market": 0.4402,
+   "disagreement_pts": 4.83,
+   "factor_pts": 4.83,
+   "narrative_pts": 0.0,
+   "tilt": 0,
+   "note": "base 44%, factors +4.8, sector-specific +0.0 (models [-2.0, 0.0, 0.0, 0]) -> 49%; vs market pricing +4.8 pts; critic flagged it (The tilt is +1 but the post-factor probability is 49%, below 50%, on a thin base (n=26) with poor history. The factor li): tilt +1 -> +0",
+   "range_%": [
+    0,
+    18
+   ]
+  },
+  "Communication Services": {
+   "p": 0.4867,
+   "base_p": 0.4773,
+   "p_market": 0.4773,
+   "disagreement_pts": 0.94,
+   "factor_pts": 0.94,
+   "narrative_pts": 0.0,
+   "tilt": 0,
+   "note": "base 48%, factors +0.9, sector-specific +0.0 (models [0.0, 0.0, 0.0, 0]) -> 49%; vs market pricing +0.9 pts",
+   "range_%": [
+    0,
+    18
+   ]
+  }
+ },
+ "critic": {
+  "overall": "FLAG",
+  "summary": "No tilt is clearly unsupported or contradicted, so none fails. Health Care, Staples, Utilities, Tech and Consumer Discretionary all lean on a credit-widening call that only two of four models make, while loose NFCI, falling bank tightening and below-typical recession and pullback risk point the other way. Energy +2 is well supported by the oil view and backwardation. Utilities +2 and Real Estate +1 are flagged: Utilities is a pure factor bet against poor regime history, and Real Estate gets a positive tilt despite a sub-50% probability and housing stress.",
+  "sectors": {
+   "Technology": {
+    "status": "PASS",
+    "issue": "Negative factor flow-through (-4.6 pts) and negative momentum support -1; history is mildly positive but already in the base."
+   },
+   "Financials": {
+    "status": "PASS",
+    "issue": "A 0 tilt matches a net factor effect of -0.3 pts; no clear contradiction."
+   },
+   "Health Care": {
+    "status": "PASS",
+    "issue": "The +1 follows from the credit factor (+4.6 pts); it is a modest tilt and crowding after +15.6% over 3 months is noted but not decisive."
+   },
+   "Energy": {
+    "status": "PASS",
+    "issue": "The oil forecast, +10.2% backwardation, Hormuz disruption and low inventories support +2; the oil drop is addressed by the backwardation reading. Sonnet's and Gemini's sector adjustments reuse oil-factor evidence (double counting), but the net sector-specific effect is only +0.5."
+   },
+   "Industrials": {
+    "status": "PASS",
+    "issue": "A 0 tilt is consistent with a small factor effect (-1.6 pts)."
+   },
+   "Consumer Discretionary": {
+    "status": "PASS",
+    "issue": "The rate, oil and credit betas support -1; positive momentum and strong retail sales are counter-evidence but do not overturn it."
+   },
+   "Consumer Staples": {
+    "status": "PASS",
+    "issue": "The +1 comes from factors (+6.8, capped). Poor regime history is already in the base of 47%. Gemini's +2 sector adjustment double counts and was correctly diluted."
+   },
+   "Utilities": {
+    "status": "FLAG",
+    "issue": "The +2 rests entirely on the credit-widening factor call (+7.3 pts), which only two of four models make and which loose NFCI, falling bank tightening and low recession and pullback risk undercut. Regime history is poor (-1.24% 3m, 40.7% beat rate) and no sector-specific support exists. The tilt is the same size as Energy's with weaker evidence and is correlated with the Health Care and Staples tilts."
+   },
+   "Materials": {
+    "status": "PASS",
+    "issue": "A 0 tilt is fine; the copper reading (z=+2.7) is stale (2026-09-01) and was correctly not relied on."
+   },
+   "Real Estate": {
+    "status": "FLAG",
+    "issue": "The tilt is +1 but the post-factor probability is 49%, below 50%, on a thin base (n=26) with poor history. The factor lift partly comes from a spurious oil beta and credit widening, while the packet shows housing stress: mortgage rate 7.11% (88th percentile), weak permits (6.6th percentile) and a 10-yr yield at the 96.7th percentile."
+   },
+   "Communication Services": {
+    "status": "PASS",
+    "issue": "A 0 tilt matches a small factor effect (+0.9) and weak history and momentum."
+   }
+  }
+ },
+ "audit": [
+  {
+   "model": "claude-opus-5-5",
+   "sector": "factor oil",
+   "problem": "NOTE:C4: its number wasn't found in the cited source text"
+  }
+ ],
+ "dropped_notes": [
+  {
+   "id": "E7",
+   "topic": "Strait of Hormuz Tanker Attacks",
+   "finding": "Iran reported four oil tankers hit by explosions in Strait of Hormuz on November 12-13, 2026 after ignoring warnings.",
+   "value": "4 tankers hit on 2026-11-12; Two supertankers disabled by naval mines on 2026-11-12",
+   "as_of": "2026-11-12",
+   "url": "https://www.cnbc.com/2026/11/13/oil-prices-set-for-second-weekly-decline-as-trump-to-stay-with-iran-blockade.html",
+   "reason": "URL was not in the agent's search results"
+  }
+ ],
+ "missing": []
+}

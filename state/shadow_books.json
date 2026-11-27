@@ -1,0 +1,87 @@
+{
+ "books": {
+  "standard": {
+   "label": "Standard dossier (PM once, no critic)",
+   "segments": [
+    {
+     "start": "2026-11-02",
+     "weights": {
+      "APA": 15.0,
+      "ADM": 5.0,
+      "PBF": 8.18,
+      "ALL": 15.0,
+      "SEI": 5.23,
+      "MU": 10.95,
+      "LPG": 6.59,
+      "VCTR": 10.0,
+      "DXCM": 7.43,
+      "RS": 9.0,
+      "DLTR": 7.61
+     },
+     "note": "rebuild 2026-11-01"
+    },
+    {
+     "start": "2026-11-16",
+     "weights": {
+      "APA": 6.22,
+      "LPG": 4.78,
+      "PBF": 3.0,
+      "ADM": 3.0,
+      "ALL": 10.0,
+      "DXCM": 3.3,
+      "VCTR": 8.0,
+      "RS": 10.0,
+      "DLTR": 10.0,
+      "DRH": 10.0,
+      "DAR": 3.0,
+      "PGNY": 8.7,
+      "REGN": 10.0,
+      "SPY": 10.0
+     },
+     "note": "rebuild 2026-11-14"
+    }
+   ]
+  },
+  "council": {
+   "label": "Council dossier (PM once, no critic)",
+   "segments": [
+    {
+     "start": "2026-11-02",
+     "weights": {
+      "APA": 15.0,
+      "ADM": 5.0,
+      "PBF": 12.59,
+      "ALL": 15.0,
+      "VCTR": 10.0,
+      "DXCM": 6.71,
+      "KMX": 6.52,
+      "RS": 8.09,
+      "DLTR": 6.85,
+      "ECG": 14.24
+     },
+     "note": "rebuild 2026-11-01"
+    },
+    {
+     "start": "2026-11-16",
+     "weights": {
+      "APA": 6.21,
+      "LPG": 3.0,
+      "PBF": 3.0,
+      "ADM": 3.0,
+      "ALL": 10.0,
+      "DXCM": 3.3,
+      "RS": 10.0,
+      "VCTR": 8.0,
+      "DLTR": 10.0,
+      "APLE": 10.0,
+      "DAR": 4.79,
+      "PGNY": 8.7,
+      "REGN": 10.0,
+      "SPY": 10.0
+     },
+     "note": "rebuild 2026-11-14"
+    }
+   ]
+  }
+ }
+}

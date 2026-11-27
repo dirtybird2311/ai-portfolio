@@ -1,0 +1,131 @@
+made,model,detail,status,result
+2026-09-26,claude-sonnet-5,"{""type"": ""sector_vs_spy"", ""etf"": ""XLU"", ""direction"": ""underperform"", ""weeks"": 4}",miss,excess +9.17%
+2026-09-26,claude-sonnet-5,"{""type"": ""sector_vs_spy"", ""etf"": ""XLE"", ""direction"": ""underperform"", ""weeks"": 4}",miss,excess +12.38%
+2026-09-26,claude-sonnet-5,"{""type"": ""fred_threshold"", ""series"": ""DGS10"", ""comparison"": "">="", ""value"": 5.3, ""check_after"": ""2026-10-24""}",miss,actual 5.24
+2026-09-26,claude-sonnet-5,"{""type"": ""fred_threshold"", ""series"": ""CPIAUCSL"", ""comparison"": ""<="", ""value"": 3.3, ""check_after"": ""2026-10-14""}",miss,actual 3.72
+2026-09-26,claude-opus-5-5,"{""type"": ""fred_threshold"", ""series"": ""CPILFESL"", ""comparison"": ""<="", ""value"": 2.6, ""check_after"": ""2026-10-15""}",hit,actual 2.57
+2026-09-26,claude-opus-5-5,"{""type"": ""fred_threshold"", ""series"": ""UNRATE"", ""comparison"": ""<="", ""value"": 4.3, ""check_after"": ""2026-10-03""}",hit,actual 4.10
+2026-09-26,claude-opus-5-5,"{""type"": ""fred_threshold"", ""series"": ""IC4WSA"", ""comparison"": ""<="", ""value"": 230000, ""check_after"": ""2026-10-30""}",hit,actual 198250.00
+2026-09-26,claude-opus-5-5,"{""type"": ""fred_threshold"", ""series"": ""DGS10"", ""comparison"": ""<="", ""value"": 5.3, ""check_after"": ""2026-10-24""}",hit,actual 5.24
+2026-09-26,gemini-3.8-flash,"{""type"": ""sector_vs_spy"", ""etf"": ""XLK"", ""direction"": ""outperform"", ""weeks"": 4}",miss,excess -5.07%
+2026-09-26,gemini-3.8-flash,"{""type"": ""sector_vs_spy"", ""etf"": ""XLE"", ""direction"": ""underperform"", ""weeks"": 4}",miss,excess +12.38%
+2026-09-26,gemini-3.8-flash,"{""type"": ""fred_threshold"", ""series"": ""UNRATE"", ""comparison"": ""<="", ""value"": 4.2, ""check_after"": ""2026-10-05""}",hit,actual 4.10
+2026-09-26,gemini-3.8-flash,"{""type"": ""fred_threshold"", ""series"": ""CPIAUCSL"", ""comparison"": ""<="", ""value"": 3.4, ""check_after"": ""2026-10-16""}",miss,actual 3.72
+2026-09-26,gemma-4-31b-it (fallback),"{""type"": ""sector_vs_spy"", ""etf"": ""XLK"", ""direction"": ""outperform"", ""weeks"": 4}",miss,excess -5.07%
+2026-09-26,gemma-4-31b-it (fallback),"{""type"": ""fred_threshold"", ""series"": ""DGS10"", ""comparison"": "">="", ""value"": 5.18, ""check_after"": ""2026-10-20""}",hit,actual 5.24
+2026-09-26,gemma-4-31b-it (fallback),"{""type"": ""fred_threshold"", ""series"": ""DCOILBRENTEU"", ""comparison"": ""<="", ""value"": 110.0, ""check_after"": ""2026-10-20""}",miss,actual 119.97
+2026-09-26,claude-sonnet-5,"{""type"": ""sector_vs_spy"", ""etf"": ""XLE"", ""direction"": ""underperform"", ""weeks"": 4}",miss,excess +12.38%
+2026-09-26,claude-sonnet-5,"{""type"": ""sector_vs_spy"", ""etf"": ""XLK"", ""direction"": ""outperform"", ""weeks"": 4}",miss,excess -5.07%
+2026-09-26,claude-sonnet-5,"{""type"": ""sector_vs_spy"", ""etf"": ""XLU"", ""direction"": ""underperform"", ""weeks"": 4}",miss,excess +9.17%
+2026-09-26,claude-sonnet-5,"{""type"": ""fred_threshold"", ""series"": ""DGS10"", ""comparison"": "">="", ""value"": 5.25, ""check_after"": ""2026-10-24""}",miss,actual 5.24
+2026-09-26,claude-opus-5-5,"{""type"": ""sector_vs_spy"", ""etf"": ""XLE"", ""direction"": ""underperform"", ""weeks"": 4}",miss,excess +12.38%
+2026-09-26,claude-opus-5-5,"{""type"": ""fred_threshold"", ""series"": ""CPILFESL"", ""comparison"": ""<="", ""value"": 2.7, ""check_after"": ""2026-10-15""}",hit,actual 2.57
+2026-09-26,claude-opus-5-5,"{""type"": ""fred_threshold"", ""series"": ""UNRATE"", ""comparison"": ""<="", ""value"": 4.3, ""check_after"": ""2026-10-05""}",hit,actual 4.10
+2026-09-26,claude-opus-5-5,"{""type"": ""fred_threshold"", ""series"": ""IC4WSA"", ""comparison"": ""<="", ""value"": 230000, ""check_after"": ""2026-10-24""}",hit,actual 198250.00
+2026-09-26,gemini-3.8-flash,"{""type"": ""sector_vs_spy"", ""etf"": ""XLE"", ""direction"": ""underperform"", ""weeks"": 4}",miss,excess +12.38%
+2026-09-26,gemini-3.8-flash,"{""type"": ""fred_threshold"", ""series"": ""DCOILBRENTEU"", ""comparison"": ""<="", ""value"": 114.89, ""check_after"": ""2026-10-24""}",miss,actual 119.97
+2026-09-26,gemini-3.8-flash,"{""type"": ""fred_threshold"", ""series"": ""IC4WSA"", ""comparison"": ""<="", ""value"": 215000, ""check_after"": ""2026-10-24""}",hit,actual 198250.00
+2026-09-26,gemini-3.8-flash (fallback),"{""type"": ""sector_vs_spy"", ""etf"": ""XLE"", ""direction"": ""underperform"", ""weeks"": 4}",miss,excess +12.38%
+2026-09-26,gemini-3.8-flash (fallback),"{""type"": ""fred_threshold"", ""series"": ""UNRATE"", ""comparison"": ""<="", ""value"": 4.3, ""check_after"": ""2026-10-15""}",hit,actual 4.10
+2026-09-26,gemini-3.8-flash (fallback),"{""type"": ""fred_threshold"", ""series"": ""CPIAUCSL"", ""comparison"": ""<="", ""value"": 3.6, ""check_after"": ""2026-10-20""}",miss,actual 3.72
+2026-09-27,claude-sonnet-5,"{""type"": ""sector_vs_spy"", ""etf"": ""XLU"", ""direction"": ""underperform"", ""weeks"": 4}",miss,excess +9.17%
+2026-09-27,claude-sonnet-5,"{""type"": ""sector_vs_spy"", ""etf"": ""XLK"", ""direction"": ""outperform"", ""weeks"": 4}",miss,excess -5.07%
+2026-09-27,claude-sonnet-5,"{""type"": ""sector_vs_spy"", ""etf"": ""XLE"", ""direction"": ""underperform"", ""weeks"": 4}",miss,excess +12.38%
+2026-09-27,claude-sonnet-5,"{""type"": ""fred_threshold"", ""series"": ""DCOILWTICO"", ""comparison"": ""<="", ""value"": 100.0, ""check_after"": ""2026-10-25""}",hit,actual 99.37
+2026-09-27,claude-opus-5-5,"{""type"": ""sector_vs_spy"", ""etf"": ""XLK"", ""direction"": ""outperform"", ""weeks"": 4}",miss,excess -5.07%
+2026-09-27,claude-opus-5-5,"{""type"": ""sector_vs_spy"", ""etf"": ""XLU"", ""direction"": ""underperform"", ""weeks"": 4}",miss,excess +9.17%
+2026-09-27,claude-opus-5-5,"{""type"": ""fred_threshold"", ""series"": ""UNRATE"", ""comparison"": ""<="", ""value"": 4.2, ""check_after"": ""2026-10-03""}",hit,actual 4.10
+2026-09-27,claude-opus-5-5,"{""type"": ""fred_threshold"", ""series"": ""CPILFESL"", ""comparison"": ""<="", ""value"": 2.8, ""check_after"": ""2026-10-15""}",hit,actual 2.57
+2026-09-27,gemini-3.8-flash,"{""type"": ""sector_vs_spy"", ""etf"": ""XLE"", ""direction"": ""underperform"", ""weeks"": 4}",miss,excess +12.38%
+2026-09-27,gemini-3.8-flash,"{""type"": ""fred_threshold"", ""series"": ""IC4WSA"", ""comparison"": ""<="", ""value"": 220000, ""check_after"": ""2026-10-24""}",hit,actual 198250.00
+2026-09-27,gemini-3.8-flash,"{""type"": ""fred_threshold"", ""series"": ""DCOILBRENTEU"", ""comparison"": ""<="", ""value"": 110.0, ""check_after"": ""2026-10-24""}",miss,actual 119.97
+2026-09-27,xai:grok-4.3,"{""type"": ""sector_vs_spy"", ""etf"": ""XLE"", ""direction"": ""outperform"", ""weeks"": 4}",hit,excess +12.38%
+2026-09-27,xai:grok-4.3,"{""type"": ""fred_threshold"", ""series"": ""DGS10"", ""comparison"": "">="", ""value"": 5.0, ""check_after"": ""2026-11-15""}",hit,actual 5.24
+2026-09-27,xai:grok-4.3,"{""type"": ""fred_threshold"", ""series"": ""IC4WSA"", ""comparison"": ""<="", ""value"": 210000, ""check_after"": ""2026-11-01""}",hit,actual 198250.00
+2026-10-02,claude-sonnet-5,"{""type"": ""sector_vs_spy"", ""etf"": ""XLP"", ""direction"": ""outperform"", ""weeks"": 4}",hit,excess +12.85%
+2026-10-02,claude-sonnet-5,"{""type"": ""sector_vs_spy"", ""etf"": ""XLK"", ""direction"": ""underperform"", ""weeks"": 4}",hit,excess -8.35%
+2026-10-02,claude-sonnet-5,"{""type"": ""fred_threshold"", ""series"": ""BAMLH0A0HYM2"", ""comparison"": "">="", ""value"": 3.4, ""check_after"": ""2026-10-30""}",miss,actual 3.12
+2026-10-02,claude-sonnet-5,"{""type"": ""fred_threshold"", ""series"": ""DGS10"", ""comparison"": "">="", ""value"": 5.3, ""check_after"": ""2026-10-30""}",hit,actual 5.31
+2026-10-02,claude-opus-5-5,"{""type"": ""fred_threshold"", ""series"": ""DGS10"", ""comparison"": ""<="", ""value"": 5.2, ""check_after"": ""2026-10-30""}",miss,actual 5.31
+2026-10-02,claude-opus-5-5,"{""type"": ""fred_threshold"", ""series"": ""CPILFESL"", ""comparison"": ""<="", ""value"": 2.6, ""check_after"": ""2026-10-15""}",miss,actual 2.87
+2026-10-02,claude-opus-5-5,"{""type"": ""fred_threshold"", ""series"": ""IC4WSA"", ""comparison"": ""<="", ""value"": 230000, ""check_after"": ""2026-11-01""}",hit,actual 198250.00
+2026-10-02,claude-opus-5-5,"{""type"": ""sector_vs_spy"", ""etf"": ""XLE"", ""direction"": ""underperform"", ""weeks"": 4}",miss,excess +13.27%
+2026-10-02,gemini-3.8-flash,"{""type"": ""sector_vs_spy"", ""etf"": ""XLK"", ""direction"": ""outperform"", ""weeks"": 4}",miss,excess -8.35%
+2026-10-02,gemini-3.8-flash,"{""type"": ""sector_vs_spy"", ""etf"": ""XLRE"", ""direction"": ""underperform"", ""weeks"": 4}",miss,excess +7.59%
+2026-10-02,gemini-3.8-flash,"{""type"": ""fred_threshold"", ""series"": ""DCOILWTICO"", ""comparison"": ""<="", ""value"": 94.0, ""check_after"": ""2026-10-30""}",miss,actual 96.13
+2026-10-02,gemini-3.8-flash,"{""type"": ""fred_threshold"", ""series"": ""BAMLH0A0HYM2"", ""comparison"": "">="", ""value"": 3.1, ""check_after"": ""2026-10-30""}",hit,actual 3.12
+2026-10-02,xai:grok-4.3,"{""type"": ""sector_vs_spy"", ""etf"": ""XLE"", ""direction"": ""underperform"", ""weeks"": 4}",miss,excess +13.27%
+2026-10-02,xai:grok-4.3,"{""type"": ""fred_threshold"", ""series"": ""UNRATE"", ""comparison"": "">="", ""value"": 4.3, ""check_after"": ""2026-11-30""}",pending,
+2026-10-02,xai:grok-4.3,"{""type"": ""fred_threshold"", ""series"": ""BAMLH0A0HYM2"", ""comparison"": "">="", ""value"": 3.5, ""check_after"": ""2026-11-15""}",miss,actual 3.12
+2026-10-09,claude-sonnet-5,"{""type"": ""sector_vs_spy"", ""etf"": ""XLE"", ""direction"": ""underperform"", ""weeks"": 4}",miss,excess +0.24%
+2026-10-09,claude-sonnet-5,"{""type"": ""fred_threshold"", ""series"": ""DCOILBRENTEU"", ""comparison"": ""<="", ""value"": 118.0, ""check_after"": ""2026-11-06""}",miss,actual 129.95
+2026-10-09,claude-sonnet-5,"{""type"": ""fred_threshold"", ""series"": ""BAMLH0A0HYM2"", ""comparison"": "">="", ""value"": 3.2, ""check_after"": ""2026-11-06""}",miss,actual 3.11
+2026-10-09,claude-sonnet-5,"{""type"": ""fred_threshold"", ""series"": ""CPIAUCSL"", ""comparison"": ""<="", ""value"": 3.35, ""check_after"": ""2026-11-13""}",miss,actual 4.08
+2026-10-09,claude-opus-5-5,"{""type"": ""sector_vs_spy"", ""etf"": ""XLY"", ""direction"": ""underperform"", ""weeks"": 4}",miss,excess +9.75%
+2026-10-09,claude-opus-5-5,"{""type"": ""sector_vs_spy"", ""etf"": ""XLV"", ""direction"": ""outperform"", ""weeks"": 4}",hit,excess +13.75%
+2026-10-09,claude-opus-5-5,"{""type"": ""fred_threshold"", ""series"": ""CPILFESL"", ""comparison"": ""<="", ""value"": 2.7, ""check_after"": ""2026-11-12""}",miss,actual 2.87
+2026-10-09,claude-opus-5-5,"{""type"": ""fred_threshold"", ""series"": ""IC4WSA"", ""comparison"": ""<="", ""value"": 240000, ""check_after"": ""2026-11-06""}",hit,actual 198750.00
+2026-10-09,gemini-3.8-flash@paid (fallback),"{""type"": ""sector_vs_spy"", ""etf"": ""XLE"", ""direction"": ""underperform"", ""weeks"": 4}",miss,excess +0.24%
+2026-10-09,gemini-3.8-flash@paid (fallback),"{""type"": ""fred_threshold"", ""series"": ""DCOILBRENTEU"", ""comparison"": ""<="", ""value"": 115.0, ""check_after"": ""2026-11-06""}",miss,actual 129.95
+2026-10-09,gemini-3.8-flash@paid (fallback),"{""type"": ""fred_threshold"", ""series"": ""DGS10"", ""comparison"": ""<="", ""value"": 5.4, ""check_after"": ""2026-11-06""}",hit,actual 5.21
+2026-10-09,xai:grok-4.3,"{""type"": ""sector_vs_spy"", ""etf"": ""XLE"", ""direction"": ""outperform"", ""weeks"": 4}",hit,excess +0.24%
+2026-10-09,xai:grok-4.3,"{""type"": ""fred_threshold"", ""series"": ""DCOILBRENTEU"", ""comparison"": ""<="", ""value"": 110, ""check_after"": ""2026-11-20""}",miss,actual 129.95
+2026-10-09,xai:grok-4.3,"{""type"": ""fred_threshold"", ""series"": ""DGS10"", ""comparison"": ""<="", ""value"": 5.1, ""check_after"": ""2026-11-20""}",miss,actual 5.21
+2026-10-16,claude-sonnet-5,"{""type"": ""sector_vs_spy"", ""etf"": ""XLE"", ""direction"": ""outperform"", ""weeks"": 4}",miss,excess -3.64%
+2026-10-16,claude-sonnet-5,"{""type"": ""sector_vs_spy"", ""etf"": ""XLU"", ""direction"": ""underperform"", ""weeks"": 4}",miss,excess +5.50%
+2026-10-16,claude-sonnet-5,"{""type"": ""fred_threshold"", ""series"": ""DCOILBRENTEU"", ""comparison"": "">="", ""value"": 120.0, ""check_after"": ""2026-11-13""}",miss,actual 118.82
+2026-10-16,claude-sonnet-5,"{""type"": ""fred_threshold"", ""series"": ""BAMLH0A0HYM2"", ""comparison"": "">="", ""value"": 3.3, ""check_after"": ""2026-11-13""}",miss,actual 3.29
+2026-10-16,claude-opus-5-5,"{""type"": ""fred_threshold"", ""series"": ""IC4WSA"", ""comparison"": ""<="", ""value"": 235000, ""check_after"": ""2026-11-20""}",hit,actual 198000.00
+2026-10-16,claude-opus-5-5,"{""type"": ""fred_threshold"", ""series"": ""CPILFESL"", ""comparison"": ""<="", ""value"": 2.9, ""check_after"": ""2026-11-12""}",hit,actual 2.87
+2026-10-16,claude-opus-5-5,"{""type"": ""fred_threshold"", ""series"": ""DGS10"", ""comparison"": "">="", ""value"": 4.8, ""check_after"": ""2026-11-13""}",hit,actual 5.15
+2026-10-16,claude-opus-5-5,"{""type"": ""fred_threshold"", ""series"": ""UNRATE"", ""comparison"": ""<="", ""value"": 4.4, ""check_after"": ""2026-11-09""}",pending,
+2026-10-16,gemini-3.8-flash,"{""type"": ""sector_vs_spy"", ""etf"": ""XLE"", ""direction"": ""outperform"", ""weeks"": 4}",miss,excess -3.64%
+2026-10-16,gemini-3.8-flash,"{""type"": ""sector_vs_spy"", ""etf"": ""XLU"", ""direction"": ""underperform"", ""weeks"": 4}",miss,excess +5.50%
+2026-10-16,gemini-3.8-flash,"{""type"": ""fred_threshold"", ""series"": ""DGS10"", ""comparison"": "">="", ""value"": 5.0, ""check_after"": ""2026-11-13""}",hit,actual 5.15
+2026-10-16,gemini-3.8-flash,"{""type"": ""fred_threshold"", ""series"": ""CPIAUCSL"", ""comparison"": "">="", ""value"": 3.6, ""check_after"": ""2026-11-10""}",hit,actual 4.08
+2026-10-16,xai:grok-4.3,"{""type"": ""sector_vs_spy"", ""etf"": ""XLE"", ""direction"": ""outperform"", ""weeks"": 4}",miss,excess -3.64%
+2026-10-16,xai:grok-4.3,"{""type"": ""fred_threshold"", ""series"": ""DCOILWTICO"", ""comparison"": "">="", ""value"": 95, ""check_after"": ""2026-11-13""}",hit,actual 110.01
+2026-10-16,xai:grok-4.3,"{""type"": ""fred_threshold"", ""series"": ""PAYEMS"", ""comparison"": ""<="", ""value"": 50, ""check_after"": ""2026-11-06""}",miss,actual 165.00
+2026-10-23,claude-sonnet-5,"{""type"": ""sector_vs_spy"", ""etf"": ""XLE"", ""direction"": ""outperform"", ""weeks"": 4}",miss,excess -3.49%
+2026-10-23,claude-sonnet-5,"{""type"": ""sector_vs_spy"", ""etf"": ""XLRE"", ""direction"": ""underperform"", ""weeks"": 4}",miss,excess +8.97%
+2026-10-23,claude-sonnet-5,"{""type"": ""fred_threshold"", ""series"": ""DCOILWTICO"", ""comparison"": "">="", ""value"": 100.0, ""check_after"": ""2026-11-20""}",hit,actual 105.25
+2026-10-23,claude-sonnet-5,"{""type"": ""fred_threshold"", ""series"": ""BAMLH0A0HYM2"", ""comparison"": "">="", ""value"": 3.4, ""check_after"": ""2026-11-20""}",miss,actual 3.30
+2026-10-23,claude-opus-5-5,"{""type"": ""sector_vs_spy"", ""etf"": ""XLE"", ""direction"": ""outperform"", ""weeks"": 4}",miss,excess -3.49%
+2026-10-23,claude-opus-5-5,"{""type"": ""fred_threshold"", ""series"": ""CPIAUCSL"", ""comparison"": "">="", ""value"": 3.5, ""check_after"": ""2026-11-12""}",hit,actual 4.08
+2026-10-23,claude-opus-5-5,"{""type"": ""fred_threshold"", ""series"": ""UNRATE"", ""comparison"": ""<="", ""value"": 4.4, ""check_after"": ""2026-11-09""}",pending,
+2026-10-23,gemini-3.8-flash,"{""type"": ""sector_vs_spy"", ""etf"": ""XLE"", ""direction"": ""outperform"", ""weeks"": 4}",miss,excess -3.49%
+2026-10-23,gemini-3.8-flash,"{""type"": ""sector_vs_spy"", ""etf"": ""XLY"", ""direction"": ""underperform"", ""weeks"": 4}",miss,excess +8.67%
+2026-10-23,gemini-3.8-flash,"{""type"": ""fred_threshold"", ""series"": ""DCOILWTICO"", ""comparison"": "">="", ""value"": 100.0, ""check_after"": ""2026-11-20""}",hit,actual 105.25
+2026-10-23,gemini-3.8-flash,"{""type"": ""fred_threshold"", ""series"": ""DGS10"", ""comparison"": "">="", ""value"": 4.85, ""check_after"": ""2026-11-20""}",hit,actual 5.00
+2026-10-23,xai:grok-4.3,"{""type"": ""sector_vs_spy"", ""etf"": ""XLE"", ""direction"": ""outperform"", ""weeks"": 4}",miss,excess -3.49%
+2026-10-23,xai:grok-4.3,"{""type"": ""fred_threshold"", ""series"": ""DCOILWTICO"", ""comparison"": ""<="", ""value"": 100, ""check_after"": ""2026-12-04""}",pending,
+2026-10-23,xai:grok-4.3,"{""type"": ""sector_vs_spy"", ""etf"": ""XLP"", ""direction"": ""underperform"", ""weeks"": 6}",pending,
+2026-11-13,claude-sonnet-5,"{""type"": ""sector_vs_spy"", ""etf"": ""XLE"", ""direction"": ""outperform"", ""weeks"": 4}",pending,
+2026-11-13,claude-sonnet-5,"{""type"": ""sector_vs_spy"", ""etf"": ""XLY"", ""direction"": ""underperform"", ""weeks"": 6}",pending,
+2026-11-13,claude-sonnet-5,"{""type"": ""sector_vs_spy"", ""etf"": ""VNQ"", ""direction"": ""underperform"", ""weeks"": 8}",pending,
+2026-11-13,claude-sonnet-5,"{""type"": ""fred_threshold"", ""series"": ""DGS10"", ""comparison"": "">="", ""value"": 5.2, ""check_after"": ""2026-12-11""}",pending,
+2026-11-13,claude-sonnet-5,"{""type"": ""fred_threshold"", ""series"": ""DCOILWTICO"", ""comparison"": "">="", ""value"": 92.0, ""check_after"": ""2026-12-11""}",pending,
+2026-11-13,claude-opus-5-5,"{""type"": ""sector_vs_spy"", ""etf"": ""XLE"", ""direction"": ""outperform"", ""weeks"": 4}",pending,
+2026-11-13,claude-opus-5-5,"{""type"": ""fred_threshold"", ""series"": ""IC4WSA"", ""comparison"": ""<="", ""value"": 220000, ""check_after"": ""2026-12-11""}",pending,
+2026-11-13,claude-opus-5-5,"{""type"": ""fred_threshold"", ""series"": ""DGS10"", ""comparison"": "">="", ""value"": 4.85, ""check_after"": ""2026-12-11""}",pending,
+2026-11-13,gemini-3.8-flash@paid (fallback),"{""type"": ""sector_vs_spy"", ""etf"": ""XLE"", ""direction"": ""outperform"", ""weeks"": 4}",pending,
+2026-11-13,gemini-3.8-flash@paid (fallback),"{""type"": ""fred_threshold"", ""series"": ""DCOILWTICO"", ""comparison"": "">="", ""value"": 88.0, ""check_after"": ""2026-12-11""}",pending,
+2026-11-13,gemini-3.8-flash@paid (fallback),"{""type"": ""fred_threshold"", ""series"": ""UNRATE"", ""comparison"": ""<="", ""value"": 4.3, ""check_after"": ""2026-12-04""}",pending,
+2026-11-13,xai:grok-4.3,"{""type"": ""sector_vs_spy"", ""etf"": ""XLE"", ""direction"": ""underperform"", ""weeks"": 4}",pending,
+2026-11-13,xai:grok-4.3,"{""type"": ""fred_threshold"", ""series"": ""DCOILWTICO"", ""comparison"": ""<="", ""value"": 85, ""check_after"": ""2026-12-11""}",pending,
+2026-11-13,xai:grok-4.3,"{""type"": ""sector_vs_spy"", ""etf"": ""XLF"", ""direction"": ""outperform"", ""weeks"": 6}",pending,
+2026-11-20,claude-sonnet-5,"{""type"": ""sector_vs_spy"", ""etf"": ""XLE"", ""direction"": ""outperform"", ""weeks"": 4}",pending,
+2026-11-20,claude-sonnet-5,"{""type"": ""sector_vs_spy"", ""etf"": ""XLY"", ""direction"": ""underperform"", ""weeks"": 4}",pending,
+2026-11-20,claude-sonnet-5,"{""type"": ""fred_threshold"", ""series"": ""BAMLH0A0HYM2"", ""comparison"": "">="", ""value"": 3.7, ""check_after"": ""2026-12-18""}",pending,
+2026-11-20,claude-sonnet-5,"{""type"": ""fred_threshold"", ""series"": ""DGS10"", ""comparison"": "">="", ""value"": 5.1, ""check_after"": ""2026-12-18""}",pending,
+2026-11-20,claude-opus-5-5,"{""type"": ""sector_vs_spy"", ""etf"": ""XLE"", ""direction"": ""outperform"", ""weeks"": 4}",pending,
+2026-11-20,claude-opus-5-5,"{""type"": ""fred_threshold"", ""series"": ""DCOILBRENTEU"", ""comparison"": "">="", ""value"": 90.0, ""check_after"": ""2026-12-18""}",pending,
+2026-11-20,claude-opus-5-5,"{""type"": ""fred_threshold"", ""series"": ""DGS2"", ""comparison"": "">="", ""value"": 4.5, ""check_after"": ""2026-12-18""}",pending,
+2026-11-20,claude-opus-5-5,"{""type"": ""fred_threshold"", ""series"": ""BAMLH0A0HYM2"", ""comparison"": "">="", ""value"": 3.2, ""check_after"": ""2026-12-18""}",pending,
+2026-11-20,gemini-3.8-flash@paid (fallback),"{""type"": ""sector_vs_spy"", ""etf"": ""XLE"", ""direction"": ""outperform"", ""weeks"": 4}",pending,
+2026-11-20,gemini-3.8-flash@paid (fallback),"{""type"": ""sector_vs_spy"", ""etf"": ""XLY"", ""direction"": ""underperform"", ""weeks"": 4}",pending,
+2026-11-20,gemini-3.8-flash@paid (fallback),"{""type"": ""fred_threshold"", ""series"": ""DGS10"", ""comparison"": "">="", ""value"": 4.9, ""check_after"": ""2026-12-18""}",pending,
+2026-11-20,gemini-3.8-flash@paid (fallback),"{""type"": ""fred_threshold"", ""series"": ""DCOILBRENTEU"", ""comparison"": "">="", ""value"": 90.0, ""check_after"": ""2026-12-18""}",pending,
+2026-11-20,xai:grok-4.3,"{""type"": ""sector_vs_spy"", ""etf"": ""XLE"", ""direction"": ""outperform"", ""weeks"": 4}",pending,
+2026-11-20,xai:grok-4.3,"{""type"": ""fred_threshold"", ""series"": ""DGS10"", ""comparison"": "">="", ""value"": 5.1, ""check_after"": ""2026-12-18""}",pending,
+2026-11-20,xai:grok-4.3,"{""type"": ""fred_threshold"", ""series"": ""IC4WSA"", ""comparison"": ""<="", ""value"": 210000, ""check_after"": ""2026-12-11""}",pending,

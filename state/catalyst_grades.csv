@@ -1,0 +1,12 @@
+ticker,event_date,event,made_on,impact,resid,hit
+NTAP,2026-09-29,2026 INSIGHT Conference - Technology Session for Financial Analysts and Investors (11:00 a.m. - 3:00 p.m. Pacific Time),2026-09-26,positive,0.03519,True
+HPE,2026-09-30,"Networking Investor Day - strategy, portfolio differentiation, and growth opportunities presentation led by Rami Rahim (EVP and GM of Networking)",2026-09-26,positive,0.1002,True
+BMY,2026-09-30,FDA PDUFA decision date for Camzyos (mavacamten) supplemental NDA for adolescents with symptomatic obstructive hypertrophic cardiomyopathy,2026-09-26,positive,0.00952,True
+ENS,2026-10-02,Quarterly dividend payment of $0.2875 per share (10% increase from prior quarter),2026-09-26,positive,-0.00214,False
+HLNE,2026-10-06,Quarterly dividend payment of $0.60 per share,2026-09-26,positive,-0.02562,False
+PTGX,2026-10-01,Takeda opt-out payment - $200M upon election for rusfertide U.S. commercialization rights,2026-09-26,positive,0.00439,True
+ROKU,2026-10-01,Roku Pro Series LX OLED TV availability begins (October 2026),2026-09-26,positive,0.00165,True
+HTO,2026-10-01,Texas Water Company transaction closing,2026-09-26,positive,-0.0652,False
+FOXA,2026-10-14,Special Meeting of Stockholders - Roku Acquisition Vote,2026-09-26,positive,0.04386,True
+IDCC,2026-10-28,Quarterly Dividend Payment ($0.75 per share),2026-09-26,positive,0.00024,True
+MTRN,2026-10-28,Q3 2026 Earnings Report,2026-09-26,positive,-0.07664,False

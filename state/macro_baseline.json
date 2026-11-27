@@ -1,0 +1,214 @@
+{
+ "date": "2026-11-20",
+ "facts": {
+  "SEP_FEDTARMD_2026": 4.1,
+  "SEP_FEDTARMD_2027": 4.1,
+  "SEP_FEDTARMD_2028": 3.9,
+  "SEP_FEDTARMD_2029": 3.6,
+  "SEP_FEDTARMDLR_2025": 3.0,
+  "SEP_FEDTARMDLR_2026": 3.2,
+  "SEP_JCXFEMD_2026": 3.4,
+  "SEP_JCXFEMD_2027": 2.5,
+  "SEP_JCXFEMD_2028": 2.2,
+  "SEP_JCXFEMD_2029": 2.0,
+  "SEP_UNRATEMD_2026": 4.1,
+  "SEP_UNRATEMD_2027": 4.1,
+  "SEP_UNRATEMD_2028": 4.1,
+  "SEP_UNRATEMD_2029": 4.1,
+  "SEP_GDPC1MD_2026": 2.3,
+  "SEP_GDPC1MD_2027": 2.4,
+  "SEP_GDPC1MD_2028": 2.2,
+  "SEP_GDPC1MD_2029": 2.1
+ },
+ "dff": 3.88,
+ "fred": {
+  "PCEPILFE": {
+   "latest": 3.12,
+   "z": -0.61
+  },
+  "CPIAUCSL": {
+   "latest": 4.08,
+   "z": -0.15
+  },
+  "CPILFESL": {
+   "latest": 2.87,
+   "z": -0.89
+  },
+  "CES0500000003": {
+   "latest": 3.12,
+   "z": -1.68
+  },
+  "UNRATE": {
+   "latest": 4.1,
+   "z": 0.44
+  },
+  "PAYEMS": {
+   "latest": 165.0,
+   "z": -0.12
+  },
+  "IC4WSA": {
+   "latest": 197750.0,
+   "z": -1.74
+  },
+  "DFF": {
+   "latest": 3.88,
+   "z": 0.02
+  },
+  "DGS2": {
+   "latest": 4.76,
+   "z": 0.89
+  },
+  "DGS10": {
+   "latest": 5.04,
+   "z": 1.36
+  },
+  "T10Y2Y": {
+   "latest": 0.29,
+   "z": 0.49
+  },
+  "BAMLH0A0HYM2": {
+   "latest": 3.52,
+   "z": 1.32
+  },
+  "NFCI": {
+   "latest": -0.48,
+   "z": -0.65
+  },
+  "DCOILWTICO": {
+   "latest": 89.53,
+   "z": 0.7
+  },
+  "DCOILBRENTEU": {
+   "latest": 92.94,
+   "z": 0.45
+  },
+  "DTWEXBGS": {
+   "latest": 122.65,
+   "z": 0.45
+  },
+  "MORTGAGE30US": {
+   "latest": 7.28,
+   "z": 0.99
+  },
+  "PERMIT": {
+   "latest": 1295.0,
+   "z": -1.54
+  },
+  "TOTLL": {
+   "latest": 7.48,
+   "z": 0.52
+  },
+  "DHHNGSP": {
+   "latest": 3.1,
+   "z": -0.28
+  },
+  "PCOPPUSDM": {
+   "latest": 14473.06,
+   "z": 2.7
+  },
+  "GASREGW": {
+   "latest": 3.81,
+   "z": 0.57
+  },
+  "PFOODINDEXM": {
+   "latest": 137.11,
+   "z": 0.16
+  },
+  "IR": {
+   "latest": 9.23,
+   "z": 1.31
+  },
+  "RSAFS": {
+   "latest": 6.82,
+   "z": 0.52
+  },
+  "PSAVERT": {
+   "latest": 3.8,
+   "z": -1.23
+  },
+  "CP": {
+   "latest": 26.61,
+   "z": 1.23
+  },
+  "T10YIE": {
+   "latest": 2.15,
+   "z": -1.36
+  },
+  "A191RL1Q225SBEA": {
+   "latest": 3.4,
+   "z": 0.45
+  },
+  "GDPNOW": {
+   "latest": 3.21,
+   "z": 0.4
+  },
+  "INDPRO": {
+   "latest": 2.15,
+   "z": 1.0
+  },
+  "UMCSENT": {
+   "latest": 48.0,
+   "z": -1.63
+  },
+  "VIXCLS": {
+   "latest": 28.44,
+   "z": 1.84
+  },
+  "OVXCLS": {
+   "latest": 50.67,
+   "z": 0.58
+  },
+  "EPUTRADE": {
+   "latest": 1400.77,
+   "z": 0.17
+  },
+  "USEPUINDXD": {
+   "latest": 162.28,
+   "z": -0.36
+  },
+  "SAHMREALTIME": {
+   "latest": 0.0,
+   "z": -0.7
+  },
+  "ECIWAG": {
+   "latest": 3.12,
+   "z": -1.49
+  },
+  "JTSJOL": {
+   "latest": 7523.0,
+   "z": -0.7
+  },
+  "JTSQUR": {
+   "latest": 2.1,
+   "z": -0.55
+  },
+  "DTB3": {
+   "latest": 4.16,
+   "z": 0.2
+  },
+  "DRTSCILM": {
+   "latest": 1.7,
+   "z": -0.68
+  },
+  "PALLFNFINDEXM": {
+   "latest": 222.43,
+   "z": 1.67
+  },
+  "BOPGSTB": {
+   "latest": -105047.0,
+   "z": -1.86
+  },
+  "MTSDS133FMS": {
+   "latest": -2112241.66,
+   "z": -0.86
+  },
+  "B235RC1Q027SBEA": {
+   "latest": -17.51,
+   "z": -0.7
+  },
+  "CLVMNACSCAB1GQEA19": {
+   "latest": 1.28,
+   "z": -0.39
+  }
+ }
+}

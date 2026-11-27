@@ -1,0 +1,38 @@
+{
+ "why": "Oct 3 rebuild was planned for Mon Oct 5 at the open; a GitHub Actions outage delayed the paper orders to Tue Oct 6 10:32. This is the paper account with those trades moved to Monday's open (same shares sold, same dollars per buy). The actual account stays the official record.",
+ "actual_date": "2026-10-06",
+ "planned_date": "2026-10-05",
+ "shares": {
+  "ALL": 3.5120240000000003,
+  "VCTR": 2.424879999999999,
+  "DAR": 3.644293,
+  "DLTR": 4.272449999999999,
+  "RS": 2.0776237434583527,
+  "ADM": 4.45583263454795,
+  "DXCM": 7.571799410029499,
+  "APA": 30.582131999999998,
+  "PBF": 4.329958,
+  "LPG": 13.76546483096385,
+  "DRH": 46.844291,
+  "STBA": 8.556206,
+  "PGNY": 22.735993,
+  "REGN": 0.706889,
+  "XOM": 3.135414,
+  "CHRD": 3.549699,
+  "OXY": 8.013827
+ },
+ "cash": -142.84,
+ "as_of": "2026-11-20",
+ "moves": [
+  {
+   "actual_date": "2026-10-06",
+   "planned_date": "2026-10-05",
+   "why": "Oct 3 rebuild was planned for Mon Oct 5 at the open; a GitHub Actions outage delayed the paper orders to Tue Oct 6 10:32. This is the paper account with those trades moved to Monday's open (same shares sold, same dollars per buy). The actual account stays the official record."
+  },
+  {
+   "actual_date": "2026-11-04",
+   "planned_date": "2026-11-02",
+   "why": "Nov 1 rebuild planned for Mon Nov 2 at the open; the Alpaca key had been swapped for a day-trading bot's account, so the paper orders were placed again later. actual_date is filled in once they fill."
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "ALL": {
+  "date": "2026-11-14",
+  "signal": false
+ },
+ "VCTR": {
+  "date": "2026-11-14",
+  "signal": false
+ },
+ "DLTR": {
+  "date": "2026-11-14",
+  "signal": true
+ },
+ "RS": {
+  "date": "2026-11-14",
+  "signal": false
+ },
+ "ADM": {
+  "date": "2026-11-14",
+  "signal": false
+ },
+ "DXCM": {
+  "date": "2026-11-14",
+  "signal": false
+ },
+ "KMX": {
+  "date": "2026-11-14",
+  "signal": false
+ },
+ "APA": {
+  "date": "2026-11-14",
+  "signal": false
+ },
+ "PBF": {
+  "date": "2026-11-14",
+  "signal": false
+ },
+ "LPG": {
+  "date": "2026-11-14",
+  "signal": false
+ },
+ "MU": {
+  "date": "2026-11-14",
+  "signal": false
+ },
+ "SEI": {
+  "date": "2026-11-14",
+  "signal": true
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "date": "2026-10-14",
+ "price_flags": {},
+ "triggers": [],
+ "news_screen": {
+  "ADAM": {
+   "status": "ok",
+   "why": "Headline about dividend stocks and high-yield plays is tangentially related to equity valuations but does not directly address ADAM's thesis of Goldilocks macro conditions, rate sensitivity, or EPS growth. No signal of a 50 bps+ yield move."
+  },
+  "ADM": {
+   "status": "watch",
+   "why": "Multiple headlines highlight rising inflation, higher rate-hike odds, and bond yields at multi-decade highs. This contradicts the 'Goldilocks' macro assumption underlying the thesis and could pressure valuations. However, no direct threat to Section 45Z or RVO mandate changes mentioned. Warrants monitoring for macro deterioration."
+  },
+  "ALL": {
+   "status": "ok",
+   "why": "Headline comparing Berkshire Hathaway and Allstate is relevant to sentiment but does not address catastrophe losses, underwriting income trends, or signal the $2.5B+ quarterly loss exit condition."
+  },
+  "DLTR": {
+   "status": "ok",
+   "why": "Headlines about Dollar Tree's appeal to high-income shoppers and retail expansion trends support the bullish narrative around value and consumer behavior. No signal of Q3 EPS guidance cuts below $0.80."
+  },
+  "DXCM": {
+   "status": "ok",
+   "why": "Multiple positive headlines on CONNECT study publication, strong margins, G7 rollout, and favorable analyst coverage reinforce the bullish revision trend and sector tailwind supporting the thesis. No disclosure of margin guidance cuts or refinancing difficulty mentioned."
+  },
+  "IDCC": {
+   "status": "ok",
+   "why": "Announcement of Q3 earnings date and HDR research report are neutral and supportive of the company's technology positioning. No indication of FY2026 revenue guidance cuts or customer license losses."
+  },
+  "RS": {
+   "status": "watch",
+   "why": "Headline on SCCO reporting Q3 earnings with concerns about declining production and rising costs is relevant to the metals/industrial sector. RS earnings report on October 21 is a key test per the thesis. This suggests caution ahead of that release, though not yet a break of the exit condition."
+  },
+  "SWX": {
+   "status": "ok",
+   "why": "Dividend declaration is routine corporate action and does not signal a widening of high-yield credit spreads by 50+ bps. No macro deterioration directly implied by this announcement."
+  },
+  "VCTR": {
+   "status": "ok",
+   "why": "Barclays maintains Equal-Weight while raising price target, indicating steady sentiment but not a bullish catalyst. No sign of AUM outflows or drops below $340B threshold."
+  }
+ },
+ "reviews": {}
+}

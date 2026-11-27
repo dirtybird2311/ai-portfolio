@@ -1,0 +1,320 @@
+{
+ "pick": {
+  "portfolio": [
+   {
+    "ticker": "APA",
+    "why": "Held; highest edge (+6.7) with top-decile value/momentum and oil leverage fitting the Energy +1 tilt, and WTI is nowhere near the $55 exit trigger."
+   },
+   {
+    "ticker": "ADM",
+    "why": "Held; +5.3 edge from raised guidance and revisions anchors the required Consumer Staples (+2) allocation, and HY spreads have not widened 50bp."
+   },
+   {
+    "ticker": "PBF",
+    "why": "Held; +5.3 edge on surging EPS estimates and a Q3 beat, and it is kept as the single refiner rather than also adding the 0.85-correlated PARR."
+   },
+   {
+    "ticker": "ALL",
+    "why": "Held; +4.8 edge from underwriting strength, quality and valuation, with no catastrophe-loss exit trigger hit."
+   },
+   {
+    "ticker": "SEI",
+    "why": "New buy replacing KMX; +4.3 edge from accelerating revisions, power-generation contracts and insider buying clears KMX's 4.0 hurdle, though its 63% customer concentration and cash burn are noted."
+   },
+   {
+    "ticker": "MU",
+    "why": "New buy replacing IDCC; +4.0 edge from contractual margin protection and strong guidance clears the 3.3 hurdle and is the only Technology name, well within the 12% cap."
+   },
+   {
+    "ticker": "LPG",
+    "why": "New buy replacing WMG; +3.3 edge from upward revisions and strong VLGC freight adds Energy exposure with a shipping-rate driver distinct from crude prices."
+   },
+   {
+    "ticker": "VCTR",
+    "why": "Held; +2.3 edge from the return to positive organic flows, and no newcomer clears its 7.4 replacement hurdle."
+   },
+   {
+    "ticker": "DXCM",
+    "why": "Held; thesis intact (no margin-guidance cut or refinancing problem), and the only newcomer above its 4.7 hurdle, PARR, is excluded for correlation with PBF."
+   },
+   {
+    "ticker": "RS",
+    "why": "Held in both accounts; thesis intact after a Q3 beat with broad product growth, and no newcomer reaches the 6.1 edge needed to replace it."
+   },
+   {
+    "ticker": "DLTR",
+    "why": "Held; helps meet the 12% Consumer Staples floor, no guidance-cut exit has occurred, and only the excluded PARR clears its 5.9 hurdle."
+   }
+  ],
+  "exits": [
+   {
+    "ticker": "KMX",
+    "reason": "Swapped for SEI (+4.3 vs -0 edge, clears 4.0 margin); also cuts exposure to the -1-tilted Consumer Discretionary sector and to 10-year yield risk.",
+    "thesis_broken": false
+   },
+   {
+    "ticker": "IDCC",
+    "reason": "Swapped for MU (+4.0 vs -0.7 edge, clears 4.0 margin) given estimate cuts and the post-earnings selloff.",
+    "thesis_broken": false
+   },
+   {
+    "ticker": "WMG",
+    "reason": "Swapped for LPG (+3.3 vs -1.3 edge, clears 4.0 margin) given negative edge and working-capital/debt headwinds.",
+    "thesis_broken": false
+   }
+  ],
+  "summary": "Eleven names: DXCM is retained because its thesis is intact and no eligible newcomer clears its swap hurdle, and PARR is excluded to avoid doubling the PBF refining bet (0.85 correlation). KMX, IDCC and WMG are swapped for SEI, MU and LPG, each clearing its swap margin, while staying within the 3-per-driver and 6-per-factor limits and all sector ranges, including the Staples and Energy floors.",
+  "rule_log": [
+   {
+    "attempt": 1,
+    "violations": [
+     "DXCM (edge +0.7) exited without a broken thesis or a confirmed sell signal, and no newcomer has edge +4.7+ to replace it",
+     "PBF and PARR move together (60-day correlation 0.85); keep only one"
+    ]
+   }
+  ]
+ },
+ "weights": {
+  "APA": 15.0,
+  "ADM": 5.0,
+  "PBF": 8.18,
+  "ALL": 15.0,
+  "SEI": 5.23,
+  "MU": 10.95,
+  "LPG": 6.59,
+  "VCTR": 10.0,
+  "DXCM": 7.43,
+  "RS": 9.0,
+  "DLTR": 7.61
+ },
+ "notes": [
+  "momentum level 0.78 (cap 0.80; was 0.78 before the cap)",
+  "hidden bet ADM+APA move together: 20.0% combined (cap 20%)"
+ ],
+ "trades": [
+  {
+   "action": "SELL",
+   "account": "ira",
+   "ticker": "ADM",
+   "amount": 911.47,
+   "ref_price": 75.7699966430664,
+   "limit": 75.39,
+   "reason": "trim to target weight",
+   "sector": "Consumer Staples",
+   "vol": 0.2773954892323939,
+   "thesis": "ADM's raised guidance, strong earnings-revision momentum, and cheap valuation on cash flow outweigh its weak quality score and credit-spread sensitivity, though the edge over base rate is modest.",
+   "exit_condition": "HY-Treasury credit spread widens by more than 50bps from current level within the 4-week window",
+   "primary_driver": "credit spreads",
+   "conviction": 4,
+   "probability": 0.5495,
+   "edge_pts": 5.3,
+   "id": "T01",
+   "wash": "ok",
+   "wash_note": ""
+  },
+  {
+   "action": "SELL",
+   "account": "ira",
+   "ticker": "WMG",
+   "amount": "all",
+   "ref_price": 30.969999313354492,
+   "limit": 30.82,
+   "reason": "Swapped for LPG (+3.3 vs -1.3 edge, clears 4.0 margin) given negative edge and working-capital/debt headwinds.",
+   "id": "T02",
+   "est_value": 549.9273732936488,
+   "wash": "ok",
+   "wash_note": ""
+  },
+  {
+   "action": "SELL",
+   "account": "ira",
+   "ticker": "KMX",
+   "amount": "all",
+   "ref_price": 56.41999816894531,
+   "limit": 56.14,
+   "reason": "Swapped for SEI (+4.3 vs -0 edge, clears 4.0 margin); also cuts exposure to the -1-tilted Consumer Discretionary sector and to 10-year yield risk.",
+   "id": "T03",
+   "est_value": 802.791709282697,
+   "wash": "ok",
+   "wash_note": ""
+  },
+  {
+   "action": "SELL",
+   "account": "ira",
+   "ticker": "IDCC",
+   "amount": "all",
+   "ref_price": 315.95001220703125,
+   "limit": 314.37,
+   "reason": "Swapped for MU (+4.0 vs -0.7 edge, clears 4.0 margin) given estimate cuts and the post-earnings selloff.",
+   "id": "T04",
+   "est_value": 557.9879518368988,
+   "wash": "ok",
+   "wash_note": ""
+  },
+  {
+   "action": "BUY",
+   "account": "ira",
+   "ticker": "DLTR",
+   "amount": 219.46,
+   "ref_price": 138.60000610351562,
+   "limit": 139.29,
+   "reason": "top up to target weight",
+   "sector": "Consumer Staples",
+   "vol": 0.3743923367970824,
+   "thesis": "Q3 earnings are the clearest four-week test, and the guided profit compression leaves DLTR exposed despite the known reinvestment plan. Buyback capacity offsets some downside risk, but weak shopper traffic makes sector outperformance slightly less likely than the base rate suggests.",
+   "exit_condition": "Exit the bear view if reported Q3 adjusted EPS exceeds $0.95 and management reaffirms its fiscal 2026 adjusted EPS guidance of $7.70\u2013$8.05.",
+   "primary_driver": "consumer spending",
+   "conviction": 2,
+   "probability": 0.478,
+   "edge_pts": -2.0,
+   "id": "T05",
+   "wash": "ok",
+   "wash_note": ""
+  },
+  {
+   "action": "BUY",
+   "account": "ira",
+   "ticker": "LPG",
+   "amount": 702.84,
+   "ref_price": 51.15999984741211,
+   "limit": 51.42,
+   "reason": "new position",
+   "sector": "Energy",
+   "vol": 0.4015170647258845,
+   "thesis": "Starting from the 48.1% base rate, upward estimate revisions and reported strength in VLGC freight rates modestly favor outperformance over four weeks. Filing risks limit confidence, while the past rally, earnings reactions, and value ranking are not counted again.",
+   "exit_condition": "The upcoming fiscal second-quarter 2027 earnings release reports quarterly revenue below $120 million.",
+   "primary_driver": "VLGC freight rates",
+   "conviction": 4,
+   "probability": 0.5141,
+   "edge_pts": 3.3,
+   "id": "T06",
+   "wash": "ok",
+   "wash_note": ""
+  },
+  {
+   "action": "BUY",
+   "account": "ira",
+   "ticker": "MU",
+   "amount": 1167.84,
+   "ref_price": 833.5900268554688,
+   "limit": 837.76,
+   "reason": "new position",
+   "sector": "Technology",
+   "vol": 0.7382479043692595,
+   "thesis": "Starting from the 46.7% base rate, contractual margin protection, strong issued guidance, and upward estimate revisions modestly improve MU's four-week odds. Capital spending and the macro outlook temper the edge; momentum, quality, value, and the earnings reaction receive no further adjustment.",
+   "exit_condition": "MU cuts its FQ1-27 gross-margin guidance below 80%.",
+   "primary_driver": "credit spreads",
+   "conviction": 4,
+   "probability": 0.507,
+   "edge_pts": 4.0,
+   "id": "T07",
+   "wash": "ok",
+   "wash_note": ""
+  },
+  {
+   "action": "BUY",
+   "account": "ira",
+   "ticker": "SEI",
+   "amount": 557.79,
+   "ref_price": 65.4000015258789,
+   "limit": 65.73,
+   "reason": "new position",
+   "sector": "Energy",
+   "vol": 0.8569646758169472,
+   "thesis": "SEI's accelerating EPS revisions, new power-generation contracts, and insider buying provide incremental upside beyond what the base rate already prices in, but this is partially offset by heavy cash burn, leverage, and customer concentration risk.",
+   "exit_condition": "Loss of the single customer representing 63% of revenue, or a guidance cut below the current $90-105M Q3 Adjusted EBITDA range",
+   "primary_driver": "earnings momentum",
+   "conviction": 4,
+   "probability": 0.5217,
+   "edge_pts": 4.3,
+   "id": "T08",
+   "wash": "ok",
+   "wash_note": ""
+  }
+ ],
+ "total": 10665.238440290672,
+ "prices": {
+  "ADAM": 5.929999828338623,
+  "ADM": 75.7699966430664,
+  "ALL": 263.989990234375,
+  "AMN": 45.77000045776367,
+  "ANF": 164.1699981689453,
+  "APA": 48.81999969482422,
+  "AWR": 87.58999633789062,
+  "BFH": 107.16000366210938,
+  "BIIB": 249.00999450683594,
+  "BKH": 82.51000213623047,
+  "CHEF": 103.2300033569336,
+  "CHRD": 147.38999938964844,
+  "COCO": 58.209999084472656,
+  "COKE": 209.47999572753906,
+  "CON": 40.33000183105469,
+  "CORT": 80.45999908447266,
+  "DAR": 54.02000045776367,
+  "DINO": 111.66000366210938,
+  "DLTR": 138.60000610351562,
+  "DRH": 14.520000457763672,
+  "DXCM": 84.76000213623047,
+  "ECG": 102.98999786376953,
+  "EL": 104.7699966430664,
+  "ENS": 159.97999572753906,
+  "FCX": 62.970001220703125,
+  "FOX": 55.959999084472656,
+  "FOXA": 62.7599983215332,
+  "GMED": 79.45999908447266,
+  "HALO": 128.9499969482422,
+  "HL": 13.539999961853027,
+  "HPE": 51.189998626708984,
+  "HRMY": 37.90999984741211,
+  "HST": 25.56999969482422,
+  "HTO": 61.189998626708984,
+  "IDCC": 315.95001220703125,
+  "IESC": 196.07000732421875,
+  "INSW": 105.68000030517578,
+  "INVX": 26.049999237060547,
+  "IOSP": 99.55000305175781,
+  "KALU": 116.12000274658203,
+  "KMX": 56.41999816894531,
+  "KRG": 25.739999771118164,
+  "LNTH": 100.30999755859375,
+  "LPG": 51.15999984741211,
+  "LQDT": 44.63999938964844,
+  "LTC": 45.13999938964844,
+  "M": 24.329999923706055,
+  "MBIN": 52.65999984741211,
+  "MPC": 430.3900146484375,
+  "MSEX": 58.33000183105469,
+  "MTG": 28.940000534057617,
+  "MU": 833.5900268554688,
+  "NEM": 109.08999633789062,
+  "NFG": 79.66999816894531,
+  "NGVT": 73.70999908447266,
+  "NJR": 54.18000030517578,
+  "NLY": 18.489999771118164,
+  "OFG": 50.869998931884766,
+  "OTTR": 91.51000213623047,
+  "PARR": 72.16000366210938,
+  "PBF": 75.08000183105469,
+  "PSMT": 166.77000427246094,
+  "PSX": 275.0400085449219,
+  "REGN": 961.260009765625,
+  "RNR": 350.94000244140625,
+  "ROKU": 155.52000427246094,
+  "RS": 448.0799865722656,
+  "SAIC": 152.91000366210938,
+  "SEI": 65.4000015258789,
+  "SHOO": 43.529998779296875,
+  "SNDK": 1075.0799560546875,
+  "SPY": 752.0999755859375,
+  "SWX": 93.7300033569336,
+  "TGT": 158.3800048828125,
+  "THC": 268.8900146484375,
+  "TPC": 79.41999816894531,
+  "VCTR": 114.30999755859375,
+  "VLO": 381.4599914550781,
+  "WHD": 62.220001220703125,
+  "WMG": 30.969999313354492,
+  "WTRG": 44.439998626708984
+ },
+ "priced_on": "2026-11-03"
+}

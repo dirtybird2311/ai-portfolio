@@ -1,0 +1,63 @@
+{
+ "date": "2026-11-06",
+ "price_flags": {
+  "ALL": {
+   "move": -4.48,
+   "flags": [
+    "down -4.5% today (-2.8x its usual daily move)"
+   ]
+  }
+ },
+ "triggers": [],
+ "news_screen": {
+  "ADM": {
+   "status": "ok",
+   "why": "Headlines are bullish on cyclical positioning and technical reversal; no evidence of credit spread widening >50bps or EPS guidance cuts. Thesis tailwind intact."
+  },
+  "ALL": {
+   "status": "ok",
+   "why": "Q3 catastrophe losses remain manageable (~$2.5B adjusted NI reported); no single quarter exceeding $2.5B in cat losses disclosed. Underwriting fundamentals holding. Barclays maintains underweight but raised PT, suggesting no imminent break."
+  },
+  "APA": {
+   "status": "watch",
+   "why": "Oil prices remain supportive (reflationary backdrop intact) and free cash flow guidance raised. However, no explicit WTI level disclosed in headlines; macro sentiment post-midterms shows some tech/AI rotation risk that could weigh on reflation trade near-term. Monitor oil price closely."
+  },
+  "DLTR": {
+   "status": "watch",
+   "why": "Loop Capital downgrade from Buy to Hold is negative momentum, though price target unchanged at $140. No EPS guidance cut disclosed yet, so exit condition not triggered. But downgrade signals emerging caution; watch for Q3 EPS guidance statement."
+  },
+  "DXCM": {
+   "status": "ok",
+   "why": "Headlines focus on Guardant Health board appointment and Shield award\u2014neither directly impacts DXCM's operating margin guidance or credit facility refinancing risk. No exit signals detected."
+  },
+  "KMX": {
+   "status": "ok",
+   "why": "Headlines highlight CarMax's 'Shift into GEAR' plan with mid-single-digit volume growth and mid-teens EPS growth targets through 2030. No disclosure of used vehicle unit margin decline >$200/unit. Thesis support intact."
+  },
+  "LPG": {
+   "status": "ok",
+   "why": "Q2 FY2027 earnings beat expectations with $221.35M revenue (well above $120M exit threshold) and strong freight rates. Upward revisions and $1.25 dividend reinforce positive momentum. No exit condition triggered."
+  },
+  "MU": {
+   "status": "watch",
+   "why": "Headlines show chip stocks rebounding but also note Thursday's sharp sell-off and sector concerns following Democrat midterm victory (potential antitrust/trade risk). No gross-margin guidance cut disclosed, but macro uncertainty around AI buildout and policy shift warrants close monitoring of FQ1-27 guidance."
+  },
+  "PBF": {
+   "status": "ok",
+   "why": "Refining fundamentals remain strong with tight fuel inventories and favorable margins cited. No material decline in crude oil toward $70/bbl threshold evident. EOG, Marathon, VLO headlines all supportive of energy/refining thesis."
+  },
+  "RS": {
+   "status": "ok",
+   "why": "October 21 earnings report has not yet occurred (exit condition tied to that event). Broad industrial/metals backdrop (Nucor, FCX, APD, CF headlines) mixed but no pre-earnings red flags. Awaiting the actual earnings release."
+  },
+  "SEI": {
+   "status": "ok",
+   "why": "Q3 2026 earnings confirm record revenue ($341M), strong adjusted EBITDA ($136M), record 900MW power contract, and raised guidance. No customer loss or EBITDA guidance cut disclosed. Thesis supported."
+  },
+  "VCTR": {
+   "status": "ok",
+   "why": "Q3 2026 shows record $11.7B long-term net inflows (no net outflows). Adjusted EBITDA margin 53.5% and First Eagle acquisition advancing. Exit condition (net outflows) not triggered; momentum intact."
+  }
+ },
+ "reviews": {}
+}

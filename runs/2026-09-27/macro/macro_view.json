@@ -1,0 +1,105 @@
+{
+ "date": "2026-09-27",
+ "status": "OK",
+ "regime": "Goldilocks (growth up, inflation down)",
+ "fed": "on hold",
+ "tilts": {
+  "Technology": 0,
+  "Financials": 0,
+  "Health Care": 0,
+  "Energy": 0,
+  "Industrials": 0,
+  "Consumer Discretionary": 0,
+  "Consumer Staples": 0,
+  "Utilities": 0,
+  "Materials": 0,
+  "Real Estate": 0,
+  "Communication Services": 0
+ },
+ "sector_probabilities": {
+  "Technology": 0.4938,
+  "Financials": 0.4676,
+  "Health Care": 0.5193,
+  "Energy": 0.5062,
+  "Industrials": 0.4807,
+  "Consumer Discretionary": 0.4807,
+  "Consumer Staples": 0.4284,
+  "Utilities": 0.5193,
+  "Materials": 0.4938,
+  "Real Estate": 0.3953,
+  "Communication Services": 0.5404
+ },
+ "factor_view": {
+  "rates_10y": 0.0,
+  "oil": 0.0,
+  "dollar": 0.0,
+  "credit": 0.0,
+  "inflation_exp": 0.0
+ },
+ "weight_ranges_%": {
+  "Technology": [
+   0,
+   25
+  ],
+  "Financials": [
+   0,
+   25
+  ],
+  "Health Care": [
+   0,
+   25
+  ],
+  "Energy": [
+   0,
+   25
+  ],
+  "Industrials": [
+   0,
+   25
+  ],
+  "Consumer Discretionary": [
+   0,
+   25
+  ],
+  "Consumer Staples": [
+   0,
+   25
+  ],
+  "Utilities": [
+   0,
+   25
+  ],
+  "Materials": [
+   0,
+   25
+  ],
+  "Real Estate": [
+   0,
+   25
+  ],
+  "Communication Services": [
+   0,
+   25
+  ]
+ },
+ "triggers": [],
+ "why": [
+  "resuming a stopped full run",
+  "forced (--full)"
+ ],
+ "key_risks": [
+  "CALC:pullback_risk is elevated (0.131 vs typical 0.10) and driven mainly by HY spread and NFCI inputs that are currently themselves benign (spread 24th pctile, NFCI loose) - the model likely understates the real pullback risk here because it doesn't directly incorporate the extreme geopolitical/uncertainty readings in CALC:risk_indicators (GPR 92nd pctile, EPU 95th pctile, trade policy uncertainty 96th pctile, OVX 87th pctile) or the unprecedented 73bp 3-month spike in DGS10 (98th pctile) - these are latent risks a spread/NFCI-based model would miss until they show up in credit or financial conditions data.",
+  "CALC:recession_risk shows low 12-month recession probability (0.042, oos_auc=0.873), which we broadly agree with given strong GDPNOW (5.02%), payrolls, and low Sahm rule reading (-0.07); the model's top drivers (S&P 6m return, NFCI, 10y-3m spread) are all currently favorable, consistent with a benign near-term read.",
+  "Elevated pullback risk (CALC:pullback_risk: 0.131) driven by high policy uncertainty (USEPUINDXD 306.28) and geopolitical stress (CALC:risk_indicators).",
+  "Fed overtightening: hot Oct 2 payrolls or Oct 14 CPI pushes 2y/10y higher (CALC:market_implied_fed_path).",
+  "Further hawkish repricing from the Federal Reserve if tight labor conditions (claims at 202k, IC4WSA) and high energy prices threaten to reverse progress toward price stability (NOTE:A3).",
+  "Iran-US escalation in Hormuz cuts more Gulf supply with inventories already drawing 2.8 mb/d (NOTE:E1, NOTE:E12).",
+  "Iran/Houthi conflict remains live (control of Bab el-Mandeb, Saudi pipeline reroutes) with elevated OVX and steep backwardation signaling genuine current scarcity; a further escalation (e.g., actual Hormuz closure attempt) is not fully priced and would be a larger oil/rates shock than our base case -3% oil forecast assumes.",
+  "Market is pricing further Fed hikes (2yr-fed funds spread 0.99) even as the Fed is described as on hold and dots show 4.1% for 2026 - a hawkish surprise at the Oct 27-28 FOMC or in the Oct 14 CPI print could extend the already-extreme DGS10 move, hitting duration-sensitive sectors (Real Estate, Utilities, Tech) harder than our flat rates_10y forecast assumes.",
+  "Oil volatility remains elevated (OVX 51.9) despite falling; geopolitical escalation could override factor pricing",
+  "Pullback risk model at 13% elevated vs typical 10%",
+  "Pullback: model 13.1% vs 10% typical; 10y at 5.18, HY spread 2.8 and VIX 14.21 leave little cushion (CALC:pullback_risk).",
+  "Recession model (4.2%) could miss an oil-driven consumer squeeze: sentiment 51.7, saving rate 3% (FRED:UMCSENT, FRED:PSAVERT; both stale).",
+  "Strait of Hormuz and Bab el-Mandeb conflict escalation severely impacting global physical supplies beyond the current 10+ mb/d shut-in, spiking crude and inflation expectations (NOTE:E1, NOTE:E11)."
+ ]
+}

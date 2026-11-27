@@ -1,0 +1,63 @@
+{
+ "date": "2026-11-03",
+ "price_flags": {
+  "ADM": {
+   "move": -6.74,
+   "flags": [
+    "down -6.7% today (-4.6x its usual daily move)"
+   ]
+  }
+ },
+ "triggers": [],
+ "news_screen": {
+  "ADM": {
+   "status": "ok",
+   "why": "Multiple headlines confirm third EPS guidance raise to $5.50\u2013$5.80, well above the $5.15 exit threshold. Strong crush and biofuel margins support the thesis. No credit-spread widening or guidance cut signaled."
+  },
+  "ALL": {
+   "status": "watch",
+   "why": "Headline on P&L underwriting income potentially plunging 55.7% in Q3 is relevant to the thesis but does not yet trigger the $2.5B single-quarter catastrophe loss exit condition. Warrants close monitoring of the upcoming Q3 results."
+  },
+  "APA": {
+   "status": "ok",
+   "why": "Headlines remain supportive, with analyst upgrades and positive positioning noted. No evidence of oil falling below $55/bbl. Macro reflationary backdrop remains intact per the thesis framework."
+  },
+  "DLTR": {
+   "status": "ok",
+   "why": "Q3 earnings announcement scheduled for November 24, 2026. No guidance cut below $0.80 EPS has been disclosed. Tariff reinvestment headwinds are already priced into the thesis; no new deterioration signaled."
+  },
+  "DXCM": {
+   "status": "ok",
+   "why": "Multiple positive catalysts: G7 15-day launch in Canada, strong revision trend continuing, and competitive advantage vs. Abbott noted. No operating margin guidance cut or credit facility distress disclosed. Momentum and news flow support the thesis."
+  },
+  "KMX": {
+   "status": "ok",
+   "why": "CarMax strategic update announced for November 3, 2026, outlining mid-teens adjusted EPS CAGR through fiscal 2030. No unit margin deterioration signaled. Resumed buybacks and strategy shift support modest edge thesis."
+  },
+  "MU": {
+   "status": "watch",
+   "why": "Multiple headlines highlight macro and competitive pressures: China's CXMT targeting 20% market share by 2028, Apple's 'unprecedented' memory warning, and near-term memory pricing headwinds. While no gross-margin guidance cut below 80% has occurred, these developments challenge the margin-protection thesis and warrant close monitoring of next guidance."
+  },
+  "PBF": {
+   "status": "ok",
+   "why": "Oil-refining fundamentals remain strong with no WTI fall below $70/bbl signaled. Valero and other refiner news confirms tight fuel market and margin support. Macro alignment with reflation thesis remains intact."
+  },
+  "RS": {
+   "status": "watch",
+   "why": "October 21 Q3 earnings report is imminent (thesis explicitly calls it a 'meaningful test'). Positive estimate revisions noted in prior context, but the revenue test has not yet occurred. Awaiting the actual earnings release to confirm or break the thesis."
+  },
+  "SEI": {
+   "status": "ok",
+   "why": "900-megawatt long-term power deal announced, supporting contract growth narrative and insider buying backdrop. No loss of the 63%-revenue customer or guidance cut below $90\u2013105M Q3 Adjusted EBITDA has been disclosed."
+  },
+  "VCTR": {
+   "status": "ok",
+   "why": "Headline on high-growth momentum and breakout setup aligns with the operating-improvement thesis. No net client outflow has been reported; most recent disclosed inflows were $4.1B in June quarter."
+  },
+  "WMG": {
+   "status": "ok",
+   "why": "Headline on pricing power and analyst support confirms operating momentum. Executive departures are noted in the thesis as a known uncertainty already incorporated. No margin expansion guidance revision downward from 150\u2013200 bps range has occurred."
+  }
+ },
+ "reviews": {}
+}

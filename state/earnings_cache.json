@@ -1,0 +1,5990 @@
+{
+ "MMM": {
+  "surprise": 4.63374,
+  "fetched": "2026-11-06"
+ },
+ "AOS": {
+  "surprise": 5.79626,
+  "fetched": "2026-11-06"
+ },
+ "ABT": {
+  "surprise": 0.14390000000000008,
+  "fetched": "2026-11-20"
+ },
+ "ABBV": {
+  "surprise": -0.33109999999999995,
+  "fetched": "2026-11-06"
+ },
+ "ACN": {
+  "surprise": 1.9870199999999998,
+  "fetched": "2026-10-16"
+ },
+ "ADBE": {
+  "surprise": -0.6128799999999999,
+  "fetched": "2026-09-26"
+ },
+ "AMD": {
+  "surprise": 4.345599999999999,
+  "fetched": "2026-11-20"
+ },
+ "AES": {
+  "surprise": 4.817199999999999,
+  "fetched": "2026-11-20"
+ },
+ "AFL": {
+  "surprise": 19.76832,
+  "fetched": "2026-11-06"
+ },
+ "A": {
+  "surprise": 5.6716999999999995,
+  "fetched": "2026-11-20"
+ },
+ "APD": {
+  "surprise": 0.4968999999999999,
+  "fetched": "2026-11-20"
+ },
+ "ABNB": {
+  "surprise": 8.062100000000001,
+  "fetched": "2026-11-06"
+ },
+ "AKAM": {
+  "surprise": 1.8597800000000002,
+  "fetched": "2026-11-13"
+ },
+ "ALB": {
+  "surprise": 6.23754,
+  "fetched": "2026-11-06"
+ },
+ "ARE": {
+  "surprise": -5554.166619999999,
+  "fetched": "2026-11-06"
+ },
+ "ALGN": {
+  "surprise": -1.01236,
+  "fetched": "2026-11-20"
+ },
+ "ALLE": {
+  "surprise": 3.59222,
+  "fetched": "2026-10-23"
+ },
+ "LNT": {
+  "surprise": 12.82516,
+  "fetched": "2026-11-06"
+ },
+ "ALL": {
+  "surprise": 42.240919999999996,
+  "fetched": "2026-11-20"
+ },
+ "GOOGL": {
+  "surprise": -10.199639999999999,
+  "fetched": "2026-11-06"
+ },
+ "GOOG": {
+  "surprise": -10.199639999999999,
+  "fetched": "2026-11-06"
+ },
+ "MO": {
+  "surprise": -2.83784,
+  "fetched": "2026-11-06"
+ },
+ "AMZN": {
+  "surprise": -0.9348599999999996,
+  "fetched": "2026-11-06"
+ },
+ "AMCR": {
+  "surprise": -2.6458999999999997,
+  "fetched": "2026-11-13"
+ },
+ "AEE": {
+  "surprise": 3.8399,
+  "fetched": "2026-11-06"
+ },
+ "AEP": {
+  "surprise": 0.5043799999999994,
+  "fetched": "2026-11-06"
+ },
+ "AXP": {
+  "surprise": 2.73922,
+  "fetched": "2026-11-20"
+ },
+ "AIG": {
+  "surprise": 6.0663599999999995,
+  "fetched": "2026-11-06"
+ },
+ "AMT": {
+  "surprise": 6.78702,
+  "fetched": "2026-11-20"
+ },
+ "AWK": {
+  "surprise": -0.6893599999999995,
+  "fetched": "2026-11-06"
+ },
+ "AMP": {
+  "surprise": -1.9463999999999997,
+  "fetched": "2026-11-06"
+ },
+ "AME": {
+  "surprise": 3.81488,
+  "fetched": "2026-11-20"
+ },
+ "AMGN": {
+  "surprise": 9.41824,
+  "fetched": "2026-11-06"
+ },
+ "APH": {
+  "surprise": 10.864080000000001,
+  "fetched": "2026-11-06"
+ },
+ "ADI": {
+  "surprise": 3.59004,
+  "fetched": "2026-09-26"
+ },
+ "AON": {
+  "surprise": -0.25783999999999996,
+  "fetched": "2026-11-20"
+ },
+ "APA": {
+  "surprise": 14.355780000000001,
+  "fetched": "2026-11-06"
+ },
+ "APO": {
+  "surprise": -5.7385,
+  "fetched": "2026-11-13"
+ },
+ "AAPL": {
+  "surprise": 1.8274,
+  "fetched": "2026-11-13"
+ },
+ "AMAT": {
+  "surprise": 0.80212,
+  "fetched": "2026-11-13"
+ },
+ "APP": {
+  "surprise": 3.27074,
+  "fetched": "2026-11-06"
+ },
+ "APTV": {
+  "surprise": 7.5497000000000005,
+  "fetched": "2026-11-06"
+ },
+ "ACGL": {
+  "surprise": 9.99452,
+  "fetched": "2026-11-06"
+ },
+ "ADM": {
+  "surprise": 16.306939999999997,
+  "fetched": "2026-11-06"
+ },
+ "ARES": {
+  "surprise": -3.3662,
+  "fetched": "2026-11-06"
+ },
+ "ANET": {
+  "surprise": 10.78252,
+  "fetched": "2026-11-06"
+ },
+ "AJG": {
+  "surprise": -0.52704,
+  "fetched": "2026-11-06"
+ },
+ "AIZ": {
+  "surprise": 25.94138,
+  "fetched": "2026-11-06"
+ },
+ "T": {
+  "surprise": 7.23386,
+  "fetched": "2026-10-23"
+ },
+ "ATO": {
+  "surprise": 3.29676,
+  "fetched": "2026-11-20"
+ },
+ "ADSK": {
+  "surprise": 3.3634399999999998,
+  "fetched": "2026-09-26"
+ },
+ "ADP": {
+  "surprise": 0.86032,
+  "fetched": "2026-11-20"
+ },
+ "AZO": {
+  "surprise": 3.36968,
+  "fetched": "2026-11-06"
+ },
+ "AVY": {
+  "surprise": 8.20928,
+  "fetched": "2026-11-06"
+ },
+ "AXON": {
+  "surprise": -6.4828399999999995,
+  "fetched": "2026-11-20"
+ },
+ "BKR": {
+  "surprise": 18.40244,
+  "fetched": "2026-11-20"
+ },
+ "BALL": {
+  "surprise": 1.7886199999999999,
+  "fetched": "2026-11-06"
+ },
+ "BAC": {
+  "surprise": 0.5208600000000003,
+  "fetched": "2026-11-20"
+ },
+ "BAX": {
+  "surprise": 27.119860000000003,
+  "fetched": "2026-11-20"
+ },
+ "BDX": {
+  "surprise": 1.32274,
+  "fetched": "2026-11-06"
+ },
+ "BRK.B": {
+  "surprise": 5.372060000000001,
+  "fetched": "2026-11-20"
+ },
+ "BBY": {
+  "surprise": 4.5984,
+  "fetched": "2026-09-26"
+ },
+ "TECH": {
+  "surprise": -1.89412,
+  "fetched": "2026-11-13"
+ },
+ "BIIB": {
+  "surprise": 25.27082,
+  "fetched": "2026-11-06"
+ },
+ "BLK": {
+  "surprise": 10.710239999999999,
+  "fetched": "2026-11-06"
+ },
+ "BX": {
+  "surprise": 4.56262,
+  "fetched": "2026-11-06"
+ },
+ "XYZ": {
+  "surprise": 12.03604,
+  "fetched": "2026-11-06"
+ },
+ "BE": {
+  "surprise": 55.02886000000001,
+  "fetched": "2026-10-23"
+ },
+ "BNY": {
+  "surprise": 5.97768,
+  "fetched": "2026-11-06"
+ },
+ "BA": {
+  "surprise": -92.26238,
+  "fetched": "2026-11-06"
+ },
+ "BKNG": {
+  "surprise": 1.54984,
+  "fetched": "2026-11-13"
+ },
+ "BSX": {
+  "surprise": 1.73366,
+  "fetched": "2026-11-20"
+ },
+ "BMY": {
+  "surprise": 21.07586,
+  "fetched": "2026-11-06"
+ },
+ "AVGO": {
+  "surprise": 0.24499999999999997,
+  "fetched": "2026-11-06"
+ },
+ "BR": {
+  "surprise": 5.891919999999999,
+  "fetched": "2026-11-13"
+ },
+ "BRO": {
+  "surprise": -2.3737399999999997,
+  "fetched": "2026-11-06"
+ },
+ "BF.B": {
+  "surprise": -24.6824,
+  "fetched": "2026-09-26"
+ },
+ "BG": {
+  "surprise": 1.0841,
+  "fetched": "2026-11-20"
+ },
+ "BXP": {
+  "surprise": 37.15772,
+  "fetched": "2026-11-06"
+ },
+ "CHRW": {
+  "surprise": 1.8513000000000002,
+  "fetched": "2026-11-20"
+ },
+ "CDNS": {
+  "surprise": 0.9564999999999999,
+  "fetched": "2026-11-06"
+ },
+ "CPT": {
+  "surprise": 127.45891999999998,
+  "fetched": "2026-11-06"
+ },
+ "COF": {
+  "surprise": 20.61356,
+  "fetched": "2026-11-20"
+ },
+ "CAH": {
+  "surprise": 8.43318,
+  "fetched": "2026-11-20"
+ },
+ "CCL": {
+  "surprise": 9.565940000000001,
+  "fetched": "2026-11-06"
+ },
+ "CARR": {
+  "surprise": 8.20834,
+  "fetched": "2026-11-06"
+ },
+ "CVNA": {
+  "surprise": -7.40596,
+  "fetched": "2026-11-06"
+ },
+ "CASY": {
+  "surprise": 16.1837,
+  "fetched": "2026-09-26"
+ },
+ "CAT": {
+  "surprise": 12.5843,
+  "fetched": "2026-11-06"
+ },
+ "CBOE": {
+  "surprise": 2.3181800000000004,
+  "fetched": "2026-11-06"
+ },
+ "CBRE": {
+  "surprise": 2.3164,
+  "fetched": "2026-11-06"
+ },
+ "CDW": {
+  "surprise": 6.1677599999999995,
+  "fetched": "2026-11-06"
+ },
+ "COR": {
+  "surprise": 1.2453,
+  "fetched": "2026-11-06"
+ },
+ "CNC": {
+  "surprise": 90.68542000000002,
+  "fetched": "2026-11-06"
+ },
+ "CNP": {
+  "surprise": 6.1371199999999995,
+  "fetched": "2026-11-06"
+ },
+ "CF": {
+  "surprise": -11.163020000000001,
+  "fetched": "2026-11-06"
+ },
+ "CRL": {
+  "surprise": 5.43612,
+  "fetched": "2026-11-13"
+ },
+ "SCHW": {
+  "surprise": 0.89622,
+  "fetched": "2026-11-13"
+ },
+ "CHTR": {
+  "surprise": 82.1606,
+  "fetched": "2026-11-06"
+ },
+ "CVX": {
+  "surprise": 7.37764,
+  "fetched": "2026-11-06"
+ },
+ "CMG": {
+  "surprise": -3.8799399999999995,
+  "fetched": "2026-11-06"
+ },
+ "CB": {
+  "surprise": 7.3286999999999995,
+  "fetched": "2026-11-06"
+ },
+ "CHD": {
+  "surprise": -0.04738000000000009,
+  "fetched": "2026-11-06"
+ },
+ "CIEN": {
+  "surprise": 15.818060000000001,
+  "fetched": "2026-11-20"
+ },
+ "CI": {
+  "surprise": 1.7414599999999998,
+  "fetched": "2026-11-06"
+ },
+ "CINF": {
+  "surprise": 14.701059999999996,
+  "fetched": "2026-11-13"
+ },
+ "CTAS": {
+  "surprise": 1.52898,
+  "fetched": "2026-11-06"
+ },
+ "CSCO": {
+  "surprise": 2.9930999999999996,
+  "fetched": "2026-11-20"
+ },
+ "C": {
+  "surprise": 8.12804,
+  "fetched": "2026-11-06"
+ },
+ "CFG": {
+  "surprise": 1.8855600000000003,
+  "fetched": "2026-11-06"
+ },
+ "CLX": {
+  "surprise": 25.58096,
+  "fetched": "2026-11-20"
+ },
+ "CME": {
+  "surprise": 0.7288,
+  "fetched": "2026-10-23"
+ },
+ "CMS": {
+  "surprise": 4.15142,
+  "fetched": "2026-11-20"
+ },
+ "KO": {
+  "surprise": 0.5958600000000001,
+  "fetched": "2026-11-06"
+ },
+ "CTSH": {
+  "surprise": -1.14252,
+  "fetched": "2026-11-06"
+ },
+ "COHR": {
+  "surprise": 4.53878,
+  "fetched": "2026-11-20"
+ },
+ "COIN": {
+  "surprise": 2409.02648,
+  "fetched": "2026-11-06"
+ },
+ "CL": {
+  "surprise": 1.64118,
+  "fetched": "2026-11-06"
+ },
+ "CMCSA": {
+  "surprise": 5.1912400000000005,
+  "fetched": "2026-10-23"
+ },
+ "FIX": {
+  "surprise": 11.75788,
+  "fetched": "2026-11-20"
+ },
+ "COP": {
+  "surprise": 10.10576,
+  "fetched": "2026-11-06"
+ },
+ "ED": {
+  "surprise": 2.23958,
+  "fetched": "2026-11-20"
+ },
+ "STZ": {
+  "surprise": 4.721220000000001,
+  "fetched": "2026-10-09"
+ },
+ "CEG": {
+  "surprise": 22.3939,
+  "fetched": "2026-11-13"
+ },
+ "COO": {
+  "surprise": 4.82156,
+  "fetched": "2026-11-06"
+ },
+ "CPRT": {
+  "surprise": -4.80322,
+  "fetched": "2026-10-02"
+ },
+ "GLW": {
+  "surprise": 2.2135,
+  "fetched": "2026-11-06"
+ },
+ "CPAY": {
+  "surprise": 3.3191800000000002,
+  "fetched": "2026-11-20"
+ },
+ "CTVA": {
+  "surprise": -22.289299999999997,
+  "fetched": "2026-11-13"
+ },
+ "CSGP": {
+  "surprise": 9.9949,
+  "fetched": "2026-11-06"
+ },
+ "COST": {
+  "surprise": -1.26504,
+  "fetched": "2026-11-13"
+ },
+ "CRH": {
+  "surprise": 0.40674000000000055,
+  "fetched": "2026-11-20"
+ },
+ "CRWD": {
+  "surprise": 2.70216,
+  "fetched": "2026-09-26"
+ },
+ "CCI": {
+  "surprise": -25.5003,
+  "fetched": "2026-11-06"
+ },
+ "CSX": {
+  "surprise": 4.99924,
+  "fetched": "2026-11-20"
+ },
+ "CMI": {
+  "surprise": -7.2668,
+  "fetched": "2026-11-06"
+ },
+ "CVS": {
+  "surprise": 30.40622,
+  "fetched": "2026-11-06"
+ },
+ "DHR": {
+  "surprise": 7.26716,
+  "fetched": "2026-10-23"
+ },
+ "DRI": {
+  "surprise": -0.8457600000000001,
+  "fetched": "2026-09-26"
+ },
+ "DDOG": {
+  "surprise": 15.83414,
+  "fetched": "2026-11-06"
+ },
+ "DVA": {
+  "surprise": -2.9728000000000003,
+  "fetched": "2026-11-06"
+ },
+ "DECK": {
+  "surprise": 8.85712,
+  "fetched": "2026-11-06"
+ },
+ "DE": {
+  "surprise": 7.83948,
+  "fetched": "2026-11-06"
+ },
+ "DELL": {
+  "surprise": 49.13534,
+  "fetched": "2026-10-23"
+ },
+ "DAL": {
+  "surprise": -6.284479999999999,
+  "fetched": "2026-10-09"
+ },
+ "DVN": {
+  "surprise": 8.14664,
+  "fetched": "2026-11-06"
+ },
+ "DXCM": {
+  "surprise": 8.669419999999999,
+  "fetched": "2026-11-06"
+ },
+ "FANG": {
+  "surprise": 5.39944,
+  "fetched": "2026-11-20"
+ },
+ "DLR": {
+  "surprise": 10.495000000000003,
+  "fetched": "2026-11-06"
+ },
+ "DG": {
+  "surprise": 5.90646,
+  "fetched": "2026-11-13"
+ },
+ "DLTR": {
+  "surprise": 83.39168,
+  "fetched": "2026-11-06"
+ },
+ "D": {
+  "surprise": 8.15552,
+  "fetched": "2026-11-20"
+ },
+ "DPZ": {
+  "surprise": 1.19196,
+  "fetched": "2026-10-16"
+ },
+ "DASH": {
+  "surprise": 13.524059999999999,
+  "fetched": "2026-11-06"
+ },
+ "DOV": {
+  "surprise": 0.02093999999999996,
+  "fetched": "2026-11-06"
+ },
+ "DOW": {
+  "surprise": 10.76574,
+  "fetched": "2026-10-23"
+ },
+ "DHI": {
+  "surprise": -5.77402,
+  "fetched": "2026-11-20"
+ },
+ "DTE": {
+  "surprise": 8.31712,
+  "fetched": "2026-11-06"
+ },
+ "DUK": {
+  "surprise": 6.78836,
+  "fetched": "2026-11-20"
+ },
+ "DD": {
+  "surprise": 6.6686000000000005,
+  "fetched": "2026-11-06"
+ },
+ "ETN": {
+  "surprise": 2.32388,
+  "fetched": "2026-11-06"
+ },
+ "EBAY": {
+  "surprise": 4.47646,
+  "fetched": "2026-11-06"
+ },
+ "ECHO": {
+  "surprise": -157.23248,
+  "fetched": "2026-11-06"
+ },
+ "ECL": {
+  "surprise": -0.67422,
+  "fetched": "2026-11-20"
+ },
+ "EIX": {
+  "surprise": -42.94648,
+  "fetched": "2026-11-06"
+ },
+ "EW": {
+  "surprise": 4.1484,
+  "fetched": "2026-11-20"
+ },
+ "ELV": {
+  "surprise": 36.22654,
+  "fetched": "2026-11-13"
+ },
+ "EME": {
+  "surprise": 17.92074,
+  "fetched": "2026-11-06"
+ },
+ "EMR": {
+  "surprise": 0.0019000000000000128,
+  "fetched": "2026-11-13"
+ },
+ "ETR": {
+  "surprise": 8.2415,
+  "fetched": "2026-11-06"
+ },
+ "EOG": {
+  "surprise": 5.2676,
+  "fetched": "2026-11-06"
+ },
+ "EQT": {
+  "surprise": 3.40246,
+  "fetched": "2026-11-06"
+ },
+ "EFX": {
+  "surprise": 1.56138,
+  "fetched": "2026-10-23"
+ },
+ "EQIX": {
+  "surprise": 10.703280000000001,
+  "fetched": "2026-11-13"
+ },
+ "ERIE": {
+  "surprise": 0.6394,
+  "fetched": "2026-11-06"
+ },
+ "ESS": {
+  "surprise": -12.24954,
+  "fetched": "2026-11-06"
+ },
+ "EL": {
+  "surprise": 30.134819999999998,
+  "fetched": "2026-11-20"
+ },
+ "EG": {
+  "surprise": -8.739460000000001,
+  "fetched": "2026-11-06"
+ },
+ "EVRG": {
+  "surprise": 6.6501399999999995,
+  "fetched": "2026-11-20"
+ },
+ "P": {
+  "surprise": 13.03884,
+  "fetched": "2026-11-20"
+ },
+ "ES": {
+  "surprise": -25.05974,
+  "fetched": "2026-11-06"
+ },
+ "EXC": {
+  "surprise": 4.58722,
+  "fetched": "2026-11-06"
+ },
+ "EXE": {
+  "surprise": 14.41326,
+  "fetched": "2026-11-20"
+ },
+ "EXPE": {
+  "surprise": 5.26802,
+  "fetched": "2026-11-06"
+ },
+ "EXPD": {
+  "surprise": 17.11478,
+  "fetched": "2026-11-20"
+ },
+ "EXR": {
+  "surprise": -0.011999999999999122,
+  "fetched": "2026-11-06"
+ },
+ "XOM": {
+  "surprise": 0.8726199999999997,
+  "fetched": "2026-11-06"
+ },
+ "FFIV": {
+  "surprise": 7.4687,
+  "fetched": "2026-11-20"
+ },
+ "FDS": {
+  "surprise": 2.20164,
+  "fetched": "2026-11-13"
+ },
+ "FICO": {
+  "surprise": 1.35582,
+  "fetched": "2026-11-06"
+ },
+ "FAST": {
+  "surprise": 0.21423999999999999,
+  "fetched": "2026-10-23"
+ },
+ "FRT": {
+  "surprise": 14.67604,
+  "fetched": "2026-11-06"
+ },
+ "FDX": {
+  "surprise": 8.2715,
+  "fetched": "2026-11-13"
+ },
+ "FDXF": {
+  "surprise": 7.7134,
+  "fetched": "2026-11-06"
+ },
+ "FERG": {
+  "surprise": 1.4891,
+  "fetched": "2026-11-13"
+ },
+ "FIS": {
+  "surprise": 1.5573000000000001,
+  "fetched": "2026-11-06"
+ },
+ "FITB": {
+  "surprise": -5.656280000000001,
+  "fetched": "2026-11-06"
+ },
+ "FSLR": {
+  "surprise": 21.1481,
+  "fetched": "2026-11-06"
+ },
+ "FE": {
+  "surprise": 1.843,
+  "fetched": "2026-11-20"
+ },
+ "FISV": {
+  "surprise": -2.2809000000000004,
+  "fetched": "2026-11-06"
+ },
+ "FLEX": {
+  "surprise": 9.3506,
+  "fetched": "2026-11-20"
+ },
+ "F": {
+  "surprise": 18.28888,
+  "fetched": "2026-11-20"
+ },
+ "FTNT": {
+  "surprise": 9.778500000000001,
+  "fetched": "2026-11-06"
+ },
+ "FTV": {
+  "surprise": 6.3909,
+  "fetched": "2026-11-06"
+ },
+ "FOXA": {
+  "surprise": 20.622799999999998,
+  "fetched": "2026-11-13"
+ },
+ "FOX": {
+  "surprise": 20.622799999999998,
+  "fetched": "2026-11-13"
+ },
+ "BEN": {
+  "surprise": 14.81642,
+  "fetched": "2026-11-13"
+ },
+ "FCX": {
+  "surprise": 14.561220000000002,
+  "fetched": "2026-11-20"
+ },
+ "GRMN": {
+  "surprise": 16.77792,
+  "fetched": "2026-11-06"
+ },
+ "IT": {
+  "surprise": 18.79214,
+  "fetched": "2026-11-20"
+ },
+ "GE": {
+  "surprise": 7.5441400000000005,
+  "fetched": "2026-10-23"
+ },
+ "GEHC": {
+  "surprise": 8.28876,
+  "fetched": "2026-11-06"
+ },
+ "GEV": {
+  "surprise": 3.8269199999999994,
+  "fetched": "2026-11-06"
+ },
+ "GEN": {
+  "surprise": 1.756,
+  "fetched": "2026-11-06"
+ },
+ "GNRC": {
+  "surprise": 18.27688,
+  "fetched": "2026-11-06"
+ },
+ "GD": {
+  "surprise": 4.84718,
+  "fetched": "2026-11-06"
+ },
+ "GIS": {
+  "surprise": 9.13406,
+  "fetched": "2026-10-02"
+ },
+ "GM": {
+  "surprise": 2.7757000000000005,
+  "fetched": "2026-11-06"
+ },
+ "GPC": {
+  "surprise": 0.8829600000000001,
+  "fetched": "2026-11-13"
+ },
+ "GILD": {
+  "surprise": 12.02304,
+  "fetched": "2026-11-06"
+ },
+ "GPN": {
+  "surprise": -0.73874,
+  "fetched": "2026-11-06"
+ },
+ "GL": {
+  "surprise": -4.08366,
+  "fetched": "2026-11-06"
+ },
+ "GDDY": {
+  "surprise": 8.53534,
+  "fetched": "2026-11-06"
+ },
+ "GS": {
+  "surprise": 32.35886000000001,
+  "fetched": "2026-11-13"
+ },
+ "HAL": {
+  "surprise": 1.50572,
+  "fetched": "2026-10-23"
+ },
+ "HIG": {
+  "surprise": 7.43312,
+  "fetched": "2026-11-06"
+ },
+ "HAS": {
+  "surprise": 37.293119999999995,
+  "fetched": "2026-11-06"
+ },
+ "HCA": {
+  "surprise": 5.23296,
+  "fetched": "2026-11-06"
+ },
+ "DOC": {
+  "surprise": 292.49528,
+  "fetched": "2026-11-06"
+ },
+ "HSIC": {
+  "surprise": 7.8524199999999995,
+  "fetched": "2026-11-20"
+ },
+ "HSY": {
+  "surprise": 27.17924,
+  "fetched": "2026-11-06"
+ },
+ "HPE": {
+  "surprise": 29.367759999999997,
+  "fetched": "2026-11-20"
+ },
+ "HLT": {
+  "surprise": 1.3172599999999997,
+  "fetched": "2026-11-06"
+ },
+ "HD": {
+  "surprise": -1.0700999999999998,
+  "fetched": "2026-11-20"
+ },
+ "HONA": {
+  "surprise": 2.8637999999999986,
+  "fetched": "2026-11-13"
+ },
+ "HON": {
+  "surprise": -0.5463200000000006,
+  "fetched": "2026-10-23"
+ },
+ "HRL": {
+  "surprise": 6.62206,
+  "fetched": "2026-11-20"
+ },
+ "HST": {
+  "surprise": -2.09022,
+  "fetched": "2026-11-13"
+ },
+ "HWM": {
+  "surprise": 5.7195,
+  "fetched": "2026-11-06"
+ },
+ "HPQ": {
+  "surprise": 9.76656,
+  "fetched": "2026-11-06"
+ },
+ "HUBB": {
+  "surprise": 0.69814,
+  "fetched": "2026-11-06"
+ },
+ "HUM": {
+  "surprise": 20.26254,
+  "fetched": "2026-11-20"
+ },
+ "HBAN": {
+  "surprise": 1.3575800000000002,
+  "fetched": "2026-11-06"
+ },
+ "HII": {
+  "surprise": 30.0801,
+  "fetched": "2026-11-06"
+ },
+ "IBM": {
+  "surprise": 0.40536000000000005,
+  "fetched": "2026-11-20"
+ },
+ "IEX": {
+  "surprise": 5.55684,
+  "fetched": "2026-11-06"
+ },
+ "IDXX": {
+  "surprise": 5.128220000000001,
+  "fetched": "2026-11-06"
+ },
+ "ITW": {
+  "surprise": 0.15442,
+  "fetched": "2026-11-06"
+ },
+ "ILMN": {
+  "surprise": 4.35586,
+  "fetched": "2026-11-06"
+ },
+ "INCY": {
+  "surprise": 22.65352,
+  "fetched": "2026-11-13"
+ },
+ "IR": {
+  "surprise": 9.49038,
+  "fetched": "2026-11-06"
+ },
+ "PODD": {
+  "surprise": 18.64752,
+  "fetched": "2026-11-20"
+ },
+ "INTC": {
+  "surprise": 54.34084,
+  "fetched": "2026-11-06"
+ },
+ "IBKR": {
+  "surprise": 0.6656200000000003,
+  "fetched": "2026-11-06"
+ },
+ "ICE": {
+  "surprise": 1.84958,
+  "fetched": "2026-11-06"
+ },
+ "IFF": {
+  "surprise": -9.004800000000001,
+  "fetched": "2026-11-06"
+ },
+ "IP": {
+  "surprise": 322.27976,
+  "fetched": "2026-11-20"
+ },
+ "INTU": {
+  "surprise": 7.6235,
+  "fetched": "2026-11-20"
+ },
+ "ISRG": {
+  "surprise": 10.6919,
+  "fetched": "2026-11-06"
+ },
+ "IVZ": {
+  "surprise": 0.5752000000000004,
+  "fetched": "2026-11-13"
+ },
+ "INVH": {
+  "surprise": 71.80388,
+  "fetched": "2026-11-20"
+ },
+ "IQV": {
+  "surprise": 1.73644,
+  "fetched": "2026-11-06"
+ },
+ "IRM": {
+  "surprise": 91.15252,
+  "fetched": "2026-11-06"
+ },
+ "JBHT": {
+  "surprise": -0.10929999999999929,
+  "fetched": "2026-10-16"
+ },
+ "JBL": {
+  "surprise": 4.62872,
+  "fetched": "2026-10-02"
+ },
+ "JKHY": {
+  "surprise": 7.342179999999999,
+  "fetched": "2026-11-06"
+ },
+ "J": {
+  "surprise": 1.0796000000000001,
+  "fetched": "2026-11-20"
+ },
+ "JNJ": {
+  "surprise": 0.9845400000000001,
+  "fetched": "2026-10-23"
+ },
+ "JCI": {
+  "surprise": 5.336399999999999,
+  "fetched": "2026-11-13"
+ },
+ "JPM": {
+  "surprise": -2.32254,
+  "fetched": "2026-11-20"
+ },
+ "KVUE": {
+  "surprise": 4.975760000000001,
+  "fetched": "2026-10-16"
+ },
+ "KDP": {
+  "surprise": 5.41034,
+  "fetched": "2026-11-20"
+ },
+ "KEY": {
+  "surprise": 6.3338,
+  "fetched": "2026-11-13"
+ },
+ "KEYS": {
+  "surprise": 11.63008,
+  "fetched": "2026-11-20"
+ },
+ "KMB": {
+  "surprise": 3.22114,
+  "fetched": "2026-11-06"
+ },
+ "KIM": {
+  "surprise": 63.09335999999999,
+  "fetched": "2026-11-06"
+ },
+ "KMI": {
+  "surprise": 9.60804,
+  "fetched": "2026-10-23"
+ },
+ "KKR": {
+  "surprise": 12.279620000000001,
+  "fetched": "2026-11-13"
+ },
+ "KLAC": {
+  "surprise": 2.27056,
+  "fetched": "2026-11-06"
+ },
+ "KHC": {
+  "surprise": 16.180500000000002,
+  "fetched": "2026-11-13"
+ },
+ "KR": {
+  "surprise": -0.1191,
+  "fetched": "2026-10-23"
+ },
+ "LHX": {
+  "surprise": 10.419039999999999,
+  "fetched": "2026-11-06"
+ },
+ "LH": {
+  "surprise": 0.37026000000000003,
+  "fetched": "2026-11-06"
+ },
+ "LRCX": {
+  "surprise": 1.81392,
+  "fetched": "2026-11-06"
+ },
+ "LVS": {
+  "surprise": -22.51052,
+  "fetched": "2026-11-06"
+ },
+ "LDOS": {
+  "surprise": 14.233440000000002,
+  "fetched": "2026-11-06"
+ },
+ "LEN": {
+  "surprise": -5.97598,
+  "fetched": "2026-11-06"
+ },
+ "LII": {
+  "surprise": -5.01528,
+  "fetched": "2026-11-06"
+ },
+ "LLY": {
+  "surprise": 26.24926,
+  "fetched": "2026-11-06"
+ },
+ "LIN": {
+  "surprise": 0.12447999999999992,
+  "fetched": "2026-11-13"
+ },
+ "LYV": {
+  "surprise": 27.68172,
+  "fetched": "2026-11-06"
+ },
+ "LMT": {
+  "surprise": 7.95208,
+  "fetched": "2026-10-23"
+ },
+ "L": {
+  "surprise": null,
+  "fetched": "2026-11-06"
+ },
+ "LOW": {
+  "surprise": 5.15964,
+  "fetched": "2026-11-20"
+ },
+ "LULU": {
+  "surprise": 12.5437,
+  "fetched": "2026-10-23"
+ },
+ "LITE": {
+  "surprise": 4.56078,
+  "fetched": "2026-11-06"
+ },
+ "LYB": {
+  "surprise": 8.64008,
+  "fetched": "2026-11-20"
+ },
+ "MTB": {
+  "surprise": 5.5997,
+  "fetched": "2026-11-06"
+ },
+ "MPC": {
+  "surprise": 16.4633,
+  "fetched": "2026-11-06"
+ },
+ "MAR": {
+  "surprise": 3.99254,
+  "fetched": "2026-11-06"
+ },
+ "MRSH": {
+  "surprise": 0.5559,
+  "fetched": "2026-11-06"
+ },
+ "MLM": {
+  "surprise": -4.49384,
+  "fetched": "2026-11-06"
+ },
+ "MRVL": {
+  "surprise": -0.51654,
+  "fetched": "2026-11-13"
+ },
+ "MAS": {
+  "surprise": 18.03454,
+  "fetched": "2026-11-06"
+ },
+ "MA": {
+  "surprise": 1.00752,
+  "fetched": "2026-11-06"
+ },
+ "MKC": {
+  "surprise": 12.63036,
+  "fetched": "2026-10-02"
+ },
+ "MCD": {
+  "surprise": 3.0274400000000004,
+  "fetched": "2026-11-20"
+ },
+ "MCK": {
+  "surprise": 6.069820000000001,
+  "fetched": "2026-11-06"
+ },
+ "MDT": {
+  "surprise": 3.4458,
+  "fetched": "2026-10-23"
+ },
+ "MRK": {
+  "surprise": 32.00996000000001,
+  "fetched": "2026-11-20"
+ },
+ "META": {
+  "surprise": -1.8031000000000006,
+  "fetched": "2026-11-13"
+ },
+ "MET": {
+  "surprise": 1.5209000000000001,
+  "fetched": "2026-11-20"
+ },
+ "MTD": {
+  "surprise": 3.81262,
+  "fetched": "2026-11-06"
+ },
+ "MGM": {
+  "surprise": -130.81658,
+  "fetched": "2026-11-06"
+ },
+ "MCHP": {
+  "surprise": 4.335500000000001,
+  "fetched": "2026-11-06"
+ },
+ "MU": {
+  "surprise": 8.510440000000001,
+  "fetched": "2026-11-06"
+ },
+ "MSFT": {
+  "surprise": 4.63476,
+  "fetched": "2026-11-06"
+ },
+ "MAA": {
+  "surprise": 10.753060000000001,
+  "fetched": "2026-11-20"
+ },
+ "MRNA": {
+  "surprise": 80.78772000000001,
+  "fetched": "2026-11-20"
+ },
+ "MDLZ": {
+  "surprise": 6.57648,
+  "fetched": "2026-11-06"
+ },
+ "MPWR": {
+  "surprise": 5.603540000000001,
+  "fetched": "2026-11-06"
+ },
+ "MNST": {
+  "surprise": -0.5386999999999998,
+  "fetched": "2026-11-06"
+ },
+ "MCO": {
+  "surprise": 1.4179400000000002,
+  "fetched": "2026-11-13"
+ },
+ "MS": {
+  "surprise": 6.32988,
+  "fetched": "2026-11-20"
+ },
+ "MOS": {
+  "surprise": -525.91046,
+  "fetched": "2026-11-06"
+ },
+ "MSI": {
+  "surprise": 8.4268,
+  "fetched": "2026-11-06"
+ },
+ "MSCI": {
+  "surprise": -0.88714,
+  "fetched": "2026-10-23"
+ },
+ "NDAQ": {
+  "surprise": 2.8815600000000003,
+  "fetched": "2026-11-20"
+ },
+ "NTAP": {
+  "surprise": 13.60516,
+  "fetched": "2026-09-26"
+ },
+ "NFLX": {
+  "surprise": 2.06006,
+  "fetched": "2026-10-23"
+ },
+ "NEM": {
+  "surprise": 4.49466,
+  "fetched": "2026-10-23"
+ },
+ "NWSA": {
+  "surprise": 29.13634,
+  "fetched": "2026-11-20"
+ },
+ "NWS": {
+  "surprise": 29.13634,
+  "fetched": "2026-11-20"
+ },
+ "NEE": {
+  "surprise": 3.5877600000000003,
+  "fetched": "2026-11-06"
+ },
+ "NKE": {
+  "surprise": 26.05456,
+  "fetched": "2026-11-20"
+ },
+ "NI": {
+  "surprise": 8.22688,
+  "fetched": "2026-11-13"
+ },
+ "NDSN": {
+  "surprise": 1.38626,
+  "fetched": "2026-09-26"
+ },
+ "NSC": {
+  "surprise": 4.0784,
+  "fetched": "2026-10-23"
+ },
+ "NTRS": {
+  "surprise": 8.816299999999998,
+  "fetched": "2026-11-13"
+ },
+ "NOC": {
+  "surprise": 9.868200000000002,
+  "fetched": "2026-10-23"
+ },
+ "NCLH": {
+  "surprise": 18.39322,
+  "fetched": "2026-11-06"
+ },
+ "NRG": {
+  "surprise": 18.25534,
+  "fetched": "2026-11-13"
+ },
+ "NUE": {
+  "surprise": 1.9759000000000002,
+  "fetched": "2026-11-13"
+ },
+ "NVDA": {
+  "surprise": 5.20952,
+  "fetched": "2026-11-20"
+ },
+ "NVR": {
+  "surprise": -11.70758,
+  "fetched": "2026-11-06"
+ },
+ "NXPI": {
+  "surprise": 1.0093800000000002,
+  "fetched": "2026-11-20"
+ },
+ "ORLY": {
+  "surprise": 0.6155199999999996,
+  "fetched": "2026-11-06"
+ },
+ "OXY": {
+  "surprise": 29.2823,
+  "fetched": "2026-11-20"
+ },
+ "ODFL": {
+  "surprise": 3.6436400000000004,
+  "fetched": "2026-11-20"
+ },
+ "OMC": {
+  "surprise": 2.3277,
+  "fetched": "2026-10-23"
+ },
+ "ON": {
+  "surprise": 0.03479999999999997,
+  "fetched": "2026-11-13"
+ },
+ "OKE": {
+  "surprise": 22.24716,
+  "fetched": "2026-11-06"
+ },
+ "ORCL": {
+  "surprise": 5.5088,
+  "fetched": "2026-11-20"
+ },
+ "OTIS": {
+  "surprise": -0.65214,
+  "fetched": "2026-11-06"
+ },
+ "PCAR": {
+  "surprise": 0.8484400000000001,
+  "fetched": "2026-11-06"
+ },
+ "PKG": {
+  "surprise": 2.1150399999999996,
+  "fetched": "2026-11-06"
+ },
+ "PLTR": {
+  "surprise": 9.40308,
+  "fetched": "2026-11-06"
+ },
+ "PANW": {
+  "surprise": 4.55938,
+  "fetched": "2026-11-20"
+ },
+ "PSKY": {
+  "surprise": 30.49354,
+  "fetched": "2026-10-02"
+ },
+ "PH": {
+  "surprise": 6.87576,
+  "fetched": "2026-11-06"
+ },
+ "PAYX": {
+  "surprise": -0.59334,
+  "fetched": "2026-09-26"
+ },
+ "PYPL": {
+  "surprise": 7.4527,
+  "fetched": "2026-11-20"
+ },
+ "PNR": {
+  "surprise": 2.8945399999999997,
+  "fetched": "2026-11-06"
+ },
+ "PEP": {
+  "surprise": 0.017639999999999878,
+  "fetched": "2026-10-09"
+ },
+ "PFE": {
+  "surprise": 15.800339999999998,
+  "fetched": "2026-11-06"
+ },
+ "PCG": {
+  "surprise": 1.6480400000000004,
+  "fetched": "2026-10-23"
+ },
+ "PM": {
+  "surprise": 1.7542000000000002,
+  "fetched": "2026-10-23"
+ },
+ "PSX": {
+  "surprise": 21.41946,
+  "fetched": "2026-11-06"
+ },
+ "PNW": {
+  "surprise": 1.3751599999999997,
+  "fetched": "2026-11-06"
+ },
+ "PNC": {
+  "surprise": 3.1648800000000006,
+  "fetched": "2026-11-06"
+ },
+ "PPG": {
+  "surprise": 2.11702,
+  "fetched": "2026-11-06"
+ },
+ "PPL": {
+  "surprise": -2.5133399999999995,
+  "fetched": "2026-09-26"
+ },
+ "PFG": {
+  "surprise": -2.960299999999999,
+  "fetched": "2026-11-06"
+ },
+ "PG": {
+  "surprise": 1.26592,
+  "fetched": "2026-11-06"
+ },
+ "PGR": {
+  "surprise": 2.28744,
+  "fetched": "2026-11-20"
+ },
+ "PLD": {
+  "surprise": 19.72168,
+  "fetched": "2026-11-06"
+ },
+ "PRU": {
+  "surprise": 12.34102,
+  "fetched": "2026-11-06"
+ },
+ "PEG": {
+  "surprise": -0.26547999999999927,
+  "fetched": "2026-11-06"
+ },
+ "PTC": {
+  "surprise": 1.39606,
+  "fetched": "2026-11-20"
+ },
+ "PSA": {
+  "surprise": -19.02278,
+  "fetched": "2026-11-20"
+ },
+ "PHM": {
+  "surprise": -1.83584,
+  "fetched": "2026-10-23"
+ },
+ "PWR": {
+  "surprise": 22.6268,
+  "fetched": "2026-11-06"
+ },
+ "QCOM": {
+  "surprise": -1.9488400000000001,
+  "fetched": "2026-11-13"
+ },
+ "DGX": {
+  "surprise": 5.95276,
+  "fetched": "2026-10-23"
+ },
+ "Q": {
+  "surprise": 15.33222,
+  "fetched": "2026-11-06"
+ },
+ "RL": {
+  "surprise": 4.66676,
+  "fetched": "2026-11-06"
+ },
+ "RJF": {
+  "surprise": 7.9363,
+  "fetched": "2026-11-06"
+ },
+ "RDDT": {
+  "surprise": 12.615120000000001,
+  "fetched": "2026-11-06"
+ },
+ "RTX": {
+  "surprise": 5.25832,
+  "fetched": "2026-10-23"
+ },
+ "O": {
+  "surprise": -3.99,
+  "fetched": "2026-11-20"
+ },
+ "REG": {
+  "surprise": -19.313899999999997,
+  "fetched": "2026-11-20"
+ },
+ "REGN": {
+  "surprise": 27.309919999999998,
+  "fetched": "2026-11-06"
+ },
+ "RF": {
+  "surprise": 1.97298,
+  "fetched": "2026-11-13"
+ },
+ "RSG": {
+  "surprise": 0.20370000000000002,
+  "fetched": "2026-11-06"
+ },
+ "RMD": {
+  "surprise": 5.10596,
+  "fetched": "2026-11-20"
+ },
+ "RVTY": {
+  "surprise": 7.6886600000000005,
+  "fetched": "2026-11-13"
+ },
+ "HOOD": {
+  "surprise": -2.7297199999999995,
+  "fetched": "2026-11-06"
+ },
+ "ROK": {
+  "surprise": 3.277,
+  "fetched": "2026-11-13"
+ },
+ "ROL": {
+  "surprise": -4.20368,
+  "fetched": "2026-10-23"
+ },
+ "ROP": {
+  "surprise": 0.7749199999999999,
+  "fetched": "2026-11-06"
+ },
+ "ROST": {
+  "surprise": 8.26786,
+  "fetched": "2026-11-20"
+ },
+ "RCL": {
+  "surprise": 3.0003400000000005,
+  "fetched": "2026-11-06"
+ },
+ "SPGI": {
+  "surprise": 0.6496999999999999,
+  "fetched": "2026-11-20"
+ },
+ "CRM": {
+  "surprise": 78.4364,
+  "fetched": "2026-10-23"
+ },
+ "SNDK": {
+  "surprise": 7.68478,
+  "fetched": "2026-11-20"
+ },
+ "SBAC": {
+  "surprise": 5.16198,
+  "fetched": "2026-11-13"
+ },
+ "SLB": {
+  "surprise": 4.1571,
+  "fetched": "2026-11-06"
+ },
+ "STX": {
+  "surprise": 5.9459800000000005,
+  "fetched": "2026-11-06"
+ },
+ "SRE": {
+  "surprise": 11.374319999999999,
+  "fetched": "2026-11-13"
+ },
+ "NOW": {
+  "surprise": -0.23943999999999965,
+  "fetched": "2026-11-06"
+ },
+ "SHW": {
+  "surprise": 0.1625399999999999,
+  "fetched": "2026-11-06"
+ },
+ "SPG": {
+  "surprise": 52.844,
+  "fetched": "2026-11-06"
+ },
+ "SWKS": {
+  "surprise": 0.88238,
+  "fetched": "2026-11-13"
+ },
+ "SJM": {
+  "surprise": 5.91886,
+  "fetched": "2026-09-26"
+ },
+ "SW": {
+  "surprise": -23.47486,
+  "fetched": "2026-11-06"
+ },
+ "SNA": {
+  "surprise": -4.36166,
+  "fetched": "2026-10-23"
+ },
+ "SOLV": {
+  "surprise": 15.47256,
+  "fetched": "2026-11-06"
+ },
+ "SO": {
+  "surprise": 9.889980000000001,
+  "fetched": "2026-11-20"
+ },
+ "LUV": {
+  "surprise": 41.06942,
+  "fetched": "2026-11-06"
+ },
+ "SWK": {
+  "surprise": 39.31744,
+  "fetched": "2026-11-06"
+ },
+ "SBUX": {
+  "surprise": 16.149079999999998,
+  "fetched": "2026-11-13"
+ },
+ "STT": {
+  "surprise": 3.0750800000000003,
+  "fetched": "2026-11-06"
+ },
+ "STLD": {
+  "surprise": -1.7090199999999998,
+  "fetched": "2026-11-13"
+ },
+ "STE": {
+  "surprise": 6.247599999999999,
+  "fetched": "2026-11-13"
+ },
+ "SYK": {
+  "surprise": 0.8425,
+  "fetched": "2026-11-13"
+ },
+ "SMCI": {
+  "surprise": 55.90172,
+  "fetched": "2026-11-06"
+ },
+ "SYF": {
+  "surprise": 14.3095,
+  "fetched": "2026-11-13"
+ },
+ "SNPS": {
+  "surprise": 4.39492,
+  "fetched": "2026-10-09"
+ },
+ "SYY": {
+  "surprise": -0.6400799999999999,
+  "fetched": "2026-11-20"
+ },
+ "TMUS": {
+  "surprise": 10.25984,
+  "fetched": "2026-11-06"
+ },
+ "TROW": {
+  "surprise": 3.80276,
+  "fetched": "2026-11-13"
+ },
+ "TTWO": {
+  "surprise": 4.311640000000001,
+  "fetched": "2026-11-20"
+ },
+ "TPR": {
+  "surprise": 9.75468,
+  "fetched": "2026-11-06"
+ },
+ "TRGP": {
+  "surprise": 16.95572,
+  "fetched": "2026-11-06"
+ },
+ "TGT": {
+  "surprise": 17.80478,
+  "fetched": "2026-11-20"
+ },
+ "TEL": {
+  "surprise": 1.71026,
+  "fetched": "2026-11-13"
+ },
+ "TDY": {
+  "surprise": 7.6114,
+  "fetched": "2026-10-23"
+ },
+ "TER": {
+  "surprise": 12.256,
+  "fetched": "2026-11-06"
+ },
+ "TSLA": {
+  "surprise": -8.485980000000001,
+  "fetched": "2026-10-23"
+ },
+ "TXN": {
+  "surprise": 8.1875,
+  "fetched": "2026-11-13"
+ },
+ "TPL": {
+  "surprise": 2.25066,
+  "fetched": "2026-11-06"
+ },
+ "TXT": {
+  "surprise": 14.578139999999998,
+  "fetched": "2026-11-20"
+ },
+ "TMO": {
+  "surprise": 3.7873799999999997,
+  "fetched": "2026-11-06"
+ },
+ "TJX": {
+  "surprise": 0.15139999999999998,
+  "fetched": "2026-11-20"
+ },
+ "TKO": {
+  "surprise": 4.298760000000001,
+  "fetched": "2026-11-13"
+ },
+ "TSCO": {
+  "surprise": 0.99048,
+  "fetched": "2026-11-06"
+ },
+ "TT": {
+  "surprise": -0.9565,
+  "fetched": "2026-11-06"
+ },
+ "TDG": {
+  "surprise": 1.79736,
+  "fetched": "2026-11-13"
+ },
+ "TRV": {
+  "surprise": 53.173519999999996,
+  "fetched": "2026-09-26"
+ },
+ "TRMB": {
+  "surprise": 0.7686800000000003,
+  "fetched": "2026-11-06"
+ },
+ "TFC": {
+  "surprise": 7.41642,
+  "fetched": "2026-11-06"
+ },
+ "TYL": {
+  "surprise": -0.0042400000000000215,
+  "fetched": "2026-11-06"
+ },
+ "TSN": {
+  "surprise": 1.9072,
+  "fetched": "2026-11-20"
+ },
+ "USB": {
+  "surprise": 1.8486400000000003,
+  "fetched": "2026-11-06"
+ },
+ "UBER": {
+  "surprise": -27.51926,
+  "fetched": "2026-11-06"
+ },
+ "UDR": {
+  "surprise": 229.38341999999997,
+  "fetched": "2026-11-20"
+ },
+ "ULTA": {
+  "surprise": 6.5318000000000005,
+  "fetched": "2026-09-26"
+ },
+ "UNP": {
+  "surprise": 2.01206,
+  "fetched": "2026-10-23"
+ },
+ "UAL": {
+  "surprise": 0.6814799999999999,
+  "fetched": "2026-10-23"
+ },
+ "UPS": {
+  "surprise": 3.70998,
+  "fetched": "2026-11-06"
+ },
+ "URI": {
+  "surprise": 10.19174,
+  "fetched": "2026-11-06"
+ },
+ "UNH": {
+  "surprise": 18.827280000000002,
+  "fetched": "2026-11-13"
+ },
+ "UHS": {
+  "surprise": -0.09190000000000001,
+  "fetched": "2026-11-06"
+ },
+ "VLO": {
+  "surprise": 16.46558,
+  "fetched": "2026-11-06"
+ },
+ "VEEV": {
+  "surprise": 3.41888,
+  "fetched": "2026-09-26"
+ },
+ "VTR": {
+  "surprise": -11.568599999999998,
+  "fetched": "2026-11-13"
+ },
+ "VLTO": {
+  "surprise": 6.86632,
+  "fetched": "2026-11-06"
+ },
+ "VRSN": {
+  "surprise": -1.74256,
+  "fetched": "2026-10-23"
+ },
+ "VRSK": {
+  "surprise": -0.016859999999999986,
+  "fetched": "2026-11-06"
+ },
+ "VZ": {
+  "surprise": -0.13938,
+  "fetched": "2026-11-06"
+ },
+ "VRTX": {
+  "surprise": -2.3542,
+  "fetched": "2026-11-06"
+ },
+ "VRT": {
+  "surprise": 14.00316,
+  "fetched": "2026-11-13"
+ },
+ "VTRS": {
+  "surprise": 10.620740000000001,
+  "fetched": "2026-11-20"
+ },
+ "VICI": {
+  "surprise": -47.97482,
+  "fetched": "2026-11-13"
+ },
+ "V": {
+  "surprise": -0.09987999999999997,
+  "fetched": "2026-11-06"
+ },
+ "VST": {
+  "surprise": -15.59128,
+  "fetched": "2026-11-20"
+ },
+ "VMRK": {
+  "surprise": -696.32924,
+  "fetched": "2026-11-20"
+ },
+ "VMC": {
+  "surprise": -1.6161199999999998,
+  "fetched": "2026-11-06"
+ },
+ "WRB": {
+  "surprise": 6.738800000000001,
+  "fetched": "2026-11-06"
+ },
+ "GWW": {
+  "surprise": 5.92424,
+  "fetched": "2026-11-20"
+ },
+ "WAB": {
+  "surprise": 3.41272,
+  "fetched": "2026-11-20"
+ },
+ "WMT": {
+  "surprise": 4.01318,
+  "fetched": "2026-11-20"
+ },
+ "DIS": {
+  "surprise": 6.723,
+  "fetched": "2026-11-20"
+ },
+ "WBD": {
+  "surprise": 97.39459999999998,
+  "fetched": "2026-09-26"
+ },
+ "WM": {
+  "surprise": -3.0354400000000004,
+  "fetched": "2026-11-06"
+ },
+ "WAT": {
+  "surprise": 1.1085,
+  "fetched": "2026-11-13"
+ },
+ "WEC": {
+  "surprise": 16.7562,
+  "fetched": "2026-11-20"
+ },
+ "WFC": {
+  "surprise": 6.00072,
+  "fetched": "2026-11-06"
+ },
+ "WELL": {
+  "surprise": -13.58194,
+  "fetched": "2026-11-06"
+ },
+ "WST": {
+  "surprise": 17.23218,
+  "fetched": "2026-11-06"
+ },
+ "WDC": {
+  "surprise": 10.22902,
+  "fetched": "2026-11-20"
+ },
+ "WY": {
+  "surprise": 64.08667999999999,
+  "fetched": "2026-11-20"
+ },
+ "WSM": {
+  "surprise": 2.33618,
+  "fetched": "2026-11-20"
+ },
+ "WMB": {
+  "surprise": 10.797240000000002,
+  "fetched": "2026-11-06"
+ },
+ "WTW": {
+  "surprise": 2.60246,
+  "fetched": "2026-11-06"
+ },
+ "WDAY": {
+  "surprise": 3.61664,
+  "fetched": "2026-10-16"
+ },
+ "WYNN": {
+  "surprise": -28.54948,
+  "fetched": "2026-11-06"
+ },
+ "XEL": {
+  "surprise": 12.498619999999999,
+  "fetched": "2026-11-06"
+ },
+ "XYL": {
+  "surprise": 2.2580999999999998,
+  "fetched": "2026-11-13"
+ },
+ "YUM": {
+  "surprise": 2.9171,
+  "fetched": "2026-11-06"
+ },
+ "ZBRA": {
+  "surprise": 16.52988,
+  "fetched": "2026-11-06"
+ },
+ "ZBH": {
+  "surprise": 0.78446,
+  "fetched": "2026-11-13"
+ },
+ "ZTS": {
+  "surprise": 8.69514,
+  "fetched": "2026-11-06"
+ },
+ "AA": {
+  "surprise": 12.0684,
+  "fetched": "2026-11-06"
+ },
+ "AAL": {
+  "surprise": 148.2529,
+  "fetched": "2026-11-20"
+ },
+ "AAON": {
+  "surprise": 38.41862,
+  "fetched": "2026-11-20"
+ },
+ "ACI": {
+  "surprise": -3.8611200000000014,
+  "fetched": "2026-11-20"
+ },
+ "ACM": {
+  "surprise": -52.14254,
+  "fetched": "2026-11-20"
+ },
+ "ADC": {
+  "surprise": 2.321919999999999,
+  "fetched": "2026-10-23"
+ },
+ "AEIS": {
+  "surprise": 19.355220000000003,
+  "fetched": "2026-11-06"
+ },
+ "AFG": {
+  "surprise": 10.41958,
+  "fetched": "2026-11-06"
+ },
+ "AGCO": {
+  "surprise": 9.484899999999998,
+  "fetched": "2026-11-06"
+ },
+ "AGNC": {
+  "surprise": -0.42668000000000017,
+  "fetched": "2026-11-06"
+ },
+ "AHR": {
+  "surprise": 158.36702000000002,
+  "fetched": "2026-11-06"
+ },
+ "AIT": {
+  "surprise": 4.105639999999999,
+  "fetched": "2026-11-06"
+ },
+ "ALGM": {
+  "surprise": 5.55086,
+  "fetched": "2026-11-06"
+ },
+ "ALK": {
+  "surprise": -121.5303,
+  "fetched": "2026-10-23"
+ },
+ "ALLY": {
+  "surprise": -2.5140000000000002,
+  "fetched": "2026-11-06"
+ },
+ "ALSN": {
+  "surprise": 11.83246,
+  "fetched": "2026-11-13"
+ },
+ "ALV": {
+  "surprise": -3.9997399999999996,
+  "fetched": "2026-11-13"
+ },
+ "AM": {
+  "surprise": 101.03371999999999,
+  "fetched": "2026-11-06"
+ },
+ "AMG": {
+  "surprise": 5.69302,
+  "fetched": "2026-11-13"
+ },
+ "AMH": {
+  "surprise": 45.669399999999996,
+  "fetched": "2026-11-13"
+ },
+ "AMKR": {
+  "surprise": 14.276980000000004,
+  "fetched": "2026-11-06"
+ },
+ "AN": {
+  "surprise": -2.1041800000000004,
+  "fetched": "2026-11-06"
+ },
+ "ANF": {
+  "surprise": 17.9413,
+  "fetched": "2026-09-26"
+ },
+ "APG": {
+  "surprise": 3.29476,
+  "fetched": "2026-11-20"
+ },
+ "APPF": {
+  "surprise": -0.49934,
+  "fetched": "2026-10-23"
+ },
+ "AR": {
+  "surprise": -14.762459999999999,
+  "fetched": "2026-11-06"
+ },
+ "ARMK": {
+  "surprise": -2.6047799999999994,
+  "fetched": "2026-11-20"
+ },
+ "ARW": {
+  "surprise": 22.81764,
+  "fetched": "2026-11-06"
+ },
+ "ARWR": {
+  "surprise": -53.10792,
+  "fetched": "2026-11-13"
+ },
+ "ASB": {
+  "surprise": -1.5036599999999996,
+  "fetched": "2026-11-06"
+ },
+ "ASH": {
+  "surprise": -6.82532,
+  "fetched": "2026-11-20"
+ },
+ "ATI": {
+  "surprise": 10.283420000000001,
+  "fetched": "2026-11-06"
+ },
+ "ATR": {
+  "surprise": 2.89932,
+  "fetched": "2026-11-06"
+ },
+ "AVAV": {
+  "surprise": 90.8736,
+  "fetched": "2026-11-06"
+ },
+ "AVNT": {
+  "surprise": 5.315580000000001,
+  "fetched": "2026-11-06"
+ },
+ "AVT": {
+  "surprise": 26.33562,
+  "fetched": "2026-11-20"
+ },
+ "AVTR": {
+  "surprise": 5.78564,
+  "fetched": "2026-11-06"
+ },
+ "AXTA": {
+  "surprise": -3.7069999999999994,
+  "fetched": "2026-11-20"
+ },
+ "AYI": {
+  "surprise": 2.20262,
+  "fetched": "2026-11-20"
+ },
+ "BAH": {
+  "surprise": 24.78492,
+  "fetched": "2026-09-26"
+ },
+ "BBWI": {
+  "surprise": 93.16076,
+  "fetched": "2026-11-20"
+ },
+ "BC": {
+  "surprise": 33.82834,
+  "fetched": "2026-11-06"
+ },
+ "BCO": {
+  "surprise": 2.07444,
+  "fetched": "2026-11-06"
+ },
+ "BDC": {
+  "surprise": 5.4511400000000005,
+  "fetched": "2026-11-06"
+ },
+ "BHF": {
+  "surprise": -8.603839999999998,
+  "fetched": "2026-11-06"
+ },
+ "BILL": {
+  "surprise": 18.90024,
+  "fetched": "2026-11-20"
+ },
+ "BIO": {
+  "surprise": 30.12162,
+  "fetched": "2026-11-06"
+ },
+ "BJ": {
+  "surprise": 25.588659999999997,
+  "fetched": "2026-11-20"
+ },
+ "BKH": {
+  "surprise": 25.89232,
+  "fetched": "2026-11-06"
+ },
+ "BMRN": {
+  "surprise": 55.480560000000004,
+  "fetched": "2026-11-06"
+ },
+ "BRKR": {
+  "surprise": 28.30724,
+  "fetched": "2026-11-20"
+ },
+ "BROS": {
+  "surprise": 4.27432,
+  "fetched": "2026-11-06"
+ },
+ "BRX": {
+  "surprise": 17.76606,
+  "fetched": "2026-11-06"
+ },
+ "BSY": {
+  "surprise": 9.27452,
+  "fetched": "2026-11-20"
+ },
+ "BTSG": {
+  "surprise": 11.806059999999999,
+  "fetched": "2026-11-06"
+ },
+ "BURL": {
+  "surprise": 24.183579999999996,
+  "fetched": "2026-09-26"
+ },
+ "BWA": {
+  "surprise": 10.10064,
+  "fetched": "2026-11-13"
+ },
+ "BWXT": {
+  "surprise": 2.58502,
+  "fetched": "2026-11-13"
+ },
+ "BYD": {
+  "surprise": 1.37378,
+  "fetched": "2026-11-06"
+ },
+ "CACI": {
+  "surprise": 16.41852,
+  "fetched": "2026-10-23"
+ },
+ "CAR": {
+  "surprise": -42.625640000000004,
+  "fetched": "2026-11-06"
+ },
+ "CART": {
+  "surprise": -11.0527,
+  "fetched": "2026-11-06"
+ },
+ "CAVA": {
+  "surprise": -5.04146,
+  "fetched": "2026-11-06"
+ },
+ "CBSH": {
+  "surprise": 0.34528000000000003,
+  "fetched": "2026-11-06"
+ },
+ "CBT": {
+  "surprise": 1.6546399999999999,
+  "fetched": "2026-11-20"
+ },
+ "CCK": {
+  "surprise": 8.58304,
+  "fetched": "2026-11-06"
+ },
+ "CDE": {
+  "surprise": -65.05336,
+  "fetched": "2026-11-06"
+ },
+ "CDP": {
+  "surprise": -0.28719999999999946,
+  "fetched": "2026-11-06"
+ },
+ "CELH": {
+  "surprise": 2.552859999999999,
+  "fetched": "2026-11-06"
+ },
+ "CFR": {
+  "surprise": 2.36876,
+  "fetched": "2026-11-06"
+ },
+ "CG": {
+  "surprise": 4.749459999999999,
+  "fetched": "2026-11-06"
+ },
+ "CGNX": {
+  "surprise": 1.8379600000000003,
+  "fetched": "2026-11-06"
+ },
+ "CHDN": {
+  "surprise": 2.27938,
+  "fetched": "2026-11-06"
+ },
+ "CHE": {
+  "surprise": 5.16104,
+  "fetched": "2026-11-06"
+ },
+ "CHH": {
+  "surprise": 1.21944,
+  "fetched": "2026-11-06"
+ },
+ "CHRD": {
+  "surprise": 5.41874,
+  "fetched": "2026-11-06"
+ },
+ "CHWY": {
+  "surprise": 0.04359999999999964,
+  "fetched": "2026-09-26"
+ },
+ "CLF": {
+  "surprise": 14.43358,
+  "fetched": "2026-10-23"
+ },
+ "CLH": {
+  "surprise": 17.27252,
+  "fetched": "2026-11-06"
+ },
+ "CMC": {
+  "surprise": 2.9872199999999998,
+  "fetched": "2026-11-13"
+ },
+ "CNH": {
+  "surprise": 45.81828,
+  "fetched": "2026-11-13"
+ },
+ "CNM": {
+  "surprise": 3.03358,
+  "fetched": "2026-11-13"
+ },
+ "CNO": {
+  "surprise": 54.84424,
+  "fetched": "2026-11-13"
+ },
+ "CNX": {
+  "surprise": 7.66478,
+  "fetched": "2026-11-06"
+ },
+ "COKE": {
+  "surprise": null,
+  "fetched": "2026-11-06"
+ },
+ "COLB": {
+  "surprise": 3.7454599999999996,
+  "fetched": "2026-11-13"
+ },
+ "COLM": {
+  "surprise": 12.53084,
+  "fetched": "2026-11-06"
+ },
+ "CORT": {
+  "surprise": 2798.35348,
+  "fetched": "2026-11-06"
+ },
+ "CR": {
+  "surprise": 7.4784999999999995,
+  "fetched": "2026-11-06"
+ },
+ "CRBG": {
+  "surprise": -2.0742399999999996,
+  "fetched": "2026-11-13"
+ },
+ "CROX": {
+  "surprise": 6.836600000000001,
+  "fetched": "2026-11-06"
+ },
+ "CRS": {
+  "surprise": 3.05598,
+  "fetched": "2026-11-20"
+ },
+ "CRUS": {
+  "surprise": 5.36848,
+  "fetched": "2026-11-06"
+ },
+ "CSL": {
+  "surprise": 3.5634,
+  "fetched": "2026-11-06"
+ },
+ "CTRE": {
+  "surprise": -8.00768,
+  "fetched": "2026-11-20"
+ },
+ "CUBE": {
+  "surprise": 7.44786,
+  "fetched": "2026-11-20"
+ },
+ "CUZ": {
+  "surprise": 398.5856,
+  "fetched": "2026-11-20"
+ },
+ "CVLT": {
+  "surprise": 13.6768,
+  "fetched": "2026-11-13"
+ },
+ "CW": {
+  "surprise": 1.0151999999999999,
+  "fetched": "2026-11-06"
+ },
+ "CXT": {
+  "surprise": 5.12956,
+  "fetched": "2026-11-06"
+ },
+ "CYTK": {
+  "surprise": 8.835439999999998,
+  "fetched": "2026-11-06"
+ },
+ "DAR": {
+  "surprise": 26.35386,
+  "fetched": "2026-11-13"
+ },
+ "DBX": {
+  "surprise": 12.04228,
+  "fetched": "2026-11-13"
+ },
+ "DCI": {
+  "surprise": 0.7021599999999999,
+  "fetched": "2026-11-06"
+ },
+ "DINO": {
+  "surprise": 36.5133,
+  "fetched": "2026-11-20"
+ },
+ "DKS": {
+  "surprise": -4.65898,
+  "fetched": "2026-09-26"
+ },
+ "DLB": {
+  "surprise": 2.61864,
+  "fetched": "2026-11-20"
+ },
+ "DOCN": {
+  "surprise": 51.130160000000004,
+  "fetched": "2026-11-06"
+ },
+ "DOCS": {
+  "surprise": -2.32974,
+  "fetched": "2026-11-06"
+ },
+ "DOCU": {
+  "surprise": 5.961320000000001,
+  "fetched": "2026-09-26"
+ },
+ "DT": {
+  "surprise": 5.93618,
+  "fetched": "2026-11-06"
+ },
+ "DTM": {
+  "surprise": -0.7266800000000004,
+  "fetched": "2026-11-06"
+ },
+ "DUOL": {
+  "surprise": -0.7336799999999997,
+  "fetched": "2026-11-06"
+ },
+ "DY": {
+  "surprise": 28.306560000000005,
+  "fetched": "2026-09-26"
+ },
+ "EAT": {
+  "surprise": 6.54594,
+  "fetched": "2026-11-06"
+ },
+ "EEFT": {
+  "surprise": -6.647539999999999,
+  "fetched": "2026-11-06"
+ },
+ "EGP": {
+  "surprise": 6.33958,
+  "fetched": "2026-10-23"
+ },
+ "EHC": {
+  "surprise": 7.85412,
+  "fetched": "2026-11-06"
+ },
+ "ELAN": {
+  "surprise": 19.61432,
+  "fetched": "2026-09-26"
+ },
+ "ELF": {
+  "surprise": 117.48774,
+  "fetched": "2026-11-20"
+ },
+ "ELS": {
+  "surprise": -1.1342799999999995,
+  "fetched": "2026-11-20"
+ },
+ "ENS": {
+  "surprise": 11.433420000000002,
+  "fetched": "2026-11-13"
+ },
+ "ENSG": {
+  "surprise": 1.4792399999999999,
+  "fetched": "2026-11-06"
+ },
+ "ENTG": {
+  "surprise": 15.08766,
+  "fetched": "2026-11-13"
+ },
+ "EPR": {
+  "surprise": 28.45382,
+  "fetched": "2026-11-20"
+ },
+ "EQH": {
+  "surprise": 8.475499999999998,
+  "fetched": "2026-11-06"
+ },
+ "ESAB": {
+  "surprise": -4.24484,
+  "fetched": "2026-11-06"
+ },
+ "ESNT": {
+  "surprise": 11.36084,
+  "fetched": "2026-09-26"
+ },
+ "EVR": {
+  "surprise": 32.46292,
+  "fetched": "2026-11-06"
+ },
+ "EWBC": {
+  "surprise": -1.0231000000000001,
+  "fetched": "2026-10-23"
+ },
+ "EXEL": {
+  "surprise": 3.06266,
+  "fetched": "2026-11-06"
+ },
+ "EXLS": {
+  "surprise": 7.598840000000001,
+  "fetched": "2026-11-06"
+ },
+ "EXP": {
+  "surprise": -6.412239999999999,
+  "fetched": "2026-11-06"
+ },
+ "EXPO": {
+  "surprise": 3.5018400000000005,
+  "fetched": "2026-11-06"
+ },
+ "FAF": {
+  "surprise": 2.3515400000000013,
+  "fetched": "2026-11-06"
+ },
+ "FBIN": {
+  "surprise": 56.654560000000004,
+  "fetched": "2026-11-13"
+ },
+ "FCFS": {
+  "surprise": 0.82914,
+  "fetched": "2026-11-20"
+ },
+ "FCN": {
+  "surprise": 21.004419999999996,
+  "fetched": "2026-11-06"
+ },
+ "FFIN": {
+  "surprise": -2.31038,
+  "fetched": "2026-11-06"
+ },
+ "FHI": {
+  "surprise": 8.97504,
+  "fetched": "2026-11-06"
+ },
+ "FHN": {
+  "surprise": 0.996,
+  "fetched": "2026-11-06"
+ },
+ "FIVE": {
+  "surprise": 20.56674,
+  "fetched": "2026-10-16"
+ },
+ "FLG": {
+  "surprise": -6.757199999999997,
+  "fetched": "2026-09-26"
+ },
+ "FLR": {
+  "surprise": -13.920960000000004,
+  "fetched": "2026-09-26"
+ },
+ "FLS": {
+  "surprise": 8.51256,
+  "fetched": "2026-11-06"
+ },
+ "FN": {
+  "surprise": 2.1223,
+  "fetched": "2026-11-06"
+ },
+ "FNB": {
+  "surprise": -1.23236,
+  "fetched": "2026-11-06"
+ },
+ "FND": {
+  "surprise": 4.32332,
+  "fetched": "2026-11-06"
+ },
+ "FNF": {
+  "surprise": 0.46197999999999995,
+  "fetched": "2026-11-06"
+ },
+ "FOUR": {
+  "surprise": 5.429679999999999,
+  "fetched": "2026-11-06"
+ },
+ "FR": {
+  "surprise": 8.30898,
+  "fetched": "2026-10-23"
+ },
+ "FTI": {
+  "surprise": 14.74946,
+  "fetched": "2026-11-06"
+ },
+ "G": {
+  "surprise": 0.9408400000000001,
+  "fetched": "2026-11-13"
+ },
+ "GAP": {
+  "surprise": 4.744059999999999,
+  "fetched": "2026-11-20"
+ },
+ "GATX": {
+  "surprise": 15.12838,
+  "fetched": "2026-11-20"
+ },
+ "GBCI": {
+  "surprise": -1.7072,
+  "fetched": "2026-11-13"
+ },
+ "GEF": {
+  "surprise": 1.704460000000001,
+  "fetched": "2026-11-20"
+ },
+ "GGG": {
+  "surprise": 3.6749,
+  "fetched": "2026-11-13"
+ },
+ "GHC": {
+  "surprise": 15.831620000000001,
+  "fetched": "2026-11-06"
+ },
+ "GLPI": {
+  "surprise": -10.612659999999998,
+  "fetched": "2026-11-06"
+ },
+ "GME": {
+  "surprise": -0.9901,
+  "fetched": "2026-10-23"
+ },
+ "GMED": {
+  "surprise": 8.248880000000002,
+  "fetched": "2026-11-06"
+ },
+ "GNTX": {
+  "surprise": 9.95908,
+  "fetched": "2026-09-26"
+ },
+ "GPK": {
+  "surprise": 4.24116,
+  "fetched": "2026-11-20"
+ },
+ "GWRE": {
+  "surprise": 4.93332,
+  "fetched": "2026-11-06"
+ },
+ "GXO": {
+  "surprise": 1.35262,
+  "fetched": "2026-11-20"
+ },
+ "H": {
+  "surprise": 45.48616,
+  "fetched": "2026-11-13"
+ },
+ "HAE": {
+  "surprise": 3.0588999999999995,
+  "fetched": "2026-11-06"
+ },
+ "HALO": {
+  "surprise": 8.52452,
+  "fetched": "2026-11-06"
+ },
+ "HGV": {
+  "surprise": 162.47942,
+  "fetched": "2026-11-06"
+ },
+ "HIMS": {
+  "surprise": -1147.41496,
+  "fetched": "2026-11-13"
+ },
+ "HL": {
+  "surprise": -7.38328,
+  "fetched": "2026-11-13"
+ },
+ "HLI": {
+  "surprise": -2.78104,
+  "fetched": "2026-11-06"
+ },
+ "HLNE": {
+  "surprise": 19.63364,
+  "fetched": "2026-11-06"
+ },
+ "HOG": {
+  "surprise": -3.565479999999999,
+  "fetched": "2026-11-06"
+ },
+ "HOMB": {
+  "surprise": 1.21164,
+  "fetched": "2026-11-06"
+ },
+ "HQY": {
+  "surprise": 5.79488,
+  "fetched": "2026-10-09"
+ },
+ "HR": {
+  "surprise": -1809.68256,
+  "fetched": "2026-11-06"
+ },
+ "HRB": {
+  "surprise": 4.61318,
+  "fetched": "2026-11-13"
+ },
+ "HUBS": {
+  "surprise": 10.926779999999999,
+  "fetched": "2026-11-13"
+ },
+ "HWC": {
+  "surprise": -1.01488,
+  "fetched": "2026-11-20"
+ },
+ "HXL": {
+  "surprise": 5.21468,
+  "fetched": "2026-10-23"
+ },
+ "IBOC": {
+  "surprise": -7.79646,
+  "fetched": "2026-11-06"
+ },
+ "IDA": {
+  "surprise": 4.84802,
+  "fetched": "2026-11-06"
+ },
+ "IDCC": {
+  "surprise": 149.43006000000003,
+  "fetched": "2026-11-06"
+ },
+ "IESC": {
+  "surprise": 46.662220000000005,
+  "fetched": "2026-11-20"
+ },
+ "INGR": {
+  "surprise": -7.72192,
+  "fetched": "2026-11-06"
+ },
+ "IPGP": {
+  "surprise": -9.830760000000001,
+  "fetched": "2026-11-06"
+ },
+ "IRT": {
+  "surprise": 45.983459999999994,
+  "fetched": "2026-11-20"
+ },
+ "ITT": {
+  "surprise": 6.65382,
+  "fetched": "2026-11-20"
+ },
+ "JAZZ": {
+  "surprise": -2.9148200000000006,
+  "fetched": "2026-11-06"
+ },
+ "JEF": {
+  "surprise": -1.15118,
+  "fetched": "2026-10-23"
+ },
+ "JLL": {
+  "surprise": 10.94376,
+  "fetched": "2026-11-06"
+ },
+ "KBH": {
+  "surprise": 7.4743200000000005,
+  "fetched": "2026-11-20"
+ },
+ "KBR": {
+  "surprise": 9.80404,
+  "fetched": "2026-11-20"
+ },
+ "KD": {
+  "surprise": 10.81868,
+  "fetched": "2026-11-06"
+ },
+ "KEX": {
+  "surprise": 3.1863799999999998,
+  "fetched": "2026-11-06"
+ },
+ "KNF": {
+  "surprise": -17.428839999999997,
+  "fetched": "2026-11-06"
+ },
+ "KNSL": {
+  "surprise": 7.98516,
+  "fetched": "2026-10-23"
+ },
+ "KNX": {
+  "surprise": 14.196299999999999,
+  "fetched": "2026-11-06"
+ },
+ "KRC": {
+  "surprise": -27.210440000000002,
+  "fetched": "2026-10-23"
+ },
+ "KRG": {
+  "surprise": 24.437420000000003,
+  "fetched": "2026-11-06"
+ },
+ "KRYS": {
+  "surprise": 10.48694,
+  "fetched": "2026-11-06"
+ },
+ "KTOS": {
+  "surprise": 26.37796,
+  "fetched": "2026-11-06"
+ },
+ "LAD": {
+  "surprise": 32.432900000000004,
+  "fetched": "2026-11-06"
+ },
+ "LAMR": {
+  "surprise": 24.889319999999998,
+  "fetched": "2026-11-06"
+ },
+ "LEA": {
+  "surprise": 8.0272,
+  "fetched": "2026-11-06"
+ },
+ "LECO": {
+  "surprise": 3.40028,
+  "fetched": "2026-11-06"
+ },
+ "LFUS": {
+  "surprise": 11.9179,
+  "fetched": "2026-11-06"
+ },
+ "LIVN": {
+  "surprise": 13.36254,
+  "fetched": "2026-11-06"
+ },
+ "LNTH": {
+  "surprise": 26.14136,
+  "fetched": "2026-11-13"
+ },
+ "LOPE": {
+  "surprise": 1.4645000000000001,
+  "fetched": "2026-11-06"
+ },
+ "LPX": {
+  "surprise": 38.14844,
+  "fetched": "2026-11-06"
+ },
+ "LSCC": {
+  "surprise": 23.524340000000002,
+  "fetched": "2026-11-06"
+ },
+ "LSTR": {
+  "surprise": -11.469639999999998,
+  "fetched": "2026-11-06"
+ },
+ "M": {
+  "surprise": 160.5122,
+  "fetched": "2026-09-26"
+ },
+ "MANH": {
+  "surprise": 3.7192800000000004,
+  "fetched": "2026-11-06"
+ },
+ "MAT": {
+  "surprise": -7.643340000000002,
+  "fetched": "2026-11-06"
+ },
+ "MEDP": {
+  "surprise": 6.1585399999999995,
+  "fetched": "2026-10-23"
+ },
+ "MIDD": {
+  "surprise": 3.347699999999999,
+  "fetched": "2026-11-13"
+ },
+ "MKSI": {
+  "surprise": 11.3966,
+  "fetched": "2026-11-06"
+ },
+ "MLI": {
+  "surprise": -3.8437599999999996,
+  "fetched": "2026-11-13"
+ },
+ "MMS": {
+  "surprise": 7.6273599999999995,
+  "fetched": "2026-11-20"
+ },
+ "MOG.A": {
+  "surprise": 27.243699999999997,
+  "fetched": "2026-11-20"
+ },
+ "MOH": {
+  "surprise": 14.19512,
+  "fetched": "2026-10-23"
+ },
+ "MORN": {
+  "surprise": 10.29458,
+  "fetched": "2026-11-06"
+ },
+ "MP": {
+  "surprise": 133.44326,
+  "fetched": "2026-11-06"
+ },
+ "MSA": {
+  "surprise": 4.0155,
+  "fetched": "2026-11-06"
+ },
+ "MSM": {
+  "surprise": 5.64726,
+  "fetched": "2026-10-23"
+ },
+ "MTDR": {
+  "surprise": 13.40476,
+  "fetched": "2026-11-06"
+ },
+ "MTG": {
+  "surprise": 7.25558,
+  "fetched": "2026-11-06"
+ },
+ "MTN": {
+  "surprise": -0.276,
+  "fetched": "2026-10-23"
+ },
+ "MTSI": {
+  "surprise": 2.3052599999999996,
+  "fetched": "2026-11-13"
+ },
+ "MTZ": {
+  "surprise": -0.8175600000000001,
+  "fetched": "2026-11-20"
+ },
+ "MUR": {
+  "surprise": 24.16182,
+  "fetched": "2026-11-13"
+ },
+ "MUSA": {
+  "surprise": 12.19848,
+  "fetched": "2026-11-06"
+ },
+ "MZTI": {
+  "surprise": -9.77672,
+  "fetched": "2026-11-13"
+ },
+ "NBIX": {
+  "surprise": 41.96834,
+  "fetched": "2026-11-06"
+ },
+ "NEU": {
+  "surprise": null,
+  "fetched": "2026-11-06"
+ },
+ "NFG": {
+  "surprise": 12.54806,
+  "fetched": "2026-11-20"
+ },
+ "NJR": {
+  "surprise": 16.233560000000004,
+  "fetched": "2026-11-20"
+ },
+ "NLY": {
+  "surprise": 3.5113399999999997,
+  "fetched": "2026-11-06"
+ },
+ "NNN": {
+  "surprise": 43.6094,
+  "fetched": "2026-11-06"
+ },
+ "NOV": {
+  "surprise": 33.644200000000005,
+  "fetched": "2026-11-06"
+ },
+ "NOVT": {
+  "surprise": 5.9451,
+  "fetched": "2026-11-13"
+ },
+ "NTNX": {
+  "surprise": 24.192439999999998,
+  "fetched": "2026-10-09"
+ },
+ "NVST": {
+  "surprise": 13.99202,
+  "fetched": "2026-11-06"
+ },
+ "NVT": {
+  "surprise": 15.42678,
+  "fetched": "2026-11-06"
+ },
+ "NWE": {
+  "surprise": 10.91586,
+  "fetched": "2026-11-06"
+ },
+ "NXST": {
+  "surprise": -6.71064,
+  "fetched": "2026-11-06"
+ },
+ "NXT": {
+  "surprise": 15.936440000000001,
+  "fetched": "2026-11-06"
+ },
+ "NYT": {
+  "surprise": 3.8238999999999996,
+  "fetched": "2026-11-06"
+ },
+ "OC": {
+  "surprise": -4.015579999999998,
+  "fetched": "2026-11-06"
+ },
+ "OGE": {
+  "surprise": 6.235739999999999,
+  "fetched": "2026-11-06"
+ },
+ "OGS": {
+  "surprise": 18.35658,
+  "fetched": "2026-11-06"
+ },
+ "OHI": {
+  "surprise": 103.75384,
+  "fetched": "2026-11-06"
+ },
+ "OKTA": {
+  "surprise": 5.72194,
+  "fetched": "2026-09-26"
+ },
+ "OLED": {
+  "surprise": 30.061719999999998,
+  "fetched": "2026-11-06"
+ },
+ "OLLI": {
+  "surprise": 14.42256,
+  "fetched": "2026-10-16"
+ },
+ "OLN": {
+  "surprise": 1.128420000000002,
+  "fetched": "2026-09-26"
+ },
+ "ONB": {
+  "surprise": 0.27114000000000016,
+  "fetched": "2026-11-13"
+ },
+ "ONTO": {
+  "surprise": 7.25206,
+  "fetched": "2026-11-20"
+ },
+ "OPCH": {
+  "surprise": 1.2043400000000002,
+  "fetched": "2026-11-06"
+ },
+ "ORA": {
+  "surprise": 72.47164,
+  "fetched": "2026-11-06"
+ },
+ "ORI": {
+  "surprise": -6.977040000000001,
+  "fetched": "2026-11-06"
+ },
+ "OSK": {
+  "surprise": -10.296199999999999,
+  "fetched": "2026-11-06"
+ },
+ "OVV": {
+  "surprise": -6.90646,
+  "fetched": "2026-11-06"
+ },
+ "OZK": {
+  "surprise": -0.1043,
+  "fetched": "2026-09-26"
+ },
+ "PAG": {
+  "surprise": 0.03664000000000023,
+  "fetched": "2026-11-06"
+ },
+ "PATH": {
+  "surprise": -3.81732,
+  "fetched": "2026-09-26"
+ },
+ "PB": {
+  "surprise": -7.531519999999999,
+  "fetched": "2026-11-13"
+ },
+ "PBF": {
+  "surprise": 29.743479999999998,
+  "fetched": "2026-11-06"
+ },
+ "PCTY": {
+  "surprise": 9.18592,
+  "fetched": "2026-11-06"
+ },
+ "PEGA": {
+  "surprise": -26.11874,
+  "fetched": "2026-10-23"
+ },
+ "PEN": {
+  "surprise": -19.05614,
+  "fetched": "2026-11-06"
+ },
+ "PFGC": {
+  "surprise": -0.56818,
+  "fetched": "2026-11-20"
+ },
+ "PII": {
+  "surprise": 115.9888,
+  "fetched": "2026-11-06"
+ },
+ "PINS": {
+  "surprise": 3.518860000000001,
+  "fetched": "2026-11-06"
+ },
+ "PK": {
+  "surprise": 697.26522,
+  "fetched": "2026-11-06"
+ },
+ "PLNT": {
+  "surprise": 1.4272,
+  "fetched": "2026-11-06"
+ },
+ "PNFP": {
+  "surprise": 0.012700000000000017,
+  "fetched": "2026-11-20"
+ },
+ "POR": {
+  "surprise": -3.7007199999999996,
+  "fetched": "2026-11-20"
+ },
+ "POST": {
+  "surprise": 1.56328,
+  "fetched": "2026-11-20"
+ },
+ "PPC": {
+  "surprise": -10.822040000000001,
+  "fetched": "2026-11-06"
+ },
+ "PR": {
+  "surprise": 33.4363,
+  "fetched": "2026-11-06"
+ },
+ "PRI": {
+  "surprise": 5.12698,
+  "fetched": "2026-11-06"
+ },
+ "PSN": {
+  "surprise": 11.843980000000002,
+  "fetched": "2026-11-06"
+ },
+ "PVH": {
+  "surprise": 13.923419999999998,
+  "fetched": "2026-11-13"
+ },
+ "QLYS": {
+  "surprise": 7.30064,
+  "fetched": "2026-11-13"
+ },
+ "R": {
+  "surprise": 1.0222999999999998,
+  "fetched": "2026-10-23"
+ },
+ "RBA": {
+  "surprise": 0.5296399999999999,
+  "fetched": "2026-11-13"
+ },
+ "RBC": {
+  "surprise": 7.75666,
+  "fetched": "2026-11-06"
+ },
+ "REXR": {
+  "surprise": -14.680320000000002,
+  "fetched": "2026-11-06"
+ },
+ "RGA": {
+  "surprise": 26.97898,
+  "fetched": "2026-11-06"
+ },
+ "RGEN": {
+  "surprise": 14.8768,
+  "fetched": "2026-11-06"
+ },
+ "RGLD": {
+  "surprise": -2.0159200000000004,
+  "fetched": "2026-11-20"
+ },
+ "RH": {
+  "surprise": 16.25852,
+  "fetched": "2026-09-26"
+ },
+ "RLI": {
+  "surprise": 40.90828,
+  "fetched": "2026-11-13"
+ },
+ "RMBS": {
+  "surprise": 4.82028,
+  "fetched": "2026-11-06"
+ },
+ "RNR": {
+  "surprise": 25.653579999999998,
+  "fetched": "2026-11-20"
+ },
+ "ROIV": {
+  "surprise": 24.098,
+  "fetched": "2026-11-13"
+ },
+ "ROKU": {
+  "surprise": 86.75562000000001,
+  "fetched": "2026-11-06"
+ },
+ "RPM": {
+  "surprise": 0.87618,
+  "fetched": "2026-11-13"
+ },
+ "RRC": {
+  "surprise": 11.65112,
+  "fetched": "2026-11-06"
+ },
+ "RRX": {
+  "surprise": 10.42288,
+  "fetched": "2026-11-06"
+ },
+ "RS": {
+  "surprise": 15.108659999999999,
+  "fetched": "2026-11-06"
+ },
+ "RYAN": {
+  "surprise": 9.636,
+  "fetched": "2026-11-06"
+ },
+ "RYN": {
+  "surprise": 4.7458399999999985,
+  "fetched": "2026-11-06"
+ },
+ "SAIA": {
+  "surprise": 1.5013800000000002,
+  "fetched": "2026-11-06"
+ },
+ "SAIC": {
+  "surprise": 32.30194,
+  "fetched": "2026-11-13"
+ },
+ "SANM": {
+  "surprise": 26.581379999999996,
+  "fetched": "2026-11-20"
+ },
+ "SARO": {
+  "surprise": -4.13848,
+  "fetched": "2026-11-20"
+ },
+ "SBRA": {
+  "surprise": 21.59292,
+  "fetched": "2026-11-06"
+ },
+ "SCI": {
+  "surprise": -1.2125,
+  "fetched": "2026-11-06"
+ },
+ "SEIC": {
+  "surprise": -4.243779999999999,
+  "fetched": "2026-11-06"
+ },
+ "SF": {
+  "surprise": -2.07606,
+  "fetched": "2026-11-20"
+ },
+ "SFM": {
+  "surprise": -0.8502400000000001,
+  "fetched": "2026-11-06"
+ },
+ "SGI": {
+  "surprise": -1.3348,
+  "fetched": "2026-11-13"
+ },
+ "SHC": {
+  "surprise": 7.181979999999999,
+  "fetched": "2026-11-06"
+ },
+ "SIGI": {
+  "surprise": 18.91164,
+  "fetched": "2026-10-23"
+ },
+ "SIRI": {
+  "surprise": -5.5495600000000005,
+  "fetched": "2026-11-13"
+ },
+ "SITM": {
+  "surprise": 12.086500000000001,
+  "fetched": "2026-11-06"
+ },
+ "SLAB": {
+  "surprise": 13.91898,
+  "fetched": "2026-11-13"
+ },
+ "SLGN": {
+  "surprise": 1.56022,
+  "fetched": "2026-11-06"
+ },
+ "SLM": {
+  "surprise": -15.821860000000001,
+  "fetched": "2026-11-20"
+ },
+ "SMG": {
+  "surprise": 6.867900000000001,
+  "fetched": "2026-11-06"
+ },
+ "SMTC": {
+  "surprise": 12.20694,
+  "fetched": "2026-10-16"
+ },
+ "SN": {
+  "surprise": 17.20792,
+  "fetched": "2026-11-06"
+ },
+ "SNX": {
+  "surprise": 18.14724,
+  "fetched": "2026-11-06"
+ },
+ "SOLS": {
+  "surprise": 12.50768,
+  "fetched": "2026-11-06"
+ },
+ "SON": {
+  "surprise": -3.3754799999999996,
+  "fetched": "2026-11-13"
+ },
+ "SPXC": {
+  "surprise": 3.8719,
+  "fetched": "2026-11-20"
+ },
+ "SR": {
+  "surprise": 6.0757200000000005,
+  "fetched": "2026-11-20"
+ },
+ "SSB": {
+  "surprise": -2.5309599999999994,
+  "fetched": "2026-11-06"
+ },
+ "SSD": {
+  "surprise": 10.346519999999998,
+  "fetched": "2026-11-06"
+ },
+ "ST": {
+  "surprise": 9.561440000000001,
+  "fetched": "2026-11-06"
+ },
+ "STAG": {
+  "surprise": 19.16652,
+  "fetched": "2026-11-06"
+ },
+ "STRL": {
+  "surprise": 15.100560000000002,
+  "fetched": "2026-11-06"
+ },
+ "STWD": {
+  "surprise": -6.04058,
+  "fetched": "2026-09-26"
+ },
+ "SUI": {
+  "surprise": -10.007659999999998,
+  "fetched": "2026-11-20"
+ },
+ "SWX": {
+  "surprise": 34.288740000000004,
+  "fetched": "2026-11-20"
+ },
+ "SYNA": {
+  "surprise": -0.87316,
+  "fetched": "2026-11-20"
+ },
+ "TCBI": {
+  "surprise": 8.45316,
+  "fetched": "2026-10-23"
+ },
+ "TEX": {
+  "surprise": 6.2984,
+  "fetched": "2026-11-13"
+ },
+ "THC": {
+  "surprise": 42.82487999999999,
+  "fetched": "2026-11-06"
+ },
+ "THG": {
+  "surprise": 20.810380000000002,
+  "fetched": "2026-11-06"
+ },
+ "THO": {
+  "surprise": -8.78998,
+  "fetched": "2026-10-16"
+ },
+ "TKR": {
+  "surprise": 10.994299999999999,
+  "fetched": "2026-11-06"
+ },
+ "TLN": {
+  "surprise": -105.41172,
+  "fetched": "2026-11-13"
+ },
+ "TNL": {
+  "surprise": 3.3091999999999997,
+  "fetched": "2026-11-13"
+ },
+ "TOL": {
+  "surprise": 2.17314,
+  "fetched": "2026-09-26"
+ },
+ "TOST": {
+  "surprise": 36.535439999999994,
+  "fetched": "2026-11-06"
+ },
+ "TREX": {
+  "surprise": 8.111559999999999,
+  "fetched": "2026-11-06"
+ },
+ "TRU": {
+  "surprise": 4.35998,
+  "fetched": "2026-11-06"
+ },
+ "TTC": {
+  "surprise": 2.6078400000000004,
+  "fetched": "2026-09-26"
+ },
+ "TTEK": {
+  "surprise": 3.06736,
+  "fetched": "2026-11-20"
+ },
+ "TTMI": {
+  "surprise": 11.87954,
+  "fetched": "2026-11-20"
+ },
+ "TWLO": {
+  "surprise": 9.89394,
+  "fetched": "2026-11-06"
+ },
+ "TXNM": {
+  "surprise": 4.76042,
+  "fetched": "2026-11-06"
+ },
+ "TXRH": {
+  "surprise": -5.48396,
+  "fetched": "2026-11-06"
+ },
+ "UBSI": {
+  "surprise": 4.11476,
+  "fetched": "2026-10-23"
+ },
+ "UFPI": {
+  "surprise": -7.64024,
+  "fetched": "2026-11-06"
+ },
+ "UGI": {
+  "surprise": -2.5787400000000034,
+  "fetched": "2026-11-20"
+ },
+ "ULS": {
+  "surprise": 1.6335000000000002,
+  "fetched": "2026-11-20"
+ },
+ "UMBF": {
+  "surprise": 9.096160000000001,
+  "fetched": "2026-11-06"
+ },
+ "UNM": {
+  "surprise": -0.09760000000000002,
+  "fetched": "2026-11-06"
+ },
+ "USFD": {
+  "surprise": 0.9066200000000002,
+  "fetched": "2026-11-13"
+ },
+ "UTHR": {
+  "surprise": -5.9862,
+  "fetched": "2026-11-06"
+ },
+ "VAL": {
+  "surprise": 0.4531199999999984,
+  "fetched": "2026-11-13"
+ },
+ "VC": {
+  "surprise": -61.321020000000004,
+  "fetched": "2026-11-06"
+ },
+ "VFC": {
+  "surprise": 9.354339999999997,
+  "fetched": "2026-11-20"
+ },
+ "VIAV": {
+  "surprise": 12.566120000000002,
+  "fetched": "2026-11-20"
+ },
+ "VICR": {
+  "surprise": 23.88654,
+  "fetched": "2026-11-06"
+ },
+ "VLY": {
+  "surprise": 3.2009399999999992,
+  "fetched": "2026-11-06"
+ },
+ "VMI": {
+  "surprise": 6.957159999999999,
+  "fetched": "2026-11-06"
+ },
+ "VNO": {
+  "surprise": 222.06334,
+  "fetched": "2026-11-06"
+ },
+ "VNOM": {
+  "surprise": 2.5594799999999993,
+  "fetched": "2026-11-20"
+ },
+ "VNT": {
+  "surprise": 8.6399,
+  "fetched": "2026-11-06"
+ },
+ "VOYA": {
+  "surprise": -11.0919,
+  "fetched": "2026-11-06"
+ },
+ "VVV": {
+  "surprise": 4.178400000000001,
+  "fetched": "2026-11-20"
+ },
+ "WAL": {
+  "surprise": -0.9522600000000001,
+  "fetched": "2026-11-06"
+ },
+ "WCC": {
+  "surprise": 18.76592,
+  "fetched": "2026-11-13"
+ },
+ "WEX": {
+  "surprise": 6.28556,
+  "fetched": "2026-11-13"
+ },
+ "WFRD": {
+  "surprise": -0.5986800000000017,
+  "fetched": "2026-11-06"
+ },
+ "WH": {
+  "surprise": 4.1696,
+  "fetched": "2026-10-23"
+ },
+ "WHR": {
+  "surprise": -188.11002000000002,
+  "fetched": "2026-11-06"
+ },
+ "WING": {
+  "surprise": 7.42798,
+  "fetched": "2026-11-06"
+ },
+ "WLK": {
+  "surprise": -8.1164,
+  "fetched": "2026-11-20"
+ },
+ "WMG": {
+  "surprise": 0.697420000000001,
+  "fetched": "2026-11-20"
+ },
+ "WMS": {
+  "surprise": 7.3322400000000005,
+  "fetched": "2026-11-13"
+ },
+ "WPC": {
+  "surprise": -1.4700399999999991,
+  "fetched": "2026-11-06"
+ },
+ "WSO": {
+  "surprise": -9.69922,
+  "fetched": "2026-11-06"
+ },
+ "WTFC": {
+  "surprise": 1.2189,
+  "fetched": "2026-11-06"
+ },
+ "WTRG": {
+  "surprise": 3.1567999999999996,
+  "fetched": "2026-11-06"
+ },
+ "WTS": {
+  "surprise": 7.74946,
+  "fetched": "2026-11-06"
+ },
+ "WWD": {
+  "surprise": 6.965339999999999,
+  "fetched": "2026-11-20"
+ },
+ "XPO": {
+  "surprise": 9.76888,
+  "fetched": "2026-11-06"
+ },
+ "XRAY": {
+  "surprise": 13.54052,
+  "fetched": "2026-11-06"
+ },
+ "YETI": {
+  "surprise": 11.870000000000001,
+  "fetched": "2026-11-13"
+ },
+ "ZION": {
+  "surprise": 28.959660000000003,
+  "fetched": "2026-11-06"
+ },
+ "AAMI": {
+  "surprise": 15.557220000000001,
+  "fetched": "2026-11-06"
+ },
+ "AAP": {
+  "surprise": 11.9372,
+  "fetched": "2026-11-06"
+ },
+ "AAT": {
+  "surprise": 21.45214,
+  "fetched": "2026-11-06"
+ },
+ "ABCB": {
+  "surprise": -1.5552800000000002,
+  "fetched": "2026-11-20"
+ },
+ "ABG": {
+  "surprise": -0.1521599999999994,
+  "fetched": "2026-11-06"
+ },
+ "ABM": {
+  "surprise": 1.6838,
+  "fetched": "2026-11-06"
+ },
+ "ACA": {
+  "surprise": 42.786120000000004,
+  "fetched": "2026-09-26"
+ },
+ "ACAD": {
+  "surprise": 115.774,
+  "fetched": "2026-11-06"
+ },
+ "ACHC": {
+  "surprise": 19.15258,
+  "fetched": "2026-11-06"
+ },
+ "ACIW": {
+  "surprise": -7.35714,
+  "fetched": "2026-11-20"
+ },
+ "ACLS": {
+  "surprise": 13.5915,
+  "fetched": "2026-11-06"
+ },
+ "ACMR": {
+  "surprise": 38.456120000000006,
+  "fetched": "2026-11-06"
+ },
+ "ACT": {
+  "surprise": 1.56814,
+  "fetched": "2026-11-06"
+ },
+ "ADAM": {
+  "surprise": 51.15026,
+  "fetched": "2026-11-06"
+ },
+ "ADEA": {
+  "surprise": -14.910539999999997,
+  "fetched": "2026-11-06"
+ },
+ "ADMA": {
+  "surprise": 2.7286200000000003,
+  "fetched": "2026-11-06"
+ },
+ "ADNT": {
+  "surprise": -14.080779999999999,
+  "fetched": "2026-11-20"
+ },
+ "ADT": {
+  "surprise": 2.1988600000000003,
+  "fetched": "2026-11-06"
+ },
+ "ADUS": {
+  "surprise": -0.10762,
+  "fetched": "2026-11-06"
+ },
+ "AEO": {
+  "surprise": -32.4962,
+  "fetched": "2026-09-26"
+ },
+ "AESI": {
+  "surprise": -26.691540000000003,
+  "fetched": "2026-11-06"
+ },
+ "AGO": {
+  "surprise": 2.793339999999999,
+  "fetched": "2026-11-06"
+ },
+ "AGX": {
+  "surprise": 40.09344,
+  "fetched": "2026-09-26"
+ },
+ "AGYS": {
+  "surprise": 19.25038,
+  "fetched": "2026-11-20"
+ },
+ "AHCO": {
+  "surprise": -734.7009599999999,
+  "fetched": "2026-11-06"
+ },
+ "AIN": {
+  "surprise": 11.5198,
+  "fetched": "2026-11-06"
+ },
+ "AIR": {
+  "surprise": 12.59056,
+  "fetched": "2026-11-20"
+ },
+ "AKR": {
+  "surprise": 169.80200000000002,
+  "fetched": "2026-11-06"
+ },
+ "ALG": {
+  "surprise": -12.57826,
+  "fetched": "2026-11-06"
+ },
+ "ALGT": {
+  "surprise": 92.30728,
+  "fetched": "2026-11-06"
+ },
+ "ALHC": {
+  "surprise": 4.099400000000002,
+  "fetched": "2026-11-06"
+ },
+ "ALKS": {
+  "surprise": 175.0,
+  "fetched": "2026-11-13"
+ },
+ "ALRM": {
+  "surprise": 16.85864,
+  "fetched": "2026-11-06"
+ },
+ "AMN": {
+  "surprise": 361.03814,
+  "fetched": "2026-11-06"
+ },
+ "AMPH": {
+  "surprise": 35.65836,
+  "fetched": "2026-11-06"
+ },
+ "AMR": {
+  "surprise": -703.6175,
+  "fetched": "2026-09-26"
+ },
+ "AMRX": {
+  "surprise": 18.7222,
+  "fetched": "2026-11-13"
+ },
+ "AMSF": {
+  "surprise": -17.54002,
+  "fetched": "2026-11-06"
+ },
+ "AMTM": {
+  "surprise": 5.535119999999999,
+  "fetched": "2026-09-26"
+ },
+ "ANDE": {
+  "surprise": 30.34236,
+  "fetched": "2026-11-06"
+ },
+ "ANIP": {
+  "surprise": 15.09646,
+  "fetched": "2026-11-20"
+ },
+ "AORT": {
+  "surprise": -1001.2392,
+  "fetched": "2026-11-06"
+ },
+ "AOSL": {
+  "surprise": 49.39256,
+  "fetched": "2026-11-20"
+ },
+ "APAM": {
+  "surprise": 3.78284,
+  "fetched": "2026-11-13"
+ },
+ "APLE": {
+  "surprise": 10.710040000000001,
+  "fetched": "2026-11-13"
+ },
+ "APOG": {
+  "surprise": 59.28756,
+  "fetched": "2026-11-06"
+ },
+ "ARCB": {
+  "surprise": 3.36738,
+  "fetched": "2026-11-06"
+ },
+ "ARLO": {
+  "surprise": 26.969479999999997,
+  "fetched": "2026-11-06"
+ },
+ "AROC": {
+  "surprise": -6.110880000000001,
+  "fetched": "2026-11-13"
+ },
+ "ARR": {
+  "surprise": -2.30382,
+  "fetched": "2026-11-13"
+ },
+ "ASO": {
+  "surprise": 4.82494,
+  "fetched": "2026-09-26"
+ },
+ "ASTE": {
+  "surprise": -65.49372,
+  "fetched": "2026-11-13"
+ },
+ "ASTH": {
+  "surprise": -20.641740000000002,
+  "fetched": "2026-11-06"
+ },
+ "ATEN": {
+  "surprise": 8.23726,
+  "fetched": "2026-11-06"
+ },
+ "ATMU": {
+  "surprise": 2.8048,
+  "fetched": "2026-11-20"
+ },
+ "AUB": {
+  "surprise": -0.05381999999999998,
+  "fetched": "2026-11-06"
+ },
+ "AVA": {
+  "surprise": 15.6993,
+  "fetched": "2026-11-06"
+ },
+ "AWI": {
+  "surprise": -2.1525199999999995,
+  "fetched": "2026-11-13"
+ },
+ "AWR": {
+  "surprise": 3.6907000000000005,
+  "fetched": "2026-11-06"
+ },
+ "AX": {
+  "surprise": 3.45204,
+  "fetched": "2026-11-13"
+ },
+ "AZTA": {
+  "surprise": 107.2988,
+  "fetched": "2026-11-20"
+ },
+ "AZZ": {
+  "surprise": 7.44038,
+  "fetched": "2026-11-06"
+ },
+ "BANC": {
+  "surprise": -37.13662,
+  "fetched": "2026-11-06"
+ },
+ "BANF": {
+  "surprise": 2.48376,
+  "fetched": "2026-11-20"
+ },
+ "BANR": {
+  "surprise": -6.367859999999999,
+  "fetched": "2026-11-06"
+ },
+ "BBT": {
+  "surprise": -5.0595799999999995,
+  "fetched": "2026-11-20"
+ },
+ "BCC": {
+  "surprise": 7.700600000000001,
+  "fetched": "2026-11-06"
+ },
+ "BCPC": {
+  "surprise": 2.0450999999999997,
+  "fetched": "2026-09-26"
+ },
+ "BFAM": {
+  "surprise": 1.99592,
+  "fetched": "2026-11-06"
+ },
+ "BFH": {
+  "surprise": 21.40792,
+  "fetched": "2026-11-13"
+ },
+ "BFS": {
+  "surprise": 253.04102,
+  "fetched": "2026-11-06"
+ },
+ "BGC": {
+  "surprise": 1.65484,
+  "fetched": "2026-11-20"
+ },
+ "BHE": {
+  "surprise": 6.818960000000001,
+  "fetched": "2026-11-06"
+ },
+ "BJRI": {
+  "surprise": 60.091939999999994,
+  "fetched": "2026-11-06"
+ },
+ "BKE": {
+  "surprise": 13.04376,
+  "fetched": "2026-11-20"
+ },
+ "BKU": {
+  "surprise": -4.573360000000001,
+  "fetched": "2026-11-20"
+ },
+ "BL": {
+  "surprise": 0.38804000000000016,
+  "fetched": "2026-11-06"
+ },
+ "BLFS": {
+  "surprise": 9.803939999999997,
+  "fetched": "2026-09-26"
+ },
+ "BLKB": {
+  "surprise": 1.08714,
+  "fetched": "2026-11-06"
+ },
+ "BMI": {
+  "surprise": 0.26358000000000004,
+  "fetched": "2026-10-23"
+ },
+ "BNL": {
+  "surprise": -6.4232,
+  "fetched": "2026-11-20"
+ },
+ "BOH": {
+  "surprise": -1.5284200000000001,
+  "fetched": "2026-11-06"
+ },
+ "BOOT": {
+  "surprise": 14.936660000000002,
+  "fetched": "2026-11-06"
+ },
+ "BOX": {
+  "surprise": 0.08688000000000007,
+  "fetched": "2026-10-09"
+ },
+ "BRC": {
+  "surprise": 4.17854,
+  "fetched": "2026-11-13"
+ },
+ "BTU": {
+  "surprise": -267.06016,
+  "fetched": "2026-11-06"
+ },
+ "BXMT": {
+  "surprise": 19.33578,
+  "fetched": "2026-11-06"
+ },
+ "CACC": {
+  "surprise": 2.1291599999999997,
+  "fetched": "2026-11-06"
+ },
+ "CAG": {
+  "surprise": 26.625280000000004,
+  "fetched": "2026-10-02"
+ },
+ "CAKE": {
+  "surprise": 11.112919999999999,
+  "fetched": "2026-11-13"
+ },
+ "CALM": {
+  "surprise": -436.9964,
+  "fetched": "2026-10-02"
+ },
+ "CALX": {
+  "surprise": 8.47784,
+  "fetched": "2026-11-06"
+ },
+ "CALY": {
+  "surprise": 649.0239600000001,
+  "fetched": "2026-11-06"
+ },
+ "CARG": {
+  "surprise": 4.239800000000001,
+  "fetched": "2026-11-06"
+ },
+ "CASH": {
+  "surprise": -3.83488,
+  "fetched": "2026-11-20"
+ },
+ "CATY": {
+  "surprise": 2.3118600000000002,
+  "fetched": "2026-10-23"
+ },
+ "CBRL": {
+  "surprise": 400.55924000000005,
+  "fetched": "2026-11-20"
+ },
+ "CBU": {
+  "surprise": -2.344,
+  "fetched": "2026-11-06"
+ },
+ "CC": {
+  "surprise": -15.11544,
+  "fetched": "2026-11-20"
+ },
+ "CCOI": {
+  "surprise": -16.205059999999996,
+  "fetched": "2026-09-26"
+ },
+ "CCS": {
+  "surprise": 36.01570000000001,
+  "fetched": "2026-11-13"
+ },
+ "CE": {
+  "surprise": 4.28218,
+  "fetched": "2026-11-20"
+ },
+ "CENT": {
+  "surprise": 5.29018,
+  "fetched": "2026-09-26"
+ },
+ "CENTA": {
+  "surprise": 5.29018,
+  "fetched": "2026-09-26"
+ },
+ "CENX": {
+  "surprise": 4.36724,
+  "fetched": "2026-11-06"
+ },
+ "CERT": {
+  "surprise": -6.950500000000001,
+  "fetched": "2026-11-06"
+ },
+ "CFFN": {
+  "surprise": -0.0706199999999999,
+  "fetched": "2026-11-06"
+ },
+ "CHCO": {
+  "surprise": 1.57904,
+  "fetched": "2026-11-20"
+ },
+ "CHEF": {
+  "surprise": 21.116600000000002,
+  "fetched": "2026-11-06"
+ },
+ "CLSK": {
+  "surprise": -174.65138000000002,
+  "fetched": "2026-09-26"
+ },
+ "CNK": {
+  "surprise": 12.99758,
+  "fetched": "2026-11-13"
+ },
+ "CNMD": {
+  "surprise": 9.740419999999999,
+  "fetched": "2026-11-06"
+ },
+ "CNR": {
+  "surprise": 126.53594000000001,
+  "fetched": "2026-11-06"
+ },
+ "CNS": {
+  "surprise": -1.22398,
+  "fetched": "2026-11-06"
+ },
+ "CNXC": {
+  "surprise": 2.6024,
+  "fetched": "2026-11-06"
+ },
+ "CNXN": {
+  "surprise": 19.532420000000002,
+  "fetched": "2026-11-06"
+ },
+ "COCO": {
+  "surprise": 29.505580000000002,
+  "fetched": "2026-10-23"
+ },
+ "COHU": {
+  "surprise": 46.91886,
+  "fetched": "2026-11-06"
+ },
+ "COLL": {
+  "surprise": 5.802759999999999,
+  "fetched": "2026-11-06"
+ },
+ "CON": {
+  "surprise": 19.080799999999996,
+  "fetched": "2026-11-13"
+ },
+ "CPB": {
+  "surprise": 1.35138,
+  "fetched": "2026-11-20"
+ },
+ "CPF": {
+  "surprise": 2.07578,
+  "fetched": "2026-11-13"
+ },
+ "CPK": {
+  "surprise": -4.50414,
+  "fetched": "2026-11-13"
+ },
+ "CRC": {
+  "surprise": -0.519700000000002,
+  "fetched": "2026-11-06"
+ },
+ "CRGY": {
+  "surprise": 21.888479999999998,
+  "fetched": "2026-11-06"
+ },
+ "CRI": {
+  "surprise": 138.80304,
+  "fetched": "2026-11-20"
+ },
+ "CRK": {
+  "surprise": -35.3396,
+  "fetched": "2026-11-06"
+ },
+ "CRSR": {
+  "surprise": 15.51252,
+  "fetched": "2026-11-06"
+ },
+ "CRVL": {
+  "surprise": null,
+  "fetched": "2026-11-06"
+ },
+ "CSR": {
+  "surprise": 3801.0896999999995,
+  "fetched": "2026-11-13"
+ },
+ "CSW": {
+  "surprise": 3.8057,
+  "fetched": "2026-11-06"
+ },
+ "CTS": {
+  "surprise": 18.05474,
+  "fetched": "2026-11-06"
+ },
+ "CUBI": {
+  "surprise": 2.59748,
+  "fetched": "2026-10-23"
+ },
+ "CURB": {
+  "surprise": 223.2062,
+  "fetched": "2026-10-23"
+ },
+ "CVBF": {
+  "surprise": 3.8375199999999996,
+  "fetched": "2026-11-20"
+ },
+ "CVCO": {
+  "surprise": 13.803279999999999,
+  "fetched": "2026-11-06"
+ },
+ "CVI": {
+  "surprise": 23.782980000000002,
+  "fetched": "2026-11-20"
+ },
+ "CVSA": {
+  "surprise": 13.60452,
+  "fetched": "2026-11-06"
+ },
+ "CWEN": {
+  "surprise": 59.006859999999996,
+  "fetched": "2026-11-20"
+ },
+ "CWK": {
+  "surprise": 4.782920000000001,
+  "fetched": "2026-11-06"
+ },
+ "CWST": {
+  "surprise": 7.1888200000000015,
+  "fetched": "2026-11-13"
+ },
+ "CWT": {
+  "surprise": 3.663800000000001,
+  "fetched": "2026-11-20"
+ },
+ "CXM": {
+  "surprise": 8.39256,
+  "fetched": "2026-09-26"
+ },
+ "CXW": {
+  "surprise": -53.77314,
+  "fetched": "2026-11-06"
+ },
+ "CZR": {
+  "surprise": -704.12932,
+  "fetched": "2026-11-06"
+ },
+ "DAN": {
+  "surprise": -55.4443,
+  "fetched": "2026-11-20"
+ },
+ "DAVE": {
+  "surprise": -49.93058,
+  "fetched": "2026-11-20"
+ },
+ "DBD": {
+  "surprise": -2.9154999999999998,
+  "fetched": "2026-11-06"
+ },
+ "DCH": {
+  "surprise": 436.66962000000007,
+  "fetched": "2026-10-16"
+ },
+ "DCOM": {
+  "surprise": 1.07118,
+  "fetched": "2026-11-06"
+ },
+ "DEA": {
+  "surprise": 69.06474,
+  "fetched": "2026-11-06"
+ },
+ "DEI": {
+  "surprise": 565.34656,
+  "fetched": "2026-11-06"
+ },
+ "DFH": {
+  "surprise": -1.76518,
+  "fetched": "2026-11-06"
+ },
+ "DFIN": {
+  "surprise": 16.89074,
+  "fetched": "2026-11-06"
+ },
+ "DGII": {
+  "surprise": 4.113200000000001,
+  "fetched": "2026-11-20"
+ },
+ "DIOD": {
+  "surprise": 11.399720000000002,
+  "fetched": "2026-11-13"
+ },
+ "DLX": {
+  "surprise": 8.64604,
+  "fetched": "2026-11-06"
+ },
+ "DMC": {
+  "surprise": 18.3733,
+  "fetched": "2026-11-06"
+ },
+ "DNOW": {
+  "surprise": 22.151580000000003,
+  "fetched": "2026-11-06"
+ },
+ "DORM": {
+  "surprise": 24.41246,
+  "fetched": "2026-11-06"
+ },
+ "DRH": {
+  "surprise": 16.5286,
+  "fetched": "2026-11-20"
+ },
+ "DV": {
+  "surprise": -23.71306,
+  "fetched": "2026-11-13"
+ },
+ "DXC": {
+  "surprise": 10.83676,
+  "fetched": "2026-11-06"
+ },
+ "DXPE": {
+  "surprise": -2.132919999999999,
+  "fetched": "2026-11-06"
+ },
+ "EBC": {
+  "surprise": 3.8366599999999997,
+  "fetched": "2026-11-13"
+ },
+ "ECG": {
+  "surprise": 39.961020000000005,
+  "fetched": "2026-11-20"
+ },
+ "ECPG": {
+  "surprise": 39.1486,
+  "fetched": "2026-11-06"
+ },
+ "EFC": {
+  "surprise": 7.08654,
+  "fetched": "2026-11-13"
+ },
+ "EFOR": {
+  "surprise": 7.6605,
+  "fetched": "2026-11-20"
+ },
+ "EGBN": {
+  "surprise": 58.3917,
+  "fetched": "2026-11-06"
+ },
+ "EIG": {
+  "surprise": 19.817860000000003,
+  "fetched": "2026-11-06"
+ },
+ "EMN": {
+  "surprise": -0.12769999999999992,
+  "fetched": "2026-11-13"
+ },
+ "ENOV": {
+  "surprise": 8.83368,
+  "fetched": "2026-11-06"
+ },
+ "ENPH": {
+  "surprise": -13.52872,
+  "fetched": "2026-11-20"
+ },
+ "ENR": {
+  "surprise": -1.3016400000000004,
+  "fetched": "2026-11-20"
+ },
+ "ENVA": {
+  "surprise": 2.31894,
+  "fetched": "2026-11-20"
+ },
+ "EPAC": {
+  "surprise": 8.03634,
+  "fetched": "2026-11-06"
+ },
+ "EPAM": {
+  "surprise": 2.78566,
+  "fetched": "2026-11-13"
+ },
+ "EPC": {
+  "surprise": 6.120400000000001,
+  "fetched": "2026-11-13"
+ },
+ "EPRT": {
+  "surprise": -11.761859999999999,
+  "fetched": "2026-11-20"
+ },
+ "ESE": {
+  "surprise": 2.22014,
+  "fetched": "2026-11-20"
+ },
+ "ESI": {
+  "surprise": 5.4642,
+  "fetched": "2026-10-23"
+ },
+ "ETSY": {
+  "surprise": -52.22428000000001,
+  "fetched": "2026-11-06"
+ },
+ "EVTC": {
+  "surprise": 7.77666,
+  "fetched": "2026-11-06"
+ },
+ "EXTR": {
+  "surprise": 12.1985,
+  "fetched": "2026-11-06"
+ },
+ "EYE": {
+  "surprise": 44.611399999999996,
+  "fetched": "2026-11-13"
+ },
+ "EZPW": {
+  "surprise": 7.25508,
+  "fetched": "2026-11-13"
+ },
+ "FA": {
+  "surprise": 14.09816,
+  "fetched": "2026-11-13"
+ },
+ "FBK": {
+  "surprise": -1.16658,
+  "fetched": "2026-11-20"
+ },
+ "FBNC": {
+  "surprise": 3.425,
+  "fetched": "2026-11-06"
+ },
+ "FBP": {
+  "surprise": 1.6575600000000015,
+  "fetched": "2026-10-23"
+ },
+ "FBRT": {
+  "surprise": -63.19758,
+  "fetched": "2026-11-06"
+ },
+ "FCF": {
+  "surprise": -1.2264400000000002,
+  "fetched": "2026-11-06"
+ },
+ "FCPT": {
+  "surprise": -14.21034,
+  "fetched": "2026-11-06"
+ },
+ "FELE": {
+  "surprise": 4.82438,
+  "fetched": "2026-11-06"
+ },
+ "FFBC": {
+  "surprise": -7.49948,
+  "fetched": "2026-11-06"
+ },
+ "FG": {
+  "surprise": -1.7051600000000002,
+  "fetched": "2026-11-06"
+ },
+ "FHB": {
+  "surprise": -6.03768,
+  "fetched": "2026-11-06"
+ },
+ "FIBK": {
+  "surprise": 9.44752,
+  "fetched": "2026-11-06"
+ },
+ "FIVN": {
+  "surprise": 0.83336,
+  "fetched": "2026-11-06"
+ },
+ "FIZZ": {
+  "surprise": -14.27134,
+  "fetched": "2026-10-09"
+ },
+ "FLO": {
+  "surprise": -23.823999999999998,
+  "fetched": "2026-11-13"
+ },
+ "FMC": {
+  "surprise": -2793.0311600000005,
+  "fetched": "2026-11-06"
+ },
+ "FORM": {
+  "surprise": 23.71644,
+  "fetched": "2026-11-06"
+ },
+ "FOXF": {
+  "surprise": 72.99234000000001,
+  "fetched": "2026-11-06"
+ },
+ "FRPT": {
+  "surprise": 29.758719999999997,
+  "fetched": "2026-11-06"
+ },
+ "FSS": {
+  "surprise": 4.221760000000001,
+  "fetched": "2026-11-06"
+ },
+ "FTDR": {
+  "surprise": 2.89832,
+  "fetched": "2026-11-13"
+ },
+ "FTRE": {
+  "surprise": 25.8879,
+  "fetched": "2026-11-06"
+ },
+ "FUL": {
+  "surprise": 1.64478,
+  "fetched": "2026-11-20"
+ },
+ "FULT": {
+  "surprise": 9.05148,
+  "fetched": "2026-10-23"
+ },
+ "FUN": {
+  "surprise": -222.26276000000001,
+  "fetched": "2026-11-06"
+ },
+ "GBX": {
+  "surprise": -29.91142,
+  "fetched": "2026-11-06"
+ },
+ "GEO": {
+  "surprise": 16.61602,
+  "fetched": "2026-11-20"
+ },
+ "GFF": {
+  "surprise": 4.72318,
+  "fetched": "2026-11-20"
+ },
+ "GIII": {
+  "surprise": 29.908920000000002,
+  "fetched": "2026-09-26"
+ },
+ "GKOS": {
+  "surprise": 381.13092,
+  "fetched": "2026-11-06"
+ },
+ "GNL": {
+  "surprise": 657.7422399999999,
+  "fetched": "2026-11-06"
+ },
+ "GNW": {
+  "surprise": -15.083,
+  "fetched": "2026-11-13"
+ },
+ "GO": {
+  "surprise": 23.92032,
+  "fetched": "2026-11-13"
+ },
+ "GOLF": {
+  "surprise": -0.3271999999999995,
+  "fetched": "2026-11-06"
+ },
+ "GPI": {
+  "surprise": -6.16192,
+  "fetched": "2026-11-13"
+ },
+ "GPOR": {
+  "surprise": -3.401300000000001,
+  "fetched": "2026-11-06"
+ },
+ "GRBK": {
+  "surprise": 1.8269000000000002,
+  "fetched": "2026-11-06"
+ },
+ "GSHD": {
+  "surprise": 49.91902,
+  "fetched": "2026-11-13"
+ },
+ "GT": {
+  "surprise": 4.22982,
+  "fetched": "2026-10-02"
+ },
+ "GTES": {
+  "surprise": 4.420680000000001,
+  "fetched": "2026-11-20"
+ },
+ "GTY": {
+  "surprise": 7.40016,
+  "fetched": "2026-10-23"
+ },
+ "GVA": {
+  "surprise": 4.723799999999999,
+  "fetched": "2026-11-20"
+ },
+ "HAFC": {
+  "surprise": -1.5569000000000002,
+  "fetched": "2026-11-06"
+ },
+ "HASI": {
+  "surprise": 5.9303799999999995,
+  "fetched": "2026-11-13"
+ },
+ "HAYW": {
+  "surprise": 13.202140000000002,
+  "fetched": "2026-11-06"
+ },
+ "HCC": {
+  "surprise": -14.89768,
+  "fetched": "2026-11-06"
+ },
+ "HCI": {
+  "surprise": 21.297839999999997,
+  "fetched": "2026-11-06"
+ },
+ "HCSG": {
+  "surprise": 46.529740000000004,
+  "fetched": "2026-10-23"
+ },
+ "HE": {
+  "surprise": 19.87072,
+  "fetched": "2026-11-20"
+ },
+ "HFWA": {
+  "surprise": -0.9274800000000001,
+  "fetched": "2026-10-23"
+ },
+ "HIW": {
+  "surprise": 36.84782,
+  "fetched": "2026-11-06"
+ },
+ "HLIT": {
+  "surprise": 36.07898,
+  "fetched": "2026-11-06"
+ },
+ "HMN": {
+  "surprise": 71.17928,
+  "fetched": "2026-11-06"
+ },
+ "HNI": {
+  "surprise": 17.46304,
+  "fetched": "2026-11-06"
+ },
+ "HOPE": {
+  "surprise": 0.5062800000000001,
+  "fetched": "2026-11-06"
+ },
+ "HP": {
+  "surprise": -781.4828600000001,
+  "fetched": "2026-11-20"
+ },
+ "HRMY": {
+  "surprise": -8.699339999999998,
+  "fetched": "2026-11-06"
+ },
+ "HSTM": {
+  "surprise": 19.92958,
+  "fetched": "2026-11-06"
+ },
+ "HTH": {
+  "surprise": 28.330640000000002,
+  "fetched": "2026-10-23"
+ },
+ "HTLD": {
+  "surprise": 360.7078200000001,
+  "fetched": "2026-10-23"
+ },
+ "HTO": {
+  "surprise": -2.8894400000000005,
+  "fetched": "2026-11-06"
+ },
+ "HUBG": {
+  "surprise": -0.96676,
+  "fetched": "2026-11-20"
+ },
+ "HWKN": {
+  "surprise": 4.03068,
+  "fetched": "2026-11-06"
+ },
+ "HZO": {
+  "surprise": -184.9136,
+  "fetched": "2026-11-20"
+ },
+ "IART": {
+  "surprise": 7.250160000000001,
+  "fetched": "2026-10-23"
+ },
+ "IBP": {
+  "surprise": 3.6875200000000006,
+  "fetched": "2026-11-20"
+ },
+ "ICHR": {
+  "surprise": 25.4164,
+  "fetched": "2026-11-06"
+ },
+ "ICUI": {
+  "surprise": 15.729579999999999,
+  "fetched": "2026-11-06"
+ },
+ "IIPR": {
+  "surprise": 22.22882,
+  "fetched": "2026-11-13"
+ },
+ "INDB": {
+  "surprise": -1.7279600000000002,
+  "fetched": "2026-11-20"
+ },
+ "INDV": {
+  "surprise": 34.856700000000004,
+  "fetched": "2026-10-16"
+ },
+ "INSP": {
+  "surprise": 138.1284,
+  "fetched": "2026-11-06"
+ },
+ "INSW": {
+  "surprise": 43.52347999999999,
+  "fetched": "2026-11-06"
+ },
+ "INVA": {
+  "surprise": -258.8392,
+  "fetched": "2026-11-06"
+ },
+ "INVX": {
+  "surprise": 18.817860000000003,
+  "fetched": "2026-11-06"
+ },
+ "IOSP": {
+  "surprise": 7.333220000000001,
+  "fetched": "2026-11-06"
+ },
+ "IPAR": {
+  "surprise": 4.84938,
+  "fetched": "2026-11-20"
+ },
+ "IRDM": {
+  "surprise": 85.29774,
+  "fetched": "2026-10-23"
+ },
+ "ITGR": {
+  "surprise": -8.93834,
+  "fetched": "2026-11-20"
+ },
+ "ITRI": {
+  "surprise": 21.566200000000002,
+  "fetched": "2026-11-20"
+ },
+ "IVT": {
+  "surprise": 446.53015999999997,
+  "fetched": "2026-11-06"
+ },
+ "JBGS": {
+  "surprise": 135.461,
+  "fetched": "2026-09-26"
+ },
+ "JBSS": {
+  "surprise": -33.53726,
+  "fetched": "2026-11-13"
+ },
+ "JBTM": {
+  "surprise": -0.6642000000000003,
+  "fetched": "2026-11-06"
+ },
+ "JJSF": {
+  "surprise": 6.3197,
+  "fetched": "2026-11-20"
+ },
+ "JOE": {
+  "surprise": null,
+  "fetched": "2026-11-06"
+ },
+ "JXN": {
+  "surprise": 15.35346,
+  "fetched": "2026-11-06"
+ },
+ "KAI": {
+  "surprise": 18.330840000000002,
+  "fetched": "2026-11-13"
+ },
+ "KALU": {
+  "surprise": 28.5071,
+  "fetched": "2026-10-23"
+ },
+ "KFY": {
+  "surprise": 2.55068,
+  "fetched": "2026-10-02"
+ },
+ "KGS": {
+  "surprise": -0.5627399999999998,
+  "fetched": "2026-11-13"
+ },
+ "KLIC": {
+  "surprise": 9.195620000000002,
+  "fetched": "2026-11-20"
+ },
+ "KMPR": {
+  "surprise": 58.50138,
+  "fetched": "2026-11-13"
+ },
+ "KMT": {
+  "surprise": 28.91302,
+  "fetched": "2026-11-06"
+ },
+ "KMX": {
+  "surprise": 46.62688,
+  "fetched": "2026-11-06"
+ },
+ "KN": {
+  "surprise": 3.9343199999999996,
+  "fetched": "2026-11-13"
+ },
+ "KNTK": {
+  "surprise": 46.381460000000004,
+  "fetched": "2026-11-06"
+ },
+ "KOP": {
+  "surprise": 24.5551,
+  "fetched": "2026-09-26"
+ },
+ "KRMN": {
+  "surprise": 14.9395,
+  "fetched": "2026-11-06"
+ },
+ "KSS": {
+  "surprise": -15.022939999999995,
+  "fetched": "2026-11-20"
+ },
+ "KTB": {
+  "surprise": 29.472759999999997,
+  "fetched": "2026-11-13"
+ },
+ "KWR": {
+  "surprise": 20.2665,
+  "fetched": "2026-11-06"
+ },
+ "LAUR": {
+  "surprise": 29.38746,
+  "fetched": "2026-11-06"
+ },
+ "LAZ": {
+  "surprise": -41.34372,
+  "fetched": "2026-11-06"
+ },
+ "LBRT": {
+  "surprise": 244.6138,
+  "fetched": "2026-10-23"
+ },
+ "LCII": {
+  "surprise": 1.36374,
+  "fetched": "2026-11-20"
+ },
+ "LEU": {
+  "surprise": -41.168060000000004,
+  "fetched": "2026-11-13"
+ },
+ "LFST": {
+  "surprise": 61.274339999999995,
+  "fetched": "2026-11-13"
+ },
+ "LGIH": {
+  "surprise": 32.12836,
+  "fetched": "2026-11-06"
+ },
+ "LIF": {
+  "surprise": 318.48742,
+  "fetched": "2026-11-13"
+ },
+ "LGND": {
+  "surprise": 16.8825,
+  "fetched": "2026-11-06"
+ },
+ "LKFN": {
+  "surprise": 2.83932,
+  "fetched": "2026-11-13"
+ },
+ "LKQ": {
+  "surprise": -9.906039999999999,
+  "fetched": "2026-11-20"
+ },
+ "LMAT": {
+  "surprise": -8.31538,
+  "fetched": "2026-11-06"
+ },
+ "LNC": {
+  "surprise": -2.497379999999999,
+  "fetched": "2026-11-06"
+ },
+ "LNN": {
+  "surprise": 16.02236,
+  "fetched": "2026-11-06"
+ },
+ "LPG": {
+  "surprise": 33.46912,
+  "fetched": "2026-11-06"
+ },
+ "LQDA": {
+  "surprise": -489.8126,
+  "fetched": "2026-11-20"
+ },
+ "LQDT": {
+  "surprise": 11.28162,
+  "fetched": "2026-11-20"
+ },
+ "LRN": {
+  "surprise": 23.50894,
+  "fetched": "2026-10-23"
+ },
+ "LTC": {
+  "surprise": 26.26726,
+  "fetched": "2026-11-06"
+ },
+ "LTH": {
+  "surprise": 9.51116,
+  "fetched": "2026-11-06"
+ },
+ "LUMN": {
+  "surprise": -69.17084,
+  "fetched": "2026-09-26"
+ },
+ "LW": {
+  "surprise": 28.34702,
+  "fetched": "2026-11-13"
+ },
+ "LXP": {
+  "surprise": -227.1186,
+  "fetched": "2026-10-23"
+ },
+ "LYFT": {
+  "surprise": 70.65832,
+  "fetched": "2026-11-06"
+ },
+ "LZ": {
+  "surprise": -4.02902,
+  "fetched": "2026-11-06"
+ },
+ "LZB": {
+  "surprise": 0.5747199999999992,
+  "fetched": "2026-11-20"
+ },
+ "MAC": {
+  "surprise": -55.03648,
+  "fetched": "2026-11-20"
+ },
+ "MAN": {
+  "surprise": 0.5971000000000001,
+  "fetched": "2026-11-13"
+ },
+ "MARA": {
+  "surprise": 332.00069999999994,
+  "fetched": "2026-11-20"
+ },
+ "MATW": {
+  "surprise": -3.453479999999999,
+  "fetched": "2026-11-20"
+ },
+ "MATX": {
+  "surprise": 10.248719999999999,
+  "fetched": "2026-11-20"
+ },
+ "MBC": {
+  "surprise": 32.150600000000004,
+  "fetched": "2026-11-06"
+ },
+ "MBIN": {
+  "surprise": 34.53042,
+  "fetched": "2026-11-20"
+ },
+ "MC": {
+  "surprise": -0.025420000000000054,
+  "fetched": "2026-11-06"
+ },
+ "MCRI": {
+  "surprise": 1.6216000000000006,
+  "fetched": "2026-11-06"
+ },
+ "MCY": {
+  "surprise": 15.732940000000003,
+  "fetched": "2026-11-06"
+ },
+ "MD": {
+  "surprise": 5.92324,
+  "fetched": "2026-11-06"
+ },
+ "MDU": {
+  "surprise": -4.96406,
+  "fetched": "2026-11-20"
+ },
+ "MGEE": {
+  "surprise": 13.80034,
+  "fetched": "2026-11-06"
+ },
+ "MGY": {
+  "surprise": 18.1744,
+  "fetched": "2026-11-06"
+ },
+ "MHK": {
+  "surprise": 18.8411,
+  "fetched": "2026-11-06"
+ },
+ "MHO": {
+  "surprise": -16.364079999999998,
+  "fetched": "2026-10-23"
+ },
+ "MIR": {
+  "surprise": 5.61368,
+  "fetched": "2026-11-06"
+ },
+ "MKTX": {
+  "surprise": -3.6853999999999996,
+  "fetched": "2026-11-06"
+ },
+ "MLKN": {
+  "surprise": 15.990099999999998,
+  "fetched": "2026-10-23"
+ },
+ "MMI": {
+  "surprise": 136.08007999999998,
+  "fetched": "2026-09-26"
+ },
+ "MMSI": {
+  "surprise": 12.06298,
+  "fetched": "2026-11-06"
+ },
+ "MRCY": {
+  "surprise": 39.80817999999999,
+  "fetched": "2026-11-13"
+ },
+ "MRP": {
+  "surprise": null,
+  "fetched": "2026-11-06"
+ },
+ "MRTN": {
+  "surprise": -4.498240000000001,
+  "fetched": "2026-10-23"
+ },
+ "MSEX": {
+  "surprise": 15.605640000000001,
+  "fetched": "2026-11-06"
+ },
+ "MSGS": {
+  "surprise": 25.37874,
+  "fetched": "2026-11-06"
+ },
+ "MTCH": {
+  "surprise": 17.87966,
+  "fetched": "2026-11-06"
+ },
+ "MTH": {
+  "surprise": -5.653079999999999,
+  "fetched": "2026-11-20"
+ },
+ "MTRN": {
+  "surprise": 9.22878,
+  "fetched": "2026-11-06"
+ },
+ "MTUS": {
+  "surprise": 11.67646,
+  "fetched": "2026-11-06"
+ },
+ "MTX": {
+  "surprise": 1.7654999999999998,
+  "fetched": "2026-11-06"
+ },
+ "MWA": {
+  "surprise": 9.9311,
+  "fetched": "2026-11-20"
+ },
+ "MXL": {
+  "surprise": 9.41996,
+  "fetched": "2026-10-23"
+ },
+ "MYRG": {
+  "surprise": 24.06758,
+  "fetched": "2026-11-06"
+ },
+ "NATL": {
+  "surprise": 30.56364,
+  "fetched": "2026-11-06"
+ },
+ "NAVI": {
+  "surprise": -28.983519999999995,
+  "fetched": "2026-11-13"
+ },
+ "NBHC": {
+  "surprise": -56.324819999999995,
+  "fetched": "2026-11-20"
+ },
+ "NBTB": {
+  "surprise": -1.54538,
+  "fetched": "2026-11-06"
+ },
+ "NE": {
+  "surprise": -262.643,
+  "fetched": "2026-11-06"
+ },
+ "NEO": {
+  "surprise": 36.92572,
+  "fetched": "2026-11-06"
+ },
+ "NEOG": {
+  "surprise": 27.81728,
+  "fetched": "2026-11-06"
+ },
+ "NGVT": {
+  "surprise": 12.63514,
+  "fetched": "2026-11-06"
+ },
+ "NHC": {
+  "surprise": null,
+  "fetched": "2026-11-06"
+ },
+ "NHI": {
+  "surprise": 641.8506600000001,
+  "fetched": "2026-11-13"
+ },
+ "NIC": {
+  "surprise": 3.4164000000000003,
+  "fetched": "2026-11-06"
+ },
+ "NMIH": {
+  "surprise": -2.27772,
+  "fetched": "2026-11-06"
+ },
+ "NOG": {
+  "surprise": 17.22666,
+  "fetched": "2026-11-06"
+ },
+ "NPK": {
+  "surprise": null,
+  "fetched": "2026-11-13"
+ },
+ "NPO": {
+  "surprise": 7.9955,
+  "fetched": "2026-11-06"
+ },
+ "NSIT": {
+  "surprise": 25.803240000000002,
+  "fetched": "2026-11-20"
+ },
+ "NSP": {
+  "surprise": 3.4240600000000003,
+  "fetched": "2026-11-06"
+ },
+ "NSSC": {
+  "surprise": 3.695160000000002,
+  "fetched": "2026-11-06"
+ },
+ "NTCT": {
+  "surprise": 16.15876,
+  "fetched": "2026-11-06"
+ },
+ "NTST": {
+  "surprise": -11.633999999999999,
+  "fetched": "2026-10-23"
+ },
+ "NWBI": {
+  "surprise": 2.99406,
+  "fetched": "2026-11-06"
+ },
+ "NWL": {
+  "surprise": 44.78788,
+  "fetched": "2026-11-13"
+ },
+ "NWN": {
+  "surprise": 57.086420000000004,
+  "fetched": "2026-11-20"
+ },
+ "NX": {
+  "surprise": 17.93272,
+  "fetched": "2026-09-26"
+ },
+ "NXRT": {
+  "surprise": 139.65588000000002,
+  "fetched": "2026-11-06"
+ },
+ "OFG": {
+  "surprise": 11.5349,
+  "fetched": "2026-11-06"
+ },
+ "OGN": {
+  "surprise": -3.7716200000000004,
+  "fetched": "2026-11-06"
+ },
+ "OI": {
+  "surprise": -115.1743,
+  "fetched": "2026-11-06"
+ },
+ "OII": {
+  "surprise": 28.21356,
+  "fetched": "2026-10-23"
+ },
+ "OMCL": {
+  "surprise": 60.55184000000001,
+  "fetched": "2026-11-06"
+ },
+ "OPLN": {
+  "surprise": 10.674579999999999,
+  "fetched": "2026-11-06"
+ },
+ "OSIS": {
+  "surprise": -1.43858,
+  "fetched": "2026-11-06"
+ },
+ "OSW": {
+  "surprise": 6.986800000000001,
+  "fetched": "2026-11-06"
+ },
+ "OTTR": {
+  "surprise": -2.8125799999999987,
+  "fetched": "2026-11-06"
+ },
+ "OUT": {
+  "surprise": 29.88976,
+  "fetched": "2026-11-06"
+ },
+ "PAHC": {
+  "surprise": 5.2018,
+  "fetched": "2026-11-06"
+ },
+ "PARR": {
+  "surprise": 49.36108,
+  "fetched": "2026-11-20"
+ },
+ "PAYC": {
+  "surprise": 16.478379999999998,
+  "fetched": "2026-11-06"
+ },
+ "PAYO": {
+  "surprise": -66.13636,
+  "fetched": "2026-11-06"
+ },
+ "PATK": {
+  "surprise": 0.0537399999999999,
+  "fetched": "2026-11-20"
+ },
+ "PBH": {
+  "surprise": 6.5746,
+  "fetched": "2026-11-06"
+ },
+ "PBI": {
+  "surprise": 22.7675,
+  "fetched": "2026-11-06"
+ },
+ "PCRX": {
+  "surprise": 8.10168,
+  "fetched": "2026-11-13"
+ },
+ "PDFS": {
+  "surprise": 11.123000000000001,
+  "fetched": "2026-11-06"
+ },
+ "PEB": {
+  "surprise": -8432.67328,
+  "fetched": "2026-11-06"
+ },
+ "PECO": {
+  "surprise": 130.55704,
+  "fetched": "2026-11-13"
+ },
+ "PENG": {
+  "surprise": 36.86962,
+  "fetched": "2026-11-06"
+ },
+ "PENN": {
+  "surprise": 32.75937999999999,
+  "fetched": "2026-11-06"
+ },
+ "PFBC": {
+  "surprise": 0.9035600000000001,
+  "fetched": "2026-09-26"
+ },
+ "PFS": {
+  "surprise": 9.2216,
+  "fetched": "2026-11-06"
+ },
+ "PGNY": {
+  "surprise": 37.42304,
+  "fetched": "2026-11-06"
+ },
+ "PHIN": {
+  "surprise": 2.59354,
+  "fetched": "2026-11-20"
+ },
+ "PI": {
+  "surprise": 7.9206199999999995,
+  "fetched": "2026-11-06"
+ },
+ "PIPR": {
+  "surprise": 2.61508,
+  "fetched": "2026-11-06"
+ },
+ "PJT": {
+  "surprise": 5.45518,
+  "fetched": "2026-11-06"
+ },
+ "PLAB": {
+  "surprise": 3.4228000000000005,
+  "fetched": "2026-09-26"
+ },
+ "PLMR": {
+  "surprise": 11.59402,
+  "fetched": "2026-11-13"
+ },
+ "PLUS": {
+  "surprise": 16.6685,
+  "fetched": "2026-11-06"
+ },
+ "PLXS": {
+  "surprise": 8.065380000000001,
+  "fetched": "2026-11-20"
+ },
+ "PMT": {
+  "surprise": -152.47514,
+  "fetched": "2026-11-06"
+ },
+ "POOL": {
+  "surprise": -0.7384,
+  "fetched": "2026-11-20"
+ },
+ "POWI": {
+  "surprise": 10.54512,
+  "fetched": "2026-11-06"
+ },
+ "POWL": {
+  "surprise": 22.11786,
+  "fetched": "2026-11-20"
+ },
+ "PPLI": {
+  "surprise": 303.38778,
+  "fetched": "2026-11-06"
+ },
+ "PRDO": {
+  "surprise": 18.48948,
+  "fetched": "2026-11-06"
+ },
+ "PRG": {
+  "surprise": 6.97626,
+  "fetched": "2026-11-06"
+ },
+ "PRGO": {
+  "surprise": 28.33572,
+  "fetched": "2026-11-06"
+ },
+ "PRGS": {
+  "surprise": 8.27798,
+  "fetched": "2026-10-02"
+ },
+ "PRIM": {
+  "surprise": 28.798540000000003,
+  "fetched": "2026-11-06"
+ },
+ "PRK": {
+  "surprise": 9.20618,
+  "fetched": "2026-11-06"
+ },
+ "PRKS": {
+  "surprise": -14.31612,
+  "fetched": "2026-11-06"
+ },
+ "PRLB": {
+  "surprise": 5.96894,
+  "fetched": "2026-11-20"
+ },
+ "PRSU": {
+  "surprise": -0.21419999999999997,
+  "fetched": "2026-11-06"
+ },
+ "PRVA": {
+  "surprise": 3.17632,
+  "fetched": "2026-11-20"
+ },
+ "PSMT": {
+  "surprise": 0.7157600000000002,
+  "fetched": "2026-11-06"
+ },
+ "PTCT": {
+  "surprise": -120.22631999999999,
+  "fetched": "2026-11-06"
+ },
+ "PTEN": {
+  "surprise": 48.98747999999999,
+  "fetched": "2026-11-06"
+ },
+ "PTGX": {
+  "surprise": 48.37520000000001,
+  "fetched": "2026-11-06"
+ },
+ "PZZA": {
+  "surprise": -3.4555799999999994,
+  "fetched": "2026-11-06"
+ },
+ "QDEL": {
+  "surprise": 179.73368000000002,
+  "fetched": "2026-11-06"
+ },
+ "QNST": {
+  "surprise": 19.48896,
+  "fetched": "2026-11-06"
+ },
+ "QRVO": {
+  "surprise": 42.56056,
+  "fetched": "2026-09-26"
+ },
+ "QTWO": {
+  "surprise": 0.0033199999999999896,
+  "fetched": "2026-11-06"
+ },
+ "RAMP": {
+  "surprise": 7.037739999999999,
+  "fetched": "2026-09-26"
+ },
+ "RAL": {
+  "surprise": 15.023060000000001,
+  "fetched": "2026-11-06"
+ },
+ "RCUS": {
+  "surprise": 2.9418200000000008,
+  "fetched": "2026-11-06"
+ },
+ "RDN": {
+  "surprise": 4.957399999999999,
+  "fetched": "2026-11-13"
+ },
+ "RDNT": {
+  "surprise": 40.09931999999999,
+  "fetched": "2026-11-13"
+ },
+ "RELY": {
+  "surprise": 370.3914,
+  "fetched": "2026-11-06"
+ },
+ "RES": {
+  "surprise": 37.910880000000006,
+  "fetched": "2026-11-06"
+ },
+ "REYN": {
+  "surprise": 0.7593000000000001,
+  "fetched": "2026-11-06"
+ },
+ "REX": {
+  "surprise": 130.94134,
+  "fetched": "2026-09-26"
+ },
+ "REZI": {
+  "surprise": -7.233259999999998,
+  "fetched": "2026-11-13"
+ },
+ "RHI": {
+  "surprise": 2.05672,
+  "fetched": "2026-11-06"
+ },
+ "RHP": {
+  "surprise": 195.34088,
+  "fetched": "2026-11-06"
+ },
+ "RITM": {
+  "surprise": 11.92586,
+  "fetched": "2026-11-06"
+ },
+ "RNG": {
+  "surprise": 3.38588,
+  "fetched": "2026-10-23"
+ },
+ "RNST": {
+  "surprise": -5.8373,
+  "fetched": "2026-11-20"
+ },
+ "ROAD": {
+  "surprise": -3.37318,
+  "fetched": "2026-11-20"
+ },
+ "ROCK": {
+  "surprise": -7.81648,
+  "fetched": "2026-11-06"
+ },
+ "ROG": {
+  "surprise": 6.12364,
+  "fetched": "2026-11-06"
+ },
+ "RRR": {
+  "surprise": -50.07435999999999,
+  "fetched": "2026-11-06"
+ },
+ "RSI": {
+  "surprise": 6.411980000000001,
+  "fetched": "2026-11-06"
+ },
+ "RUN": {
+  "surprise": 213.43042,
+  "fetched": "2026-11-20"
+ },
+ "RUSHA": {
+  "surprise": -1.54756,
+  "fetched": "2026-11-06"
+ },
+ "RXO": {
+  "surprise": 53.8967,
+  "fetched": "2026-11-06"
+ },
+ "SAFE": {
+  "surprise": -4.498220000000001,
+  "fetched": "2026-11-06"
+ },
+ "SAFT": {
+  "surprise": -0.4902,
+  "fetched": "2026-11-06"
+ },
+ "SAH": {
+  "surprise": -12.41962,
+  "fetched": "2026-11-20"
+ },
+ "SBCF": {
+  "surprise": -0.68682,
+  "fetched": "2026-11-06"
+ },
+ "SBH": {
+  "surprise": 2.26094,
+  "fetched": "2026-11-13"
+ },
+ "SBSI": {
+  "surprise": 10.218960000000001,
+  "fetched": "2026-11-20"
+ },
+ "SCHL": {
+  "surprise": -3.04242,
+  "fetched": "2026-09-26"
+ },
+ "SCL": {
+  "surprise": 53.62854,
+  "fetched": "2026-11-06"
+ },
+ "SCSC": {
+  "surprise": -4.571579999999997,
+  "fetched": "2026-11-06"
+ },
+ "SDGR": {
+  "surprise": 64.24986,
+  "fetched": "2026-11-06"
+ },
+ "SEDG": {
+  "surprise": 1369.56688,
+  "fetched": "2026-11-06"
+ },
+ "SEI": {
+  "surprise": 40.010360000000006,
+  "fetched": "2026-11-06"
+ },
+ "SEZL": {
+  "surprise": 5.715059999999999,
+  "fetched": "2026-11-13"
+ },
+ "SFBS": {
+  "surprise": -3.07784,
+  "fetched": "2026-11-06"
+ },
+ "SFNC": {
+  "surprise": -2.679,
+  "fetched": "2026-11-06"
+ },
+ "SHAK": {
+  "surprise": 23.146160000000002,
+  "fetched": "2026-11-06"
+ },
+ "SHEN": {
+  "surprise": 23.927660000000003,
+  "fetched": "2026-11-06"
+ },
+ "SHO": {
+  "surprise": 137.60278,
+  "fetched": "2026-11-20"
+ },
+ "SHOO": {
+  "surprise": 18.08144,
+  "fetched": "2026-11-06"
+ },
+ "SIG": {
+  "surprise": 20.50042,
+  "fetched": "2026-11-20"
+ },
+ "SKT": {
+  "surprise": 88.53453999999999,
+  "fetched": "2026-11-06"
+ },
+ "SKY": {
+  "surprise": -0.05348,
+  "fetched": "2026-11-06"
+ },
+ "SKYW": {
+  "surprise": -3.8211200000000005,
+  "fetched": "2026-11-06"
+ },
+ "SLG": {
+  "surprise": 183.45870000000002,
+  "fetched": "2026-11-06"
+ },
+ "SLVM": {
+  "surprise": -86.45256,
+  "fetched": "2026-09-26"
+ },
+ "SM": {
+  "surprise": 3.6344399999999997,
+  "fetched": "2026-11-13"
+ },
+ "SMP": {
+  "surprise": 4.53238,
+  "fetched": "2026-11-06"
+ },
+ "SMPL": {
+  "surprise": 10.181000000000001,
+  "fetched": "2026-11-06"
+ },
+ "SNDR": {
+  "surprise": 6.470880000000001,
+  "fetched": "2026-11-06"
+ },
+ "SNEX": {
+  "surprise": -20.037679999999998,
+  "fetched": "2026-11-20"
+ },
+ "SONO": {
+  "surprise": 383.3987,
+  "fetched": "2026-11-20"
+ },
+ "SPHR": {
+  "surprise": 36.268,
+  "fetched": "2026-11-06"
+ },
+ "SPNT": {
+  "surprise": 21.891639999999995,
+  "fetched": "2026-11-06"
+ },
+ "SPSC": {
+  "surprise": 11.96984,
+  "fetched": "2026-11-06"
+ },
+ "SRPT": {
+  "surprise": 12.01285999999999,
+  "fetched": "2026-11-06"
+ },
+ "STAA": {
+  "surprise": 324.3388,
+  "fetched": "2026-11-06"
+ },
+ "STBA": {
+  "surprise": 8.73742,
+  "fetched": "2026-11-06"
+ },
+ "STC": {
+  "surprise": -13.47812,
+  "fetched": "2026-11-06"
+ },
+ "STEP": {
+  "surprise": 6.97142,
+  "fetched": "2026-11-13"
+ },
+ "STRA": {
+  "surprise": -9.858960000000002,
+  "fetched": "2026-11-06"
+ },
+ "SUPN": {
+  "surprise": 68.83028,
+  "fetched": "2026-11-06"
+ },
+ "SXI": {
+  "surprise": 2.5324999999999998,
+  "fetched": "2026-11-06"
+ },
+ "SXT": {
+  "surprise": 7.326220000000001,
+  "fetched": "2026-11-06"
+ },
+ "TALO": {
+  "surprise": 81.93742,
+  "fetched": "2026-11-06"
+ },
+ "TBBK": {
+  "surprise": 4.469259999999999,
+  "fetched": "2026-11-06"
+ },
+ "TDC": {
+  "surprise": 20.802619999999997,
+  "fetched": "2026-11-06"
+ },
+ "TDS": {
+  "surprise": 1811.6978399999998,
+  "fetched": "2026-09-26"
+ },
+ "TDW": {
+  "surprise": -34.32866,
+  "fetched": "2026-11-13"
+ },
+ "TFIN": {
+  "surprise": -8.36452,
+  "fetched": "2026-10-23"
+ },
+ "TFX": {
+  "surprise": 36.50674,
+  "fetched": "2026-11-06"
+ },
+ "TGTX": {
+  "surprise": -38.056380000000004,
+  "fetched": "2026-11-13"
+ },
+ "THRM": {
+  "surprise": -16.956399999999995,
+  "fetched": "2026-10-23"
+ },
+ "TILE": {
+  "surprise": 19.11832,
+  "fetched": "2026-11-13"
+ },
+ "TMDX": {
+  "surprise": 39.24204,
+  "fetched": "2026-11-06"
+ },
+ "TMP": {
+  "surprise": 5.34272,
+  "fetched": "2026-11-20"
+ },
+ "TNC": {
+  "surprise": 6.522779999999999,
+  "fetched": "2026-11-06"
+ },
+ "TNDM": {
+  "surprise": 37.70298,
+  "fetched": "2026-11-13"
+ },
+ "TPC": {
+  "surprise": 36.06252,
+  "fetched": "2026-11-06"
+ },
+ "TR": {
+  "surprise": null,
+  "fetched": "2026-10-23"
+ },
+ "TRIP": {
+  "surprise": -13.101579999999998,
+  "fetched": "2026-11-20"
+ },
+ "TRMK": {
+  "surprise": 2.9314999999999998,
+  "fetched": "2026-11-20"
+ },
+ "TRN": {
+  "surprise": -2.4034800000000005,
+  "fetched": "2026-11-06"
+ },
+ "TRNO": {
+  "surprise": 64.3439,
+  "fetched": "2026-11-06"
+ },
+ "TRST": {
+  "surprise": null,
+  "fetched": "2026-11-20"
+ },
+ "TRUP": {
+  "surprise": 30.99356,
+  "fetched": "2026-11-06"
+ },
+ "UCB": {
+  "surprise": -6.17546,
+  "fetched": "2026-11-06"
+ },
+ "UCTT": {
+  "surprise": 23.60408,
+  "fetched": "2026-11-13"
+ },
+ "UE": {
+  "surprise": 155.24608,
+  "fetched": "2026-11-06"
+ },
+ "UFCS": {
+  "surprise": 37.34874000000001,
+  "fetched": "2026-11-20"
+ },
+ "UFPT": {
+  "surprise": 8.99136,
+  "fetched": "2026-11-06"
+ },
+ "UNF": {
+  "surprise": 1.32516,
+  "fetched": "2026-11-06"
+ },
+ "UNFI": {
+  "surprise": 5.189259999999999,
+  "fetched": "2026-11-20"
+ },
+ "UNIT": {
+  "surprise": -14.739919999999996,
+  "fetched": "2026-09-26"
+ },
+ "UPBD": {
+  "surprise": 5.5725999999999996,
+  "fetched": "2026-11-06"
+ },
+ "UPWK": {
+  "surprise": -6.413880000000001,
+  "fetched": "2026-11-06"
+ },
+ "URBN": {
+  "surprise": 3.0720599999999996,
+  "fetched": "2026-09-26"
+ },
+ "USLM": {
+  "surprise": -11.33668,
+  "fetched": "2026-11-06"
+ },
+ "USPH": {
+  "surprise": -2.7948400000000007,
+  "fetched": "2026-11-20"
+ },
+ "UTI": {
+  "surprise": 44.84512,
+  "fetched": "2026-11-20"
+ },
+ "UTL": {
+  "surprise": 22.62344,
+  "fetched": "2026-11-06"
+ },
+ "UVV": {
+  "surprise": -210.96442000000002,
+  "fetched": "2026-11-06"
+ },
+ "VAC": {
+  "surprise": 7.5567,
+  "fetched": "2026-11-06"
+ },
+ "VCEL": {
+  "surprise": 311.72866,
+  "fetched": "2026-11-06"
+ },
+ "VCTR": {
+  "surprise": 7.25736,
+  "fetched": "2026-11-20"
+ },
+ "VCYT": {
+  "surprise": 19.823059999999998,
+  "fetched": "2026-11-06"
+ },
+ "VECO": {
+  "surprise": -0.22707999999999906,
+  "fetched": "2026-11-06"
+ },
+ "VGNT": {
+  "surprise": 5.01186,
+  "fetched": "2026-11-06"
+ },
+ "VIR": {
+  "surprise": 31.02062,
+  "fetched": "2026-11-20"
+ },
+ "VIRT": {
+  "surprise": 9.95404,
+  "fetched": "2026-11-06"
+ },
+ "VRTS": {
+  "surprise": -4.6352,
+  "fetched": "2026-11-13"
+ },
+ "VSAT": {
+  "surprise": 7.77308,
+  "fetched": "2026-11-06"
+ },
+ "VSEC": {
+  "surprise": 42.176700000000004,
+  "fetched": "2026-11-06"
+ },
+ "VSH": {
+  "surprise": 31.0987,
+  "fetched": "2026-11-20"
+ },
+ "VSNT": {
+  "surprise": 381.0507,
+  "fetched": "2026-11-06"
+ },
+ "VSTS": {
+  "surprise": 82.35364,
+  "fetched": "2026-11-13"
+ },
+ "VSXY": {
+  "surprise": 51.087880000000006,
+  "fetched": "2026-10-09"
+ },
+ "VTOL": {
+  "surprise": -19.8277,
+  "fetched": "2026-11-06"
+ },
+ "VVX": {
+  "surprise": 12.55128,
+  "fetched": "2026-11-06"
+ },
+ "VYX": {
+  "surprise": 13.75104,
+  "fetched": "2026-11-06"
+ },
+ "WABC": {
+  "surprise": 3.32392,
+  "fetched": "2026-10-23"
+ },
+ "WAFD": {
+  "surprise": -6.48216,
+  "fetched": "2026-11-20"
+ },
+ "WAY": {
+  "surprise": 7.1389000000000005,
+  "fetched": "2026-11-06"
+ },
+ "WD": {
+  "surprise": -57.431540000000005,
+  "fetched": "2026-11-13"
+ },
+ "WDFC": {
+  "surprise": 11.34814,
+  "fetched": "2026-11-06"
+ },
+ "WEN": {
+  "surprise": 25.97454,
+  "fetched": "2026-11-06"
+ },
+ "WERN": {
+  "surprise": -19.66236,
+  "fetched": "2026-11-20"
+ },
+ "WGO": {
+  "surprise": -3.339680000000001,
+  "fetched": "2026-11-06"
+ },
+ "WHD": {
+  "surprise": 33.48104,
+  "fetched": "2026-11-06"
+ },
+ "WINA": {
+  "surprise": -6.446400000000001,
+  "fetched": "2026-10-16"
+ },
+ "WKC": {
+  "surprise": 29.59678,
+  "fetched": "2026-11-06"
+ },
+ "WLY": {
+  "surprise": 5.43054,
+  "fetched": "2026-10-02"
+ },
+ "WOR": {
+  "surprise": 1.19184,
+  "fetched": "2026-11-20"
+ },
+ "WRBY": {
+  "surprise": 18.90402,
+  "fetched": "2026-11-06"
+ },
+ "WRLD": {
+  "surprise": 132.88914,
+  "fetched": "2026-11-13"
+ },
+ "WS": {
+  "surprise": -18.6179,
+  "fetched": "2026-10-23"
+ },
+ "WSBC": {
+  "surprise": 2.10162,
+  "fetched": "2026-11-20"
+ },
+ "WSC": {
+  "surprise": 5.42776,
+  "fetched": "2026-11-13"
+ },
+ "WSFS": {
+  "surprise": 6.907220000000001,
+  "fetched": "2026-11-06"
+ },
+ "WT": {
+  "surprise": 7.11292,
+  "fetched": "2026-11-06"
+ },
+ "WU": {
+  "surprise": 0.7251200000000004,
+  "fetched": "2026-11-13"
+ },
+ "WWW": {
+  "surprise": 44.46306,
+  "fetched": "2026-11-13"
+ },
+ "XHR": {
+  "surprise": 154.44502,
+  "fetched": "2026-11-06"
+ },
+ "XNCR": {
+  "surprise": -7.44006000000001,
+  "fetched": "2026-11-06"
+ },
+ "XPEL": {
+  "surprise": 3.37288,
+  "fetched": "2026-11-06"
+ },
+ "YELP": {
+  "surprise": 39.062659999999994,
+  "fetched": "2026-11-20"
+ },
+ "YOU": {
+  "surprise": 25.55952,
+  "fetched": "2026-11-06"
+ },
+ "ZD": {
+  "surprise": 11.03632,
+  "fetched": "2026-11-20"
+ },
+ "ZWS": {
+  "surprise": 3.57254,
+  "fetched": "2026-11-06"
+ },
+ "SKYD": {
+  "surprise": 578.8455799999999,
+  "fetched": "2026-11-13"
+ },
+ "MBGL": {
+  "surprise": -22.34802,
+  "fetched": "2026-11-13"
+ },
+ "MFP": {
+  "surprise": -21.447900000000004,
+  "fetched": "2026-11-20"
+ },
+ "PTON": {
+  "surprise": -5.23756,
+  "fetched": "2026-11-13"
+ },
+ "ADIG": {
+  "surprise": -1213.17244,
+  "fetched": "2026-11-13"
+ },
+ "UA": {
+  "surprise": 133.63636000000002,
+  "fetched": "2026-11-06"
+ },
+ "UAA": {
+  "surprise": 133.63636000000002,
+  "fetched": "2026-11-06"
+ },
+ "JHX": {
+  "surprise": 9.830960000000001,
+  "fetched": "2026-11-13"
+ },
+ "MSGK": {
+  "surprise": 21.18714,
+  "fetched": "2026-11-13"
+ },
+ "CHYM": {
+  "surprise": 3494.5378,
+  "fetched": "2026-11-20"
+ },
+ "HZN": {
+  "surprise": -29.252920000000003,
+  "fetched": "2026-11-20"
+ }
+}

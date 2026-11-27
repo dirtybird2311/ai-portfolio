@@ -1,0 +1,477 @@
+{
+ "date": "2026-11-06",
+ "inception": "2026-09-28",
+ "metrics": {
+  "AI actual": {
+   "since_inception_%": 0.46,
+   "1m_%": -2.09,
+   "3m_%": null,
+   "6m_%": null,
+   "volatility_%": 20.8,
+   "max_drawdown_%": -6.16,
+   "sharpe": 0.29,
+   "value": 10044.72,
+   "days": 30
+  },
+  "AI as recommended": {
+   "since_inception_%": -2.0,
+   "1m_%": -3.95,
+   "3m_%": null,
+   "6m_%": null,
+   "volatility_%": 20.4,
+   "max_drawdown_%": -7.56,
+   "sharpe": -0.76,
+   "value": 9799.51,
+   "days": 30
+  },
+  "Screen-only control": {
+   "since_inception_%": -5.4,
+   "1m_%": -6.28,
+   "3m_%": null,
+   "6m_%": null,
+   "volatility_%": 17.0,
+   "max_drawdown_%": -7.39,
+   "sharpe": -2.75,
+   "value": 9460.27,
+   "days": 30
+  },
+  "Equal-weight (same picks)": {
+   "since_inception_%": -2.23,
+   "1m_%": -4.37,
+   "3m_%": null,
+   "6m_%": null,
+   "volatility_%": 24.2,
+   "max_drawdown_%": -8.05,
+   "sharpe": -0.69,
+   "value": 9777.12,
+   "days": 30
+  },
+  "No-macro (top-rated, no PM)": {
+   "since_inception_%": -9.74,
+   "1m_%": -11.64,
+   "3m_%": null,
+   "6m_%": null,
+   "volatility_%": 30.3,
+   "max_drawdown_%": -14.73,
+   "sharpe": -2.78,
+   "value": 9025.51,
+   "days": 30
+  },
+  "SPY": {
+   "since_inception_%": -3.96,
+   "1m_%": -4.99,
+   "3m_%": null,
+   "6m_%": null,
+   "volatility_%": 17.2,
+   "max_drawdown_%": -5.92,
+   "sharpe": -1.95,
+   "value": 9603.98,
+   "days": 30
+  },
+  "SPTM (S&P 1500)": {
+   "since_inception_%": -3.6,
+   "1m_%": -4.6,
+   "3m_%": null,
+   "6m_%": null,
+   "volatility_%": 16.9,
+   "max_drawdown_%": -5.6,
+   "sharpe": -1.8,
+   "value": 9639.96,
+   "days": 30
+  },
+  "Macro tilts (sector ETFs)": {
+   "since_inception_%": 2.54,
+   "1m_%": 1.19,
+   "3m_%": null,
+   "6m_%": null,
+   "volatility_%": 11.6,
+   "max_drawdown_%": -2.71,
+   "sharpe": 1.94,
+   "value": 10253.81,
+   "days": 30
+  },
+  "Momentum rule (sector ETFs)": {
+   "since_inception_%": -0.12,
+   "1m_%": -1.05,
+   "3m_%": null,
+   "6m_%": null,
+   "volatility_%": 12.7,
+   "max_drawdown_%": -4.35,
+   "sharpe": -0.02,
+   "value": 9988.26,
+   "days": 30
+  },
+  "AI actual (after AI costs)": {
+   "since_inception_%": 0.21,
+   "1m_%": -2.28,
+   "3m_%": null,
+   "6m_%": null,
+   "volatility_%": 20.9,
+   "max_drawdown_%": -6.27,
+   "sharpe": 0.19,
+   "value": 9998.37,
+   "days": 30
+  },
+  "AI actual (after costs and est. tax)": {
+   "since_inception_%": -0.55,
+   "1m_%": -2.28,
+   "3m_%": null,
+   "6m_%": null,
+   "volatility_%": 20.9,
+   "max_drawdown_%": -6.27,
+   "sharpe": 0.19,
+   "value": 9998.37,
+   "days": 30
+  }
+ },
+ "attribution": [
+  {
+   "period_start": "2026-09-28",
+   "portfolio_%": -0.86,
+   "spy_%": -0.18,
+   "allocation_%": -0.04,
+   "selection_%": -0.64,
+   "selection_S&P 500_%": -0.64,
+   "selection_S&P 400_%": 0.32,
+   "selection_S&P 600_%": -0.32
+  },
+  {
+   "period_start": "2026-09-29",
+   "portfolio_%": 2.93,
+   "spy_%": 1.39,
+   "allocation_%": -0.63,
+   "selection_%": 2.17,
+   "selection_S&P 400_%": 0.74,
+   "selection_S&P 600_%": 1.36,
+   "selection_S&P 500_%": 0.08
+  },
+  {
+   "period_start": "2026-10-05",
+   "portfolio_%": 1.65,
+   "spy_%": -1.08,
+   "allocation_%": 3.88,
+   "selection_%": -1.15,
+   "selection_S&P 500_%": -0.39,
+   "selection_S&P 600_%": -1.98,
+   "selection_S&P 400_%": 1.22
+  },
+  {
+   "period_start": "2026-10-19",
+   "portfolio_%": 1.72,
+   "spy_%": -1.88,
+   "allocation_%": 3.68,
+   "selection_%": -0.09,
+   "selection_S&P 500_%": -1.14,
+   "selection_S&P 600_%": 0.62,
+   "selection_S&P 400_%": 0.43
+  },
+  {
+   "period_start": "2026-11-02",
+   "portfolio_%": -7.13,
+   "spy_%": -2.24,
+   "allocation_%": -1.54,
+   "selection_%": -3.35,
+   "selection_S&P 500_%": -2.75,
+   "selection_S&P 400_%": -0.36,
+   "selection_S&P 600_%": -0.24
+  }
+ ],
+ "scorecards": {
+  "by_conviction": {
+   "1": {
+    "avg_excess_%": -0.67,
+    "n": 17
+   },
+   "2": {
+    "avg_excess_%": -1.1,
+    "n": 64
+   },
+   "3": {
+    "avg_excess_%": 1.61,
+    "n": 178
+   },
+   "4": {
+    "avg_excess_%": 0.55,
+    "n": 60
+   },
+   "5": {
+    "avg_excess_%": 0.48,
+    "n": 1
+   }
+  },
+  "by_debate_winner": {
+   "bear": {
+    "avg_excess_%": -0.31,
+    "n": 146
+   },
+   "bull": {
+    "avg_excess_%": 0.45,
+    "n": 78
+   },
+   "draw": {
+    "avg_excess_%": 2.59,
+    "n": 96
+   }
+  },
+  "conviction_weighting": "not yet (4 graded rebuilds, 320 picks; need 6 and 40 with a 1-pt edge)",
+  "signal_spread_1wk_%": {
+   "momentum": {
+    "avg_%": -0.79,
+    "weeks": 6,
+    "positive_weeks_%": 33
+   },
+   "earnings": {
+    "avg_%": -0.56,
+    "weeks": 6,
+    "positive_weeks_%": 33
+   },
+   "reaction": {
+    "avg_%": 0.13,
+    "weeks": 6,
+    "positive_weeks_%": 67
+   },
+   "industry": {
+    "avg_%": -1.27,
+    "weeks": 6,
+    "positive_weeks_%": 50
+   },
+   "quality": {
+    "avg_%": 0.84,
+    "weeks": 6,
+    "positive_weeks_%": 83
+   },
+   "value": {
+    "avg_%": 1.17,
+    "weeks": 6,
+    "positive_weeks_%": 67
+   },
+   "insider": {
+    "avg_%": 0.02,
+    "weeks": 6,
+    "positive_weeks_%": 50
+   },
+   "reversal": {
+    "avg_%": 0.39,
+    "weeks": 6,
+    "positive_weeks_%": 50
+   },
+   "composite": {
+    "avg_%": 0.13,
+    "weeks": 6,
+    "positive_weeks_%": 67
+   },
+   "resid_momentum": {
+    "avg_%": -1.4,
+    "weeks": 5,
+    "positive_weeks_%": 20
+   },
+   "riskadj_momentum": {
+    "avg_%": -1.66,
+    "weeks": 5,
+    "positive_weeks_%": 20
+   },
+   "high_52w": {
+    "avg_%": 0.04,
+    "weeks": 5,
+    "positive_weeks_%": 40
+   },
+   "frog_momentum": {
+    "avg_%": -1.73,
+    "weeks": 5,
+    "positive_weeks_%": 40
+   },
+   "low_vol": {
+    "avg_%": 1.11,
+    "weeks": 5,
+    "positive_weeks_%": 40
+   },
+   "roic": {
+    "avg_%": 0.63,
+    "weeks": 5,
+    "positive_weeks_%": 40
+   },
+   "stability": {
+    "avg_%": 0.64,
+    "weeks": 5,
+    "positive_weeks_%": 60
+   },
+   "fscore": {
+    "avg_%": 0.73,
+    "weeks": 5,
+    "positive_weeks_%": 80
+   },
+   "net_issuance": {
+    "avg_%": 1.43,
+    "weeks": 5,
+    "positive_weeks_%": 80
+   },
+   "asset_growth": {
+    "avg_%": 1.27,
+    "weeks": 5,
+    "positive_weeks_%": 80
+   },
+   "low_short": {
+    "avg_%": -0.61,
+    "weeks": 5,
+    "positive_weeks_%": 40
+   },
+   "filing_similarity": {
+    "avg_%": 0.45,
+    "weeks": 5,
+    "positive_weeks_%": 80
+   },
+   "cap_bumped_vs_replacements": {
+    "avg_%": -3.78,
+    "weeks": 4,
+    "positive_weeks_%": 50
+   }
+  },
+  "screen_signals_15yr": {
+   "momentum": {
+    "mean_ic": 0.0068,
+    "t": 0.71,
+    "months": 201,
+    "verdict": "adds nothing: candidate for removal (needs your approval)"
+   },
+   "reaction": {
+    "mean_ic": 0.0076,
+    "t": 1.81,
+    "months": 201,
+    "verdict": "keep"
+   },
+   "quality": {
+    "mean_ic": 0.0093,
+    "t": 1.46,
+    "months": 191,
+    "verdict": "keep"
+   },
+   "industry": {
+    "mean_ic": 0.0101,
+    "t": 1.55,
+    "months": 201,
+    "verdict": "keep"
+   },
+   "reversal": {
+    "mean_ic": 0.0082,
+    "t": 1.06,
+    "months": 201,
+    "verdict": "keep"
+   },
+   "value": {
+    "mean_ic": 0.0179,
+    "t": 2.48,
+    "months": 201,
+    "verdict": "keep"
+   },
+   "resid_momentum": {
+    "mean_ic": 0.0113,
+    "t": 1.15,
+    "months": 201,
+    "verdict": "keep"
+   },
+   "riskadj_momentum": {
+    "mean_ic": 0.0081,
+    "t": 0.83,
+    "months": 201,
+    "verdict": "adds nothing: candidate for removal (needs your approval)"
+   },
+   "low_vol": {
+    "mean_ic": -0.0064,
+    "t": -0.48,
+    "months": 201,
+    "verdict": "adds nothing: candidate for removal (needs your approval)"
+   },
+   "roic": {
+    "mean_ic": 0.0062,
+    "t": 1.22,
+    "months": 200,
+    "verdict": "keep"
+   },
+   "stability": {
+    "mean_ic": -0.0042,
+    "t": -0.66,
+    "months": 178,
+    "verdict": "adds nothing: candidate for removal (needs your approval)"
+   },
+   "net_issuance": {
+    "mean_ic": 0.002,
+    "t": 0.35,
+    "months": 200,
+    "verdict": "adds nothing: candidate for removal (needs your approval)"
+   },
+   "asset_growth": {
+    "mean_ic": 0.0048,
+    "t": 0.94,
+    "months": 179,
+    "verdict": "adds nothing: candidate for removal (needs your approval)"
+   },
+   "fscore": {
+    "mean_ic": 0.0086,
+    "t": 1.65,
+    "months": 179,
+    "verdict": "keep"
+   },
+   "high_52w": {
+    "mean_ic": -0.0043,
+    "t": -0.38,
+    "months": 201,
+    "verdict": "adds nothing: candidate for removal (needs your approval)"
+   },
+   "frog_momentum": {
+    "mean_ic": 0.0071,
+    "t": 0.73,
+    "months": 201,
+    "verdict": "adds nothing: candidate for removal (needs your approval)"
+   },
+   "low_short": {
+    "mean_ic": 0.0174,
+    "t": 1.87,
+    "months": 64,
+    "verdict": "keep"
+   },
+   "filing_similarity": {
+    "mean_ic": 0.0035,
+    "t": 0.95,
+    "months": 140,
+    "verdict": "adds nothing: candidate for removal (needs your approval)"
+   }
+  },
+  "macro_predictions": {
+   "graded": 8,
+   "hit_rate_%": 50.0
+  }
+ },
+ "drawdown": {
+  "level": 0,
+  "relative_drawdown_%": -3.71,
+  "as_of": "2026-11-06"
+ },
+ "ai_cost_total": 46.35,
+ "est_tax": 53.54,
+ "robinhood_differences": [
+  "Alpaca paper PBF: book 9.71376 shares, Alpaca 9.87439",
+  "Alpaca paper RS: book 1.32016 shares, Alpaca 1.40498"
+ ],
+ "evaluation_rule": {
+  "look": 0,
+  "months": 1.3,
+  "stat": {
+   "dates": 3,
+   "mean_ic": 0.156,
+   "t": 1.82,
+   "hit_%": 100,
+   "effective_n": 1.5
+  },
+  "panel_vs_base": {
+   "n": 240,
+   "dates": 3,
+   "improvement": 0.00278,
+   "t": 2.04,
+   "upper95": 0.00545,
+   "lower95": 0.00011
+  },
+  "promotion_candidates": [],
+  "verdict": "collecting",
+  "why": "1.3 months of decisions; first scheduled look at 3 months"
+ }
+}

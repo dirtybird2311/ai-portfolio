@@ -1,0 +1,105 @@
+{
+ "date": "2026-10-02",
+ "status": "OK",
+ "regime": "Goldilocks (growth up, inflation down)",
+ "fed": "on hold",
+ "tilts": {
+  "Technology": -1,
+  "Financials": 0,
+  "Health Care": 2,
+  "Energy": -1,
+  "Industrials": 0,
+  "Consumer Discretionary": 0,
+  "Consumer Staples": 2,
+  "Utilities": 1,
+  "Materials": 1,
+  "Real Estate": 0,
+  "Communication Services": 0
+ },
+ "sector_probabilities": {
+  "Technology": 0.4348,
+  "Financials": 0.4603,
+  "Health Care": 0.5894,
+  "Energy": 0.4656,
+  "Industrials": 0.5022,
+  "Consumer Discretionary": 0.4855,
+  "Consumer Staples": 0.5483,
+  "Utilities": 0.588,
+  "Materials": 0.5225,
+  "Real Estate": 0.4179,
+  "Communication Services": 0.5416
+ },
+ "factor_view": {
+  "rates_10y": 0.0,
+  "oil": -3.5,
+  "dollar": 0.0,
+  "credit": -0.5,
+  "inflation_exp": 0.0
+ },
+ "weight_ranges_%": {
+  "Technology": [
+   0,
+   12
+  ],
+  "Financials": [
+   0,
+   25
+  ],
+  "Health Care": [
+   12,
+   45
+  ],
+  "Energy": [
+   0,
+   12
+  ],
+  "Industrials": [
+   0,
+   25
+  ],
+  "Consumer Discretionary": [
+   0,
+   25
+  ],
+  "Consumer Staples": [
+   12,
+   45
+  ],
+  "Utilities": [
+   6,
+   35
+  ],
+  "Materials": [
+   6,
+   35
+  ],
+  "Real Estate": [
+   0,
+   25
+  ],
+  "Communication Services": [
+   0,
+   25
+  ]
+ },
+ "triggers": [],
+ "why": [
+  "tripwire: High-yield credit spread moved +1.1 standard deviations since the last full run (2.8 -> 3.24)"
+ ],
+ "key_risks": [
+  "Credit spread widening (+1.1 SD, the run's tripwire) could accelerate into a genuine tightening-of-financial-conditions episode that CALC:recession_risk (p=3.9%, top drivers FCI/S&P trend/yield curve) and CALC:pullback_risk (p=7.5%) do not yet flag, since both models' top drivers remain benign (NFCI loose, S&P above 200dma, yield curve positive) -- a sharp divergence between spot credit stress and these benign model drivers.",
+  "Geopolitical escalations in the Persian Gulf expanding to direct infrastructure strikes on Ras Tanura or complete closure of the Strait of Hormuz, driving crude oil well past $120/bbl.",
+  "Geopolitical oil-shock risk (GPR 95th percentile, OVX 87th percentile, active Iran-Saudi-Houthi conflict) is a genuine tail event these statistical models don't directly incorporate; a renewed escalation (e.g., Hormuz disruption) could spike oil well beyond this forecast's -5% base case and hit cyclicals/Discretionary hard while lifting Energy/Utilities.",
+  "Labor market cooling accelerating into broader weakness if nonfarm payrolls turn negative, contrary to current Sahm rule stability (0.0).",
+  "NFCI reading loose (-0.55) while HY spreads widen is an internal inconsistency; if NFCI catches up to the credit-spread signal, financial conditions could tighten abruptly, invalidating the base case's modest factor moves.",
+  "OPEC+ Oct 4 decision is a two-way oil risk.",
+  "Persistent term premium expansion pushing 10-year Treasury yields above 5.50%, tightening financial conditions and accelerating credit spread widening.",
+  "Pullback model at 7.5% may understate risk because HY spreads are widening; the recession model's reliance on loose NFCI may lag the rate shock.",
+  "The 10y keeps rising on term premium despite cooling core inflation, invalidating the -10bp bet.",
+  "The sharp back-up in long rates (DGS10 +80bp in 3 months to 5.24%, 96.7th percentile) combined with mortgage rates at 7.28% and weak permits (1403, 11.5 pctile) is a housing/credit transmission risk that could tip growth down faster than GDPNow (3.68%) currently implies.",
+  "US-Iran escalation hitting Gulf supply: oil spike, more Fed hikes, HY widening (OVX 51.7, GPR 95th pct).",
+  "further HY spread widening per tripwire",
+  "oil supply loss escalation per E notes",
+  "yields continue rising per DGS10 z-score"
+ ]
+}

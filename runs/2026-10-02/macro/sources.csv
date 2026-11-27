@@ -1,0 +1,66 @@
+agent,url,title,status,snippet_kind,snippets,page_age
+macro_gather,https://www.cnbc.com/2026/09/07/oil-prices-rise-to-6-week-high-after-iran-and-us-trade-blows-saudi-aramco-facilities-reportedly-hit.html,"Oil prices rise to 6-week high after Iran and U.S. trade blows, Saudi Aramco facilities reportedly hit",cited,source_text,"Meanwhile, the U.S. and Iran fired on each other's ships over the weekend in an escalation of hostilities.  | Meanwhile, the U.S. and Iran fired on each other's ships over the weekend in an escalation of hostilities.
+ | The U.S. military struck three Iranian oil tankers on Saturday after Iran launched ballistic missiles at two Navy warships, U.S. Central Command said....",
+macro_gather,https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html,U.S. crude oil tops $100 again,cited,source_text,"West Texas Intermediate futures gained 6.7% to close at $102.48 per barrel, the highest settle since May 19. ",
+macro_gather,https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia,Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people,cited,source_text,"**
+
+# Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people
+CAIRO — A wave of Houthi attacks on Saudi Arabia Tuesday wound... | Al-Malki said the attacks wounded 73 people, including women and children.
+
+",
+macro_gather,https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html,U.S. oil tops $105 as Saudi Arabia reportedly cancels some crude cargoes after pipeline closure,cited,source_text,"# U.S. oil tops $105 as Saudi Arabia reportedly cancels some crude cargoes after pipeline closure
+- The Saudis described the closure of the East-West ... | The Saudis have described the East-West pipeline closure as a ""precautionary measure"" but haven't provided a damage assessment or an estimate of how l...",
+macro_gather,https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry,Drewry - Service Expertise - World Container Index - 01 Oct,cited,source_text,"01 Oct 2026: Drewry’s World Container Index (WCI) fell 1% to $4,434 per 40ft container.  | - On the Asia–Europe trade route, rates from Shanghai to Genoa fell 3% to $3,702 per 40ft container, while from Shanghai to Rotterdam decreased 2% to ...",
+macro_gather,https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/intra-asia-container-index,Drewry - Service Expertise - Intra Asia Container Index - 01 Oct,cited,source_text,"The deteriorating Middle East situation kept Shanghai–Jebel Ali rates elevated at $8,662 per 40ft container.
+
+",
+macro_gather,https://www.cnbc.com/2026/09/06/opec-oil-output-october.html,OPEC+ keeps oil output policy unchanged for October,cited,source_text,"OPEC+ kept its oil output policy unchanged for October at a meeting on Sunday, it said in a statement, as the producer group needs to agree on new quo... | The seven countries will hold their next meeting on Oct. 4.
+
+",
+macro_gather,https://www.opec.org/pr-detail/243582-30-november-2025.html,40th OPEC and non-OPEC Ministerial Meeting,cited,source_text,Hold the 41st OPEC and non-OPEC Ministerial Meeting on 7 June 2026.,
+macro_gather,https://www.iea.org/reports/oil-market-report-september-2026,Oil Market Report - September 2026,cited,source_text,"# Oil Market Report - September 2026
+### Highlights
+- World oil demand is forecast to decline by 2.5 mb/d in 2026, 940 kb/d steeper than in last month... | Total oil supply is set to fall by 5.7 mb/d to 100.7 mb/d this year, with the expected recovery in the Gulf now deferred until 2027. ",
+macro_gather,https://www.bis.gov/press-release/department-commerce-revises-license-review-policy-semiconductors-exported-china,License Review Policy for Semiconductors Exported to China,cited,source_text,"… Today’s rule follows President Trump’s December 8, 2025 announcement ...
+
+## Department of Commerce Revises License Review Policy for Semiconductors...",
+macro_gather,https://www.cnbc.com/2026/09/04/oil-set-for-steepest-weekly-gain-over-renewed-us-iran-tensions.html,Oil prices post weekly gain on US-Iran fighting,consulted,source_text,,28 days ago
+macro_gather,https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html,Oil rises to $99 on report Iran launched second undisclosed attack on U.S. Navy ships,consulted,source_text,,24 days ago
+macro_gather,https://www.cnbc.com/2026/09/03/oil-price-today-iran-war-strait-hormuz.html,Oil prices little changed after Iran fires missiles at Kuwait,consulted,source_text,,29 days ago
+macro_gather,https://www.cnbc.com/2026/09/02/us-iran-trump-war-escalation-latest-fed-rate-g20-bessent-yen-.html,"U.S-Iran strikes send oil, yields surging as Fed turns hawkish",consulted,source_text,,30 days ago
+macro_gather,https://npr.org/series/1205445976/middle-east-crisis,Middle East conflict : NPR,consulted,source_text,,4 days ago
+macro_gather,https://www.npr.org/2026/09/18/nx-s1-5973810/houthi-attacks-saudi-oil-world-markets,What to know after a week of Houthi attacks that threaten Saudi oil,consulted,source_text,,14 days ago
+macro_gather,https://www.drewry.co.uk/,"Drewry - Maritime Research, Consulting and Financial Advisory Services",consulted,source_text,,480 days ago
+macro_gather,https://www.drewry.co.uk/container-shipping/container-shipping,Drewry - Container Shipping,consulted,source_text,,621 days ago
+macro_gather,https://www.drewry.co.uk/maritime-research-opinion-browser/world-container-index-assessed-by-drewry,Drewry - Browse Recent Opinion Articles - World Container Index - 10 Sep,consulted,source_text,,21 days ago
+macro_gather,https://www.drewry.co.uk/logistics-executive-briefing/logistics-executive-briefing-articles/world-container-index-methodology,Drewry - Logistics Executive Briefing - World Container Index: Methodology,consulted,source_text,,640 days ago
+macro_gather,https://www.drewry.co.uk/supply-chain-advisors/sca-advisory-services/ocean-freight-cost-benchmarks,Drewry - Advisory Services - Ocean Freight Cost Benchmarks,consulted,source_text,,464 days ago
+macro_gather,https://www.drewry.co.uk/maritime-research-opinion-browser/intra-asia-container-index,Drewry - Browse Recent Opinion Articles - Intra Asia Container Index - 01 Oct,consulted,source_text,,1 days ago
+macro_gather,https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/online-service,Drewry - Service Expertise,consulted,source_text,,
+macro_gather,https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/cancelled-sailings-tracker,Drewry - Service Expertise - Cancelled Sailings Tracker - 25 Sep,consulted,source_text,,4 days ago
+macro_gather,https://www.cnbc.com/2025/11/30/opec-holds-2026-group-wide-oil-output-steady-agrees-capacity-mechanism.html,"OPEC+ holds 2026 group-wide oil output steady, agrees capacity mechanism",consulted,source_text,,306 days ago
+macro_gather,https://www.cnbc.com/2026/05/03/opec-announces-188000-barrels-per-day-output-increase-.html,"OPEC+ announces 188,000 barrels-per-day output increase in first meeting without UAE",consulted,source_text,,151 days ago
+macro_gather,https://www.opec.org/pr-detail/589-1-february-2026.html,2026,consulted,source_text,,244 days ago
+macro_gather,https://www.cnbc.com/2026/06/07/opec-set-for-fourth-oil-quota-hike-since-strait-of-hormuz-closure.html,OPEC+ approves fourth oil output quota hike since Hormuz closure,consulted,source_text,,116 days ago
+macro_gather,https://www.cnbc.com/2024/12/05/opec-members-to-delay-oil-production-increase-until-april.html,OPEC+ members to delay oil production increases,consulted,source_text,,665 days ago
+macro_gather,https://www.cnbc.com/2026/08/02/opec-agrees-september-oil-hike-completing-rollback-of-voluntary-cuts.html,"OPEC+ agrees September oil hike, completing rollback of voluntary cuts",consulted,source_text,,61 days ago
+macro_gather,https://www.cnbc.com/2026/03/01/opec-to-raise-oil-output-slightly-even-as-iran-war-disrupts-shipments.html,OPEC+ to raise oil output slightly even as U.S.-Israel strikes on Iran disrupt shipments,consulted,source_text,,215 days ago
+macro_gather,https://www.cnbc.com/2026/01/04/opec-keeps-oil-output-steady-amid-turmoil-among-members.html,OPEC+ keeps oil output steady amid turmoil among members,consulted,source_text,,271 days ago
+macro_gather,https://www.iea.org/reports/oil-market-report-august-2026,Oil Market Report - August 2026,consulted,source_text,,52 days ago
+macro_gather,https://www.iea.org/reports/oil-market-report-may-2026,Oil Market Report - May 2026,consulted,source_text,,143 days ago
+macro_gather,https://www.iea.org/reports/oil-market-report-june-2026,Oil Market Report - June 2026,consulted,source_text,,108 days ago
+macro_gather,https://www.iea.org/reports/oil-market-report-july-2026,Oil Market Report - July 2026,consulted,source_text,,85 days ago
+macro_gather,https://www.iea.org/reports/oil-market-report-april-2026,Oil Market Report - April 2026,consulted,source_text,,172 days ago
+macro_gather,https://www.iea.org/reports/oil-market-report-march-2026,Oil Market Report - March 2026,consulted,source_text,,205 days ago
+macro_gather,https://www.iea.org/reports/oil-market-report-february-2026,Oil Market Report - February 2026,consulted,source_text,,233 days ago
+macro_gather,https://www.iea.org/reports/oil-market-report-january-2026,Oil Market Report - January 2026,consulted,source_text,,255 days ago
+macro_gather,https://www.cnbc.com/2026/06/17/global-oil-demand-suppy-energy-prices-iea-inventories.html,From supply shock to oil glut: IEA flags scale of demand destruction caused by Iran war,consulted,source_text,,107 days ago
+macro_gather,https://www.bis.gov/press-release/commerce-strengthens-export-controls-restrict-chinas-capability-produce-advanced-semiconductors-military,Commerce Strengthens Export Controls to Restrict China's ...,consulted,source_text,,670 days ago
+macro_gather,https://www.bis.gov/news-updates,News and Updates,consulted,source_text,,172 days ago
+macro_gather,https://www.bis.gov/press-release/department-commerce-closes-export-controls-loophole-foreign-owned-semiconductor-fabs-china,Export controls for foreign-owned semiconductor fabs in ...,consulted,source_text,,400 days ago
+macro_gather,https://2021-2025.state.gov/nonproliferation-export-controls/,Export Controls Policy - United States Department of State,consulted,source_text,,788 days ago
+macro_gather,https://media.bis.gov/press-release/commerce-strengthens-restrictions-advanced-computing-semiconductors-enhance-foundry-due-diligence-prevent,Bis,consulted,source_text,,
+macro_gather,https://www.cfr.org/reports/dismantling-chinas-supply-chain-weapon,Dismantling China’s Supply-Chain Weapon,consulted,source_text,,11 days ago
+macro_gather,https://www.bis.gov/press-release/bis-updated-public-information-page-export-controls-imposed-advanced-computing-semiconductor,BIS updated public information page on export controls,consulted,source_text,,1062 days ago
+macro_gather,https://www.trade.gov/country-commercial-guides/china-us-export-controls,China - U.S. Export Controls,consulted,source_text,,2478 days ago
+macro_gather,https://www.bis.gov/press-release/department-commerce-implements-controls-quantum-computing-other-advanced-technologies-alongside,BIS quantum computing and advanced technology controls,consulted,source_text,,758 days ago

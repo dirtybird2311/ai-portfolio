@@ -1,0 +1,68 @@
+name: Statistics report (manual)
+
+# Builds the full statistics report on demand (the weekly run also does this on Fridays): information ratio,
+# block bootstrap, beta/alpha, factor exposure, the random-portfolio test and the go-live checklist.
+# Output: reports/performance/latest-weekly.html in the repo (and an email when "email" is ticked).
+
+on:
+  workflow_dispatch:
+    inputs:
+      email:
+        description: "also email the report"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pipeline-state
+  cancel-in-progress: false
+
+jobs:
+  report:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    env:
+      GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+      GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+      DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      EMAIL_TO: ${{ secrets.EMAIL_TO }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: ${{ github.ref_name }}
+      - name: Real-account data (private repo, read with PRIVATE_REPO_TOKEN)
+        uses: actions/checkout@v5
+        continue-on-error: true       # no token yet: real-account steps skip, the rest runs
+        with:
+          repository: ${{ github.repository_owner }}/ai-portfolio-private
+          token: ${{ secrets.PRIVATE_REPO_TOKEN }}
+          path: private
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install (pinned versions)
+        run: pip install -r requirements.txt
+      - name: Report
+        run: python -m pipeline.report --weekly ${{ inputs.email && '--email' || '' }}
+      - name: Save report
+        run: |
+          git config user.name "portfolio-bot"
+          git config user.email "portfolio-bot@users.noreply.github.com"
+          git add reports 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "statistics report $(date -u +%F)"
+          git pull --rebase --autostash
+          git push
+      - name: Save real-account data to the private repo
+        if: always()
+        continue-on-error: true
+        run: |
+          [ -d private/.git ] || exit 0
+          cd private
+          git config user.name "portfolio-bot"
+          git config user.email "portfolio-bot@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -q -m "${{ github.workflow }} $(date -u +%F)"
+          git pull -q --rebase --autostash && git push -q

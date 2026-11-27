@@ -1,0 +1,92 @@
+{
+ "date": "2026-11-05",
+ "price_flags": {
+  "MU": {
+   "move": -17.16,
+   "flags": [
+    "down -17.2% today (-4.2x its usual daily move)"
+   ]
+  },
+  "RS": {
+   "move": -6.27,
+   "flags": [
+    "down -6.3% today (-6.2x its usual daily move)"
+   ]
+  },
+  "SEI": {
+   "move": -12.6,
+   "flags": [
+    "down -12.6% today (-1.7x its usual daily move)"
+   ]
+  },
+  "VCTR": {
+   "move": -6.54,
+   "flags": [
+    "down -6.5% today (-3.5x its usual daily move)"
+   ]
+  }
+ },
+ "triggers": [],
+ "news_screen": {
+  "ADM": {
+   "status": "ok",
+   "why": "Headlines confirm the positive thesis: Q3 earnings raise (third time), strong biofuels strength, analyst upgrades, and dividend maintenance. No evidence of credit spread widening >50bps or guidance cut below $5.15. Technical oversold conditions and cyclical sector tailwind support the modest positive edge."
+  },
+  "ALL": {
+   "status": "ok",
+   "why": "Q3 earnings beat (+38.8%), Protection Services strength, and higher investment income confirm underwriting improvement. While catastrophe losses are noted as 'surging,' the headline explicitly states 'lower catastrophe losses' overall drove results. No single quarter catastrophe loss breach of $2.5B reported. Exit condition not triggered."
+  },
+  "APA": {
+   "status": "ok",
+   "why": "Strong Q3 results with revenue up 51% YoY, raised 2026 FCF outlook to $2.9B, analyst price target raises to $51-53. Reflects bullish reflationary oil backdrop consistent with thesis. No headline evidence of WTI falling below $55/bbl. Reflationary tailwind intact."
+  },
+  "DLTR": {
+   "status": "watch",
+   "why": "Loop Capital downgrade from Buy to Hold noted, though price target maintained at $140. Downgrade itself is a modest negative signal on near-term momentum, but no evidence of Q3 EPS guidance cut below $0.80. Buyback authorization and analyst revisions mentioned positively elsewhere. Monitor for guidance commentary."
+  },
+  "DXCM": {
+   "status": "ok",
+   "why": "Kevin Sayer (former Dexcom CEO) appointed to Guardant Health board; Shield Award recognition for colorectal cancer screening test. These headlines show Dexcom-related ecosystem strength and validation of CGM/diagnostic sector tailwinds. No operating margin guidance below 20% or refinancing difficulty disclosed. Bullish news flow supports thesis."
+  },
+  "KMX": {
+   "status": "watch",
+   "why": "JP Morgan lowers price target from $70 to $65 and maintains Neutral, signaling analyst caution on valuation despite 'Shift into GEAR' plan. However, no disclosure of used vehicle unit margin decline exceeding $200/unit guidance for FY2027. Watch for next earnings release to confirm margin trajectory."
+  },
+  "LPG": {
+   "status": "ok",
+   "why": "Q2 results beat estimates significantly ($3.46 EPS vs. $2.63 estimate; $221.3M revenue vs. $187.9M estimate) on strong freight rates. Declared $1.25 dividend per share. Upward estimate revisions and VLGC rate strength confirmed. No evidence of fiscal Q2-27 revenue below $120M threshold."
+  },
+  "MU": {
+   "status": "watch",
+   "why": "Broad AI trade selloff post-midterms with fears about Democratic data-center restrictions. Chip stocks plunged; AI narrative under pressure. While MU's contractual margin protections and guidance remain intact, macro headwinds and AI sentiment shift warrant monitoring. No formal guidance cut below 80% gross margin yet, but sentiment deteriorated sharply."
+  },
+  "PBF": {
+   "status": "ok",
+   "why": "No direct PBF headlines in batch, but refining macro backdrop unchanged: oil price environment supports thesis (WTI remains well above $70/bbl based on broader market context). No evidence of crude collapse. Macro alignment intact."
+  },
+  "RS": {
+   "status": "watch",
+   "why": "No direct Reliance Steel headlines in batch. Competing industrial results (APD beat, CF missed, MOS missed) show mixed signals across the sector. The October 21 earnings release mentioned as a 'meaningful test' in thesis remains pending. Sector digestion ongoing; no direct break signal yet."
+  },
+  "SEI": {
+   "status": "ok",
+   "why": "Q3 earnings beat estimates (+104.55% EPS surprise, +39.48% revenue surprise), announced additional power contracts, and raised guidance (EBITDA $136M beat, adjusted pro forma EPS $0.45). Insider buying and accelerating revisions confirmed. No loss of major customer or guidance cut below stated range reported."
+  },
+  "VCTR": {
+   "status": "ok",
+   "why": "Q3 results show record long-term flows ($4.1B net inflows confirmed), strong EBITDA margins, and momentum intact despite modest earnings/revenue misses. First Eagle deal pending. No net client outflows reported; inflow trend reversal not evidenced. Modest edge over base rate sustained."
+  }
+ },
+ "reviews": {
+  "MU": {
+   "verdict": "at_risk",
+   "action": "review",
+   "why": "The exit condition (FQ1-27 gross-margin guidance cut below 80%) has not been triggered, and the only company-specific news is a routine board retirement. However, a 17% single-day drop on a sector-wide AI selloff over possible data-center restrictions threatens the demand and capex backdrop, so the position needs review even though the core margin thesis is intact."
+  },
+  "SEI": {
+   "verdict": "intact",
+   "action": "hold",
+   "why": "Q3 beat widely, EBITDA of $136M exceeded the $90-105M range, guidance was raised, and new power contracts were announced, with no sign of losing the 63% customer, so neither exit condition is triggered. The -12.6% drop looks tied to data center political backlash (a risk to monitor alongside leverage and customer concentration) rather than a break in the company's fundamentals."
+  }
+ }
+}

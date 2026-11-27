@@ -1,0 +1,604 @@
+{
+ "ANF": [
+  {
+   "date": "2026-08-26",
+   "guidance": "raised"
+  }
+ ],
+ "ADAM": [
+  {
+   "date": "2026-07-29",
+   "guidance": "raised"
+  }
+ ],
+ "MTG": [
+  {
+   "date": "2026-07-29",
+   "guidance": "raised"
+  }
+ ],
+ "ENS": [
+  {
+   "date": "2026-08-12",
+   "guidance": "raised"
+  }
+ ],
+ "WT": [
+  {
+   "date": "2026-07-31",
+   "guidance": "lowered"
+  }
+ ],
+ "IESC": [
+  {
+   "date": "2026-07-31",
+   "guidance": "raised"
+  }
+ ],
+ "MBIN": [
+  {
+   "date": "2026-07-28",
+   "guidance": "raised"
+  },
+  {
+   "date": "2026-10-28",
+   "guidance": "raised"
+  }
+ ],
+ "AWR": [
+  {
+   "date": "2026-08-05",
+   "guidance": "lowered"
+  }
+ ],
+ "TPC": [
+  {
+   "date": "2026-08-05",
+   "guidance": "raised"
+  }
+ ],
+ "HLIT": [
+  {
+   "date": "2026-08-12",
+   "guidance": "raised"
+  }
+ ],
+ "JLL": [
+  {
+   "date": "2026-07-30",
+   "guidance": "raised"
+  }
+ ],
+ "ENVA": [
+  {
+   "date": "2026-07-23",
+   "guidance": "raised"
+  }
+ ],
+ "EAT": [
+  {
+   "date": "2026-08-12",
+   "guidance": "raised"
+  }
+ ],
+ "CORT": [
+  {
+   "date": "2026-07-29",
+   "guidance": "raised"
+  }
+ ],
+ "BFH": [
+  {
+   "date": "2026-07-23",
+   "guidance": "raised"
+  },
+  {
+   "date": "2026-10-22",
+   "guidance": "raised"
+  }
+ ],
+ "HL": [
+  {
+   "date": "2026-08-04",
+   "guidance": "lowered"
+  }
+ ],
+ "ORA": [
+  {
+   "date": "2026-08-05",
+   "guidance": "raised"
+  }
+ ],
+ "TILE": [
+  {
+   "date": "2026-08-07",
+   "guidance": "raised"
+  }
+ ],
+ "NTAP": [
+  {
+   "date": "2026-09-02",
+   "guidance": "lowered"
+  }
+ ],
+ "SHOO": [
+  {
+   "date": "2026-07-30",
+   "guidance": "raised"
+  }
+ ],
+ "TGT": [
+  {
+   "date": "2026-08-19",
+   "guidance": "raised"
+  }
+ ],
+ "CAKE": [
+  {
+   "date": "2026-07-28",
+   "guidance": "lowered"
+  }
+ ],
+ "IDCC": [
+  {
+   "date": "2026-07-30",
+   "guidance": "raised"
+  }
+ ],
+ "HPE": [
+  {
+   "date": "2026-09-02",
+   "guidance": "raised"
+  }
+ ],
+ "DLR": [
+  {
+   "date": "2026-07-23",
+   "guidance": "raised"
+  }
+ ],
+ "ABNB": [
+  {
+   "date": "2026-08-06",
+   "guidance": "raised"
+  }
+ ],
+ "LFST": [
+  {
+   "date": "2026-08-06",
+   "guidance": "raised"
+  },
+  {
+   "date": "2026-11-05",
+   "guidance": "raised"
+  }
+ ],
+ "MATX": [
+  {
+   "date": "2026-08-03",
+   "guidance": "raised"
+  }
+ ],
+ "SN": [
+  {
+   "date": "2026-08-05",
+   "guidance": "raised"
+  }
+ ],
+ "KALU": [
+  {
+   "date": "2026-07-22",
+   "guidance": "raised"
+  },
+  {
+   "date": "2026-10-21",
+   "guidance": "lowered"
+  }
+ ],
+ "BMY": [
+  {
+   "date": "2026-07-30",
+   "guidance": "raised"
+  }
+ ],
+ "BKH": [
+  {
+   "date": "2026-08-05",
+   "guidance": "maintained"
+  },
+  {
+   "date": "2026-11-04",
+   "guidance": "maintained"
+  }
+ ],
+ "HRMY": [
+  {
+   "date": "2026-08-04",
+   "guidance": "maintained"
+  }
+ ],
+ "HALO": [
+  {
+   "date": "2026-08-06",
+   "guidance": "raised"
+  }
+ ],
+ "HST": [
+  {
+   "date": "2026-08-05",
+   "guidance": "raised"
+  },
+  {
+   "date": "2026-11-04",
+   "guidance": "raised"
+  }
+ ],
+ "LTC": [
+  {
+   "date": "2026-08-05",
+   "guidance": "raised"
+  },
+  {
+   "date": "2026-11-03",
+   "guidance": "raised"
+  }
+ ],
+ "STX": [
+  {
+   "date": "2026-07-28",
+   "guidance": "raised"
+  }
+ ],
+ "ALB": [
+  {
+   "date": "2026-08-05",
+   "guidance": "raised"
+  }
+ ],
+ "EXPD": [
+  {
+   "date": "2026-08-04",
+   "guidance": "lowered"
+  }
+ ],
+ "SIG": [
+  {
+   "date": "2026-09-09",
+   "guidance": "raised"
+  }
+ ],
+ "DLTR": [
+  {
+   "date": "2026-08-27",
+   "guidance": "raised"
+  }
+ ],
+ "WRLD": [
+  {
+   "date": "2026-07-24",
+   "guidance": "raised"
+  },
+  {
+   "date": "2026-10-23",
+   "guidance": "raised"
+  }
+ ],
+ "AGNC": [
+  {
+   "date": "2026-07-20",
+   "guidance": "maintained"
+  }
+ ],
+ "WHD": [
+  {
+   "date": "2026-07-29",
+   "guidance": "raised"
+  }
+ ],
+ "DGII": [
+  {
+   "date": "2026-08-05",
+   "guidance": "raised"
+  }
+ ],
+ "NGVT": [
+  {
+   "date": "2026-07-29",
+   "guidance": "raised"
+  }
+ ],
+ "FOX": [
+  {
+   "date": "2026-08-06",
+   "guidance": "raised"
+  }
+ ],
+ "PTGX": [
+  {
+   "date": "2026-08-05",
+   "guidance": "raised"
+  }
+ ],
+ "GMED": [
+  {
+   "date": "2026-08-06",
+   "guidance": "raised"
+  }
+ ],
+ "PR": [
+  {
+   "date": "2026-08-05",
+   "guidance": "raised"
+  },
+  {
+   "date": "2026-11-04",
+   "guidance": "raised"
+  }
+ ],
+ "DG": [
+  {
+   "date": "2026-08-27",
+   "guidance": "raised"
+  }
+ ],
+ "WMG": [
+  {
+   "date": "2026-08-05",
+   "guidance": "maintained"
+  }
+ ],
+ "PSX": [
+  {
+   "date": "2026-08-05",
+   "guidance": "raised"
+  },
+  {
+   "date": "2026-10-28",
+   "guidance": "lowered"
+  }
+ ],
+ "OGS": [
+  {
+   "date": "2026-08-04",
+   "guidance": "maintained"
+  }
+ ],
+ "OTTR": [
+  {
+   "date": "2026-08-04",
+   "guidance": "maintained"
+  }
+ ],
+ "QLYS": [
+  {
+   "date": "2026-08-04",
+   "guidance": "raised"
+  }
+ ],
+ "AKR": [
+  {
+   "date": "2026-07-28",
+   "guidance": "raised"
+  }
+ ],
+ "HPQ": [
+  {
+   "date": "2026-08-26",
+   "guidance": "raised"
+  }
+ ],
+ "WTRG": [
+  {
+   "date": "2026-08-05",
+   "guidance": "maintained"
+  },
+  {
+   "date": "2026-11-04",
+   "guidance": "maintained"
+  }
+ ],
+ "NFG": [
+  {
+   "date": "2026-07-30",
+   "guidance": "raised"
+  }
+ ],
+ "NVST": [
+  {
+   "date": "2026-08-05",
+   "guidance": "raised"
+  }
+ ],
+ "THC": [
+  {
+   "date": "2026-07-23",
+   "guidance": "raised"
+  },
+  {
+   "date": "2026-10-29",
+   "guidance": "raised"
+  }
+ ],
+ "BJ": [
+  {
+   "date": "2026-08-21",
+   "guidance": "raised"
+  }
+ ],
+ "NWN": [
+  {
+   "date": "2026-08-05",
+   "guidance": "raised"
+  }
+ ],
+ "IOSP": [
+  {
+   "date": "2026-08-05",
+   "guidance": "raised"
+  }
+ ],
+ "ADM": [
+  {
+   "date": "2026-08-04",
+   "guidance": "raised"
+  },
+  {
+   "date": "2026-11-03",
+   "guidance": "raised"
+  }
+ ],
+ "SAIC": [
+  {
+   "date": "2026-08-31",
+   "guidance": "raised"
+  }
+ ],
+ "NSIT": [
+  {
+   "date": "2026-08-06",
+   "guidance": "raised"
+  }
+ ],
+ "SYF": [
+  {
+   "date": "2026-08-17",
+   "guidance": "raised"
+  }
+ ],
+ "AVNT": [
+  {
+   "date": "2026-10-09",
+   "guidance": "maintained"
+  }
+ ],
+ "NJR": [
+  {
+   "date": "2026-08-03",
+   "guidance": "maintained"
+  }
+ ],
+ "MGEE": [
+  {
+   "date": "2026-08-05",
+   "guidance": "raised"
+  }
+ ],
+ "REGN": [
+  {
+   "date": "2026-10-30",
+   "guidance": "maintained"
+  }
+ ],
+ "RNR": [
+  {
+   "date": "2026-10-27",
+   "guidance": "raised"
+  }
+ ],
+ "DXCM": [
+  {
+   "date": "2026-10-29",
+   "guidance": "maintained"
+  }
+ ],
+ "ECG": [
+  {
+   "date": "2026-08-04",
+   "guidance": "raised"
+  }
+ ],
+ "CHEF": [
+  {
+   "date": "2026-10-28",
+   "guidance": "raised"
+  }
+ ],
+ "VLO": [
+  {
+   "date": "2026-10-22",
+   "guidance": "raised"
+  }
+ ],
+ "PARR": [
+  {
+   "date": "2026-08-05",
+   "guidance": "raised"
+  }
+ ],
+ "SEI": [
+  {
+   "date": "2026-08-05",
+   "guidance": "raised"
+  },
+  {
+   "date": "2026-11-04",
+   "guidance": "raised"
+  }
+ ],
+ "DRH": [
+  {
+   "date": "2026-11-03",
+   "guidance": "raised"
+  }
+ ],
+ "SHO": [
+  {
+   "date": "2026-11-06",
+   "guidance": "raised"
+  }
+ ],
+ "HUM": [
+  {
+   "date": "2026-11-06",
+   "guidance": "raised"
+  }
+ ],
+ "NUE": [
+  {
+   "date": "2026-10-26",
+   "guidance": "raised"
+  }
+ ],
+ "HCSG": [
+  {
+   "date": "2026-10-21",
+   "guidance": "raised"
+  }
+ ],
+ "CNC": [
+  {
+   "date": "2026-10-27",
+   "guidance": "raised"
+  }
+ ],
+ "PBI": [
+  {
+   "date": "2026-10-28",
+   "guidance": "raised"
+  }
+ ],
+ "EOG": [
+  {
+   "date": "2026-11-05",
+   "guidance": "raised"
+  }
+ ],
+ "IPAR": [
+  {
+   "date": "2026-11-04",
+   "guidance": "raised"
+  }
+ ],
+ "MUR": [
+  {
+   "date": "2026-11-04",
+   "guidance": "raised"
+  }
+ ],
+ "CVX": [
+  {
+   "date": "2026-10-30",
+   "guidance": "maintained"
+  }
+ ]
+}

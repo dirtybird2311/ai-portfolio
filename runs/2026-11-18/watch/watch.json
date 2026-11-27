@@ -1,0 +1,78 @@
+{
+ "date": "2026-11-18",
+ "price_flags": {
+  "PBF": {
+   "move": -7.12,
+   "flags": [
+    "down -7.1% today (-1.7x its usual daily move)",
+    "-25% below cost"
+   ]
+  }
+ },
+ "triggers": [],
+ "news_screen": {
+  "ADM": {
+   "status": "ok",
+   "why": "Headlines discuss broad staples earnings beats and sector rotation, but contain no mention of credit spreads widening or guidance cuts. The Goldman Sachs conference presentation is routine corporate communication. No exit condition triggered."
+  },
+  "ALL": {
+   "status": "ok",
+   "why": "Morgan Stanley maintains Equal-Weight with a price target raise, and Wall Street remains cautiously optimistic. No disclosure of catastrophe losses exceeding $2.5B in any quarter. No exit condition triggered."
+  },
+  "APA": {
+   "status": "ok",
+   "why": "Headlines confirm strong Q3 earnings beats, cash flow improvement, and analyst confidence. Oil prices remain supportive of the reflationary thesis. No indication of WTI falling below $55/bbl. No exit condition triggered."
+  },
+  "DLTR": {
+   "status": "ok",
+   "why": "Headlines show strong analyst coverage (Stifel Buy at $160, analyst initiations bullish), Bill Gates' foundation adding $155M position, and staples sector outperformance. Q3 EPS guidance of $0.80 or higher appears intact. No exit condition triggered."
+  },
+  "DRH": {
+   "status": "ok",
+   "why": "Evercore raises price target, hotel acquisition at favorable valuation supports earnings narrative, and hotel demand remains broad-based. No guidance cut or negative RevPAR forecast disclosed. No exit condition triggered."
+  },
+  "DXCM": {
+   "status": "ok",
+   "why": "Strong headlines on record new patients, Medicare coverage expansion potential, raised guidance to top end of range, and positive technical setup. No operating margin guidance cut or credit facility refinancing concerns disclosed. No exit condition triggered."
+  },
+  "LPG": {
+   "status": "watch",
+   "why": "Limited headline information specific to LPG's core VLGC freight business. The energy stocks article is generic and does not address the upcoming fiscal Q2 2027 earnings release which will test the $120M revenue exit condition. Insufficient signal to confirm status."
+  },
+  "OXY": {
+   "status": "ok",
+   "why": "No thesis or exit condition provided for OXY. Headlines show analyst positions on analyst targets and Berkshire holding strength, but without a defined investment thesis and exit condition, standard assessment is neutral/ok."
+  },
+  "PBF": {
+   "status": "ok",
+   "why": "Limited headline detail but the one headline confirms bullish fundamental view ('solid growth stock' rationale). No sign of WTI crude falling below $70/bbl. The refining macro outlook remains supportive. No exit condition triggered."
+  },
+  "PGNY": {
+   "status": "ok",
+   "why": "Truist reiterates Buy and raises price target to $42, company at 52-week high, strong cash generation and buybacks continue. No indication of consensus EPS estimates falling below $2.10. No exit condition triggered."
+  },
+  "REGN": {
+   "status": "ok",
+   "why": "Multiple positive catalysts: Livsayis FDA approval, Libtayo EC dosing flexibility approval, high growth momentum screen clearance. No complete response letter for EYLEA HD pre-filled syringe disclosed. Pipeline and regulatory momentum remain constructive. No exit condition triggered."
+  },
+  "RS": {
+   "status": "watch",
+   "why": "Barclays upgrade to Overweight cited tight metal supply and larger buyback program. However, the upcoming October 21 Q3 earnings release is the critical test for revenue trends in Metals Service Centers. The acquisition of GPU cloud platform Oblivus signals strategic diversification but is not core to the thesis. Earnings report outcome is uncertain and material to thesis."
+  },
+  "VCTR": {
+   "status": "ok",
+   "why": "October AUM trends show VCTR posted growth (positive vs. the net outflows exit condition). First Eagle acquisition milestone cleared with shareholder approval. No net client outflows reported. Momentum narrative supported. No exit condition triggered."
+  },
+  "XOM": {
+   "status": "ok",
+   "why": "No thesis or exit condition provided for XOM. Headlines mention dividend achievement and energy sector context but without a defined investment thesis and exit condition, standard assessment is neutral/ok."
+  }
+ },
+ "reviews": {
+  "PBF": {
+   "verdict": "at_risk",
+   "action": "review",
+   "why": "The stock is down 7.1% today and 25% below cost with no explanatory news, and the provided headline and article contain no substantive information. The exit condition (WTI below $70) is not shown to have occurred, but it also can't be verified, so check current WTI and the cause of the decline before holding."
+  }
+ }
+}

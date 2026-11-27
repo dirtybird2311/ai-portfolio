@@ -1,0 +1,251 @@
+{
+ "date": "2026-11-13",
+ "status": "OK",
+ "regime": "Reflation (growth up, inflation up)",
+ "fed": "on hold",
+ "tilts": {
+  "Technology": -1,
+  "Financials": 0,
+  "Health Care": 1,
+  "Energy": 2,
+  "Industrials": 0,
+  "Consumer Discretionary": -1,
+  "Consumer Staples": 1,
+  "Utilities": 1,
+  "Materials": 0,
+  "Real Estate": 0,
+  "Communication Services": 0
+ },
+ "sector_probabilities": {
+  "Technology": 0.4725,
+  "Financials": 0.4876,
+  "Health Care": 0.5647,
+  "Energy": 0.5818,
+  "Industrials": 0.5221,
+  "Consumer Discretionary": 0.4416,
+  "Consumer Staples": 0.539,
+  "Utilities": 0.5443,
+  "Materials": 0.4801,
+  "Real Estate": 0.4885,
+  "Communication Services": 0.4867
+ },
+ "factor_view": {
+  "rates_10y": 0.0,
+  "oil": 3.5,
+  "dollar": 0.0,
+  "credit": -0.25,
+  "inflation_exp": 0.0
+ },
+ "weight_ranges_%": {
+  "Technology": [
+   0,
+   10
+  ],
+  "Financials": [
+   0,
+   18
+  ],
+  "Health Care": [
+   5,
+   22
+  ],
+  "Energy": [
+   10,
+   25
+  ],
+  "Industrials": [
+   0,
+   18
+  ],
+  "Consumer Discretionary": [
+   0,
+   10
+  ],
+  "Consumer Staples": [
+   5,
+   22
+  ],
+  "Utilities": [
+   5,
+   22
+  ],
+  "Materials": [
+   0,
+   18
+  ],
+  "Real Estate": [
+   0,
+   18
+  ],
+  "Communication Services": [
+   0,
+   18
+  ]
+ },
+ "triggers": [],
+ "why": [
+  "monthly run: this month's jobs report (2026-11-06) and CPI (2026-11-10) are both out",
+  "tripwire: WTI crude oil $/bbl moved -1.3 standard deviations since the last full run (107.89 -> 89.62)",
+  "tripwire: Brent crude oil $/bbl moved -1.4 standard deviations since the last full run (115.22 -> 92.14)"
+ ],
+ "key_risks": [
+  "Binary event: Dec 8-9 FOMC meeting (NOTE:A1) -- market is pricing further hikes (2yr-fedfunds spread 0.98) against a Fed that has stated it is on hold; a hawkish or dovish surprise would move rates, dollar, and credit sharply.",
+  "Binary event: further Iran/Hormuz escalation (US struck an Iranian island Nov 13, Iran retaliated against a Bahrain radar) could produce an actual tanker/export disruption, which the current oil price (-1.3 SD since last run) does not fully reflect given the futures curve backwardation.",
+  "Binary risk of open military conflict in the Persian Gulf expanding beyond maritime tanker interdictions into direct strikes on upstream oil infrastructure.",
+  "CALC:recession_risk reads 18.9% (below its 22.9% typical rate, oos AUC 0.874) and CALC:pullback_risk reads 9.7% (below its 13.2% typical, oos AUC only 0.68) -- both models say 'normal,' but neither directly inputs geopolitical risk, which CALC:risk_indicators shows at a 96th-percentile extreme (GRI 184.7) alongside 95th-percentile policy uncertainty and 87th-percentile oil volatility; a realized Hormuz supply shock is a tail scenario these models likely underweight.",
+  "Dec 4 employment report",
+  "December FOMC (Dec 8-9): a hike plus hawkish dots could push 10y further above 5% (binary).",
+  "FOMC Dec 8-9 decision",
+  "Inflation path risk: CPI accelerating to 4.08% YoY while breakevens (T10YIE) are falling -- a divergence that could resolve violently in either direction at the Dec 10 CPI release.",
+  "Oil de-escalation downside: backwardation +10.2% and OVX 51.7 mean large moves either way; my +4% oil view would be wrong.",
+  "Oil supply response to Hormuz events",
+  "Persistent core and headline inflation forcing the Federal Reserve to deliver an unexpected interest rate hike at the December 8-9 FOMC meeting.",
+  "Pullback model (0.097, AUC 0.68) likely understates risk given realized vol at 88th pct, GPR at 96th pct and 10y at 5.1%.",
+  "Recession model (0.189) is reassuring and I agree, but HY spreads are widening from 2.85 to 3.2.",
+  "Sharp contraction in consumer spending as depleted personal savings (3.8%) and elevated mortgage rates (7.11%) exhaust household buffers.",
+  "US-Iran escalation after the 11-13 strike and Bahrain retaliation; Houthi attacks on the Saudi East-West pipeline could remove the Hormuz bypass (binary oil spike)."
+ ],
+ "upcoming_events": [
+  {
+   "date": "2026-11-17",
+   "event": "Retail sales and industrial production (Oct)",
+   "exposed": [
+    "Consumer Discretionary",
+    "Industrials"
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "event": "U.S. Retail Sales and Food Services Release",
+   "exposed": [
+    "Consumer Discretionary",
+    "Consumer Staples"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "event": "GDP (Q3 third estimate) and Personal Income/Outlays (incl. PCE inflation)",
+   "exposed": [
+    "broad market",
+    "rates-sensitive sectors"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "event": "GDP and Personal Income/Outlays (core PCE)",
+   "exposed": [
+    "rates",
+    "Technology",
+    "Real Estate"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "event": "Personal Income and Outlays (October PCE / Core PCE)",
+   "exposed": [
+    "Financials",
+    "Technology",
+    "Real Estate"
+   ]
+  },
+  {
+   "date": "2026-12-04",
+   "event": "Employment Situation (November payrolls)",
+   "exposed": [
+    "Financials",
+    "Consumer Discretionary",
+    "broad market"
+   ]
+  },
+  {
+   "date": "2026-12-04",
+   "event": "Employment Situation (Nov)",
+   "exposed": [
+    "rates",
+    "Financials"
+   ]
+  },
+  {
+   "date": "2026-12-04",
+   "event": "November Employment Situation Report",
+   "exposed": [
+    "Financials",
+    "Industrials",
+    "Consumer Discretionary"
+   ]
+  },
+  {
+   "date": "2026-12-04",
+   "event": "Employment Situation",
+   "exposed": [
+    "Financials",
+    "Industrials"
+   ]
+  },
+  {
+   "date": "2026-12-08",
+   "event": "FOMC meeting (Dec 8-9)",
+   "exposed": [
+    "Technology",
+    "Financials",
+    "Real Estate",
+    "rates-sensitive sectors"
+   ]
+  },
+  {
+   "date": "2026-12-08",
+   "event": "FOMC Rate Decision and Policy Statement",
+   "exposed": [
+    "Financials",
+    "Real Estate",
+    "Utilities",
+    "Technology"
+   ]
+  },
+  {
+   "date": "2026-12-09",
+   "event": "FOMC decision with new dot plot (Dec 8-9)",
+   "exposed": [
+    "rates",
+    "Real Estate",
+    "Utilities",
+    "Technology"
+   ]
+  },
+  {
+   "date": "2026-12-10",
+   "event": "CPI release (November)",
+   "exposed": [
+    "Technology",
+    "Consumer Discretionary",
+    "Health Care",
+    "Utilities"
+   ]
+  },
+  {
+   "date": "2026-12-10",
+   "event": "CPI (Nov)",
+   "exposed": [
+    "rates",
+    "inflation_exp",
+    "Consumer Staples"
+   ]
+  },
+  {
+   "date": "2026-12-10",
+   "event": "November Consumer Price Index (CPI) Release",
+   "exposed": [
+    "Energy",
+    "Consumer Discretionary",
+    "Financials"
+   ]
+  },
+  {
+   "date": "2026-12-10",
+   "event": "Consumer Price Index",
+   "exposed": [
+    "all sectors"
+   ]
+  }
+ ]
+}

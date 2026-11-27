@@ -1,0 +1,52 @@
+{
+ "date": "2026-10-15",
+ "price_flags": {},
+ "triggers": [],
+ "news_screen": {
+  "ADAM": {
+   "status": "ok",
+   "why": "Headline discusses high-yield dividend stocks and P&G earnings outlook, not directly about ADAM or related to yield levels. No signal of 50+ bps yield rise or thesis undermining."
+  },
+  "ADM": {
+   "status": "ok",
+   "why": "Headlines discuss ADM's dividend reliability, ethanol margin strength offsetting sweetener weakness, and policy tailwinds. No evidence of Section 45Z elimination or RVO mandate changes that would trigger exit condition."
+  },
+  "ALL": {
+   "status": "ok",
+   "why": "Q3 catastrophe losses of $1.65B are well below the $2.5B single-quarter exit threshold. Recent improvement in underwriting income remains intact. No exit signal triggered."
+  },
+  "DLTR": {
+   "status": "ok",
+   "why": "Headline highlights strong customer interest across income levels and value positioning, supporting the bull thesis. No guidance cut below $0.80 EPS reported. Positive momentum continues."
+  },
+  "DXCM": {
+   "status": "watch",
+   "why": "NEJM publication of CONNECT study is positive and supports the bullish thesis on CGM market expansion. However, article mentions CMS decision pending on Medicare coverage expansion, which introduces regulatory uncertainty. Not yet a decisive break, but warrants monitoring for CMS outcome."
+  },
+  "IDCC": {
+   "status": "ok",
+   "why": "Headline references historical 10-year performance and current market cap, not forward guidance or customer concentration issues. No indication of revenue guidance cut or top-3 customer loss."
+  },
+  "KMX": {
+   "status": "watch",
+   "why": "Stock added to Strong Buy list, which is positive. However, headline about retail selloff and higher Treasury yields creating headwinds is relevant to sector dynamics. Not yet an exit trigger (no $200+/unit margin decline disclosed), but suggests near-term headwind worthy of monitoring."
+  },
+  "RS": {
+   "status": "watch",
+   "why": "Barclays initiates Equal-Weight coverage with $420 price target, which could represent modest downside to consensus. Reliance positioned to beat Q3 earnings per headline, but mixed analyst sentiment and upcoming October 21 earnings report are key tests. Not a break yet, but warrants close attention to earnings."
+  },
+  "SWX": {
+   "status": "watch",
+   "why": "Dividend reaffirmation and valuation commentary are neutral to positive, but high-yield credit spreads are a key exit condition. Recent market volatility mentioned indirectly in context of mixed trading. Monitor for 50+ bps credit spread widening over coming 4 weeks."
+  },
+  "VCTR": {
+   "status": "watch",
+   "why": "Barclays raises price target to $121 and maintains Equal-Weight, suggesting limited near-term upside. No AUM data provided in headline to confirm net flows remain positive or that AUM stays above $340B threshold. Valuation risk remains but no exit condition triggered yet."
+  },
+  "WMG": {
+   "status": "watch",
+   "why": "StoneX initiates Buy with $41 price target (positive), supporting analyst revision tailwinds. However, recent executive departures mentioned in thesis create uncertainty. Margin guidance not yet revised, so no exit signal triggered, but leadership transitions warrant monitoring for potential guidance changes."
+  }
+ },
+ "reviews": {}
+}

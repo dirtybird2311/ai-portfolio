@@ -1,0 +1,60 @@
+# Portfolio rebuild 2026-10-03
+Trade date 2026-10-05 · value $10,170
+
+## ⛔ Blocked
+- Turnover 74% exceeds 50% of the portfolio in one rebuild
+
+## Target portfolio
+| Ticker | Weight | Sector | Probability / edge | Driver | Thesis | Exit if |
+|---|---|---|---|---|---|---|
+| SWX | 14.9% | Utilities | 50.1% / +3.7 | credit spreads | SWX has strong momentum/earnings screen ranks and fresh analyst/regulatory tailwinds, but weak op margins vs peers, negative FCF, and a thin earnings-reaction track record offset the positives. Net adjustments roughly cancel out, leaving probability near the base rate. | High-yield credit spreads widen by more than 50bps from current levels over the next 4 weeks |
+| ALL | 14.1% | Financials | 54.1% / +5.7 | underwriting margins | Allstate benefits from strong momentum in earnings revisions and robust fundamentals, particularly in underwriting margin expansion and cash flow generation. Its relatively cheap valuation provides a margin of safety against near-term macro headwinds or analyst caution. | Reported quarterly catastrophe losses exceed $3.0B |
+| ADM | 11.5% | Consumer Staples | 52.2% / +4.7 | Biofuel margins | Upward estimate revisions, a significant guidance raise, and favorable macro conditions regarding its credit sensitivity suggest ADM is positioned to outperform, despite minor segment headwinds. | Legislative changes eliminating Section 45Z benefits or U.S. biofuel policies altering RVO mandates. |
+| RS | 10.6% | Materials | 50.5% / +4.0 | metal demand | Starting from the 46.5% base rate, positive estimate revisions and broad product growth lift RS to a slight edge over its sector. The October 21 earnings report is a meaningful test, but its outcome is uncertain. | Exit if the October 21 Q3 earnings release reports a year-over-year decline in Metals Service Centers revenue. |
+| ADAM | 9.3% | Real Estate | 52.1% / +4.0 | 10-year yield | Despite a high sensitivity to rising rates, the current 'Goldilocks' macro regime predicting flat yields mitigates this risk. Combined with 36% EAD growth, solid free cash flow, and unanimous upward analyst revisions, ADAM has a favorable setup for the coming month. | 10-year yield rises by 50 bps or more above current levels |
+| KMX | 7.7% | Consumer Discretionary | 54.6% / +5.0 | 10-yr yield sensitivity | Strong analyst revisions, cheap relative valuation, and resumed buybacks give KMX a modest edge over its sector peers, though thin margins and an upcoming pension charge temper enthusiasm. The base rate near 50% combined with these incremental positives supports a probability modestly above even. | Used vehicle unit margin decline exceeds $200/unit guidance for FY2027, signaling deteriorating core profitability. |
+| WMG | 7.5% | Communication Services | 53.3% / +3.8 | streaming revenue growth | WMG has robust operating momentum with margin expansion tracking at the high end of guidance, supported by recent analyst price target increases and upward estimate revisions. While multiple recent executive departures inject some uncertainty, the AI monetization narrative and strong core growth should help it slightly outperform its sector. | Full-year margin expansion guidance is revised downward from the current 150-200 bps range. |
+| VCTR | 6.8% | Financials | 51.2% / +3.3 | credit spreads | VCTR's accelerating EPS revisions, strong flows, and the First Eagle acquisition catalyst provide incremental upside beyond what the base rate already captures, though stretched valuation and extended momentum cap further gains. | Quarterly organic net flows turn negative or management guidance confirms the First Eagle deal will not close/contribute to 2027 EPS as expected. |
+| DXCM | 6.3% | Health Care | 50.4% / +3.7 | Healthcare sector momentum | DXCM's unusually strong revision trend, bullish news flow, and sector tailwind modestly outweigh valuation and governance-related red flags, keeping odds slightly above the historical base rate. Momentum is already priced into the base rate, so the edge is incremental rather than decisive. | Operating margin guidance cut below 20% or disclosure of material refinancing difficulty tied to the October 2026 credit facility maturity |
+| IDCC | 6.2% | Technology | 51.7% / +4.3 | licensing revenue visibility | IDCC has genuine fundamental and sentiment tailwinds (guidance raise, upgrades, litigation resolution) that aren't baked into the base rate, but elevated valuation and customer concentration temper the edge. Net effect is a modest tilt above the base rate. | Exit if FY2026 revenue guidance is cut below the $775M low end previously issued, or if a top-3 customer license is lost/not renewed. |
+| DLTR | 5.0% | Consumer Staples | 50.5% / +2.3 | consumer spending | Despite a favorable macro environment for Consumer Staples and a new share repurchase authorization, the anticipated Q3 EPS hit from tariff reinvestments caps near-term upside. The stock is fairly valued relative to these competing dynamics. | Q3 EPS guidance cut below $0.80 |
+
+**Style lean** (0-100 percentile, 50 = neutral): momentum 75, value 62, quality 57, volatility 40
+
+**PM summary:** We keep ALL, VCTR and DLTR because no newcomer clears their swap margins, and rotate the low-edge DAR, HLIT and PARR into KMX, ADM and IDCC. We add DXCM, SWX and RS to meet the Health Care, Utilities and Materials floors, plus ADAM and WMG for diversified edge. JLL and FHI are skipped to avoid stacking 10-year-yield and credit-spread bets given the rising-rate and HY-widening risks.
+
+## Exits
+- DAR: Edge has fallen to -2.3 and the stock is exposed to the macro view of falling oil; KMX's +5.0 clears the 4.7-point swap margin. (thesis broken: False)
+- HLIT: Edge is now 0 on customer concentration and earnings-reaction risk; ADM's +4.7 clears the 4-point swap margin. (thesis broken: False)
+- PARR: Edge is only 0.3 after a 126% run-up, with oil risk running against an Energy underweight; IDCC's +4.3 meets the 4-point swap margin. (thesis broken: False)
+
+## Trades
+| ID | Account | Action | Ticker | Amount | Status | Wash | Critic |
+|---|---|---|---|---|---|---|---|
+| T01 | Individual | SELL | VCTR | $352 | held | ok  | PASS Simple trim to target weight on an existing bull-rated name; no thesis change implied. |
+| T02 | Individual | SELL | DAR | ALL | held | ok  | FLAG Edge collapse to -2.3 is a valid sell trigger, but the stated rationale ('exposed to the macro view of falling oil') misreads the macro view, which actually flags upside oil-shock tail risk (Hormuz escalation, GPR 95th pct, OVX 87th pct), not a bearish oil call. A biofuel-feedstock name like DAR would typically benefit from firmer, not falling, oil/diesel economics, so the geopolitical justification is backwards even though the edge-based exit is defensible. |
+| T03 | Individual | SELL | DLTR | $458 | held | blocked Loss sale with a purchase of the same stock within 30 days (any account). | PASS Trim to target weight, consistent with target portfolio's 5% DLTR weight. |
+| T04 | IRA | SELL | SPY | ALL | held | ok  | PASS SPY is not in the target portfolio; straightforward exit. |
+| T05 | IRA | SELL | HLIT | ALL | held | ok  | PASS Edge decayed to 0; swap into higher-edge ADM is consistent with process. |
+| T06 | IRA | SELL | PARR | ALL | held | ok  | PASS Edge down to 0.3 after a large run-up, aligned with Energy underweight and bear-won debate; swap into IDCC follows stated margin rule. |
+| T07 | Individual | BUY | SWX | $1,515 | held | ok  | FLAG SWX becomes the single largest position (14.9%) on a near-coinflip edge (prob 50.1%, edge 3.7) and its own stated key risk is 'credit spread widening given strong negative sensitivity' -- exactly the macro view's top-named, already-triggered tripwire (HY spreads +1.1 SD, NFCI/spread divergence flagged repeatedly). Sizing the largest position around the macro's most live risk is an asymmetric bet the committee should size down. |
+| T08 | Individual | BUY | RS | $851 | held | ok  | PASS Within Materials range, bull-won debate, earnings catalyst acknowledged. |
+| T09 | IRA | BUY | RS | $230 | held | ok  | PASS Same as T08, IRA sleeve. |
+| T10 | IRA | BUY | ADM | $1,173 | held | ok  | PASS Within Staples range and tilt, bull-won debate. |
+| T11 | IRA | BUY | ADAM | $944 | held | ok  | FLAG Thesis explicitly leans on 'Goldilocks regime predicting flat yields' to offset high rate sensitivity, but the macro view's own key risks repeatedly warn the opposite: DGS10 +80bp to 5.24% (96.7th pctile), term premium expansion risk toward 5.50%+, and explicit language that 'the 10y keeps rising... invalidating the -10bp bet.' The flat-yield mitigant used to justify this REIT buy is contradicted by the macro view's highest-conviction tail risk. |
+| T12 | IRA | BUY | WMG | $761 | held | ok  | PASS Within Comm Services range; no specific geopolitical overlap flagged. |
+| T13 | IRA | BUY | DXCM | $642 | held | ok  | FLAG Correct sector direction (Health Care, +2 tilt) but this single small position (6.31%) leaves total Health Care weight far below the macro-mandated 12-45% floor despite it being the most strongly favored sector in the whole framework. |
+| T14 | IRA | BUY | KMX | $787 | held | ok  | FLAG KMX is Discretionary and rate-sensitive (10yr yield), overlapping with ADAM's same driver (~17% combined rate-sensitive exposure), and the macro view specifically warns a Gulf/Hormuz oil-shock escalation 'could hit cyclicals/Discretionary hard' -- a scenario this new Discretionary position is directly exposed to with no offsetting hedge beyond the Utilities position. |
+| T15 | IRA | BUY | IDCC | $595 | held | ok  | PASS Within Technology's 0-12% allowed band despite sector underweight tilt; edge justified by debate. |
+
+## Critic: FLAG
+Sells are mostly evidence-based (edge decay, target-weight trims, thesis exits) rather than price-chasing, and there are no flip-flops. However, the portfolio has a material Health Care under-allocation versus the macro mandate, two hidden common-factor bets (credit-spread sensitivity and 10-year yield sensitivity) that concentrate exposure to the macro view's own top-named tripwire risks, a cluster of earnings events in a 2-week window, and one new large position (SWX) whose stated key risk is precisely the macro view's #1 flagged tail risk. One sell (DAR) cites a macro oil direction that contradicts the macro view's actual stated risk (upside oil-shock tail, not a falling-oil call).
+- Health Care allocation (6.31%, DXCM only) falls well short of the macro view's mandated 12-45% range for a sector carrying the strongest conviction tilt (+2) in the whole framework -- a clear allocation gap versus the committee's own rules.
+- Hidden common factor bet: SWX (14.9%) and VCTR (6.83%) both list 'credit spreads' as primary driver, concentrating ~21.7% of the portfolio in sensitivity to the macro view's #1 flagged and already-triggered risk (HY spreads +1.1 SD tripwire, NFCI/spread divergence).
+- Hidden common factor bet: ADAM (9.28%) and KMX (7.74%) both cite 10-year yield sensitivity as a key driver/risk (~17% combined), overlapping with the macro view's explicit warning about term-premium-driven yield spikes above 5.50% and housing/credit transmission risk.
+- Earnings clustering: RS (Oct 21), ADAM (Oct 27), and SWX (Nov 3) report within a ~2-week window, concentrating event risk across roughly 34.8% of the target portfolio (plus PARR and HLIT, being sold, also reporting Nov 2).
+- No Energy exposure and limited explicit hedge against the macro view's prominently repeated Gulf/Hormuz oil-shock tail risk beyond the Utilities (SWX) position, while Discretionary (KMX) and other cyclicals carry meaningful exposure to that same scenario.
+
+## Sizing notes
+- momentum level 0.75 (cap 0.80; was 0.75 before the cap)
+- Health Care: 6.3% is below its 12% floor (not enough strong candidates)

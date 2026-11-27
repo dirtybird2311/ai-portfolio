@@ -1,0 +1,55 @@
+{
+ "date": "2026-10-21",
+ "price_flags": {
+  "DXCM": {
+   "move": -6.39,
+   "flags": [
+    "down -6.4% today (-3.5x its usual daily move)"
+   ]
+  }
+ },
+ "triggers": [],
+ "news_screen": {
+  "ADM": {
+   "status": "ok",
+   "why": "Headlines regarding a pipeline case and CSR activities do not trigger the credit spread or EPS guidance exit conditions."
+  },
+  "ALL": {
+   "status": "ok",
+   "why": "Price action and competitor news provide no indication of catastrophe losses exceeding $2.5 billion."
+  },
+  "APA": {
+   "status": "ok",
+   "why": "Price target increase and positive estimate revisions align with the thesis; no indication of WTI falling below $55/bbl."
+  },
+  "DLTR": {
+   "status": "ok",
+   "why": "News regarding multi-price strategy is positive and does not indicate a Q3 EPS guidance cut."
+  },
+  "DXCM": {
+   "status": "ok",
+   "why": "Positive clinical study results for G7 support the thesis; no mention of margin cuts or refinancing issues."
+  },
+  "IDCC": {
+   "status": "ok",
+   "why": "Earnings beat anticipation is positive and does not signal a revenue guidance cut or loss of customers."
+  },
+  "KMX": {
+   "status": "ok",
+   "why": "Employer awards are irrelevant to unit margin profitability; competitor news (CVNA) is not decisive for KMX."
+  },
+  "PBF": {
+   "status": "watch",
+   "why": "While momentum is positive, a headline specifically warning that 99th-percentile refining margins 'won't last' suggests the current tailwind may be unsustainable, warranting a watch on margins."
+  },
+  "RS": {
+   "status": "ok",
+   "why": "Q3 results report record net sales and significant YoY EPS growth, indicating the exit condition (YoY revenue decline) was not met."
+  },
+  "WMG": {
+   "status": "ok",
+   "why": "Earnings call announcement is a scheduled event and provides no guidance revision yet."
+  }
+ },
+ "reviews": {}
+}

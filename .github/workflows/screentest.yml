@@ -1,0 +1,54 @@
+name: Screen backtest (manual, analysis only)
+
+# Walk-forward test of the screen's signal mix on 15 years of point-in-time history (pipeline/screentest.py).
+# Changes no weight or pick. Needs the history cache the weekly job builds.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pipeline-state
+  cancel-in-progress: false
+
+jobs:
+  screentest:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install (pinned versions)
+        run: pip install -r requirements.txt
+      - name: Restore the history cache (prices, earnings dates, filings; not committed)
+        uses: actions/cache/restore@v4
+        with:
+          path: cache
+          key: history-${{ github.run_id }}
+          restore-keys: history-
+      - name: Restore the insider-purchase history (SEC quarterly files, parsed)
+        uses: actions/cache@v4
+        with:
+          path: cache/insider_buys.pkl
+          key: insider-${{ github.run_id }}
+          restore-keys: insider-
+      - name: Screen backtest, technical indicators, edge tests
+        env:
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}   # identifies us to the SEC, as SEC asks
+        run: python -m pipeline.screentest
+      - name: Save the report
+        if: always()
+        run: |
+          git config user.name "portfolio-bot"
+          git config user.email "portfolio-bot@users.noreply.github.com"
+          git add state/screentest.json state/tatest.json state/edgetest.json reports/screentest 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "screen backtest $(date -u +%F)"
+          git pull --rebase --autostash
+          git push

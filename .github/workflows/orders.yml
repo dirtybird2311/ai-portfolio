@@ -1,0 +1,55 @@
+name: Paper orders (Alpaca, weekday mornings)
+
+on:
+  schedule:
+    # Before the open: orders placed now are QUEUED at Alpaca and fill at the open, so GitHub starting this job
+    # hours late no longer moves the trade (Nov 9; before, a late run traded near the close or the next day).
+    - cron: "0 4 * * 1-5"     # 11 pm ET the evening before (Mon-Fri UTC = Sun-Thu evenings in New York)
+    - cron: "0 11 * * 1-5"    # 6 am EST / 7 am EDT: a second chance, still hours before the open
+    - cron: "45 14 * * 1-5"   # weekdays 14:45 UTC = 10:45 am EDT / 9:45 am EST: after the opening rush
+    # backups: GitHub sometimes skips a scheduled run; a rerun never places a trade twice (each order
+    # carries the trade's id), and with nothing left to place it just exits
+    - cron: "20 15 * * 1-5"
+    - cron: "10 17 * * 1-5"
+  workflow_dispatch:           # Actions > Paper orders > Run workflow (only does anything while the market is open)
+
+permissions:
+  contents: write              # save the order ids with the plan
+
+concurrency:
+  group: pipeline-state        # never let two jobs edit the saved state at once
+  cancel-in-progress: false
+
+jobs:
+  orders:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    env:                       # secrets reach the code only as environment variables, never files
+      ALPACA_API_KEY_ID: ${{ secrets.ALPACA_API_KEY_ID }}
+      ALPACA_API_SECRET_KEY: ${{ secrets.ALPACA_API_SECRET_KEY }}
+      GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+      GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+      DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      EMAIL_TO: ${{ secrets.EMAIL_TO }}
+      PAPER_MODE: ${{ vars.PAPER_MODE || '1' }}   # with 0 (live) this job does nothing: you trade at Robinhood
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: ${{ github.ref_name }}   # latest commit at start time, not at queue time (a queued job must see the state the job before it saved)
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install (pinned versions)
+        run: pip install -r requirements.txt
+      - name: Place approved paper trades in Alpaca
+        run: python -m pipeline.broker
+      - name: Save order ids to the repo
+        if: always()
+        run: |
+          git config user.name "portfolio-bot"
+          git config user.email "portfolio-bot@users.noreply.github.com"
+          git add state runs 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "paper orders $(date -u +%F)"
+          git pull --rebase --autostash
+          git push

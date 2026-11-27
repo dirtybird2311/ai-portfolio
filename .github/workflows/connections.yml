@@ -1,0 +1,43 @@
+name: Connection test (monthly + on demand)
+
+on:
+  schedule:
+    - cron: "0 13 1 * *"      # the 1st of every month, 13:00 UTC = 8 am EST / 9 am EDT
+  workflow_dispatch:           # Actions > Connection test > Run workflow, any time (e.g. after adding a key)
+
+permissions:
+  contents: read               # read-only: this job never changes the saved state
+
+jobs:
+  connections:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    env:                       # secrets reach the code only as environment variables, never files
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      GEMINI_PAID_API_KEY: ${{ secrets.GEMINI_PAID_API_KEY }}
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
+      XAI_API_KEY: ${{ secrets.XAI_API_KEY }}                   # Grok (xAI): part of the debates
+      MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+      FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+      FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+      ALPACA_API_KEY_ID: ${{ secrets.ALPACA_API_KEY_ID }}
+      ALPACA_API_SECRET_KEY: ${{ secrets.ALPACA_API_SECRET_KEY }}
+      PAPER_MODE: ${{ vars.PAPER_MODE || '1' }}
+      GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+      GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+      DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      EMAIL_TO: ${{ secrets.EMAIL_TO }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: ${{ github.ref_name }}   # latest commit at start time, not at queue time (a queued job must see the state the job before it saved)
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install (pinned versions)
+        run: pip install -r requirements.txt
+      - name: Test every connection (emails you the pass/fail table)
+        run: python -m pipeline.connections

@@ -1,0 +1,105 @@
+{
+ "date": "2026-09-26",
+ "status": "OK",
+ "regime": "Goldilocks (growth up, inflation down)",
+ "fed": "on hold",
+ "tilts": {
+  "Technology": 0,
+  "Financials": 0,
+  "Health Care": 0,
+  "Energy": -2,
+  "Industrials": 0,
+  "Consumer Discretionary": 0,
+  "Consumer Staples": 0,
+  "Utilities": 0,
+  "Materials": 0,
+  "Real Estate": 0,
+  "Communication Services": 0
+ },
+ "sector_probabilities": {
+  "Technology": 0.5023,
+  "Financials": 0.4691,
+  "Health Care": 0.5183,
+  "Energy": 0.439,
+  "Industrials": 0.4917,
+  "Consumer Discretionary": 0.5047,
+  "Consumer Staples": 0.4261,
+  "Utilities": 0.5013,
+  "Materials": 0.497,
+  "Real Estate": 0.3762,
+  "Communication Services": 0.5367
+ },
+ "factor_view": {
+  "rates_10y": 0.0,
+  "oil": -2.5,
+  "dollar": 0.0,
+  "credit": 0.0,
+  "inflation_exp": 0.0
+ },
+ "weight_ranges_%": {
+  "Technology": [
+   0,
+   15
+  ],
+  "Financials": [
+   0,
+   15
+  ],
+  "Health Care": [
+   0,
+   15
+  ],
+  "Energy": [
+   0,
+   3
+  ],
+  "Industrials": [
+   0,
+   15
+  ],
+  "Consumer Discretionary": [
+   0,
+   15
+  ],
+  "Consumer Staples": [
+   0,
+   15
+  ],
+  "Utilities": [
+   0,
+   15
+  ],
+  "Materials": [
+   0,
+   15
+  ],
+  "Real Estate": [
+   0,
+   15
+  ],
+  "Communication Services": [
+   0,
+   15
+  ]
+ },
+ "triggers": [],
+ "why": [
+  "forced (--full)"
+ ],
+ "key_risks": [
+  "10-year Treasury yields continuing to climb past 5.18%, triggering broader equity multiple compression.",
+  "10yr yields could overshoot further if upcoming CPI (10/14) or PCE (9/30) data show inflation reaccelerating, given already-hawkish Fed language.",
+  "An oil supply shock extending Brent's rise despite the EIA path.",
+  "Brent crude oil spot prices ($114.89) failing to normalize toward the $90/bbl EIA expectation, reigniting headline inflation pressures.",
+  "Consumer fatigue: saving rate 3%, sentiment 51.7, decelerating retail sales.",
+  "Escalation of international trade disputes following USTR hearings and retaliatory tariffs.",
+  "Higher-for-longer long-term bond yields (10y at 5.18%) triggering broader equity valuation de-rating and slowing housing activity.",
+  "October FOMC hike with a hawkish guide pushing the 10-year above 5.3%.",
+  "Oil prices remain well above EIA's projected average; a failure to retrace would keep inflation expectations elevated and pressure the Fed to stay restrictive longer.",
+  "Persistent elevated oil prices (Brent at $114.89) reigniting headline inflation and forcing the Fed beyond its 4.1% target rate projection.",
+  "Personal savings rate at 3.0% combined with 7.03% mortgage rates curtailing consumer discretionary spending.",
+  "Stale/unusual data flags (copper, gasoline, food index, JOLTS) create risk that the growth/inflation picture shifts materially once fresh prints arrive (JOLTS 9/29, Employment Situation 10/2, CPI 10/14).",
+  "Tight HY spreads (2.80) and a low VIX leave little cushion for a risk-off shock.",
+  "Trade-policy frictions (Canada retaliation, Section 301 pharma probe, sugar TRQs) are early-stage and could escalate into sector-specific shocks not yet reflected in factor sensitivities."
+ ]
+}

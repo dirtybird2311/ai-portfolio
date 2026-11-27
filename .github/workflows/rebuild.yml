@@ -1,0 +1,73 @@
+name: Rebuild (every two weeks)
+
+on:
+  schedule:
+    - cron: "0 14 * * 6"     # Saturdays 14:00 UTC; the code only rebuilds on even ISO weeks
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Run even if this isn't a rebuild week"
+        type: boolean
+        default: false
+      replan:
+        description: "Replan only: redo the portfolio steps on the last stock-team results (~$0.60, no new research)"
+        type: boolean
+        default: false
+      allow_turnover:
+        description: "Owner approval: let this run trade more than 50% of the portfolio"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write            # save state/ and runs/
+  issues: write              # post the trade checklist
+
+concurrency:
+  group: pipeline-state      # never let two jobs edit the saved state at once
+  cancel-in-progress: false
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 350     # first runs are slow; a timed-out run resumes from its checkpoint (GitHub max 360)
+    env:                     # secrets reach the code only as environment variables, never files
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      GEMINI_PAID_API_KEY: ${{ secrets.GEMINI_PAID_API_KEY }}   # optional: billing-enabled key for the Gemini 3.1 Pro judge
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}             # optional: GPT-6 Sol judge
+      NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}             # optional: free DeepSeek shadow judge
+      XAI_API_KEY: ${{ secrets.XAI_API_KEY }}                   # Grok (xAI): part of the debates
+      MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+      FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+      FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+      ALPACA_API_KEY_ID: ${{ secrets.ALPACA_API_KEY_ID }}           # optional: Alpaca PAPER account
+      ALPACA_API_SECRET_KEY: ${{ secrets.ALPACA_API_SECRET_KEY }}
+      GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+      GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+      DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      EMAIL_TO: ${{ secrets.EMAIL_TO }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      PAPER_MODE: ${{ vars.PAPER_MODE || '1' }}                  # Settings > Variables: set to 0 to go live
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: ${{ github.ref_name }}   # latest commit at start time, not at queue time (a queued job must see the state the job before it saved)
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install (pinned versions)
+        run: pip install -r requirements.txt
+      - name: Preflight (settings and secrets; stops before spending anything)
+        run: python -m pipeline.preflight rebuild
+      - name: Rebuild
+        run: python -m pipeline.rebuild ${{ inputs.force && '--force' || '' }} ${{ inputs.replan && '--replan' || '' }} ${{ inputs.allow_turnover && '--allow-turnover' || '' }}
+      - name: Save state and reports to the repo
+        if: always()           # save cost logs, checkpoints and reports even if the run failed
+        run: |
+          git config user.name "portfolio-bot"
+          git config user.email "portfolio-bot@users.noreply.github.com"
+          git add state runs 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "rebuild run $(date -u +%F)"
+          git pull --rebase --autostash
+          git push

@@ -1,0 +1,24 @@
+{
+ "date": "2026-10-02",
+ "price_flags": {},
+ "triggers": [],
+ "news_screen": {
+  "ALL": {
+   "status": "watch",
+   "why": "Goldman Sachs lowering price target from $280 to $250 is relevant to momentum/valuation but does not signal catastrophe losses exceeding $2.5B in a quarter (the exit condition). The thesis acknowledges weak recent price momentum; this downgrade reinforces that but doesn't trigger the exit unless catastrophe underwriting losses materialize."
+  },
+  "DAR": {
+   "status": "watch",
+   "why": "Announcement of Q3 2026 earnings release on October 29 is procedurally relevant but does not yet contain the actual results. The exit condition requires seeing Q3 operating margin below 10% or negative FI/DGD contribution shifts\u2014neither are disclosed here. This is a pre-earnings watch flag."
+  },
+  "DLTR": {
+   "status": "ok",
+   "why": "Multiple mentions of Dollar Tree's strong valuation (EV-to-EBITDA highlight, analyst research reshuffles, bargain stock lists) are broadly supportive of the thesis but generic in tone. No Q3 EPS guidance cut below $0.80 is mentioned. These are general positive backdrop items, not decisive."
+  },
+  "PARR": {
+   "status": "ok",
+   "why": "HF Sinclair commentary on elevated refining margins into 2027 and Jerry Stumbo's insider purchase ($2M) both support current strength. Refining crack spreads remain elevated (not fallen below $20/bbl exit threshold). Insider buying suggests confidence in the refining outlook."
+  }
+ },
+ "reviews": {}
+}

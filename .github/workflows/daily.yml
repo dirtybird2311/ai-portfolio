@@ -1,0 +1,82 @@
+name: Daily (resume stopped runs + holdings watch)
+
+on:
+  schedule:
+    - cron: "30 21 * * 1-5"   # weekdays 21:30 UTC = 4:30 pm EST / 5:30 pm EDT: after the close, and an
+                              # hour before the Friday weekly job so the two never compete
+  workflow_dispatch:
+
+permissions:
+  contents: write            # save the watch log
+  issues: write              # post a sell checklist if a thesis breaks
+
+concurrency:
+  group: pipeline-state      # never let two jobs edit the saved state at once
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 300   # long only when resuming a stopped rebuild
+    env:                     # secrets reach the code only as environment variables, never files
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      GEMINI_PAID_API_KEY: ${{ secrets.GEMINI_PAID_API_KEY }}   # optional: billing-enabled key for the Gemini 3.1 Pro judge
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}             # optional: GPT-6 Sol judge
+      NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}             # optional: free DeepSeek shadow judge
+      XAI_API_KEY: ${{ secrets.XAI_API_KEY }}                   # Grok (xAI): part of the debates
+      MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+      FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+      FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+      ALPACA_API_KEY_ID: ${{ secrets.ALPACA_API_KEY_ID }}           # optional: Alpaca PAPER account
+      ALPACA_API_SECRET_KEY: ${{ secrets.ALPACA_API_SECRET_KEY }}
+      GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+      GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+      DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      EMAIL_TO: ${{ secrets.EMAIL_TO }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      PAPER_MODE: ${{ vars.PAPER_MODE || '1' }}                  # Settings > Variables: set to 0 to go live
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: ${{ github.ref_name }}   # latest commit at start time, not at queue time (a queued job must see the state the job before it saved)
+      - name: Real-account data (private repo, read with PRIVATE_REPO_TOKEN)
+        uses: actions/checkout@v5
+        continue-on-error: true       # no token yet: real-account steps skip, the rest runs
+        with:
+          repository: ${{ github.repository_owner }}/ai-portfolio-private
+          token: ${{ secrets.PRIVATE_REPO_TOKEN }}
+          path: private
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install (pinned versions)
+        run: pip install -r requirements.txt
+      - name: Preflight
+        run: python -m pipeline.preflight watch
+      - name: Resume any stopped run (macro or rebuild)
+        run: python -m pipeline.resume
+      - name: Watch holdings
+        if: success() || failure()
+        run: python -m pipeline.watch
+      - name: Save state and reports to the repo
+        if: always()           # save cost logs, checkpoints and reports even if the run failed
+        run: |
+          git config user.name "portfolio-bot"
+          git config user.email "portfolio-bot@users.noreply.github.com"
+          git add state runs 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "watch $(date -u +%F)"
+          git pull --rebase --autostash
+          git push
+      - name: Save real-account data to the private repo
+        if: always()
+        continue-on-error: true
+        run: |
+          [ -d private/.git ] || exit 0
+          cd private
+          git config user.name "portfolio-bot"
+          git config user.email "portfolio-bot@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -q -m "${{ github.workflow }} $(date -u +%F)"
+          git pull -q --rebase --autostash && git push -q

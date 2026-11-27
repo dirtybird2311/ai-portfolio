@@ -1,0 +1,472 @@
+{
+ "updated": "2026-11-16",
+ "accounts": {
+  "individual": {
+   "cash": 0.022293213406328505
+  },
+  "ira": {
+   "cash": 0.0
+  }
+ },
+ "positions": [
+  {
+   "ticker": "ALL",
+   "account": "individual",
+   "shares": 3.512023979,
+   "cost_basis": 802.1539400399221,
+   "buy_date": "2026-09-28",
+   "lots": [
+    {
+     "date": "2026-09-28",
+     "shares": 3.512023979,
+     "cost": 802.1539400399221
+    }
+   ],
+   "sector": "Financials",
+   "thesis": "ALL's improving underwriting income, strong positive analyst revisions, and cheap relative valuation provide modest upside support, though a sharp next-year EPS decline and weak recent price momentum temper conviction. Net edge is positive but not dramatic given the balanced bull/bear case.",
+   "exit_condition": "Quarterly catastrophe losses exceed $2.5 billion in a single quarter, reversing the recent improvement in underwriting income.",
+   "primary_driver": "credit spreads",
+   "conviction": 4
+  },
+  {
+   "ticker": "VCTR",
+   "account": "individual",
+   "shares": 2.424879890999999,
+   "cost_basis": 262.3232197247899,
+   "buy_date": "2026-09-28",
+   "lots": [
+    {
+     "date": "2026-09-28",
+     "shares": 0.02868835899999933,
+     "cost": 3.1032197930298935
+    },
+    {
+     "date": "2026-10-20",
+     "shares": 2.396191532,
+     "cost": 259.21999993176
+    }
+   ],
+   "sector": "Financials",
+   "thesis": "Starting from the 47.7% base rate, momentum and documented operating improvement narrowly outweigh stretched valuation. The resulting 51.7% forecast is a modest edge, not a strong call.",
+   "exit_condition": "The next quarterly filing reports net client outflows, reversing the $4.1 billion of net inflows reported for the June quarter.",
+   "primary_driver": "credit spreads",
+   "conviction": 4
+  },
+  {
+   "ticker": "DLTR",
+   "account": "individual",
+   "shares": 4.27244996,
+   "cost_basis": 495.60419536000006,
+   "buy_date": "2026-09-28",
+   "lots": [
+    {
+     "date": "2026-09-28",
+     "shares": 4.27244996,
+     "cost": 495.60419536000006
+    }
+   ],
+   "sector": "Consumer Staples",
+   "thesis": "Despite near-term optical headwinds from Q3 tariff reinvestments compressing EPS, strong upward analyst revisions and a massive new buyback authorization offset the drag. The stock is positioned as a draw against its sector over the next 4 weeks.",
+   "exit_condition": "Q3 EPS guidance is cut below $0.80",
+   "primary_driver": "consumer spending",
+   "conviction": 4
+  },
+  {
+   "ticker": "RS",
+   "account": "individual",
+   "shares": 1.7483993700067437,
+   "cost_basis": 735.2328323643352,
+   "buy_date": "2026-10-06",
+   "lots": [
+    {
+     "date": "2026-10-06",
+     "shares": 0.08771156400674374,
+     "cost": 35.522832576475196
+    },
+    {
+     "date": "2026-10-20",
+     "shares": 0.916063835,
+     "cost": 382.17999983433
+    },
+    {
+     "date": "2026-11-16",
+     "shares": 0.744623971,
+     "cost": 317.52999995353
+    }
+   ],
+   "sector": "Materials",
+   "thesis": "Starting from the 46.2% base rate, strong estimate revisions and accelerating sales lift the forecast, while receivables drag offsets part of that gain. At 49.2%, RS remains slightly less likely than not to beat its equal-weighted sector over four weeks.",
+   "exit_condition": "Next-fiscal-year EPS consensus falls below $26.00, versus $26.32 currently.",
+   "primary_driver": "steel demand",
+   "conviction": 3
+  },
+  {
+   "ticker": "RS",
+   "account": "ira",
+   "shares": 0.31638361400000004,
+   "cost_basis": 128.134098135544,
+   "buy_date": "2026-10-06",
+   "lots": [
+    {
+     "date": "2026-10-06",
+     "shares": 0.31638361400000004,
+     "cost": 128.134098135544
+    }
+   ],
+   "sector": "Materials",
+   "thesis": "Starting from the 46.5% base rate, positive estimate revisions and broad product growth lift RS to a slight edge over its sector. The October 21 earnings report is a meaningful test, but its outcome is uncertain.",
+   "exit_condition": "Exit if the October 21 Q3 earnings release reports a year-over-year decline in Metals Service Centers revenue.",
+   "primary_driver": "metal demand",
+   "conviction": 4
+  },
+  {
+   "ticker": "ADM",
+   "account": "ira",
+   "shares": 4.217370141999998,
+   "cost_basis": 338.8235172082799,
+   "buy_date": "2026-10-20",
+   "lots": [
+    {
+     "date": "2026-10-20",
+     "shares": 4.217370141999998,
+     "cost": 338.8235172082799
+    }
+   ],
+   "sector": "Consumer Staples",
+   "thesis": "ADM's guidance raise and estimate upgrades provide a fundamental tailwind beyond what the base rate captures, though credit-spread sensitivity in a reflation regime caps upside. Net edge is modestly positive but not dramatic.",
+   "exit_condition": "High-yield credit spreads widen by more than 50bps from current levels, or management lowers FY2026 EPS guidance below $5.15.",
+   "primary_driver": "credit spreads",
+   "conviction": 4
+  },
+  {
+   "ticker": "DXCM",
+   "account": "ira",
+   "shares": 7.6122182679999995,
+   "cost_basis": 641.7099999924,
+   "buy_date": "2026-10-06",
+   "lots": [
+    {
+     "date": "2026-10-06",
+     "shares": 7.6122182679999995,
+     "cost": 641.7099999924
+    }
+   ],
+   "sector": "Health Care",
+   "thesis": "DXCM's unusually strong revision trend, bullish news flow, and sector tailwind modestly outweigh valuation and governance-related red flags, keeping odds slightly above the historical base rate. Momentum is already priced into the base rate, so the edge is incremental rather than decisive.",
+   "exit_condition": "Operating margin guidance cut below 20% or disclosure of material refinancing difficulty tied to the October 2026 credit facility maturity",
+   "primary_driver": "Healthcare sector momentum",
+   "conviction": 4
+  },
+  {
+   "ticker": "APA",
+   "account": "individual",
+   "shares": 30.073337351,
+   "cost_basis": 1496.74999995927,
+   "buy_date": "2026-10-20",
+   "lots": [
+    {
+     "date": "2026-10-20",
+     "shares": 30.073337351,
+     "cost": 1496.74999995927
+    }
+   ],
+   "sector": "Energy",
+   "thesis": "APA's strong oil-price sensitivity amid a reflationary macro tilt and sharply rising forward EPS estimates give it a real catalyst edge over peers, though this is partially offset by stretched valuation after a huge run-up and a below-market price target. Net effect is a modest edge over the sector base rate.",
+   "exit_condition": "Oil (WTI) falls below $55/bbl over the next 4 weeks, reversing the reflationary oil tailwind assumed in the thesis.",
+   "primary_driver": "Oil price",
+   "conviction": 5
+  },
+  {
+   "ticker": "APA",
+   "account": "ira",
+   "shares": 0.508795205,
+   "cost_basis": 25.321719762439997,
+   "buy_date": "2026-10-20",
+   "lots": [
+    {
+     "date": "2026-10-20",
+     "shares": 0.508795205,
+     "cost": 25.321719762439997
+    }
+   ],
+   "sector": "Energy",
+   "thesis": "APA's strong oil-price sensitivity amid a reflationary macro tilt and sharply rising forward EPS estimates give it a real catalyst edge over peers, though this is partially offset by stretched valuation after a huge run-up and a below-market price target. Net effect is a modest edge over the sector base rate.",
+   "exit_condition": "Oil (WTI) falls below $55/bbl over the next 4 weeks, reversing the reflationary oil tailwind assumed in the thesis.",
+   "primary_driver": "Oil price",
+   "conviction": 5
+  },
+  {
+   "ticker": "PBF",
+   "account": "ira",
+   "shares": 4.329957903648853,
+   "cost_basis": 360.90199126913194,
+   "buy_date": "2026-10-20",
+   "lots": [
+    {
+     "date": "2026-10-20",
+     "shares": 4.329957903648853,
+     "cost": 360.90199126913194
+    }
+   ],
+   "sector": "Energy",
+   "thesis": "PBF is strongly positioned due to excellent macro alignment with rising oil prices and massive upward earnings revisions. While one-off insurance gains flatter recent fundamentals and new obligations present risks, the tight fuel market and short-squeeze potential offer near-term upside.",
+   "exit_condition": "WTI crude oil falls below $70/bbl, undermining the reflation trade and refining margins.",
+   "primary_driver": "oil prices",
+   "conviction": 4
+  },
+  {
+   "ticker": "LPG",
+   "account": "individual",
+   "shares": 7.774311182999999,
+   "cost_basis": 383.73999999288,
+   "buy_date": "2026-11-04",
+   "lots": [
+    {
+     "date": "2026-11-04",
+     "shares": 7.774311182999999,
+     "cost": 383.73999999288
+    }
+   ],
+   "sector": "Energy",
+   "thesis": "Starting from the 48.1% base rate, upward estimate revisions and reported strength in VLGC freight rates modestly favor outperformance over four weeks. Filing risks limit confidence, while the past rally, earnings reactions, and value ranking are not counted again.",
+   "exit_condition": "The upcoming fiscal second-quarter 2027 earnings release reports quarterly revenue below $120 million.",
+   "primary_driver": "VLGC freight rates",
+   "conviction": 4
+  },
+  {
+   "ticker": "LPG",
+   "account": "ira",
+   "shares": 7.14850081,
+   "cost_basis": 352.8499999816,
+   "buy_date": "2026-11-04",
+   "lots": [
+    {
+     "date": "2026-11-04",
+     "shares": 7.14850081,
+     "cost": 352.8499999816
+    }
+   ],
+   "sector": "Energy",
+   "thesis": "Starting from the 48.1% base rate, upward estimate revisions and reported strength in VLGC freight rates modestly favor outperformance over four weeks. Filing risks limit confidence, while the past rally, earnings reactions, and value ranking are not counted again.",
+   "exit_condition": "The upcoming fiscal second-quarter 2027 earnings release reports quarterly revenue below $120 million.",
+   "primary_driver": "VLGC freight rates",
+   "conviction": 4
+  },
+  {
+   "ticker": "DRH",
+   "account": "individual",
+   "shares": 46.844290657,
+   "cost_basis": 676.7599824088762,
+   "buy_date": "2026-11-16",
+   "lots": [
+    {
+     "date": "2026-11-16",
+     "shares": 46.844290657,
+     "cost": 676.7599824088762
+    }
+   ],
+   "sector": "Real Estate",
+   "thesis": "Rising estimates and broad-based hotel demand give DRH a modest edge over its sector for the next four weeks. The edge is limited by cost and demand risks, and the Q3 guidance increase has already happened.",
+   "exit_condition": "A subsequent company release cuts its full-year 2026 outlook and forecasts negative comparable RevPAR growth.",
+   "primary_driver": "Travel demand",
+   "conviction": 4
+  },
+  {
+   "ticker": "DAR",
+   "account": "individual",
+   "shares": 3.644292893,
+   "cost_basis": 203.02000023916642,
+   "buy_date": "2026-11-16",
+   "lots": [
+    {
+     "date": "2026-11-16",
+     "shares": 3.644292893,
+     "cost": 203.02000023916642
+    }
+   ],
+   "sector": "Consumer Staples",
+   "thesis": "DAR shows a strong fundamental turnaround in Fuel Ingredients and favorable oil-sensitivity alignment with the reflation macro regime, partially offset by Food segment margin pressure and mixed analyst revisions. Net positives modestly tilt the odds above the base rate.",
+   "exit_condition": "EPA reduces or delays RIN volume mandates below current finalized levels, reversing the Fuel segment profit tailwind",
+   "primary_driver": "oil/RINs pricing",
+   "conviction": 4
+  },
+  {
+   "ticker": "STBA",
+   "account": "individual",
+   "shares": 7.403185084,
+   "cost_basis": 381.24000108721737,
+   "buy_date": "2026-11-16",
+   "lots": [
+    {
+     "date": "2026-11-16",
+     "shares": 7.403185084,
+     "cost": 381.24000108721737
+    }
+   ],
+   "sector": "Financials",
+   "thesis": "Improving estimates and deposit-funded margin expansion give STBA a slight edge over its 48.5% base rate. Rising credit provisions and paused repurchases keep that edge small.",
+   "exit_condition": "Exit the bullish view if the next quarterly filing reports net interest margin down at least 10 basis points sequentially.",
+   "primary_driver": "regional-bank sentiment",
+   "conviction": 3
+  },
+  {
+   "ticker": "STBA",
+   "account": "ira",
+   "shares": 1.153021442,
+   "cost_basis": 59.1499999746,
+   "buy_date": "2026-11-16",
+   "lots": [
+    {
+     "date": "2026-11-16",
+     "shares": 1.153021442,
+     "cost": 59.1499999746
+    }
+   ],
+   "sector": "Financials",
+   "thesis": "Improving estimates and deposit-funded margin expansion give STBA a slight edge over its 48.5% base rate. Rising credit provisions and paused repurchases keep that edge small.",
+   "exit_condition": "Exit the bullish view if the next quarterly filing reports net interest margin down at least 10 basis points sequentially.",
+   "primary_driver": "regional-bank sentiment",
+   "conviction": 3
+  },
+  {
+   "ticker": "PGNY",
+   "account": "ira",
+   "shares": 22.73599344,
+   "cost_basis": 833.2300062767396,
+   "buy_date": "2026-11-16",
+   "lots": [
+    {
+     "date": "2026-11-16",
+     "shares": 22.73599344,
+     "cost": 833.2300062767396
+    }
+   ],
+   "sector": "Health Care",
+   "thesis": "Progyny's strong cash generation and aggressive share repurchases are materially reducing float and supporting EPS growth. While elevated short interest and some analyst caution suggest near-term headwinds, raised guidance and positive estimate revisions tilt the balance favorably.",
+   "exit_condition": "Analyst consensus EPS estimate for the current fiscal year falls below $2.10.",
+   "primary_driver": "corporate benefits spending",
+   "conviction": 4
+  },
+  {
+   "ticker": "REGN",
+   "account": "ira",
+   "shares": 0.706888676,
+   "cost_basis": 680.9599993643201,
+   "buy_date": "2026-11-16",
+   "lots": [
+    {
+     "date": "2026-11-16",
+     "shares": 0.706888676,
+     "cost": 680.9599993643201
+    }
+   ],
+   "sector": "Health Care",
+   "thesis": "Starting from the 48.5% base rate, revisions, the Sanofi collaboration, and a possible regulatory decision give REGN a slight edge over its sector. EYLEA erosion, pipeline setbacks, and distributor concentration keep that edge narrow.",
+   "exit_condition": "The FDA issues a complete response letter for the EYLEA HD pre-filled syringe.",
+   "primary_driver": "pipeline execution",
+   "conviction": 3
+  },
+  {
+   "ticker": "XOM",
+   "account": "ira",
+   "shares": 3.1354142080000003,
+   "cost_basis": 531.38999997184,
+   "buy_date": "2026-11-16",
+   "lots": [
+    {
+     "date": "2026-11-16",
+     "shares": 3.1354142080000003,
+     "cost": 531.38999997184
+    }
+   ]
+  },
+  {
+   "ticker": "CHRD",
+   "account": "ira",
+   "shares": 3.549699398,
+   "cost_basis": 531.3899998805999,
+   "buy_date": "2026-11-16",
+   "lots": [
+    {
+     "date": "2026-11-16",
+     "shares": 3.549699398,
+     "cost": 531.3899998805999
+    }
+   ]
+  },
+  {
+   "ticker": "OXY",
+   "account": "ira",
+   "shares": 8.013827378076222,
+   "cost_basis": 463.39208322248646,
+   "buy_date": "2026-11-16",
+   "lots": [
+    {
+     "date": "2026-11-16",
+     "shares": 8.013827378076222,
+     "cost": 463.39208322248646
+    }
+   ]
+  }
+ ],
+ "applied": [
+  "96e129cc77684489",
+  "ddac847789a7d480",
+  "1aa50cae7c9e457e",
+  "542a42b2b8acceb9",
+  "bfaf661ad32d9cb2",
+  "1b78339d26942cc6",
+  "a486ee299f2cbffa",
+  "11125d60caef9f80",
+  "537f5736cfffcb48",
+  "f92ea22318314991",
+  "7970b9cc0c973351",
+  "15bc98ea04ba3320",
+  "e1d36d8e5cf24db2",
+  "9b118845c30f0fba",
+  "32bcec8e07c1381d",
+  "367b8b4aeb087bff",
+  "343cc287ab583ced",
+  "28ca3fd9fddc24aa",
+  "a9124870bc92be90",
+  "ae42b99485dcf07e",
+  "cf184dd61c8acd94",
+  "faf7f2bbb560ceac",
+  "bf62318709a2937a",
+  "42bc43556c6eaeca",
+  "ba0e008d52de30d3",
+  "94450893332a12ce",
+  "18f98e9b16b988c5",
+  "a1252a0291ffe282",
+  "768a5876ec84dbe3",
+  "b0d00c3dcda53989",
+  "6a878fac7aae7dbc",
+  "9540a91623f6ef5a",
+  "90e1e76be126bbbf",
+  "23716667ba86fabe",
+  "fe16b62fb55b7856",
+  "7fb0ac4f13ec48c4",
+  "21435499a40233a5",
+  "ad1614f1244a04b4",
+  "e3416bca2fa43e79",
+  "b27c38ed41033524",
+  "e6860cef67c3ea2f",
+  "0a4501ab946da8d0",
+  "f8bbbba1596c8a29",
+  "e76b751f0fc55c6e",
+  "854e8c825c69f24a",
+  "aaa5d4e20ea34d20",
+  "80b923fb4a429bd7",
+  "79033316f1218294",
+  "6a263b3cc7533e01",
+  "8026b4f630a412b1",
+  "8aded5c210b0624d",
+  "4d7e8a1f7db0c271",
+  "b9d9cd3a3ad0a3f9",
+  "6421f946beb3b37a",
+  "a98ee1588c5f5882",
+  "override-XOM-20261114",
+  "override-CHRD-20261114",
+  "override-OXY-20261114"
+ ]
+}

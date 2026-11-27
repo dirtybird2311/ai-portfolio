@@ -1,0 +1,365 @@
+{
+ "date": "2026-11-20",
+ "view_date": "2026-11-13",
+ "regime": "Reflation (growth up, inflation up)",
+ "fed": "on hold",
+ "triggers": [
+  "S&P 500 down -8.6% in a week"
+ ],
+ "tripwires": [
+  "S&P 500 down -8.6% in a week"
+ ],
+ "market_risk": "Recession within 12 months: 30% (elevated; typical 23%). S&P 500 10%+ pullback within 3 months: 15% (normal; typical 13%).",
+ "changes_since_view": [
+  {
+   "id": "BAMLH0A0HYM2",
+   "label": "High-yield credit spread",
+   "tier": "core",
+   "at_view": 3.2,
+   "now": 3.52,
+   "as_of": "2026-11-19",
+   "z_change": 0.96,
+   "flags": []
+  },
+  {
+   "id": "PERMIT",
+   "label": "Building permits (thousands, annual rate)",
+   "tier": "driver",
+   "at_view": 1398.0,
+   "now": 1295.0,
+   "as_of": "2026-10-01",
+   "z_change": -0.66,
+   "flags": []
+  },
+  {
+   "id": "GASREGW",
+   "label": "Regular gasoline $/gal",
+   "tier": "driver",
+   "at_view": 4.0,
+   "now": 3.81,
+   "as_of": "2026-11-16",
+   "z_change": -0.39,
+   "flags": []
+  },
+  {
+   "id": "DTWEXBGS",
+   "label": "Trade-weighted dollar index",
+   "tier": "driver",
+   "at_view": 121.88,
+   "now": 122.65,
+   "as_of": "2026-11-13",
+   "z_change": 0.24,
+   "flags": []
+  },
+  {
+   "id": "IR",
+   "label": "Import prices YoY %",
+   "tier": "driver",
+   "at_view": 8.1,
+   "now": 9.23,
+   "as_of": "2026-10-31",
+   "z_change": 0.22,
+   "flags": []
+  },
+  {
+   "id": "IC4WSA",
+   "label": "Initial jobless claims, 4-wk avg",
+   "tier": "core",
+   "at_view": 195250.0,
+   "now": 197750.0,
+   "as_of": "2026-11-14",
+   "z_change": 0.19,
+   "flags": []
+  },
+  {
+   "id": "MORTGAGE30US",
+   "label": "30-yr mortgage rate %",
+   "tier": "driver",
+   "at_view": 7.11,
+   "now": 7.28,
+   "as_of": "2026-11-19",
+   "z_change": 0.18,
+   "flags": []
+  },
+  {
+   "id": "RSAFS",
+   "label": "Retail sales YoY %",
+   "tier": "driver",
+   "at_view": 6.29,
+   "now": 6.82,
+   "as_of": "2026-10-31",
+   "z_change": 0.16,
+   "flags": []
+  },
+  {
+   "id": "NFCI",
+   "label": "Chicago Fed financial conditions (negative = loose)",
+   "tier": "core",
+   "at_view": -0.46,
+   "now": -0.48,
+   "as_of": "2026-11-13",
+   "z_change": -0.12,
+   "flags": []
+  },
+  {
+   "id": "DGS2",
+   "label": "2-yr Treasury yield %",
+   "tier": "core",
+   "at_view": 4.86,
+   "now": 4.76,
+   "as_of": "2026-11-19",
+   "z_change": -0.09,
+   "flags": []
+  },
+  {
+   "id": "OVXCLS",
+   "label": "Oil volatility index (OVX)",
+   "tier": "driver",
+   "at_view": 51.72,
+   "now": 50.67,
+   "as_of": "2026-11-19",
+   "z_change": -0.08,
+   "flags": []
+  },
+  {
+   "id": "DGS10",
+   "label": "10-yr Treasury yield %",
+   "tier": "core",
+   "at_view": 5.1,
+   "now": 5.04,
+   "as_of": "2026-11-19",
+   "z_change": -0.07,
+   "flags": []
+  },
+  {
+   "id": "TOTLL",
+   "label": "Bank loans & leases YoY %",
+   "tier": "driver",
+   "at_view": 7.25,
+   "now": 7.48,
+   "as_of": "2026-11-30",
+   "z_change": 0.07,
+   "flags": []
+  },
+  {
+   "id": "DHHNGSP",
+   "label": "Henry Hub natural gas $/MMBtu",
+   "tier": "driver",
+   "at_view": 3.0,
+   "now": 3.1,
+   "as_of": "2026-11-17",
+   "z_change": 0.06,
+   "flags": []
+  },
+  {
+   "id": "DCOILBRENTEU",
+   "label": "Brent crude oil $/bbl",
+   "tier": "core",
+   "at_view": 92.14,
+   "now": 92.94,
+   "as_of": "2026-11-17",
+   "z_change": 0.05,
+   "flags": []
+  },
+  {
+   "id": "T10Y2Y",
+   "label": "10-yr minus 2-yr spread",
+   "tier": "core",
+   "at_view": 0.27,
+   "now": 0.29,
+   "as_of": "2026-11-20",
+   "z_change": 0.04,
+   "flags": []
+  },
+  {
+   "id": "DCOILWTICO",
+   "label": "WTI crude oil $/bbl",
+   "tier": "core",
+   "at_view": 89.62,
+   "now": 89.53,
+   "as_of": "2026-11-17",
+   "z_change": -0.01,
+   "flags": []
+  },
+  {
+   "id": "PCEPILFE",
+   "label": "Core PCE inflation YoY %",
+   "tier": "core",
+   "at_view": 3.12,
+   "now": 3.12,
+   "as_of": "2026-09-30",
+   "z_change": 0.0,
+   "flags": []
+  },
+  {
+   "id": "CPIAUCSL",
+   "label": "CPI inflation YoY %",
+   "tier": "core",
+   "at_view": 4.08,
+   "now": 4.08,
+   "as_of": "2026-10-31",
+   "z_change": 0.0,
+   "flags": []
+  },
+  {
+   "id": "CPILFESL",
+   "label": "Core CPI inflation YoY %",
+   "tier": "core",
+   "at_view": 2.87,
+   "now": 2.87,
+   "as_of": "2026-10-31",
+   "z_change": 0.0,
+   "flags": []
+  },
+  {
+   "id": "CES0500000003",
+   "label": "Average hourly earnings YoY %",
+   "tier": "core",
+   "at_view": 3.12,
+   "now": 3.12,
+   "as_of": "2026-10-31",
+   "z_change": 0.0,
+   "flags": []
+  },
+  {
+   "id": "UNRATE",
+   "label": "Unemployment rate %",
+   "tier": "core",
+   "at_view": 4.1,
+   "now": 4.1,
+   "as_of": "2026-10-01",
+   "z_change": 0.0,
+   "flags": []
+  },
+  {
+   "id": "PAYEMS",
+   "label": "Payrolls monthly change (thousands)",
+   "tier": "core",
+   "at_view": 165.0,
+   "now": 165.0,
+   "as_of": "2026-10-31",
+   "z_change": 0.0,
+   "flags": []
+  },
+  {
+   "id": "DFF",
+   "label": "Fed funds effective rate %",
+   "tier": "core",
+   "at_view": 3.88,
+   "now": 3.88,
+   "as_of": "2026-11-19",
+   "z_change": 0.0,
+   "flags": []
+  },
+  {
+   "id": "PCOPPUSDM",
+   "label": "Copper $/metric ton",
+   "tier": "driver",
+   "at_view": 14473.06,
+   "now": 14473.06,
+   "as_of": "2026-09-01",
+   "z_change": 0.0,
+   "flags": [
+    "UNUSUAL (z=+2.7 vs 5-yr history)",
+    "STALE (80 days old)"
+   ]
+  },
+  {
+   "id": "PFOODINDEXM",
+   "label": "Global food price index",
+   "tier": "driver",
+   "at_view": 137.11,
+   "now": 137.11,
+   "as_of": "2026-09-01",
+   "z_change": 0.0,
+   "flags": [
+    "STALE (80 days old)"
+   ]
+  },
+  {
+   "id": "PSAVERT",
+   "label": "Personal saving rate %",
+   "tier": "driver",
+   "at_view": 3.8,
+   "now": 3.8,
+   "as_of": "2026-09-01",
+   "z_change": 0.0,
+   "flags": [
+    "STALE (80 days old)"
+   ]
+  },
+  {
+   "id": "CP",
+   "label": "Corporate profits YoY %",
+   "tier": "driver",
+   "at_view": 26.61,
+   "now": 26.61,
+   "as_of": "2026-04-30",
+   "z_change": 0.0,
+   "flags": [
+    "STALE (204 days old)"
+   ]
+  },
+  {
+   "id": "EPUTRADE",
+   "label": "Trade policy uncertainty index",
+   "tier": "driver",
+   "at_view": 1400.77,
+   "now": 1400.77,
+   "as_of": "2026-09-01",
+   "z_change": 0.0,
+   "flags": [
+    "STALE (80 days old)"
+   ]
+  },
+  {
+   "id": "JTSJOL",
+   "label": "Job openings (thousands)",
+   "tier": "watch",
+   "at_view": 7523.0,
+   "now": 7523.0,
+   "as_of": "2026-09-01",
+   "z_change": 0.0,
+   "flags": [
+    "STALE (80 days old)"
+   ]
+  },
+  {
+   "id": "JTSQUR",
+   "label": "Quits rate %",
+   "tier": "watch",
+   "at_view": 2.1,
+   "now": 2.1,
+   "as_of": "2026-09-01",
+   "z_change": 0.0,
+   "flags": [
+    "STALE (80 days old)"
+   ]
+  },
+  {
+   "id": "PALLFNFINDEXM",
+   "label": "Global all-commodity price index",
+   "tier": "watch",
+   "at_view": 222.43,
+   "now": 222.43,
+   "as_of": "2026-09-01",
+   "z_change": 0.0,
+   "flags": [
+    "STALE (80 days old)"
+   ]
+  },
+  {
+   "id": "BOPGSTB",
+   "label": "U.S. trade balance ($M)",
+   "tier": "watch",
+   "at_view": -105047.0,
+   "now": -105047.0,
+   "as_of": "2026-09-01",
+   "z_change": 0.0,
+   "flags": [
+    "STALE (80 days old)"
+   ]
+  }
+ ],
+ "missing": []
+}

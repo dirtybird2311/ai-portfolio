@@ -1,0 +1,22 @@
+name: Tests
+
+on:
+  push:
+    paths: ["pipeline/**", "tests/**", "requirements.txt"]
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: All tests (each file in its own process, so test fakes can't leak between files)
+        run: python -m pytest tests/ -q
+      - name: Preflight with no secrets (settings must be valid)
+        run: python -m pipeline.preflight

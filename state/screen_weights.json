@@ -1,0 +1,118 @@
+{
+ "set": "2026-10-02",
+ "rule": 2,
+ "weights": {
+  "momentum": 0.1212,
+  "industry": 0.0917,
+  "resid_momentum": 0.0,
+  "riskadj_momentum": 0.0,
+  "high_52w": 0.0,
+  "frog_momentum": 0.0,
+  "earnings": 0.22,
+  "quality": 0.1691,
+  "roic": 0.0,
+  "stability": 0.0,
+  "fscore": 0.0,
+  "value": 0.2001,
+  "reaction": 0.0901,
+  "insider": 0.05,
+  "reversal": 0.0577,
+  "low_vol": 0.0,
+  "net_issuance": 0.0,
+  "asset_growth": 0.0,
+  "low_short": 0.0,
+  "filing_similarity": 0.0
+ },
+ "evidence": {
+  "momentum": {
+   "mean_ic": 0.0062,
+   "t": 0.65,
+   "months": 199
+  },
+  "reaction": {
+   "mean_ic": 0.0087,
+   "t": 1.33,
+   "months": 199
+  },
+  "quality": {
+   "mean_ic": 0.01,
+   "t": 1.53,
+   "months": 189
+  },
+  "industry": {
+   "mean_ic": 0.0091,
+   "t": 1.42,
+   "months": 199
+  },
+  "reversal": {
+   "mean_ic": 0.0069,
+   "t": 0.88,
+   "months": 199
+  },
+  "value": {
+   "mean_ic": 0.0181,
+   "t": 2.54,
+   "months": 199
+  },
+  "resid_momentum": {
+   "mean_ic": 0.0108,
+   "t": 1.1,
+   "months": 199
+  },
+  "riskadj_momentum": {
+   "mean_ic": 0.0073,
+   "t": 0.76,
+   "months": 199
+  },
+  "low_vol": {
+   "mean_ic": -0.0071,
+   "t": -0.53,
+   "months": 199
+  },
+  "roic": {
+   "mean_ic": 0.0058,
+   "t": 1.15,
+   "months": 198
+  },
+  "stability": {
+   "mean_ic": -0.0056,
+   "t": -0.86,
+   "months": 176
+  },
+  "net_issuance": {
+   "mean_ic": 0.001,
+   "t": 0.18,
+   "months": 198
+  },
+  "asset_growth": {
+   "mean_ic": 0.0031,
+   "t": 0.61,
+   "months": 177
+  },
+  "fscore": {
+   "mean_ic": 0.0074,
+   "t": 1.39,
+   "months": 177
+  },
+  "high_52w": {
+   "mean_ic": -0.0047,
+   "t": -0.41,
+   "months": 199
+  },
+  "frog_momentum": {
+   "mean_ic": 0.0064,
+   "t": 0.67,
+   "months": 199
+  },
+  "low_short": {
+   "mean_ic": 0.0178,
+   "t": 1.86,
+   "months": 62
+  },
+  "filing_similarity": {
+   "mean_ic": 0.004,
+   "t": 1.09,
+   "months": 138
+  }
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "date": "2026-10-06",
+ "price_flags": {
+  "DXCM": {
+   "move": -4.04,
+   "flags": [
+    "down -4.0% today (-2.7x its usual daily move)"
+   ]
+  }
+ },
+ "triggers": [],
+ "news_screen": {
+  "ADM": {
+   "status": "ok",
+   "why": "Earnings announcement and China soybean demand headlines are routine/positive; neither signals elimination of Section 45Z or RVO mandate changes. No exit condition triggered."
+  },
+  "ALL": {
+   "status": "watch",
+   "why": "Congressional probe into claims denials (Warren/Hawley) is relevant regulatory/reputational risk but does not directly signal catastrophe losses exceeding $2.5B in a quarter. Worth monitoring but not yet an exit trigger."
+  },
+  "DLTR": {
+   "status": "ok",
+   "why": "Diesel price and consumer sentiment headlines are macro context but do not directly signal Q3 EPS guidance cut below $0.80. Defensive positioning narrative is consistent with thesis."
+  },
+  "DXCM": {
+   "status": "ok",
+   "why": "Dexcom U college athlete program launch is positive brand/growth news. Market movement headlines are non-specific. No disclosure of operating margin guidance cut or refinancing difficulty."
+  },
+  "KMX": {
+   "status": "ok",
+   "why": "September earnings showed turnaround progress with controlled costs. Headlines confirm margin pressure but do not report unit margin decline exceeding $200 guidance for FY2027."
+  },
+  "RS": {
+   "status": "watch",
+   "why": "Nutrien nitrogen shutdown and 7-Eleven India exit signal weak industrial/retail demand, which could pressurize Metals Service Centers revenue ahead of October 21 earnings. Relevant to exit condition but not yet confirmed."
+  },
+  "VCTR": {
+   "status": "ok",
+   "why": "Quality investing case and earnings transcript headlines are consistent with thesis. No report of net outflows or AUM drop below $340B."
+  },
+  "WMG": {
+   "status": "ok",
+   "why": "Generic 'profitable stocks' article provides no specific guidance revision or margin outlook change for WMG. No trigger of downward margin expansion guidance revision."
+  }
+ },
+ "reviews": {}
+}

@@ -1,0 +1,122 @@
+name: Weekly (macro light check or full run + quant screen + tracking)
+
+on:
+  schedule:
+    - cron: "30 22 * * 5"   # Fridays 22:30 UTC = 5:30 pm EST / 6:30 pm EDT, after the close
+  workflow_dispatch:         # adds a "Run workflow" button (works from the GitHub phone app)
+    inputs:
+      full_macro:
+        description: "Force a full (paid, ~$0.25) macro run instead of the free light check"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write            # lets the job save state/ and runs/ back to the repo
+  issues: write              # reads and closes trade checklists during reconciliation
+
+concurrency:
+  group: pipeline-state      # never let two jobs edit the saved state at once
+  cancel-in-progress: false
+
+jobs:
+  weekly:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 350   # first screen run backfills SEC data (hours); later runs are much faster. GitHub max is 360
+    env:                     # secrets reach the code only as environment variables, never files
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      GEMINI_PAID_API_KEY: ${{ secrets.GEMINI_PAID_API_KEY }}   # optional: billing-enabled key for the Gemini 3.1 Pro judge
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}             # optional: GPT-6 Sol judge
+      NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}             # optional: free DeepSeek shadow judge
+      XAI_API_KEY: ${{ secrets.XAI_API_KEY }}                   # Grok (xAI): part of the debates
+      MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+      FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+      FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+      ALPACA_API_KEY_ID: ${{ secrets.ALPACA_API_KEY_ID }}           # optional: Alpaca PAPER account
+      ALPACA_API_SECRET_KEY: ${{ secrets.ALPACA_API_SECRET_KEY }}
+      GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+      GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+      DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      EMAIL_TO: ${{ secrets.EMAIL_TO }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      PAPER_MODE: ${{ vars.PAPER_MODE || '1' }}                  # Settings > Variables: set to 0 to go live
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: ${{ github.ref_name }}   # latest commit at start time, not at queue time (a queued job must see the state the job before it saved)
+      - name: Real-account data (private repo, read with PRIVATE_REPO_TOKEN)
+        uses: actions/checkout@v5
+        continue-on-error: true       # no token yet: real-account steps skip, the rest runs
+        with:
+          repository: ${{ github.repository_owner }}/ai-portfolio-private
+          token: ${{ secrets.PRIVATE_REPO_TOKEN }}
+          path: private
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install (pinned versions)
+        run: pip install -r requirements.txt
+      - name: Preflight (settings and secrets; stops before spending anything)
+        run: python -m pipeline.preflight macro
+
+      - name: Macro (light check; full run when due or a tripwire fires)
+        run: python -m pipeline.macro ${{ inputs.full_macro && '--full' || '' }}
+
+      - name: Run quant screen
+        if: success() || failure()   # screen still runs on last week's macro view if macro failed
+        run: python -m pipeline.screen
+
+      - name: Restore the base-rate data cache (price history, earnings dates; not committed)
+        if: success() || failure()
+        uses: actions/cache/restore@v4
+        with:
+          path: cache
+          key: history-${{ github.run_id }}
+          restore-keys: history-
+
+      - name: Base rates (monthly rebuild) + today's stock features
+        if: success() || failure()   # the first run backfills 15 years of history: slow, once
+        run: mkdir -p cache && python -m pipeline.history
+
+      - name: Save the base-rate data cache (even if a step failed, so a backfill resumes)
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: cache
+          key: history-${{ github.run_id }}
+
+      - name: Tracking + grading (monthly email with the judge report card in the first week)
+        if: success() || failure()
+        run: python -m pipeline.track
+
+      - name: Statistics report (information ratio, bootstrap, random-portfolio test, go-live checklist)
+        if: success() || failure()
+        continue-on-error: true      # a report problem never fails the weekly run
+        run: python -m pipeline.report --weekly --email
+
+      - name: Look-back on the shortlist (what worked and why; read-only record)
+        if: success() || failure()
+        continue-on-error: true      # never fails the weekly run
+        run: python -m pipeline.lookback
+
+      - name: Save state and reports to the repo
+        if: always()           # save cost logs, checkpoints and reports even if the run failed
+        run: |
+          git config user.name "portfolio-bot"
+          git config user.email "portfolio-bot@users.noreply.github.com"
+          git add state runs reports PARAMETERS.md 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "weekly run $(date -u +%F)"
+          git pull --rebase --autostash
+          git push
+      - name: Save real-account data to the private repo
+        if: always()
+        continue-on-error: true
+        run: |
+          [ -d private/.git ] || exit 0
+          cd private
+          git config user.name "portfolio-bot"
+          git config user.email "portfolio-bot@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -q -m "${{ github.workflow }} $(date -u +%F)"
+          git pull -q --rebase --autostash && git push -q

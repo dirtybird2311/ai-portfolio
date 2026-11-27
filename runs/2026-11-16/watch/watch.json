@@ -1,0 +1,60 @@
+{
+ "date": "2026-11-16",
+ "price_flags": {},
+ "triggers": [],
+ "news_screen": {
+  "ADM": {
+   "status": "ok",
+   "why": "Headlines confirm the guidance raise thesis (biofuel strength lifting 2026 outlook) and capital investments supporting growth. No evidence of credit spread widening >50bps or EPS guidance cut below $5.15. Recent pullback noted but attributed to temporary margin/policy concerns, not thesis break."
+  },
+  "APA": {
+   "status": "watch",
+   "why": "North Sea strike halting production is operationally relevant and could affect near-term output/cash flow, but does not directly signal WTI falling below $55/bbl. Oil-price sensitivity thesis remains intact. Monitor for production impact disclosure and broader energy sentiment."
+  },
+  "CHRD": {
+   "status": "ok",
+   "why": "No thesis or exit condition defined. Headline about dividend yield distortion is generic sector commentary without direct bearing on this holding."
+  },
+  "DLTR": {
+   "status": "ok",
+   "why": "Headline about lower-income consumer spending and retail strength aligns with the thesis that buyback and analyst revisions offset Q3 tariff headwinds. No evidence of Q3 EPS guidance cut below $0.80. Skims article is unrelated brand-specific noise."
+  },
+  "DRH": {
+   "status": "ok",
+   "why": "Hotel acquisition announcement signals continued capital deployment and confidence in demand, consistent with the rising-estimates thesis. No full-year 2026 outlook cut or negative RevPAR guidance disclosed. Exit condition not triggered."
+  },
+  "DXCM": {
+   "status": "watch",
+   "why": "Headline flags a material regulatory risk: Medicare coverage decision for type 2 diabetics not on insulin is pending this year and could meaningfully impact revenue trajectory. This is relevant to the bullish revision trend but does not yet constitute an operating margin cut or refinancing disclosure. Requires close monitoring of CMS decision timing."
+  },
+  "OXY": {
+   "status": "ok",
+   "why": "No thesis or exit condition defined. Analyst downgrade from Seaport Global is sector-level commentary without specific triggering event data. Energy sector weakness noted but not diagnostic of a thesis break."
+  },
+  "PGNY": {
+   "status": "ok",
+   "why": "Momentum headline is neutral/positive. No disclosure of analyst consensus EPS estimate falling below $2.10 for the current fiscal year. Repurchase thesis remains intact."
+  },
+  "REGN": {
+   "status": "ok",
+   "why": "No headline disclosing FDA complete response letter for EYLEA HD pre-filled syringe. Generic dividend ex-date reminders unrelated to the regulatory or pipeline thesis. Exit condition not triggered."
+  },
+  "RS": {
+   "status": "ok",
+   "why": "Barclays analyst upgrade on Q3 earnings season supports the positive-revision thesis. No disclosure of year-over-year decline in Metals Service Centers revenue. Capital-light peers also showing strength (DOW +41% YTD). Exit condition from October 21 earnings not yet triggered."
+  },
+  "STBA": {
+   "status": "ok",
+   "why": "Scholarship announcement is corporate social responsibility news unrelated to NIM, credit provisions, or repurchase activity. No quarterly filing data disclosed showing sequential NIM decline of 10bps or more. Exit condition not triggered."
+  },
+  "VCTR": {
+   "status": "ok",
+   "why": "Apollo private markets collaboration announcement supports product expansion and revenue diversification, consistent with operating-improvement thesis. No disclosure of net client outflows reversing the $4.1B June inflows. Exit condition not triggered."
+  },
+  "XOM": {
+   "status": "ok",
+   "why": "No thesis or exit condition defined. Guyana expansion news (Uaru startup, Longtail approval, 1.1M bpd capacity) is operationally positive and growth-supportive. Generic energy sector weakness noted but not diagnostic without a defined thesis."
+  }
+ },
+ "reviews": {}
+}

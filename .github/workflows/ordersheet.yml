@@ -1,0 +1,84 @@
+name: Robinhood order sheet
+
+# Turns the latest rebuild's target into whole-share sells and buys for both Robinhood accounts at current prices.
+# Manual: run any time (tick "email" to get it by email). Scheduled: once, Thursday Oct 22 at 9 pm ET (01:00 UTC
+# Oct 23), emailed, so the sells can go in Friday and the buys Monday once the cash has settled.
+# Output: reports/ordersheet/latest.md. Places no orders.
+
+on:
+  schedule:
+    - cron: "0 1 23 10 *"
+  workflow_dispatch:
+    inputs:
+      email:
+        description: "also email the sheet"
+        type: boolean
+        default: false
+      fractional:
+        description: "fractional-share buys only, for these accounts (e.g. robinhood_roth,robinhood_2)"
+        type: string
+        default: ""
+      cash:
+        description: "new all-cash accounts to invest instead, e.g. Account A=10000; Account B=5000"
+        type: string
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pipeline-state
+  cancel-in-progress: false
+
+jobs:
+  sheet:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    env:
+      ALPACA_API_KEY_ID: ${{ secrets.ALPACA_API_KEY_ID }}
+      ALPACA_API_SECRET_KEY: ${{ secrets.ALPACA_API_SECRET_KEY }}
+      GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+      GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+      DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      EMAIL_TO: ${{ secrets.EMAIL_TO }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: ${{ github.ref_name }}
+      - name: Real-account data (private repo, read with PRIVATE_REPO_TOKEN)
+        uses: actions/checkout@v5
+        continue-on-error: true       # no token yet: real-account steps skip, the rest runs
+        with:
+          repository: ${{ github.repository_owner }}/ai-portfolio-private
+          token: ${{ secrets.PRIVATE_REPO_TOKEN }}
+          path: private
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install (pinned versions)
+        run: pip install -r requirements.txt
+      - name: Order sheet
+        env:
+          CASH: ${{ inputs.cash }}
+          FRAC: ${{ inputs.fractional }}
+        run: python -m pipeline.ordersheet ${{ (github.event_name == 'schedule' || inputs.email) && '--email' || '' }} ${CASH:+--cash "$CASH"} ${FRAC:+--fractional "$FRAC"}
+      - name: Save sheet
+        run: |
+          git config user.name "portfolio-bot"
+          git config user.email "portfolio-bot@users.noreply.github.com"
+          git add reports 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "order sheet $(date -u +%F)"
+          git pull --rebase --autostash
+          git push
+      - name: Save real-account data to the private repo
+        if: always()
+        continue-on-error: true
+        run: |
+          [ -d private/.git ] || exit 0
+          cd private
+          git config user.name "portfolio-bot"
+          git config user.email "portfolio-bot@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -q -m "${{ github.workflow }} $(date -u +%F)"
+          git pull -q --rebase --autostash && git push -q

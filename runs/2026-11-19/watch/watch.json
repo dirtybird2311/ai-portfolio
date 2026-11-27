@@ -1,0 +1,64 @@
+{
+ "date": "2026-11-19",
+ "price_flags": {},
+ "triggers": [],
+ "news_screen": {
+  "ADM": {
+   "status": "ok",
+   "why": "Conference presentation is routine corporate activity. No headlines signal credit spread widening >50bps, management guidance cut below $5.15, or thesis undermining. Dividend context is generic market commentary."
+  },
+  "ALL": {
+   "status": "ok",
+   "why": "October cat losses of $232M are well below the $2.5B single-quarter exit threshold. Recent loss trends actually support the improving underwriting narrative. No signal of exit condition."
+  },
+  "APA": {
+   "status": "watch",
+   "why": "Morgan Stanley maintains Underweight despite raising price target to $44. This mixed signal warrants monitoring, but doesn't trigger the oil price exit condition (<$55/bbl). Current WTI context ($83.54) remains supportive of thesis, though 15.2% 1M decline bears watching."
+  },
+  "CHRD": {
+   "status": "ok",
+   "why": "No thesis or exit condition provided for this holding. Headlines show Morgan Stanley upgrade and positive valuation narrative, which are supportive but cannot be evaluated against missing thesis/exit framework."
+  },
+  "DLTR": {
+   "status": "watch",
+   "why": "Bill Gates Foundation added 1.36M shares in Q3 (institutional validation), but multiple articles flag upcoming Q3 earnings as key test. No guidance cut below $0.80 yet reported, but earnings preview suggests margin pressures remain a concern. Awaiting actual results."
+  },
+  "DRH": {
+   "status": "ok",
+   "why": "Analyst PT raised to $15, company acquiring Carmel Mission Inn. No guidance cut or negative RevPAR forecast disclosed. Recent acquisitions and PT upgrades align with raised outlook narrative, not exit condition."
+  },
+  "DXCM": {
+   "status": "ok",
+   "why": "Athenry manufacturing milestone, record new patients expected in 2026, potential Medicare expansion looming positively. No operating margin cut below 20% or refinancing difficulty disclosed. Bullish news flow aligns with revision trend thesis."
+  },
+  "OXY": {
+   "status": "ok",
+   "why": "No thesis or exit condition provided. Headlines show $500M tender offer, cash flow commentary, and analyst upside views. Without thesis framework, cannot assess materiality of news."
+  },
+  "PBF": {
+   "status": "watch",
+   "why": "WTI at $83.54, down 15.2% over 1M. While still well above $70/bbl exit level, momentum is concerning. Tight fuel market and short-squeeze narrative remain intact, but oil price trajectory bears close monitoring against exit condition."
+  },
+  "PGNY": {
+   "status": "ok",
+   "why": "Upgraded to Zacks Rank #1 (Strong Buy), affordable growth profile highlighted, strong EPS momentum documented. No sign of analyst consensus EPS falling below $2.10. Guidance raise and repurchase activity remain supportive."
+  },
+  "REGN": {
+   "status": "ok",
+   "why": "Multiple positive regulatory wins: Livsayis FDA approval for GMG (first RNAi therapy approved by FDA for this indication), new data on Ordspono in R/R MZL. No complete response letter disclosed on EYLEA HD. Sanofi collaboration and pipeline progress support thesis."
+  },
+  "RS": {
+   "status": "watch",
+   "why": "Exit condition hinges on Oct 21 Q3 earnings report showing YoY revenue decline in Metals Service Centers. Headlines show broad industrial strength (steel, lithium, etc.) and positive outlook commentary, but actual earnings test is imminent and uncertain."
+  },
+  "VCTR": {
+   "status": "ok",
+   "why": "Apollo partnership expands distribution reach, October AUM posted growth, strong technical setup and 9/10 growth rating confirmed. No net client outflows reported. Partnership and inflow dynamics support thesis."
+  },
+  "XOM": {
+   "status": "watch",
+   "why": "No thesis or exit condition provided. Headlines show Mozambique Rovuma LNG approval ($30B project, positive), but also note Brent down 22% in November and gasoline prices at 18-year lows. Oil price weakness could signal macro headwind if thesis existed, warrants monitoring."
+  }
+ },
+ "reviews": {}
+}
