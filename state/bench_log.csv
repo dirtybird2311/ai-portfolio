@@ -164,3 +164,11 @@ gemini-3.7-flash,"HTTP 503: {
   ""error"": {
     ""code"": 503,
     ""message"": ""This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try a",2026-11-20,macro
+gemini-3.8-flash,"HTTP 503: {
+  ""error"": {
+    ""code"": 503,
+    ""message"": ""This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try a",2026-11-27,macro
+gemini-3.7-flash,"HTTP 503: {
+  ""error"": {
+    ""code"": 503,
+    ""message"": ""This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try a",2026-11-27,macro

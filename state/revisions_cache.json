@@ -1,251 +1,251 @@
 {
  "AAMI": {
-  "net": 0.6666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ABNB": {
-  "net": 0.1388888888888889,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ACA": {
   "net": 0.0,
   "fetched": "2026-10-23"
  },
  "ACMR": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ADAM": {
-  "net": -0.08333333333333334,
-  "fetched": "2026-11-13"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ADM": {
-  "net": 0.6,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AGNC": {
-  "net": -0.9090909090909092,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AGX": {
-  "net": 0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AHR": {
-  "net": 0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AIZ": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ALB": {
-  "net": -0.7083333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ALL": {
-  "net": 0.5555555555555556,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ALSN": {
-  "net": 0.3,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AMG": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AMGN": {
-  "net": 0.17592592592592593,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AMN": {
-  "net": 0.25,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AMP": {
   "net": -0.3833333333333333,
   "fetched": "2026-11-20"
  },
  "ANDE": {
-  "net": 0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ANET": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ANF": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "APLE": {
-  "net": 0.6666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ARCB": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ARW": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ARWR": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ATI": {
-  "net": 0.8333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AVA": {
   "net": -0.33333333333333337,
   "fetched": "2026-11-20"
  },
  "AVNT": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AWR": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AXTA": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BC": {
-  "net": -0.2142857142857143,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BE": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BEN": {
-  "net": -0.1,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BFH": {
-  "net": 0.9090909090909092,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BIIB": {
-  "net": -0.4750402576489533,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BJRI": {
-  "net": -0.2857142857142857,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BKE": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BKH": {
   "net": -0.16666666666666666,
   "fetched": "2026-11-13"
  },
  "BLK": {
-  "net": 0.474025974025974,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BMY": {
-  "net": -0.9090909090909092,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BNL": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BNY": {
-  "net": 0.6666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BURL": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CACC": {
   "net": 1.0,
   "fetched": "2026-11-20"
  },
  "CACI": {
-  "net": 0.15,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CAKE": {
-  "net": 0.5637254901960784,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CALY": {
-  "net": 0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CATY": {
-  "net": 0.25,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CBRL": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CDE": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CENX": {
-  "net": -0.6666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CF": {
-  "net": 0.75,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CHEF": {
-  "net": -0.11904761904761904,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CHRD": {
-  "net": 0.9166666666666667,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CIEN": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CNC": {
-  "net": 0.2,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CNS": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "COCO": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "COF": {
-  "net": 0.46153846153846156,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "COKE": {
   "net": null,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "COLM": {
-  "net": 0.25,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CON": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CORT": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CRGY": {
   "net": 0.12727272727272726,
@@ -256,40 +256,40 @@
   "fetched": "2026-11-20"
  },
  "CRL": {
-  "net": 0.3,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CROX": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CRSR": {
-  "net": 0.2571428571428571,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CSX": {
   "net": 0.8605769230769231,
   "fetched": "2026-11-20"
  },
  "CWT": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "D": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DAR": {
-  "net": 0.4285714285714286,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DAVE": {
   "net": 0.8571428571428572,
   "fetched": "2026-11-20"
  },
  "DD": {
-  "net": 0.7777777777777778,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DELL": {
   "net": 1.0,
@@ -304,28 +304,28 @@
   "fetched": "2026-11-20"
  },
  "DINO": {
-  "net": 0.8,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DLTR": {
-  "net": -0.6666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DLX": {
   "net": 0.5,
   "fetched": "2026-11-20"
  },
  "DOC": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DRH": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "EAT": {
-  "net": 0.6,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ECG": {
   "net": null,
@@ -336,256 +336,256 @@
   "fetched": "2026-11-20"
  },
  "EG": {
-  "net": 0.25,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "EIX": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "EL": {
-  "net": 0.45652173913043476,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ENS": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ENVA": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "EXEL": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "EXPD": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "EXPE": {
-  "net": -0.03888888888888892,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "EZPW": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "F": {
-  "net": 0.4166666666666667,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FAF": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FBP": {
-  "net": -0.25,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FCFS": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FCX": {
-  "net": 0.28205128205128205,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FDX": {
-  "net": 0.14285714285714285,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FFIV": {
-  "net": 0.03787878787878787,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FHI": {
-  "net": 0.41666666666666663,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FIVE": {
-  "net": 0.9047619047619048,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FIX": {
-  "net": 0.7638888888888888,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FORM": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FOX": {
   "net": null,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "FOXA": {
-  "net": -0.4166666666666667,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FR": {
-  "net": 0.33333333333333337,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FRT": {
   "net": null,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "FTI": {
-  "net": 0.33333333333333337,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FTNT": {
-  "net": 0.975,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FTRE": {
-  "net": -0.3,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GAP": {
   "net": -1.0,
   "fetched": "2026-11-20"
  },
  "GEF": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GIII": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GKOS": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GM": {
-  "net": -0.45238095238095233,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GMED": {
-  "net": -0.8888888888888888,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GRMN": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "H": {
-  "net": 0.19999999999999998,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HAE": {
-  "net": -0.4,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HALO": {
-  "net": 0.25,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HAS": {
-  "net": 0.16666666666666669,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HASI": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HCC": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HCSG": {
-  "net": 0.8571428571428572,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HL": {
-  "net": -0.6666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HLNE": {
-  "net": 0.33333333333333337,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HPE": {
   "net": 1.0,
   "fetched": "2026-11-20"
  },
  "HPQ": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HRB": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HRMY": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HST": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HTLD": {
   "net": -0.6666666666666666,
   "fetched": "2026-11-20"
  },
  "HTO": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HZO": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "IBKR": {
-  "net": 0.024999999999999994,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "IDCC": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "IESC": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "IIPR": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ILMN": {
-  "net": 0.46153846153846156,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "INCY": {
   "net": -0.10303030303030303,
   "fetched": "2026-11-20"
  },
  "INSW": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "INVX": {
-  "net": -0.3333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "IOSP": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "IRDM": {
   "net": null,
   "fetched": "2026-11-20"
  },
  "IVZ": {
-  "net": -0.4666666666666667,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "JAZZ": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "JBHT": {
   "net": -0.6516290726817042,
@@ -597,27 +597,27 @@
  },
  "JOE": {
   "net": null,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "KALU": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "KEX": {
-  "net": 0.6,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "KMT": {
-  "net": 0.33333333333333337,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "KOP": {
-  "net": 0.16666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "KRG": {
-  "net": 0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "KRYS": {
   "net": -0.4666666666666667,
@@ -628,20 +628,20 @@
   "fetched": "2026-11-20"
  },
  "LFST": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LITE": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LNTH": {
   "net": 1.0,
   "fetched": "2026-11-20"
  },
  "LPG": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LQDA": {
   "net": -0.25,
@@ -652,212 +652,212 @@
   "fetched": "2026-11-20"
  },
  "LTC": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LYB": {
-  "net": -0.03333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "M": {
   "net": 0.0,
   "fetched": "2026-11-20"
  },
  "MAR": {
-  "net": 0.9444444444444444,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MATX": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MBIN": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MCY": {
   "net": 1.0,
   "fetched": "2026-11-20"
  },
  "MD": {
-  "net": 0.33333333333333337,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MEDP": {
-  "net": 0.875,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MLI": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MLKN": {
-  "net": 0.16666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MNST": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MOG.A": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MPC": {
   "net": 0.6868686868686869,
   "fetched": "2026-11-20"
  },
  "MRK": {
-  "net": -0.17391304347826086,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MRNA": {
-  "net": -0.25,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MSA": {
-  "net": -0.4666666666666667,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MSEX": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MTB": {
-  "net": 0.27179487179487183,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MTG": {
-  "net": 0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MTRN": {
   "net": 1.0,
   "fetched": "2026-11-20"
  },
  "MU": {
-  "net": 0.9285714285714286,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MUSA": {
-  "net": 0.25,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MYRG": {
   "net": 0.19999999999999998,
   "fetched": "2026-11-20"
  },
  "NBIX": {
-  "net": 0.19999999999999998,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NEM": {
   "net": -0.25,
   "fetched": "2026-11-20"
  },
  "NGVT": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NJR": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NLY": {
-  "net": 0.9090909090909092,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NSIT": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NTAP": {
   "net": 1.0,
   "fetched": "2026-11-20"
  },
  "NTCT": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NTRS": {
-  "net": 0.9,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NUE": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NVST": {
-  "net": 0.2,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NVT": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NWE": {
   "net": 0.0,
   "fetched": "2026-11-13"
  },
  "NWN": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NWS": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NWSA": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NX": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NXT": {
-  "net": -0.09999999999999998,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NYT": {
-  "net": -0.11904761904761904,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ODFL": {
-  "net": 0.9411764705882353,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "OFG": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "OII": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "OUT": {
-  "net": 0.6666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PARR": {
-  "net": 0.16666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PBF": {
-  "net": 0.6868686868686869,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PBI": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PCAR": {
-  "net": -0.7222222222222222,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PCG": {
-  "net": 0.16666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PEB": {
   "net": null,
@@ -868,92 +868,92 @@
   "fetched": "2026-11-20"
  },
  "PK": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PNW": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PR": {
-  "net": 0.9375,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PRG": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PRLB": {
-  "net": 0.6,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PSX": {
-  "net": 0.6875,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PTEN": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PTGX": {
   "net": -0.5,
   "fetched": "2026-11-20"
  },
  "QLYS": {
-  "net": 0.9473684210526316,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "QNST": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "R": {
-  "net": 0.8181818181818182,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "REGN": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "RELY": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "RGA": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "RGLD": {
-  "net": 0.12727272727272726,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "RHP": {
   "net": null,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "RNR": {
-  "net": 0.8125,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ROKU": {
   "net": null,
   "fetched": "2026-11-06"
  },
  "ROST": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "RS": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "RSI": {
-  "net": -0.8571428571428572,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SAIC": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SBH": {
   "net": 0.25,
@@ -964,228 +964,228 @@
   "fetched": "2026-11-20"
  },
  "SEIC": {
-  "net": 0.1904761904761905,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SEZL": {
   "net": 1.0,
   "fetched": "2026-11-20"
  },
  "SHO": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SHOO": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SM": {
-  "net": 0.6745098039215687,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SN": {
-  "net": -0.09999999999999998,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SNDK": {
-  "net": 0.8166666666666667,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SNDR": {
-  "net": -0.32967032967032966,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SONO": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SPHR": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SPNT": {
-  "net": 0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "STBA": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "STT": {
-  "net": 0.4722222222222222,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "STX": {
-  "net": 0.8848684210526316,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SWK": {
-  "net": -0.14285714285714285,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SWX": {
-  "net": -0.43333333333333335,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SXT": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SYF": {
-  "net": 0.003676470588235281,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TALO": {
-  "net": 0.41666666666666663,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TER": {
-  "net": 0.8333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TGT": {
-  "net": 0.9666666666666667,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "THC": {
-  "net": 0.1764705882352941,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "THG": {
-  "net": 0.8,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TILE": {
-  "net": 0.33333333333333337,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TMP": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TPC": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TRNO": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TROW": {
-  "net": -0.175,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TRV": {
   "net": 0.8636363636363636,
   "fetched": "2026-11-20"
  },
  "UBSI": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "UFCS": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "UMBF": {
-  "net": 0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "UNFI": {
-  "net": 0.2777777777777778,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "UNP": {
-  "net": 0.4387254901960784,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "UPS": {
-  "net": 0.5166666666666667,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "URBN": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "VAC": {
-  "net": 0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "VCEL": {
   "net": 1.0,
   "fetched": "2026-11-20"
  },
  "VCTR": {
-  "net": -0.6666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "VICR": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "VIRT": {
-  "net": 0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "VLO": {
-  "net": 0.8666666666666667,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "VRT": {
-  "net": 0.9545454545454546,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "VSTS": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "VSXY": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WBD": {
   "net": 0.0692307692307692,
   "fetched": "2026-10-02"
  },
  "WDC": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WELL": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WEN": {
-  "net": 0.047619047619047616,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WERN": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WHD": {
-  "net": 0.8,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WLY": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WRLD": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WSBC": {
   "net": -0.8,
   "fetched": "2026-11-20"
  },
  "WSFS": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WT": {
-  "net": -0.8333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WTRG": {
   "net": 0.0,
@@ -1196,432 +1196,432 @@
   "fetched": "2026-11-20"
  },
  "ZION": {
-  "net": 0.7857142857142857,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ACAD": {
-  "net": 0.875,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ADT": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AGYS": {
-  "net": 0.125,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AKR": {
   "net": null,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "APA": {
-  "net": 0.6823529411764706,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AX": {
-  "net": 0.6666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AYI": {
-  "net": -0.3142857142857143,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BKNG": {
-  "net": -0.3833333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BWA": {
-  "net": -0.09090909090909088,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BX": {
-  "net": -0.7626262626262625,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BXP": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CART": {
-  "net": -0.19607843137254902,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CAVA": {
-  "net": -0.8333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CMG": {
-  "net": -0.9642857142857143,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CSL": {
-  "net": -0.5277777777777778,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CSW": {
-  "net": -0.6333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DIS": {
-  "net": 0.13333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DLR": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DXCM": {
-  "net": 0.09090909090909094,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "EFC": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "EME": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "EMN": {
-  "net": -0.8321678321678322,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FSLR": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FTDR": {
-  "net": 0.41666666666666663,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GNL": {
   "net": null,
   "fetched": "2026-11-20"
  },
  "GVA": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HCI": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HLIT": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HP": {
-  "net": 0.16666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ICUI": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "JKHY": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LCII": {
-  "net": -0.6666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LDOS": {
-  "net": -0.15384615384615385,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LRCX": {
-  "net": 0.37037037037037035,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MAN": {
-  "net": -0.5777777777777777,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MANH": {
-  "net": 0.6,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MDU": {
-  "net": -0.6666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MGEE": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MSI": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NEOG": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NEU": {
   "net": null,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "NFG": {
-  "net": -0.41666666666666663,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NSC": {
-  "net": 0.5666666666666667,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NWL": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "OGS": {
-  "net": 0.08333333333333331,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ONTO": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ORA": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "OTTR": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PAYC": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PRK": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PWR": {
-  "net": 0.9444444444444444,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "RES": {
-  "net": 0.5,
-  "fetched": "2026-11-13"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "RITM": {
-  "net": 0.15,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ROAD": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "RTX": {
   "net": 0.7692307692307692,
   "fetched": "2026-11-20"
  },
  "RUSHA": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "RXO": {
-  "net": 0.8194444444444444,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SF": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SIG": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SLB": {
-  "net": -0.5050505050505051,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SMCI": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TFIN": {
-  "net": 0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TNL": {
-  "net": 0.7142857142857143,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TOST": {
-  "net": 0.6643356643356644,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TXRH": {
   "net": -0.9375,
   "fetched": "2026-11-20"
  },
  "USFD": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "UTHR": {
-  "net": -0.35714285714285715,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "VRSN": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "VRTS": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WAB": {
-  "net": 0.6,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WKC": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "XPEL": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ZBRA": {
-  "net": 0.8,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "A": {
-  "net": 0.06666666666666665,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AA": {
-  "net": 0.38095238095238093,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AAL": {
-  "net": -0.8492063492063492,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AAON": {
   "net": -1.0,
   "fetched": "2026-11-20"
  },
  "AAP": {
-  "net": -0.7794871794871795,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AAPL": {
-  "net": -0.033333333333333326,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AAT": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ABBV": {
-  "net": -0.17857142857142858,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ABCB": {
-  "net": 0.08333333333333331,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ABG": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ABM": {
-  "net": 0.4285714285714286,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ABT": {
-  "net": -0.12771739130434784,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ACGL": {
-  "net": 0.6470588235294118,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ACHC": {
-  "net": 0.7142857142857143,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ACI": {
-  "net": -0.625,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ACIW": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ACLS": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ACM": {
-  "net": -0.6666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ACN": {
-  "net": -0.08466819221967961,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ACT": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ADBE": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ADC": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ADEA": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ADI": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ADMA": {
   "net": null,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "ADNT": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ADP": {
-  "net": 0.6363636363636364,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ADSK": {
-  "net": -0.4211309523809524,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ADUS": {
-  "net": 0.1,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AEE": {
-  "net": -0.75,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AEIS": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AEO": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AEP": {
-  "net": 0.2564102564102564,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AES": {
   "net": null,
@@ -1632,880 +1632,880 @@
   "fetched": "2026-11-13"
  },
  "AFG": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AFL": {
   "net": 0.875,
   "fetched": "2026-11-20"
  },
  "AGCO": {
-  "net": -0.9285714285714286,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AGO": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AHCO": {
   "net": null,
   "fetched": "2026-11-20"
  },
  "AIG": {
-  "net": 0.46153846153846156,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AIN": {
-  "net": 0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AIR": {
-  "net": -0.06666666666666665,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AIT": {
-  "net": 0.7142857142857143,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AJG": {
-  "net": -0.5541666666666667,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AKAM": {
-  "net": -0.6566416040100251,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ALG": {
   "net": -1.0,
   "fetched": "2026-11-20"
  },
  "ALGM": {
-  "net": 0.3939393939393939,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ALGN": {
-  "net": -0.9090909090909092,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ALGT": {
-  "net": -0.6527777777777778,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ALHC": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ALK": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ALKS": {
-  "net": 0.33333333333333337,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ALLE": {
-  "net": 0.7777777777777778,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ALLY": {
-  "net": -0.9375,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ALRM": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ALV": {
-  "net": 0.08333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AM": {
   "net": null,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "AMAT": {
-  "net": 0.26666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AMCR": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AMD": {
-  "net": 0.8744588744588745,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AME": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AMH": {
   "net": -1.0,
   "fetched": "2026-11-20"
  },
  "AMKR": {
-  "net": -0.7142857142857143,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AMPH": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AMR": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AMRX": {
   "net": 0.75,
   "fetched": "2026-11-20"
  },
  "AMSF": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AMT": {
-  "net": -0.16666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AMTM": {
-  "net": 0.025000000000000022,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AMZN": {
-  "net": -0.3248792270531401,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AN": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ANIP": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AON": {
-  "net": -0.35672514619883045,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AORT": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AOS": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AOSL": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "APAM": {
-  "net": -0.25,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "APD": {
-  "net": -0.19230769230769232,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "APG": {
-  "net": -0.33333333333333337,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "APH": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "APO": {
-  "net": -0.7272727272727273,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "APOG": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "APP": {
-  "net": 0.7083333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "APPF": {
-  "net": -0.7142857142857143,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "APTV": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AR": {
-  "net": -0.23333333333333334,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ARE": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ARES": {
-  "net": -0.9333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ARLO": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ARMK": {
-  "net": -0.5238095238095238,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AROC": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ARR": {
-  "net": -0.75,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ASB": {
   "net": 0.4464285714285714,
   "fetched": "2026-11-20"
  },
  "ASH": {
-  "net": 0.16666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ASO": {
-  "net": 0.30952380952380953,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ASTE": {
   "net": 0.0,
   "fetched": "2026-11-20"
  },
  "ASTH": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ATEN": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ATMU": {
-  "net": 0.33333333333333337,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ATO": {
-  "net": 0.08333333333333334,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ATR": {
-  "net": 0.6,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AUB": {
   "net": -0.19642857142857142,
   "fetched": "2026-11-20"
  },
  "AVAV": {
-  "net": -0.12637362637362637,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AVGO": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AVT": {
   "net": null,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "AVTR": {
-  "net": 0.06818181818181818,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AVY": {
-  "net": -0.20833333333333334,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AWI": {
-  "net": -0.2727272727272727,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AWK": {
   "net": 0.25,
   "fetched": "2026-11-20"
  },
  "AXON": {
-  "net": -0.5714285714285714,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AXP": {
-  "net": 0.41904761904761906,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AZO": {
-  "net": -0.43333333333333335,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AZTA": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "AZZ": {
-  "net": 0.5555555555555556,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BA": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BAC": {
-  "net": -0.9230769230769231,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BAH": {
-  "net": 0.17307692307692307,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BALL": {
-  "net": -0.8571428571428572,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BANC": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BANF": {
-  "net": 0.6666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BANR": {
-  "net": -0.6333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BAX": {
-  "net": 0.36363636363636365,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BBT": {
-  "net": -0.6904761904761905,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BBWI": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BBY": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BCC": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BCO": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BCPC": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BDC": {
-  "net": -0.16666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BDX": {
-  "net": -0.4,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BF.B": {
-  "net": -0.05454545454545455,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BFAM": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BFS": {
   "net": null,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "BG": {
-  "net": -0.8333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BGC": {
   "net": 1.0,
   "fetched": "2026-11-20"
  },
  "BHE": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BHF": {
-  "net": 0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BILL": {
-  "net": 0.8888888888888888,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BIO": {
-  "net": 0.33333333333333337,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BJ": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BKR": {
-  "net": 0.2828282828282828,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BKU": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BL": {
-  "net": -0.5757575757575758,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BLFS": {
   "net": -1.0,
   "fetched": "2026-09-27"
  },
  "BLKB": {
-  "net": -0.33333333333333337,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BMI": {
-  "net": -0.13333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BMRN": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BOH": {
-  "net": -0.7142857142857143,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BOOT": {
-  "net": -0.8888888888888888,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BOX": {
   "net": -0.5714285714285714,
   "fetched": "2026-11-20"
  },
  "BR": {
-  "net": 0.023809523809523836,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BRC": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BRK.B": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BRKR": {
-  "net": -0.2222222222222222,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BRO": {
   "net": -0.6875,
   "fetched": "2026-11-20"
  },
  "BROS": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BRX": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BSX": {
   "net": -0.9545454545454546,
   "fetched": "2026-11-20"
  },
  "BSY": {
-  "net": -0.34444444444444444,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BTSG": {
-  "net": 0.7619047619047619,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BTU": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BWXT": {
-  "net": 0.11111111111111113,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BXMT": {
-  "net": 0.16666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "BYD": {
-  "net": -0.6875,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "C": {
   "net": 0.5,
   "fetched": "2026-11-20"
  },
  "CAG": {
-  "net": -0.125,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CAH": {
-  "net": 0.4285714285714286,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CALM": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CALX": {
-  "net": 0.4,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CAR": {
   "net": null,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "CARG": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CARR": {
-  "net": -0.6944444444444444,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CASH": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CASY": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CAT": {
-  "net": -0.5416666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CB": {
   "net": 0.8571428571428572,
   "fetched": "2026-11-20"
  },
  "CBOE": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CBRE": {
-  "net": -0.6888888888888889,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CBSH": {
-  "net": -0.3,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CBT": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CBU": {
   "net": 0.08333333333333334,
   "fetched": "2026-11-20"
  },
  "CC": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CCI": {
-  "net": 0.6666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CCK": {
-  "net": -0.2727272727272727,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CCL": {
-  "net": -0.24166666666666667,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CCOI": {
   "net": -0.5,
   "fetched": "2026-10-23"
  },
  "CCS": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CDNS": {
-  "net": 0.9,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CDP": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CDW": {
-  "net": 0.7142857142857143,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CE": {
-  "net": 0.8333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CEG": {
-  "net": 0.5714285714285714,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CELH": {
-  "net": -0.4375,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CENT": {
-  "net": 0.16666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CENTA": {
-  "net": 0.16666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CERT": {
-  "net": 0.6666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CFFN": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CFG": {
-  "net": 0.16083916083916083,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CFR": {
-  "net": 0.6161616161616161,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CG": {
-  "net": 0.2222222222222222,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CGNX": {
-  "net": 0.303030303030303,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CHCO": {
-  "net": 0.35,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CHD": {
-  "net": -0.24675324675324675,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CHDN": {
-  "net": -0.5892857142857143,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CHE": {
-  "net": 0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CHH": {
-  "net": 0.1,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CHRW": {
-  "net": 0.2857142857142857,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CHTR": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CHWY": {
-  "net": 0.16666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CI": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CINF": {
-  "net": 0.75,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CL": {
-  "net": 0.6666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CLF": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CLH": {
-  "net": 0.46153846153846156,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CLSK": {
-  "net": -1.0,
-  "fetched": "2026-11-13"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CLX": {
-  "net": -0.7692307692307692,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CMC": {
-  "net": -0.125,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CMCSA": {
-  "net": -0.20833333333333334,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CME": {
-  "net": 0.6208791208791209,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CMI": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CMS": {
-  "net": -0.14285714285714285,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CNH": {
-  "net": -0.16666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CNK": {
-  "net": 0.5138888888888888,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CNM": {
-  "net": -0.2698412698412698,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CNMD": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CNO": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CNP": {
-  "net": -0.275,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CNR": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CNX": {
-  "net": -0.16666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CNXC": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CNXN": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "COHR": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "COHU": {
-  "net": 0.8333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "COIN": {
-  "net": 0.1952380952380952,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "COLB": {
-  "net": 0.875,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "COLL": {
-  "net": -0.23809523809523808,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "COO": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "COP": {
-  "net": 0.8,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "COR": {
-  "net": 0.25,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "COST": {
-  "net": 0.7083333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CPAY": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CPB": {
-  "net": -0.4444444444444444,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CPF": {
-  "net": 0.75,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CPK": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CPRT": {
-  "net": -0.8,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CPT": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CR": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CRBG": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CRC": {
-  "net": 0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CRH": {
   "net": -0.75,
   "fetched": "2026-11-20"
  },
  "CRK": {
-  "net": -0.05555555555555555,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CRM": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CRS": {
-  "net": -0.25,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CRUS": {
   "net": -1.0,
@@ -2513,475 +2513,475 @@
  },
  "CRVL": {
   "net": null,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "CRWD": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CSCO": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CSGP": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CSR": {
   "net": null,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "CTAS": {
-  "net": 0.75,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CTRE": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CTS": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CTSH": {
-  "net": -0.19696969696969696,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CTVA": {
   "net": null,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "CUBE": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CUBI": {
-  "net": 0.5892857142857143,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CURB": {
-  "net": 0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CUZ": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CVBF": {
-  "net": 0.3333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CVCO": {
   "net": 1.0,
   "fetched": "2026-11-20"
  },
  "CVI": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CVLT": {
-  "net": 0.6470588235294117,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CVNA": {
-  "net": 0.1111111111111111,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CVS": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CVSA": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CVX": {
-  "net": 0.7380952380952381,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CW": {
-  "net": 0.625,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CWEN": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CWK": {
   "net": -1.0,
   "fetched": "2026-11-20"
  },
  "CWST": {
-  "net": -0.21428571428571427,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CXM": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CXT": {
-  "net": 0.13333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CXW": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CYTK": {
   "net": 0.55,
   "fetched": "2026-11-20"
  },
  "CZR": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DAL": {
-  "net": -0.8564593301435407,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DAN": {
-  "net": 0.3,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DASH": {
-  "net": 0.4548872180451128,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DBD": {
-  "net": -0.33333333333333337,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DBX": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DCH": {
   "net": -0.8,
   "fetched": "2026-10-16"
  },
  "DCI": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DCOM": {
-  "net": 0.25,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DDOG": {
-  "net": 0.9310344827586207,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DE": {
-  "net": -0.3333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DEA": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DECK": {
-  "net": 0.09473684210526317,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DEI": {
   "net": null,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "DFH": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DFIN": {
   "net": 1.0,
   "fetched": "2026-11-20"
  },
  "DGX": {
-  "net": 0.6333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DHI": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DHR": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DIOD": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DKS": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DLB": {
-  "net": -0.16666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DMC": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DNOW": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DOCN": {
-  "net": 0.6153846153846154,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DOCS": {
-  "net": 0.3846153846153846,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DOCU": {
-  "net": 0.6428571428571428,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DORM": {
-  "net": -0.6666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DOV": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DOW": {
-  "net": 0.7424242424242424,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DPZ": {
   "net": -0.1043478260869565,
   "fetched": "2026-11-20"
  },
  "DRI": {
-  "net": -0.31202046035805625,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DT": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DTE": {
-  "net": 0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DTM": {
-  "net": -0.4583333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DUK": {
-  "net": 0.25,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DUOL": {
-  "net": 0.25,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DV": {
-  "net": -0.16666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DVA": {
-  "net": -0.4,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DVN": {
-  "net": 0.26666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DXC": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "DXPE": {
   "net": -1.0,
   "fetched": "2026-11-20"
  },
  "DY": {
-  "net": -0.07142857142857142,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "EBAY": {
-  "net": 0.9153439153439153,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "EBC": {
-  "net": 0.8333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ECHO": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ECL": {
-  "net": -0.02083333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ED": {
   "net": -0.6666666666666666,
   "fetched": "2026-11-20"
  },
  "EEFT": {
-  "net": -0.33333333333333337,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "EFOR": {
-  "net": 0.5714285714285714,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "EFX": {
-  "net": -0.75,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "EGBN": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "EGP": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "EHC": {
-  "net": 0.4444444444444444,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "EIG": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ELAN": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ELF": {
-  "net": 0.2857142857142857,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ELS": {
-  "net": -0.33333333333333337,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ELV": {
-  "net": 0.05263157894736842,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "EMR": {
-  "net": -0.5294117647058824,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ENOV": {
-  "net": 0.2222222222222222,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ENPH": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ENR": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ENSG": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ENTG": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "EOG": {
-  "net": 0.7348484848484849,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "EPAC": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "EPAM": {
-  "net": 0.7375,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "EPC": {
-  "net": -0.08333333333333334,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "EPR": {
-  "net": 0.75,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "EPRT": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "EQH": {
-  "net": -0.2833333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "EQIX": {
-  "net": 0.6666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "EQT": {
-  "net": -0.4642857142857143,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ERIE": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ES": {
-  "net": 0.16666666666666669,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ESAB": {
-  "net": -0.8333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ESE": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ESI": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ESNT": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ESS": {
   "net": 1.0,
   "fetched": "2026-11-20"
  },
  "ETN": {
-  "net": 0.7593582887700534,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ETR": {
-  "net": 0.031746031746031744,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ETSY": {
-  "net": 0.6319444444444444,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "EVR": {
   "net": 0.09722222222222221,
   "fetched": "2026-11-20"
  },
  "EVRG": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "EVTC": {
   "net": 0.2,
   "fetched": "2026-11-20"
  },
  "EW": {
-  "net": -0.15384615384615385,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "EWBC": {
   "net": 0.8,
@@ -2996,596 +2996,596 @@
   "fetched": "2026-11-20"
  },
  "EXLS": {
-  "net": 0.8333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "EXP": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "EXPO": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "EXR": {
   "net": null,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "EXTR": {
-  "net": 0.8,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "EYE": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FA": {
-  "net": 0.2,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FANG": {
-  "net": 0.7142857142857143,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FAST": {
-  "net": 0.40476190476190477,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FBIN": {
-  "net": -0.8461538461538461,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FBK": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FBNC": {
-  "net": 0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FBRT": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FCF": {
-  "net": 0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FCN": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FCPT": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FDS": {
-  "net": 0.047619047619047616,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FDXF": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FE": {
-  "net": 0.37142857142857144,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FELE": {
-  "net": 0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FERG": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FFBC": {
-  "net": 0.8,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FFIN": {
-  "net": -0.8333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FG": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FHB": {
   "net": -0.4444444444444444,
   "fetched": "2026-11-20"
  },
  "FHN": {
-  "net": 0.07692307692307693,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FIBK": {
-  "net": 0.09523809523809523,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FICO": {
-  "net": -0.8759398496240601,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FIS": {
-  "net": -0.9375,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FISV": {
-  "net": -0.10317460317460317,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FITB": {
-  "net": -0.3333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FIVN": {
-  "net": -0.9473684210526316,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FIZZ": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FLEX": {
-  "net": 0.8333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FLG": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FLO": {
-  "net": -1.0,
-  "fetched": "2026-11-13"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FLR": {
-  "net": 0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FLS": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FMC": {
   "net": -1.0,
   "fetched": "2026-11-13"
  },
  "FN": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FNB": {
-  "net": 0.4666666666666667,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FND": {
   "net": -0.9047619047619048,
   "fetched": "2026-11-20"
  },
  "FNF": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FOUR": {
   "net": -0.9333333333333333,
   "fetched": "2026-11-20"
  },
  "FOXF": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FRPT": {
   "net": 0.0,
   "fetched": "2026-11-20"
  },
  "FSS": {
-  "net": 0.6333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FTV": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FUL": {
-  "net": -0.2857142857142857,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FULT": {
-  "net": 0.8333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "FUN": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "G": {
-  "net": 0.17460317460317462,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GATX": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GBCI": {
-  "net": -0.3333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GBX": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GD": {
-  "net": 0.75,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GDDY": {
-  "net": 0.5833333333333334,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GE": {
-  "net": 0.7142857142857143,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GEHC": {
   "net": 0.07692307692307693,
   "fetched": "2026-11-20"
  },
  "GEN": {
-  "net": 0.8,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GEO": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GEV": {
-  "net": 0.7090909090909091,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GFF": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GGG": {
-  "net": -0.875,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GHC": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GILD": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GIS": {
-  "net": -0.4285714285714286,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GL": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GLPI": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GLW": {
-  "net": 0.8174603174603174,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GME": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GNRC": {
-  "net": 0.1346153846153846,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GNTX": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GNW": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GO": {
-  "net": 0.21428571428571427,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GOLF": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GOOG": {
-  "net": -0.7857142857142857,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GOOGL": {
-  "net": -0.7222222222222222,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GPC": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GPI": {
-  "net": -0.6111111111111112,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GPK": {
   "net": -0.625,
   "fetched": "2026-11-20"
  },
  "GPN": {
-  "net": 0.05555555555555555,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GPOR": {
-  "net": -0.7,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GRBK": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GS": {
-  "net": 0.638095238095238,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GSHD": {
-  "net": -0.8181818181818182,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GT": {
   "net": -0.1904761904761905,
   "fetched": "2026-09-27"
  },
  "GTES": {
-  "net": 0.33333333333333337,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GTY": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GWRE": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GWW": {
-  "net": 0.8321678321678322,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "GXO": {
-  "net": 0.5454545454545454,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HAFC": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HAL": {
-  "net": -0.019607843137254888,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HAYW": {
-  "net": 0.33333333333333337,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HBAN": {
-  "net": -0.5555555555555556,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HCA": {
   "net": 0.5555555555555556,
   "fetched": "2026-11-20"
  },
  "HD": {
-  "net": -0.6,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HE": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HFWA": {
-  "net": 0.16666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HGV": {
   "net": -0.23214285714285715,
   "fetched": "2026-11-20"
  },
  "HIG": {
-  "net": 0.3888888888888889,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HII": {
-  "net": 0.6,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HIMS": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HIW": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HLI": {
-  "net": 0.4555555555555556,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HLT": {
-  "net": 0.625,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HMN": {
   "net": 0.0,
   "fetched": "2026-11-20"
  },
  "HNI": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HOG": {
-  "net": 0.8,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HOMB": {
-  "net": 0.746031746031746,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HON": {
-  "net": 0.8015873015873016,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HONA": {
   "net": 0.09999999999999998,
   "fetched": "2026-11-20"
  },
  "HOOD": {
-  "net": -0.20261437908496732,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HOPE": {
-  "net": -0.6,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HQY": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HR": {
   "net": -1.0,
   "fetched": "2026-11-20"
  },
  "HRL": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HSIC": {
-  "net": -0.08333333333333331,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HSTM": {
   "net": null,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "HSY": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HTH": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HUBB": {
-  "net": 0.2090909090909091,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HUBG": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HUBS": {
-  "net": 0.041666666666666685,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HUM": {
   "net": 1.0,
   "fetched": "2026-11-20"
  },
  "HWC": {
-  "net": -0.6904761904761905,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HWKN": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HWM": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "HXL": {
-  "net": -0.16666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "IART": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "IBM": {
-  "net": 0.26666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "IBOC": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "IBP": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ICE": {
-  "net": 0.275,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ICHR": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "IDA": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "IDXX": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "IEX": {
-  "net": 0.7142857142857143,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "IFF": {
-  "net": -0.19444444444444445,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "INDB": {
-  "net": 0.7142857142857143,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "INDV": {
   "net": 1.0,
   "fetched": "2026-10-23"
  },
  "INGR": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "INSP": {
-  "net": 0.4444444444444444,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "INTC": {
-  "net": -0.78125,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "INTU": {
-  "net": -0.3047619047619048,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "INVA": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "INVH": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "IP": {
   "net": -1.0,
@@ -3596,404 +3596,404 @@
   "fetched": "2026-11-20"
  },
  "IPGP": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "IQV": {
-  "net": -0.4375,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "IR": {
-  "net": 0.33333333333333337,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "IRM": {
-  "net": 0.3333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "IRT": {
   "net": null,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "ISRG": {
-  "net": 0.9166666666666667,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "IT": {
-  "net": 0.23076923076923078,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ITGR": {
-  "net": 0.33333333333333337,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ITRI": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ITT": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ITW": {
-  "net": 0.5476190476190476,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "IVT": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "J": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "JBGS": {
   "net": null,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "JBL": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "JBSS": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "JBTM": {
   "net": 1.0,
   "fetched": "2026-11-20"
  },
  "JCI": {
-  "net": 0.8235294117647058,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "JEF": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "JJSF": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "JNJ": {
-  "net": 0.2,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "JPM": {
-  "net": -0.4777777777777778,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "JXN": {
   "net": 0.33333333333333337,
   "fetched": "2026-11-20"
  },
  "KAI": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "KBH": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "KBR": {
-  "net": 0.14285714285714288,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "KD": {
-  "net": 0.43333333333333335,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "KDP": {
-  "net": -0.15714285714285714,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "KEY": {
-  "net": 0.75,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "KEYS": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "KFY": {
   "net": null,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "KGS": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "KHC": {
-  "net": -0.08333333333333331,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "KIM": {
   "net": null,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "KKR": {
-  "net": 0.047619047619047616,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "KLAC": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "KLIC": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "KMB": {
   "net": -0.2333333333333333,
   "fetched": "2026-11-20"
  },
  "KMI": {
-  "net": 0.10256410256410256,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "KMPR": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "KMX": {
   "net": -0.4583333333333333,
   "fetched": "2026-11-20"
  },
  "KN": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "KNF": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "KNSL": {
-  "net": 0.45454545454545453,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "KNTK": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "KNX": {
-  "net": 0.3391812865497076,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "KO": {
-  "net": 0.7333333333333334,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "KR": {
   "net": -0.16666666666666666,
   "fetched": "2026-11-20"
  },
  "KRC": {
-  "net": -0.6666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "KRMN": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "KSS": {
-  "net": 0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "KTB": {
-  "net": 0.33333333333333337,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "KTOS": {
-  "net": 0.4,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "KVUE": {
   "net": -0.3333333333333333,
   "fetched": "2026-10-23"
  },
  "KWR": {
-  "net": 0.3,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "L": {
   "net": null,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "LAD": {
-  "net": -0.3384615384615385,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LAUR": {
-  "net": 0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LAZ": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LBRT": {
-  "net": -0.75,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LEA": {
-  "net": -0.21794871794871792,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LECO": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LEN": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LEU": {
-  "net": -0.25,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LFUS": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LGIH": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LGND": {
-  "net": 0.25,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LH": {
   "net": 0.6,
   "fetched": "2026-11-20"
  },
  "LHX": {
-  "net": 0.5277777777777778,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LIF": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LII": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LIN": {
   "net": -0.05882352941176472,
   "fetched": "2026-11-20"
  },
  "LIVN": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LKFN": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LKQ": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LLY": {
-  "net": -0.11384615384615387,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LMAT": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LMT": {
-  "net": -0.048611111111111105,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LNC": {
-  "net": -0.6,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LNN": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LNT": {
-  "net": 0.25,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LOPE": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LOW": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LPX": {
-  "net": 0.1111111111111111,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LRN": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LSCC": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LSTR": {
-  "net": -0.24836601307189543,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LTH": {
-  "net": 0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LULU": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LUMN": {
   "net": -1.0,
   "fetched": "2026-10-09"
  },
  "LUV": {
-  "net": -0.8015873015873016,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LVS": {
-  "net": -0.9166666666666667,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LW": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LXP": {
   "net": null,
   "fetched": "2026-10-23"
  },
  "LYFT": {
-  "net": -0.75,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LYV": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "LZ": {
   "net": null,
   "fetched": "2026-11-06"
  },
  "LZB": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MA": {
-  "net": 0.14625,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MAA": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MAC": {
   "net": -1.0,
@@ -4001,195 +4001,195 @@
  },
  "MARA": {
   "net": null,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "MAS": {
-  "net": 0.6842105263157895,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MAT": {
-  "net": -0.2,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MATW": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MBC": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MC": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MCD": {
-  "net": -0.15789473684210525,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MCHP": {
-  "net": -0.48636363636363633,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MCK": {
-  "net": 0.4,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MCO": {
-  "net": -0.5297619047619048,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MCRI": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MDLZ": {
-  "net": -0.16483516483516483,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MDT": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MET": {
-  "net": 0.38961038961038963,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "META": {
-  "net": -0.23567921440261866,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MGM": {
-  "net": -0.8571428571428572,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MGY": {
-  "net": 0.4666666666666667,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MHK": {
-  "net": -0.8666666666666667,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MHO": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MIDD": {
-  "net": 0.875,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MIR": {
-  "net": -0.4285714285714286,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MKC": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MKSI": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MKTX": {
-  "net": -0.35,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MLM": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MMI": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MMM": {
-  "net": 0.5833333333333334,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MMS": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MMSI": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MO": {
   "net": 0.5,
   "fetched": "2026-11-20"
  },
  "MOH": {
-  "net": -0.18269230769230768,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MORN": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MOS": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MP": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MPWR": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MRCY": {
   "net": 0.6904761904761905,
   "fetched": "2026-11-20"
  },
  "MRP": {
-  "net": 0.33333333333333337,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MRSH": {
-  "net": 0.24999999999999997,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MRTN": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MRVL": {
-  "net": 0.375,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MS": {
-  "net": 0.07142857142857142,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MSCI": {
   "net": -0.11904761904761904,
   "fetched": "2026-11-20"
  },
  "MSFT": {
-  "net": 0.6428571428571428,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MSGS": {
   "net": null,
   "fetched": "2026-11-06"
  },
  "MSM": {
-  "net": 0.4126984126984127,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MTCH": {
-  "net": 0.41666666666666663,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MTD": {
-  "net": 0.5714285714285714,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MTDR": {
-  "net": 0.3522727272727273,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MTH": {
   "net": -1.0,
@@ -4204,44 +4204,44 @@
   "fetched": "2026-11-20"
  },
  "MTUS": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MTX": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MTZ": {
-  "net": -0.7,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MUR": {
-  "net": 0.6730769230769231,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MWA": {
-  "net": -0.33333333333333337,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MXL": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MZTI": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NATL": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NAVI": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NBHC": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NBTB": {
   "net": 0.15,
@@ -4252,148 +4252,148 @@
   "fetched": "2026-11-20"
  },
  "NDAQ": {
-  "net": 0.012500000000000011,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NDSN": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NE": {
-  "net": -0.33333333333333337,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NEE": {
-  "net": -0.425,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NEO": {
-  "net": 0.25,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NFLX": {
-  "net": -0.4,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NHC": {
   "net": null,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "NHI": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NI": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NIC": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NKE": {
-  "net": -0.875,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NMIH": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NNN": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NOC": {
-  "net": 0.4444444444444444,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NOG": {
-  "net": 0.8333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NOV": {
-  "net": 0.275,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NOVT": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NOW": {
-  "net": -0.8671328671328671,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NPK": {
   "net": null,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "NPO": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NRG": {
-  "net": -0.25,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NSP": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NSSC": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NTNX": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NTST": {
   "net": -0.5,
   "fetched": "2026-11-20"
  },
  "NVDA": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NVR": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NWBI": {
-  "net": -0.3333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NXPI": {
   "net": 0.6004784688995215,
   "fetched": "2026-11-20"
  },
  "NXRT": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "NXST": {
   "net": 0.33333333333333337,
   "fetched": "2026-11-20"
  },
  "O": {
-  "net": 0.6666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "OC": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "OGE": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "OGN": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "OHI": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "OI": {
   "net": null,
@@ -4404,100 +4404,100 @@
   "fetched": "2026-11-20"
  },
  "OKTA": {
-  "net": 0.5588235294117647,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "OLED": {
-  "net": 0.25,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "OLLI": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "OLN": {
   "net": -0.8333333333333333,
   "fetched": "2026-09-27"
  },
  "OMC": {
-  "net": -0.8888888888888888,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "OMCL": {
-  "net": 0.8571428571428572,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ON": {
-  "net": 0.9444444444444444,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ONB": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "OPCH": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "OPLN": {
-  "net": -0.33333333333333337,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ORCL": {
-  "net": -0.3384615384615385,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ORI": {
-  "net": -0.6666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ORLY": {
-  "net": 0.7142857142857143,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "OSIS": {
-  "net": -0.25,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "OSK": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "OSW": {
-  "net": 0.75,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "OTIS": {
-  "net": -0.4571428571428572,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "OVV": {
   "net": 0.43636363636363634,
   "fetched": "2026-11-20"
  },
  "OXY": {
-  "net": 0.9444444444444444,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "OZK": {
-  "net": 0.625,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "P": {
   "net": 0.9444444444444444,
   "fetched": "2026-11-20"
  },
  "PAG": {
-  "net": -0.4,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PAHC": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PANW": {
-  "net": 0.3983451536643026,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PATH": {
   "net": 0.22619047619047616,
@@ -4508,20 +4508,20 @@
   "fetched": "2026-11-20"
  },
  "PAYO": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PAYX": {
-  "net": -0.5833333333333334,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PB": {
-  "net": 0.48351648351648346,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PBH": {
-  "net": -0.8,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PCRX": {
   "net": 0.0,
@@ -4532,440 +4532,440 @@
   "fetched": "2026-11-20"
  },
  "PDFS": {
-  "net": 0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PECO": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PEG": {
-  "net": -0.17857142857142858,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PEGA": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PEN": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PENG": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PENN": {
-  "net": 0.33333333333333337,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PEP": {
   "net": -1.0,
   "fetched": "2026-11-20"
  },
  "PFBC": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PFE": {
-  "net": 0.13333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PFG": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PFGC": {
-  "net": -0.6071428571428572,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PG": {
-  "net": -0.5333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PGNY": {
-  "net": 0.75,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PGR": {
-  "net": 0.03095975232198142,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PH": {
   "net": 1.0,
   "fetched": "2026-11-20"
  },
  "PHIN": {
-  "net": 0.25,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PHM": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PI": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PII": {
-  "net": 0.09090909090909088,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PINS": {
-  "net": -0.9444444444444444,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PIPR": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PJT": {
-  "net": -0.5833333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PKG": {
-  "net": 0.41666666666666663,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PLAB": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PLD": {
-  "net": 0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PLMR": {
-  "net": -0.13333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PLNT": {
-  "net": 0.7181818181818183,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PLTR": {
-  "net": 0.8944444444444444,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PLUS": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PLXS": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PM": {
-  "net": -0.9166666666666667,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PMT": {
-  "net": 0.4,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PNC": {
-  "net": -0.36607142857142855,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PNFP": {
-  "net": 0.36904761904761907,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PNR": {
   "net": -0.18181818181818182,
   "fetched": "2026-11-20"
  },
  "PODD": {
-  "net": 0.07450980392156864,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "POOL": {
-  "net": -0.5897435897435898,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "POR": {
-  "net": -0.23333333333333336,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "POST": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "POWI": {
-  "net": 0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "POWL": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PPC": {
   "net": -0.55,
   "fetched": "2026-11-20"
  },
  "PPG": {
-  "net": 0.09523809523809523,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PPL": {
-  "net": -0.75,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PPLI": {
-  "net": -0.6,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PRDO": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PRGO": {
-  "net": 0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PRGS": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PRI": {
-  "net": -0.33333333333333337,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PRIM": {
-  "net": -0.25,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PRKS": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PRSU": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PRU": {
   "net": -1.0,
   "fetched": "2026-11-20"
  },
  "PRVA": {
-  "net": 0.17142857142857143,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PSA": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PSKY": {
   "net": -0.5048076923076923,
   "fetched": "2026-09-27"
  },
  "PSMT": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PSN": {
-  "net": 0.3090909090909091,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PTC": {
-  "net": 0.41666666666666663,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PTCT": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PVH": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PYPL": {
-  "net": 0.9459459459459459,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PZZA": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "Q": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "QCOM": {
-  "net": -0.21256038647342995,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "QDEL": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "QRVO": {
   "net": 0.8181818181818181,
   "fetched": "2026-09-27"
  },
  "QTWO": {
-  "net": 0.375,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "RAL": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "RAMP": {
   "net": -1.0,
   "fetched": "2026-10-23"
  },
  "RBA": {
-  "net": 0.41666666666666663,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "RBC": {
-  "net": 0.6666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "RCL": {
   "net": 0.05980861244019137,
   "fetched": "2026-11-20"
  },
  "RCUS": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "RDDT": {
-  "net": 0.12008281573498966,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "RDN": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "RDNT": {
-  "net": -0.22857142857142856,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "REG": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "REX": {
   "net": null,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "REXR": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "REYN": {
-  "net": -0.25,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "REZI": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "RF": {
-  "net": 0.75,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "RGEN": {
-  "net": -0.3846153846153846,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "RH": {
-  "net": -0.13333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "RHI": {
-  "net": 0.8571428571428572,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "RJF": {
-  "net": 0.03636363636363635,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "RL": {
-  "net": 0.4230769230769231,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "RLI": {
-  "net": 0.8333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "RMBS": {
-  "net": 0.8571428571428572,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "RMD": {
-  "net": -0.05668016194331982,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "RNG": {
-  "net": 0.6153846153846154,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "RNST": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ROCK": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ROG": {
   "net": 1.0,
   "fetched": "2026-11-20"
  },
  "ROIV": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ROK": {
   "net": -0.02777777777777779,
   "fetched": "2026-11-20"
  },
  "ROL": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ROP": {
-  "net": 0.9333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "RPM": {
-  "net": -0.8461538461538461,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "RRC": {
-  "net": 0.3803418803418803,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "RRR": {
-  "net": -0.8571428571428572,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "RRX": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "RSG": {
-  "net": 0.12894736842105264,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "RUN": {
-  "net": 0.25,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "RVTY": {
-  "net": 0.28888888888888886,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "RYAN": {
-  "net": -0.11282051282051281,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "RYN": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SAFE": {
   "net": -0.5,
@@ -4973,7 +4973,7 @@
  },
  "SAFT": {
   "net": null,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "SAH": {
   "net": -0.8888888888888888,
@@ -4984,228 +4984,228 @@
   "fetched": "2026-11-20"
  },
  "SANM": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SARO": {
   "net": 0.75,
   "fetched": "2026-11-20"
  },
  "SBAC": {
-  "net": 0.6,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SBCF": {
-  "net": -0.6666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SBRA": {
-  "net": -0.8,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SBSI": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SCHL": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SCHW": {
-  "net": -0.4901960784313726,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SCI": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SCL": {
   "net": null,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "SCSC": {
-  "net": 0.41666666666666663,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SDGR": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SEDG": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SEI": {
-  "net": -0.16666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SFBS": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SFM": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SFNC": {
-  "net": 0.8,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SGI": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SHAK": {
-  "net": 0.7467532467532467,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SHC": {
-  "net": -0.6666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SHEN": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SHW": {
-  "net": -0.5326086956521738,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SIGI": {
-  "net": 0.4285714285714286,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SIRI": {
-  "net": -0.4,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SITM": {
   "net": 1.0,
   "fetched": "2026-11-20"
  },
  "SJM": {
-  "net": 0.45454545454545453,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SKT": {
-  "net": 0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SKY": {
-  "net": -0.3333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SKYW": {
-  "net": -0.5833333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SLAB": {
-  "net": 0.2,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SLG": {
-  "net": 0.3333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SLGN": {
-  "net": 0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SLM": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SLVM": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SMG": {
-  "net": -0.4,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SMP": {
   "net": 0.33333333333333337,
   "fetched": "2026-11-20"
  },
  "SMPL": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SMTC": {
-  "net": 0.9166666666666667,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SNA": {
   "net": -0.875,
   "fetched": "2026-11-20"
  },
  "SNEX": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SNPS": {
-  "net": 0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SNX": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SO": {
-  "net": -0.15384615384615385,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SOLS": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SOLV": {
-  "net": 0.22727272727272727,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SON": {
-  "net": -0.75,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SPG": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SPGI": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SPSC": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SPXC": {
   "net": -0.08333333333333334,
   "fetched": "2026-11-20"
  },
  "SR": {
-  "net": 0.25,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SRE": {
-  "net": -0.2727272727272727,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SRPT": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SSB": {
-  "net": -0.6923076923076923,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SSD": {
-  "net": 0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ST": {
-  "net": 0.22222222222222224,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "STAA": {
   "net": 0.4285714285714286,
@@ -5216,88 +5216,88 @@
   "fetched": "2026-11-20"
  },
  "STC": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "STE": {
-  "net": 0.25,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "STEP": {
   "net": 0.0,
   "fetched": "2026-11-20"
  },
  "STLD": {
-  "net": -0.6,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "STRA": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "STRL": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "STWD": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "STZ": {
-  "net": -0.3492822966507177,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SUI": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SUPN": {
   "net": null,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "SW": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SWKS": {
-  "net": 0.18181818181818182,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SXI": {
-  "net": -0.2,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SYK": {
-  "net": -0.9285714285714286,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SYNA": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SYY": {
-  "net": -0.8571428571428572,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "T": {
   "net": 0.7523809523809524,
   "fetched": "2026-11-20"
  },
  "TBBK": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TCBI": {
   "net": null,
   "fetched": "2026-11-06"
  },
  "TDC": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TDG": {
-  "net": 0.045454545454545456,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TDS": {
   "net": 1.0,
@@ -5308,84 +5308,84 @@
   "fetched": "2026-11-20"
  },
  "TDY": {
-  "net": 0.9090909090909092,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TECH": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TEL": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TEX": {
   "net": -0.8461538461538461,
   "fetched": "2026-11-20"
  },
  "TFC": {
-  "net": -0.15000000000000002,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TFX": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TGTX": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "THO": {
-  "net": -0.9166666666666667,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "THRM": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TJX": {
   "net": 0.27350427350427353,
   "fetched": "2026-11-20"
  },
  "TKO": {
-  "net": 0.25,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TKR": {
-  "net": 0.8,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TLN": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TMDX": {
-  "net": 0.25,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TMO": {
-  "net": 0.06944444444444442,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TMUS": {
-  "net": 0.2777777777777778,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TNC": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TNDM": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TOL": {
-  "net": -0.6666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TPL": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TPR": {
   "net": 0.8571428571428572,
@@ -5393,575 +5393,575 @@
  },
  "TR": {
   "net": null,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "TREX": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TRGP": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TRIP": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TRMB": {
-  "net": 0.2222222222222222,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TRMK": {
-  "net": -0.41666666666666663,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TRN": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TRST": {
   "net": null,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "TRU": {
-  "net": 0.035714285714285726,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TRUP": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TSCO": {
-  "net": 0.25,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TSLA": {
   "net": -0.021428571428571422,
   "fetched": "2026-11-20"
  },
  "TSN": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TT": {
-  "net": -0.375,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TTC": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TTEK": {
   "net": 1.0,
   "fetched": "2026-11-20"
  },
  "TTMI": {
-  "net": 0.33333333333333337,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TTWO": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TWLO": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TXN": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TXNM": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TXT": {
-  "net": 0.15384615384615385,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "TYL": {
-  "net": -0.16428571428571426,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "UAL": {
-  "net": -0.8968253968253967,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "UBER": {
-  "net": -0.625,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "UCB": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "UCTT": {
-  "net": 0.8,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "UDR": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "UE": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "UFPI": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "UFPT": {
-  "net": 0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "UGI": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "UHS": {
-  "net": -0.5833333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ULS": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ULTA": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "UNF": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "UNH": {
-  "net": 0.7272727272727273,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "UNIT": {
   "net": null,
   "fetched": "2026-11-06"
  },
  "UNM": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "UPBD": {
-  "net": 0.75,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "UPWK": {
   "net": 0.33333333333333337,
   "fetched": "2026-11-20"
  },
  "URI": {
-  "net": 0.9375,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "USB": {
-  "net": 0.6547619047619048,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "USLM": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "USPH": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "UTI": {
-  "net": -0.6666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "UTL": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "UVV": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "V": {
-  "net": 0.27591706539074956,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "VAL": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "VC": {
   "net": -1.0,
   "fetched": "2026-11-20"
  },
  "VCYT": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "VECO": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "VEEV": {
-  "net": 0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "VFC": {
-  "net": 0.05263157894736842,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "VGNT": {
-  "net": -0.26666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "VIAV": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "VICI": {
   "net": null,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "VIR": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "VLTO": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "VLY": {
-  "net": 0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "VMC": {
-  "net": -0.746031746031746,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "VMI": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "VMRK": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "VNO": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "VNOM": {
-  "net": 0.5272727272727272,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "VNT": {
   "net": 1.0,
   "fetched": "2026-11-20"
  },
  "VOYA": {
-  "net": -0.17142857142857143,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "VRSK": {
   "net": -0.5833333333333334,
   "fetched": "2026-11-20"
  },
  "VRTX": {
-  "net": -0.3888888888888889,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "VSAT": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "VSEC": {
-  "net": 0.35714285714285715,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "VSH": {
-  "net": 0.8333333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "VSNT": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "VST": {
-  "net": 0.16666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "VTOL": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "VTR": {
   "net": null,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "VTRS": {
-  "net": 0.6,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "VVV": {
-  "net": -0.5833333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "VVX": {
-  "net": 0.6777777777777778,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "VYX": {
   "net": 0.25,
   "fetched": "2026-11-20"
  },
  "VZ": {
-  "net": 0.5714285714285714,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WABC": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WAFD": {
-  "net": -0.6666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WAL": {
   "net": -0.5384615384615384,
   "fetched": "2026-11-20"
  },
  "WAT": {
-  "net": 0.3125,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WAY": {
-  "net": 0.06666666666666671,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WCC": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WD": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WDAY": {
-  "net": 0.6666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WDFC": {
-  "net": 0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WEC": {
-  "net": -0.2,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WEX": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WFC": {
-  "net": -0.12074303405572756,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WFRD": {
-  "net": 0.5238095238095238,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WGO": {
-  "net": -0.7230769230769231,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WH": {
-  "net": 0.25,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WHR": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WINA": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WING": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WLK": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WM": {
-  "net": -0.3282828282828283,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WMB": {
-  "net": 0.04166666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WMG": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WMS": {
-  "net": -0.6666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WMT": {
-  "net": 0.6,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WOR": {
   "net": -0.15,
   "fetched": "2026-11-20"
  },
  "WPC": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WRB": {
-  "net": 0.2833333333333333,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WRBY": {
-  "net": -0.2,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WS": {
   "net": null,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "WSC": {
-  "net": -0.38095238095238093,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WSM": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WSO": {
   "net": -0.625,
   "fetched": "2026-11-20"
  },
  "WST": {
-  "net": 0.75,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WTFC": {
-  "net": 0.8666666666666667,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WTS": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WTW": {
-  "net": -0.4666666666666667,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WU": {
-  "net": 0.18181818181818185,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WWD": {
-  "net": 0.26666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WWW": {
   "net": -0.5,
   "fetched": "2026-11-20"
  },
  "WY": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "WYNN": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "XEL": {
-  "net": -0.09999999999999998,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "XHR": {
   "net": null,
   "fetched": "2026-11-20"
  },
  "XNCR": {
-  "net": 0.4,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "XOM": {
-  "net": 0.9,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "XPO": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "XRAY": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "XYL": {
-  "net": -1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "XYZ": {
-  "net": 0.5952380952380952,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "YELP": {
   "net": 0.5,
   "fetched": "2026-11-20"
  },
  "YOU": {
-  "net": 0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "YUM": {
-  "net": 0.047619047619047616,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ZBH": {
-  "net": 0.4125,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ZD": {
-  "net": 1.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ZTS": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ZWS": {
-  "net": 0.5138888888888888,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MBGL": {
   "net": null,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "MFP": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "PTON": {
-  "net": 0.0,
-  "fetched": "2026-11-13"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "SKYD": {
-  "net": -0.5,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "ADIG": {
   "net": null,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "UA": {
   "net": null,
@@ -5972,19 +5972,23 @@
   "fetched": "2026-11-06"
  },
  "JHX": {
-  "net": -0.19999999999999998,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "MSGK": {
-  "net": 0.0,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
  },
  "CHYM": {
   "net": 1.0,
   "fetched": "2026-11-20"
  },
  "HZN": {
-  "net": -0.16666666666666666,
-  "fetched": "2026-11-20"
+  "net": null,
+  "fetched": "2026-11-27"
+ },
+ "NABL": {
+  "net": null,
+  "fetched": "2026-11-27"
  }
 }

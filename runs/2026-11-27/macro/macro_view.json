@@ -1,0 +1,288 @@
+{
+ "date": "2026-11-27",
+ "status": "OK",
+ "regime": "Reflation (growth up, inflation up)",
+ "fed": "on hold",
+ "tilts": {
+  "Technology": -1,
+  "Financials": 0,
+  "Health Care": 1,
+  "Energy": 1,
+  "Industrials": 0,
+  "Consumer Discretionary": -1,
+  "Consumer Staples": 2,
+  "Utilities": 2,
+  "Materials": 0,
+  "Real Estate": 0,
+  "Communication Services": 0
+ },
+ "sector_probabilities": {
+  "Technology": 0.4023,
+  "Financials": 0.4892,
+  "Health Care": 0.6402,
+  "Energy": 0.583,
+  "Industrials": 0.5329,
+  "Consumer Discretionary": 0.4276,
+  "Consumer Staples": 0.6619,
+  "Utilities": 0.637,
+  "Materials": 0.5272,
+  "Real Estate": 0.5427,
+  "Communication Services": 0.513
+ },
+ "factor_view": {
+  "rates_10y": 0.0,
+  "oil": 1.5,
+  "dollar": 0.0,
+  "credit": -0.75,
+  "inflation_exp": 0.0
+ },
+ "weight_ranges_%": {
+  "Technology": [
+   0,
+   10
+  ],
+  "Financials": [
+   0,
+   18
+  ],
+  "Health Care": [
+   5,
+   22
+  ],
+  "Energy": [
+   5,
+   22
+  ],
+  "Industrials": [
+   0,
+   18
+  ],
+  "Consumer Discretionary": [
+   0,
+   10
+  ],
+  "Consumer Staples": [
+   10,
+   25
+  ],
+  "Utilities": [
+   10,
+   25
+  ],
+  "Materials": [
+   0,
+   18
+  ],
+  "Real Estate": [
+   0,
+   18
+  ],
+  "Communication Services": [
+   0,
+   18
+  ]
+ },
+ "triggers": [],
+ "why": [
+  "tripwire: High-yield credit spread is newly unusual (z +1.3 -> +2.0)"
+ ],
+ "key_risks": [
+  "Binary: FOMC on Dec 8-9 (NOTE:A1). A hike toward the SEP 4.1% into widening credit could tip HY spreads past 4.5. Pullback risk (0.149) may understate this because the model omits HY spreads.",
+  "Binary: OPEC+ meeting on Nov 29 on 2027 quotas (NOTE:E12). A supply increase versus a cut moves oil and energy sharply.",
+  "Binary: further Iranian mine attacks in Hormuz or Gulf refinery strikes (NOTE:E7, NOTE:E16) could spike oil despite the IEA surplus.",
+  "Consumer sentiment (UMCSENT 48, record 5yr low) directly contradicts strong hard data (retail sales +6.82% YoY, strong Discretionary momentum); a reconciliation either way (soft data catching down hard data, or vice versa) is a swing risk for Consumer Discretionary.",
+  "Dec 4 Employment Situation (binary for labor market)",
+  "December 8-9 FOMC/SEP is a binary rate-path risk: inflation is running well above the Fed's 2026 target dot (PCEPILFE 3.26% vs SEP_JCXFEMD_2026 3.4% median, but CPI 4.08% is hotter), raising the chance the SEP shifts hawkish versus market pricing of further hikes already embedded in the 2yr yield.",
+  "FOMC Dec 8-9 with SEP (binary for rates path)",
+  "FOMC December 8-9 meeting (NOTE:A1) could deliver a hawkish Summary of Economic Projections given CPI at 4.08% (FRED:CPIAUCSL: 4.08) and 2-year yield at 4.61% (FRED:DGS2: 4.61).",
+  "HY credit spread tripwire (BAMLH0A0HYM2 z +1.3 -> +2.0, 96th percentile, widening fast) is a genuine new stress signal that CALC:recession_risk and CALC:pullback_risk underweight directly (they use NFCI/yield-curve/realized-vol, not HY spread level as a top driver), so an acceleration here could invalidate the 'normal' reading from both models.",
+  "High-yield credit spread widening (FRED:BAMLH0A0HYM2: 3.77) crosses into acute stress (z=+2.01), which could cascade into broader equity market liquidations given S&P 500 is already below its 200-day average (-0.8%, CALC:risk_indicators).",
+  "Hormuz mine strikes (Nov 26, at least 2 ships hit) and Houthi attack on Saudi's largest refinery (Nov 25) are fresh escalations on top of an already-closed Strait since Feb 2026; a confirmed loss of physical tanker throughput (vs. threats already priced) would be a binary oil-upside shock beyond the factor forecast.",
+  "OPEC+ 21-country meeting on November 29, 2026 (NOTE:E12) deciding 2027 production quotas amid Strait of Hormuz mine attacks (NOTE:E7) could trigger sharp binary moves in oil prices.",
+  "OPEC+ full 21-country meeting on Nov 29 to set 2027 quotas is a binary near-term event that could push oil sharply either way depending on whether it signals discipline or a supply response to the IEA-reported surplus.",
+  "Pullback risk model p_10pct_3m is 0.149 (CALC:pullback_risk), but realized volatility is at the 96th percentile (32%) and VIX is 26.8 (FRED:VIXCLS: 26.8), indicating heightened tail-risk.",
+  "Russia-NATO spillover: missiles in Poland (NOTE:E4) and Estonia's border closure on Dec 1 (NOTE:E17).",
+  "The CPI release on Dec 10 could show headline CPI above 4%, reinforcing hike pricing."
+ ],
+ "upcoming_events": [
+  {
+   "date": "2026-11-29",
+   "event": "OPEC+ full 21-country meeting to decide 2027 production quotas",
+   "exposed": [
+    "Energy",
+    "Industrials"
+   ]
+  },
+  {
+   "date": "2026-11-29",
+   "event": "OPEC+ full-group meeting on 2027 quotas",
+   "exposed": [
+    "Energy",
+    "oil",
+    "Consumer Discretionary"
+   ]
+  },
+  {
+   "date": "2026-11-29",
+   "event": "OPEC+ 21-country ministerial meeting to set 2027 production quotas",
+   "exposed": [
+    "Energy",
+    "Consumer Discretionary"
+   ]
+  },
+  {
+   "date": "2026-12-01",
+   "event": "JOLTS job openings release",
+   "exposed": [
+    "Financials",
+    "broad market"
+   ]
+  },
+  {
+   "date": "2026-12-01",
+   "event": "Estonia closes border crossings with Russia (geopolitical escalation risk with NATO/Russia tension)",
+   "exposed": [
+    "Energy",
+    "Industrials"
+   ]
+  },
+  {
+   "date": "2026-12-01",
+   "event": "Estonia closes border crossings with Russia",
+   "exposed": [
+    "geopolitics",
+    "Energy"
+   ]
+  },
+  {
+   "date": "2026-12-04",
+   "event": "Employment Situation (payrolls/unemployment)",
+   "exposed": [
+    "Financials",
+    "Consumer Discretionary",
+    "broad market"
+   ]
+  },
+  {
+   "date": "2026-12-04",
+   "event": "Employment Situation (November payrolls)",
+   "exposed": [
+    "rates",
+    "Financials",
+    "Technology"
+   ]
+  },
+  {
+   "date": "2026-12-04",
+   "event": "November Employment Situation release (Nonfarm Payrolls, Unemployment Rate)",
+   "exposed": [
+    "Financials",
+    "Technology",
+    "Consumer Discretionary"
+   ]
+  },
+  {
+   "date": "2026-12-04",
+   "event": "Employment Situation",
+   "exposed": [
+    "Financials",
+    "Industrials"
+   ]
+  },
+  {
+   "date": "2026-12-08",
+   "event": "FOMC meeting with Summary of Economic Projections",
+   "exposed": [
+    "Financials",
+    "Technology",
+    "Real Estate",
+    "broad market"
+   ]
+  },
+  {
+   "date": "2026-12-08",
+   "event": "FOMC Meeting and release of Summary of Economic Projections (SEP)",
+   "exposed": [
+    "Financials",
+    "Real Estate",
+    "Technology",
+    "Utilities"
+   ]
+  },
+  {
+   "date": "2026-12-08",
+   "event": "FOMC meeting with SEP",
+   "exposed": [
+    "Financials",
+    "Real Estate"
+   ]
+  },
+  {
+   "date": "2026-12-09",
+   "event": "FOMC decision plus SEP; hike versus hold",
+   "exposed": [
+    "rates",
+    "Real Estate",
+    "Utilities",
+    "Financials",
+    "credit"
+   ]
+  },
+  {
+   "date": "2026-12-10",
+   "event": "Consumer Price Index release",
+   "exposed": [
+    "Technology",
+    "Consumer Discretionary",
+    "broad market"
+   ]
+  },
+  {
+   "date": "2026-12-10",
+   "event": "November CPI",
+   "exposed": [
+    "rates",
+    "inflation_exp"
+   ]
+  },
+  {
+   "date": "2026-12-10",
+   "event": "November Consumer Price Index (CPI) release",
+   "exposed": [
+    "Utilities",
+    "Consumer Staples",
+    "Consumer Discretionary"
+   ]
+  },
+  {
+   "date": "2026-12-10",
+   "event": "Consumer Price Index",
+   "exposed": [
+    "all sectors"
+   ]
+  },
+  {
+   "date": "2026-12-15",
+   "event": "Producer Price Index",
+   "exposed": [
+    "Materials",
+    "Industrials"
+   ]
+  },
+  {
+   "date": "2026-12-16",
+   "event": "Retail sales and industrial production",
+   "exposed": [
+    "Consumer Discretionary",
+    "Industrials"
+   ]
+  },
+  {
+   "date": "2026-12-23",
+   "event": "GDP plus Personal Income and Outlays (PCE)",
+   "exposed": [
+    "rates"
+   ]
+  }
+ ]
+}

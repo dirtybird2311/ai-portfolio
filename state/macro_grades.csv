@@ -65,3 +65,47 @@ date,sector,horizon,excess,beat
 2026-10-16,Materials,4w,0.04482,1
 2026-10-16,Real Estate,4w,0.09653,1
 2026-10-16,Communication Services,4w,0.00491,1
+2026-09-26,Technology,8w,-0.10869,0
+2026-09-26,Financials,8w,0.08352,1
+2026-09-26,Health Care,8w,0.10423,1
+2026-09-26,Energy,8w,0.02067,1
+2026-09-26,Industrials,8w,0.0192,1
+2026-09-26,Consumer Discretionary,8w,0.12933,1
+2026-09-26,Consumer Staples,8w,0.15503,1
+2026-09-26,Utilities,8w,0.16028,1
+2026-09-26,Materials,8w,0.06527,1
+2026-09-26,Real Estate,8w,0.09407,1
+2026-09-26,Communication Services,8w,-0.0116,0
+2026-09-26,Technology,8w,-0.10869,0
+2026-09-26,Financials,8w,0.08352,1
+2026-09-26,Health Care,8w,0.10423,1
+2026-09-26,Energy,8w,0.02067,1
+2026-09-26,Industrials,8w,0.0192,1
+2026-09-26,Consumer Discretionary,8w,0.12933,1
+2026-09-26,Consumer Staples,8w,0.15503,1
+2026-09-26,Utilities,8w,0.16028,1
+2026-09-26,Materials,8w,0.06527,1
+2026-09-26,Real Estate,8w,0.09407,1
+2026-09-26,Communication Services,8w,-0.0116,0
+2026-09-27,Technology,8w,-0.10869,0
+2026-09-27,Financials,8w,0.08352,1
+2026-09-27,Health Care,8w,0.10423,1
+2026-09-27,Energy,8w,0.02067,1
+2026-09-27,Industrials,8w,0.0192,1
+2026-09-27,Consumer Discretionary,8w,0.12933,1
+2026-09-27,Consumer Staples,8w,0.15503,1
+2026-09-27,Utilities,8w,0.16028,1
+2026-09-27,Materials,8w,0.06527,1
+2026-09-27,Real Estate,8w,0.09407,1
+2026-09-27,Communication Services,8w,-0.0116,0
+2026-10-23,Technology,4w,-0.0722,0
+2026-10-23,Financials,4w,0.04968,1
+2026-10-23,Health Care,4w,0.05707,1
+2026-10-23,Energy,4w,-0.08401,0
+2026-10-23,Industrials,4w,0.02939,1
+2026-10-23,Consumer Discretionary,4w,0.07965,1
+2026-10-23,Consumer Staples,4w,0.0838,1
+2026-10-23,Utilities,4w,0.07438,1
+2026-10-23,Materials,4w,0.02748,1
+2026-10-23,Real Estate,4w,0.05862,1
+2026-10-23,Communication Services,4w,0.05388,1

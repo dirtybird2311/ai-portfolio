@@ -1,127 +1,127 @@
 {
- "date": "2026-11-20",
+ "date": "2026-11-28",
  "inception": "2026-09-28",
  "metrics": {
   "AI actual": {
-   "since_inception_%": -0.42,
-   "1m_%": -5.44,
+   "since_inception_%": 2.55,
+   "1m_%": -1.81,
    "3m_%": null,
    "6m_%": null,
-   "volatility_%": 21.4,
+   "volatility_%": 20.8,
    "max_drawdown_%": -6.68,
-   "sharpe": -0.02,
-   "value": 9956.81,
-   "days": 40
+   "sharpe": 0.81,
+   "value": 10254.09,
+   "days": 44
   },
   "AI as recommended": {
-   "since_inception_%": -2.74,
-   "1m_%": -6.97,
+   "since_inception_%": 0.15,
+   "1m_%": -3.37,
    "3m_%": null,
    "6m_%": null,
-   "volatility_%": 21.4,
+   "volatility_%": 20.8,
    "max_drawdown_%": -8.09,
-   "sharpe": -0.74,
-   "value": 9725.55,
-   "days": 40
+   "sharpe": 0.15,
+   "value": 10015.5,
+   "days": 44
   },
   "Screen-only control": {
-   "since_inception_%": -13.0,
-   "1m_%": -14.09,
+   "since_inception_%": -9.9,
+   "1m_%": -11.39,
    "3m_%": null,
    "6m_%": null,
    "volatility_%": 19.2,
    "max_drawdown_%": -14.84,
-   "sharpe": -4.59,
-   "value": 8699.99,
-   "days": 40
+   "sharpe": -3.08,
+   "value": 9009.67,
+   "days": 44
   },
   "Equal-weight (same picks)": {
-   "since_inception_%": -3.87,
-   "1m_%": -7.73,
+   "since_inception_%": -0.59,
+   "1m_%": -3.43,
    "3m_%": null,
    "6m_%": null,
-   "volatility_%": 25.1,
+   "volatility_%": 24.4,
    "max_drawdown_%": -9.14,
-   "sharpe": -0.89,
-   "value": 9612.93,
-   "days": 40
+   "sharpe": -0.02,
+   "value": 9940.69,
+   "days": 44
   },
   "No-macro (top-rated, no PM)": {
-   "since_inception_%": -10.67,
-   "1m_%": -12.53,
+   "since_inception_%": -10.16,
+   "1m_%": -11.04,
    "3m_%": null,
    "6m_%": null,
-   "volatility_%": 31.4,
-   "max_drawdown_%": -14.73,
-   "sharpe": -2.17,
-   "value": 8932.78,
-   "days": 40
+   "volatility_%": 30.0,
+   "max_drawdown_%": -14.98,
+   "sharpe": -1.94,
+   "value": 8984.17,
+   "days": 44
   },
   "SPY": {
-   "since_inception_%": -9.9,
-   "1m_%": -9.71,
+   "since_inception_%": -4.87,
+   "1m_%": -5.7,
    "3m_%": null,
    "6m_%": null,
-   "volatility_%": 20.0,
+   "volatility_%": 22.9,
    "max_drawdown_%": -11.46,
-   "sharpe": -3.26,
-   "value": 9009.94,
-   "days": 40
+   "sharpe": -1.16,
+   "value": 9512.94,
+   "days": 44
   },
   "SPTM (S&P 1500)": {
-   "since_inception_%": -9.35,
-   "1m_%": -9.22,
+   "since_inception_%": -4.4,
+   "1m_%": -5.28,
    "3m_%": null,
    "6m_%": null,
-   "volatility_%": 19.6,
+   "volatility_%": 22.3,
    "max_drawdown_%": -10.95,
-   "sharpe": -3.13,
-   "value": 9064.76,
-   "days": 40
+   "sharpe": -1.07,
+   "value": 9559.95,
+   "days": 44
   },
   "Macro tilts (sector ETFs)": {
-   "since_inception_%": -0.93,
-   "1m_%": -4.43,
+   "since_inception_%": 3.54,
+   "1m_%": 0.55,
    "3m_%": null,
    "6m_%": null,
-   "volatility_%": 13.4,
+   "volatility_%": 14.0,
    "max_drawdown_%": -6.0,
-   "sharpe": -0.39,
-   "value": 9906.91,
-   "days": 40
+   "sharpe": 1.53,
+   "value": 10353.89,
+   "days": 44
   },
   "Momentum rule (sector ETFs)": {
-   "since_inception_%": -3.9,
-   "1m_%": -6.62,
+   "since_inception_%": 0.38,
+   "1m_%": -3.03,
    "3m_%": null,
    "6m_%": null,
-   "volatility_%": 14.5,
+   "volatility_%": 15.1,
    "max_drawdown_%": -7.96,
-   "sharpe": -1.69,
-   "value": 9610.47,
-   "days": 40
+   "sharpe": 0.22,
+   "value": 10037.87,
+   "days": 44
   },
   "AI actual (after AI costs)": {
-   "since_inception_%": -0.79,
-   "1m_%": -5.67,
+   "since_inception_%": 2.18,
+   "1m_%": -2.03,
    "3m_%": null,
    "6m_%": null,
-   "volatility_%": 21.6,
+   "volatility_%": 21.0,
    "max_drawdown_%": -6.91,
-   "sharpe": -0.13,
-   "value": 9898.52,
-   "days": 40
+   "sharpe": 0.71,
+   "value": 10195.26,
+   "days": 44
   },
   "AI actual (after costs and est. tax)": {
-   "since_inception_%": -2.06,
-   "1m_%": -5.67,
+   "since_inception_%": 0.9,
+   "1m_%": -2.03,
    "3m_%": null,
    "6m_%": null,
-   "volatility_%": 21.6,
+   "volatility_%": 21.0,
    "max_drawdown_%": -6.91,
-   "sharpe": -0.13,
-   "value": 9898.52,
-   "days": 40
+   "sharpe": 0.71,
+   "value": 10195.26,
+   "days": 44
   }
  },
  "attribution": [
@@ -131,8 +131,9 @@
    "spy_%": -0.18,
    "allocation_%": -0.04,
    "selection_%": -0.64,
-   "selection_S&P 500_%": -0.64,
+   "selection_other_%": -0.36,
    "selection_S&P 400_%": 0.32,
+   "selection_S&P 500_%": -0.28,
    "selection_S&P 600_%": -0.32
   },
   {
@@ -152,9 +153,9 @@
    "allocation_%": 3.88,
    "selection_%": -1.15,
    "selection_S&P 500_%": -0.39,
-   "selection_S&P 600_%": -1.33,
-   "selection_S&P 400_%": 1.22,
-   "selection_other_%": -0.65
+   "selection_S&P 600_%": -1.25,
+   "selection_other_%": -0.74,
+   "selection_S&P 400_%": 1.22
   },
   {
    "period_start": "2026-10-19",
@@ -163,8 +164,9 @@
    "allocation_%": 3.68,
    "selection_%": -0.09,
    "selection_S&P 500_%": -1.14,
-   "selection_S&P 600_%": 0.62,
-   "selection_S&P 400_%": 0.43
+   "selection_other_%": 0.48,
+   "selection_S&P 400_%": 0.43,
+   "selection_S&P 600_%": 0.14
   },
   {
    "period_start": "2026-11-02",
@@ -174,28 +176,29 @@
    "selection_%": -2.24,
    "selection_S&P 500_%": -1.66,
    "selection_S&P 400_%": -0.33,
-   "selection_S&P 600_%": -0.25
+   "selection_S&P 600_%": 0.19,
+   "selection_other_%": -0.44
   },
   {
    "period_start": "2026-11-16",
-   "portfolio_%": -4.08,
-   "spy_%": -6.78,
-   "allocation_%": 1.7,
-   "selection_%": 1.0,
-   "selection_S&P 500_%": 0.82,
-   "selection_S&P 600_%": 0.4,
-   "selection_S&P 400_%": -0.22
+   "portfolio_%": -1.22,
+   "spy_%": -1.57,
+   "allocation_%": 0.02,
+   "selection_%": 0.33,
+   "selection_S&P 500_%": 1.23,
+   "selection_S&P 600_%": 0.04,
+   "selection_S&P 400_%": -0.95
   }
  ],
  "scorecards": {
   "by_conviction": {
    "1": {
-    "avg_excess_%": -2.15,
-    "n": 21
+    "avg_excess_%": -2.42,
+    "n": 19
    },
    "2": {
-    "avg_excess_%": -0.96,
-    "n": 86
+    "avg_excess_%": -0.99,
+    "n": 84
    },
    "3": {
     "avg_excess_%": 0.66,
@@ -212,8 +215,8 @@
   },
   "by_debate_winner": {
    "bear": {
-    "avg_excess_%": -0.97,
-    "n": 190
+    "avg_excess_%": -1.0,
+    "n": 186
    },
    "bull": {
     "avg_excess_%": -0.3,
@@ -224,112 +227,112 @@
     "n": 111
    }
   },
-  "conviction_weighting": "not yet (5 graded rebuilds, 397 picks; need 6 and 40 with a 1-pt edge)",
+  "conviction_weighting": "not yet (5 graded rebuilds, 393 picks; need 6 and 40 with a 1-pt edge)",
   "signal_spread_1wk_%": {
    "momentum": {
-    "avg_%": -0.3,
+    "avg_%": -0.17,
     "weeks": 8,
     "positive_weeks_%": 50
    },
    "earnings": {
-    "avg_%": -0.48,
+    "avg_%": -0.38,
     "weeks": 8,
     "positive_weeks_%": 38
    },
    "reaction": {
-    "avg_%": 0.16,
+    "avg_%": 0.21,
     "weeks": 8,
-    "positive_weeks_%": 50
+    "positive_weeks_%": 75
    },
    "industry": {
-    "avg_%": -0.93,
+    "avg_%": -0.87,
     "weeks": 8,
     "positive_weeks_%": 50
    },
    "quality": {
-    "avg_%": 0.73,
+    "avg_%": 0.82,
     "weeks": 8,
     "positive_weeks_%": 75
    },
    "value": {
-    "avg_%": 1.01,
+    "avg_%": 1.18,
     "weeks": 8,
-    "positive_weeks_%": 62
+    "positive_weeks_%": 75
    },
    "insider": {
-    "avg_%": -0.03,
+    "avg_%": -0.07,
     "weeks": 8,
-    "positive_weeks_%": 50
+    "positive_weeks_%": 38
    },
    "reversal": {
-    "avg_%": 0.27,
+    "avg_%": 0.18,
     "weeks": 8,
     "positive_weeks_%": 50
    },
    "composite": {
-    "avg_%": 0.33,
+    "avg_%": 0.44,
     "weeks": 8,
     "positive_weeks_%": 75
    },
    "resid_momentum": {
-    "avg_%": -0.62,
+    "avg_%": -0.64,
     "weeks": 7,
     "positive_weeks_%": 43
    },
    "riskadj_momentum": {
-    "avg_%": -0.77,
+    "avg_%": -0.74,
     "weeks": 7,
     "positive_weeks_%": 43
    },
    "high_52w": {
-    "avg_%": 0.54,
+    "avg_%": 0.68,
     "weeks": 7,
     "positive_weeks_%": 43
    },
    "frog_momentum": {
-    "avg_%": -0.85,
+    "avg_%": -0.82,
     "weeks": 7,
-    "positive_weeks_%": 43
+    "positive_weeks_%": 57
    },
    "low_vol": {
-    "avg_%": 1.49,
+    "avg_%": 1.57,
     "weeks": 7,
-    "positive_weeks_%": 43
+    "positive_weeks_%": 57
    },
    "roic": {
-    "avg_%": 0.6,
+    "avg_%": 0.62,
     "weeks": 7,
     "positive_weeks_%": 57
    },
    "stability": {
-    "avg_%": 0.87,
+    "avg_%": 0.96,
     "weeks": 7,
     "positive_weeks_%": 71
    },
    "fscore": {
-    "avg_%": 0.62,
+    "avg_%": 0.67,
     "weeks": 7,
     "positive_weeks_%": 86
    },
    "net_issuance": {
-    "avg_%": 1.2,
+    "avg_%": 1.26,
     "weeks": 7,
     "positive_weeks_%": 71
    },
    "asset_growth": {
-    "avg_%": 1.16,
+    "avg_%": 1.21,
     "weeks": 7,
     "positive_weeks_%": 71
    },
    "low_short": {
-    "avg_%": -0.51,
+    "avg_%": -0.64,
     "weeks": 7,
     "positive_weeks_%": 43
    },
    "filing_similarity": {
     "avg_%": 0.47,
     "weeks": 7,
-    "positive_weeks_%": 71
+    "positive_weeks_%": 57
    },
    "cap_bumped_vs_replacements": {
     "avg_%": -3.62,
@@ -454,10 +457,10 @@
  },
  "drawdown": {
   "level": 0,
-  "relative_drawdown_%": 0.0,
-  "as_of": "2026-11-20"
+  "relative_drawdown_%": -2.45,
+  "as_of": "2026-11-28"
  },
- "ai_cost_total": 58.29,
+ "ai_cost_total": 58.83,
  "est_tax": 104.84,
  "robinhood_differences": [
   "Alpaca paper OXY: book 8.01383 shares, Alpaca 9.18977",
@@ -466,7 +469,7 @@
  ],
  "evaluation_rule": {
   "look": 0,
-  "months": 1.8,
+  "months": 2.1,
   "stat": {
    "dates": 4,
    "mean_ic": 0.129,
@@ -484,6 +487,6 @@
   },
   "promotion_candidates": [],
   "verdict": "collecting",
-  "why": "1.8 months of decisions; first scheduled look at 3 months"
+  "why": "2.1 months of decisions; first scheduled look at 3 months"
  }
 }

@@ -101,7 +101,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "1701605": {
   "revenue": 28740000000,
@@ -208,30 +208,30 @@
   "fetched": "2026-11-20"
  },
  "10795": {
-  "revenue": 22484000000,
-  "cost_of_revenue": 11931000000,
+  "revenue": 19457000000,
+  "cost_of_revenue": 10243000000,
   "gross_profit": 7577000000,
-  "operating_income": 2399000000,
-  "net_income": 942000000,
-  "cfo": 3956000000,
-  "capex": 753000000,
-  "dna": 2453000000,
-  "assets": 50731000000,
-  "equity": 24416000000,
-  "lt_debt": 13511000000,
-  "st_debt": 3297000000,
-  "cash": 708000000,
-  "shares": 272386800,
-  "debt": 16808000000,
-  "roic": 0.04677682890709843,
-  "margin_stability": -0.004113677882550387,
-  "share_growth": -0.0497,
-  "asset_growth": -0.076,
+  "operating_income": 2257000000,
+  "net_income": 1145000000,
+  "cfo": 3605000000,
+  "capex": 672000000,
+  "dna": 2238000000,
+  "assets": 50791000000,
+  "equity": 24682000000,
+  "lt_debt": 13422000000,
+  "st_debt": 2923000000,
+  "cash": 725000000,
+  "shares": 271102845,
+  "debt": 16345000000,
+  "roic": 0.04424172497642797,
+  "margin_stability": -0.00707602658643129,
+  "share_growth": -0.0502,
+  "asset_growth": -0.082,
   "fscore": 7.0,
   "v": 3,
-  "as_of": "2026-06-30",
+  "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "1067983": {
   "revenue": 395362000000,
@@ -283,7 +283,7 @@
   "v": 3,
   "as_of": "2026-08-01",
   "stale": false,
-  "fetched": "2026-09-27"
+  "fetched": "2026-11-27"
  },
  "842023": {
   "revenue": 1228196000,
@@ -413,7 +413,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "1664703": {
   "revenue": 3829939000,
@@ -569,7 +569,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "1730168": {
   "revenue": 89104000000,
@@ -699,7 +699,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "1037540": {
   "revenue": 3516454000,
@@ -881,7 +881,7 @@
   "v": 3,
   "as_of": "2026-08-31",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "1783180": {
   "revenue": 22792000000,
@@ -1066,30 +1066,30 @@
   "fetched": "2026-11-06"
  },
  "1140859": {
-  "revenue": 332771323000,
-  "cost_of_revenue": 319550101000,
-  "gross_profit": 13221222000,
-  "operating_income": 3041762000,
-  "net_income": 2624793000,
-  "cfo": 4820947000,
-  "capex": 760845000,
-  "dna": 1037962000,
-  "assets": 83805553000,
-  "equity": 3050958000,
-  "lt_debt": 11723241000,
-  "st_debt": 279155000,
-  "cash": 2815291000,
-  "shares": 190827165,
-  "debt": 12002396000,
-  "roic": 0.19635394751604074,
-  "margin_stability": -0.0012688687790749754,
-  "share_growth": -0.0157,
-  "asset_growth": 0.1332,
-  "fscore": 6.0,
+  "revenue": 337397299000,
+  "cost_of_revenue": 323529132000,
+  "gross_profit": 13868167000,
+  "operating_income": 3930065000,
+  "net_income": 3483899000,
+  "cfo": 4790167000,
+  "capex": 909501000,
+  "dna": 1045434000,
+  "assets": 87104977000,
+  "equity": 3486988000,
+  "lt_debt": 11266146000,
+  "st_debt": 203208000,
+  "cash": 4880335000,
+  "shares": 190379777,
+  "debt": 11469354000,
+  "roic": 0.30813310768839286,
+  "margin_stability": -0.0014739497584679564,
+  "share_growth": -0.0186,
+  "asset_growth": 0.1373,
+  "fscore": 7.0,
   "v": 3,
-  "as_of": "2026-06-30",
+  "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "1071739": {
   "revenue": 203895000000,
@@ -1167,7 +1167,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "1100682": {
   "revenue": 3976867000,
@@ -1635,7 +1635,7 @@
   "v": 3,
   "as_of": "2026-10-02",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "1058290": {
   "revenue": 21891000000,
@@ -2106,30 +2106,30 @@
   "fetched": "2026-11-20"
  },
  "1535527": {
-  "revenue": 5396145000,
-  "cost_of_revenue": 1338782000,
-  "gross_profit": 4057363000,
-  "operating_income": -132954000,
-  "net_income": 46332000,
-  "cfo": 2016615000,
-  "capex": 407897000,
+  "revenue": 5745320000,
+  "cost_of_revenue": 1413457000,
+  "gross_profit": 4331863000,
+  "operating_income": -71488000,
+  "net_income": 97964000,
+  "cfo": 2284250000,
+  "capex": 487258000,
   "dna": null,
-  "assets": 12025001000,
-  "equity": 5101724000,
-  "lt_debt": 746216000,
+  "assets": 13120723000,
+  "equity": 5912138000,
+  "lt_debt": 746588000,
   "st_debt": null,
-  "cash": 5013847000,
-  "shares": 1023934842,
-  "debt": 746216000,
-  "roic": -0.1259255982246584,
+  "cash": 5366651000,
+  "shares": 1030596521,
+  "debt": 746588000,
+  "roic": -0.04370916548961941,
   "margin_stability": -0.03410356709715942,
-  "share_growth": 3.0802,
-  "asset_growth": 0.2946,
+  "share_growth": 3.0881,
+  "asset_growth": 0.3166,
   "fscore": 4.5,
   "v": 3,
-  "as_of": "2026-07-31",
+  "as_of": "2026-10-31",
   "stale": false,
-  "fetched": "2026-09-27"
+  "fetched": "2026-11-27"
  },
  "1051470": {
   "revenue": 4084000000,
@@ -2389,7 +2389,7 @@
   "v": 3,
   "as_of": "2026-08-02",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "1571996": {
   "revenue": 151197000000,
@@ -2574,30 +2574,30 @@
   "fetched": "2026-11-13"
  },
  "935703": {
-  "revenue": 20068700000,
-  "cost_of_revenue": 12294500000,
+  "revenue": 20396100000,
+  "cost_of_revenue": 12511900000,
   "gross_profit": 7050700000,
-  "operating_income": 2201400000,
-  "net_income": 1612500000,
-  "cfo": 3117000000,
-  "capex": 1138900000,
+  "operating_income": 2166700000,
+  "net_income": 1599900000,
+  "cfo": 3173000000,
+  "capex": 1016200000,
   "dna": 648100000,
-  "assets": 14029600000,
-  "equity": 3425300000,
-  "lt_debt": 2933500000,
+  "assets": 14484700000,
+  "equity": 3467500000,
+  "lt_debt": 2934400000,
   "st_debt": 0,
-  "cash": 1058100000,
-  "shares": 187630299,
-  "debt": 2933500000,
-  "roic": 0.3280898749221801,
+  "cash": 966400000,
+  "shares": 185919516,
+  "debt": 2934400000,
+  "roic": 0.31490994388740684,
   "margin_stability": -0.023379836523972283,
-  "share_growth": -0.0801,
-  "asset_growth": 0.0482,
+  "share_growth": -0.065,
+  "asset_growth": 0.0607,
   "fscore": 9.0,
   "v": 3,
-  "as_of": "2026-08-01",
+  "as_of": "2026-10-31",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "715957": {
   "revenue": 17449000000,
@@ -2675,7 +2675,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "29905": {
   "revenue": 8576562000,
@@ -2779,7 +2779,7 @@
   "v": 3,
   "as_of": "2026-03-31",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "1326160": {
   "revenue": 32518000000,
@@ -3845,7 +3845,7 @@
   "v": 3,
   "as_of": "2026-03-31",
   "stale": false,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "798354": {
   "revenue": 21193000000,
@@ -4053,7 +4053,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "1121788": {
   "revenue": 7886613000,
@@ -4885,7 +4885,7 @@
   "v": 3,
   "as_of": "2026-07-31",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "48898": {
   "revenue": 6593700000,
@@ -5197,7 +5197,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "50863": {
   "revenue": 59892000000,
@@ -5561,33 +5561,33 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "52988": {
-  "revenue": 14219216000,
-  "cost_of_revenue": 11081457000,
-  "gross_profit": 3137759000,
-  "operating_income": 649643000,
-  "net_income": 338427000,
-  "cfo": 735843000,
-  "capex": 91299000,
-  "dna": 87578000,
-  "assets": 11743702000,
-  "equity": 3264489000,
-  "lt_debt": 3579376000,
+  "revenue": 15776851000,
+  "cost_of_revenue": 12488653000,
+  "gross_profit": 3288198000,
+  "operating_income": 769730000,
+  "net_income": 381661000,
+  "cfo": 622638000,
+  "capex": 94137000,
+  "dna": 92329000,
+  "assets": 12023728000,
+  "equity": 3345064000,
+  "lt_debt": 3580483000,
   "st_debt": 0,
-  "cash": 1172914000,
-  "shares": 117038611,
-  "debt": 3579376000,
-  "roic": 0.09049945414799035,
-  "margin_stability": -0.0076425958625986655,
-  "share_growth": -0.0209,
-  "asset_growth": 0.029,
-  "fscore": 7.0,
+  "cash": 1257681000,
+  "shares": 116151741,
+  "debt": 3580483000,
+  "roic": 0.10728671073028191,
+  "margin_stability": -0.007653268231501119,
+  "share_growth": -0.0219,
+  "asset_growth": 0.0685,
+  "fscore": 6.0,
   "v": 3,
-  "as_of": "2026-06-26",
+  "as_of": "2026-10-02",
   "stale": false,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "200406": {
   "revenue": 99335000000,
@@ -5769,7 +5769,7 @@
   "v": 3,
   "as_of": "2026-07-31",
   "stale": false,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "55785": {
   "revenue": 16566000000,
@@ -5977,7 +5977,7 @@
   "v": 3,
   "as_of": "2026-10-02",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "920148": {
   "revenue": 14594500000,
@@ -6266,30 +6266,30 @@
   "fetched": "2026-11-06"
  },
  "60667": {
-  "revenue": 90432000000,
-  "cost_of_revenue": 60515000000,
-  "gross_profit": 29917000000,
-  "operating_income": 10292000000,
-  "net_income": 6643000000,
-  "cfo": 9263000000,
-  "capex": 2263000000,
-  "dna": 2464000000,
-  "assets": 55881000000,
-  "equity": -7437000000,
-  "lt_debt": 35204000000,
+  "revenue": 92375000000,
+  "cost_of_revenue": 62077000000,
+  "gross_profit": 30298000000,
+  "operating_income": 10386000000,
+  "net_income": 6699000000,
+  "cfo": 10257000000,
+  "capex": 2267000000,
+  "dna": 2599000000,
+  "assets": 56635000000,
+  "equity": -6408000000,
+  "lt_debt": 34478000000,
   "st_debt": 380000000,
-  "cash": 3172000000,
-  "shares": 561054019,
-  "debt": 35584000000,
-  "roic": 0.32555275275275275,
+  "cash": 3428000000,
+  "shares": 561047916,
+  "debt": 34858000000,
+  "roic": 0.3279090400447606,
   "margin_stability": -0.00978887948409826,
-  "share_growth": 0.0004,
-  "asset_growth": 0.1988,
+  "share_growth": 0.0002,
+  "asset_growth": 0.0595,
   "fscore": 6.0,
   "v": 3,
-  "as_of": "2026-07-31",
+  "as_of": "2026-10-30",
   "stale": false,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "1397187": {
   "revenue": 11093955000,
@@ -6341,7 +6341,7 @@
   "v": 3,
   "as_of": "2026-09-26",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "1489393": {
   "revenue": 31964000000,
@@ -6679,7 +6679,7 @@
   "v": 3,
   "as_of": "2026-07-31",
   "stale": false,
-  "fetched": "2026-10-23"
+  "fetched": "2026-11-27"
  },
  "310158": {
   "revenue": 67378000000,
@@ -6731,7 +6731,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-13"
+  "fetched": "2026-11-27"
  },
  "1099219": {
   "revenue": 82564000000,
@@ -6965,7 +6965,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "1280452": {
   "revenue": 3738391000,
@@ -7095,7 +7095,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "68505": {
   "revenue": 12603000000,
@@ -7277,7 +7277,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "753308": {
   "revenue": 25900000000,
@@ -7563,7 +7563,7 @@
   "v": 3,
   "as_of": "2026-07-26",
   "stale": false,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "906163": {
   "revenue": 9322457000,
@@ -7953,7 +7953,7 @@
   "v": 3,
   "as_of": "2024-12-31",
   "stale": true,
-  "fetched": "2026-11-13"
+  "fetched": "2026-11-27"
  },
  "76334": {
   "revenue": 22407000000,
@@ -8239,7 +8239,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "79879": {
   "revenue": 16692000000,
@@ -8577,7 +8577,7 @@
   "v": 3,
   "as_of": "2026-09-27",
   "stale": false,
-  "fetched": "2026-11-13"
+  "fetched": "2026-11-27"
  },
  "1022079": {
   "revenue": 11841000000,
@@ -8658,30 +8658,30 @@
   "fetched": "2026-11-06"
  },
  "720005": {
-  "revenue": 16990000000,
+  "revenue": 17539000000,
   "cost_of_revenue": null,
   "gross_profit": null,
   "operating_income": null,
-  "net_income": 2306000000,
-  "cfo": 1639000000,
-  "capex": 197000000,
-  "dna": 206000000,
-  "assets": 94237000000,
-  "equity": 12699000000,
+  "net_income": 2368000000,
+  "cfo": 2612000000,
+  "capex": 232000000,
+  "dna": 71000000,
+  "assets": 94430000000,
+  "equity": 13128000000,
   "lt_debt": 0,
   "st_debt": 3988000,
-  "cash": 9977000000,
-  "shares": 192361711,
+  "cash": 9749000000,
+  "shares": 191128182,
   "debt": 3988000,
   "roic": null,
   "margin_stability": null,
-  "share_growth": -0.0352,
-  "asset_growth": 0.1111,
-  "fscore": 7.71,
+  "share_growth": -0.0282,
+  "asset_growth": 0.0703,
+  "fscore": 9.0,
   "v": 3,
-  "as_of": "2026-06-30",
+  "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "1713445": {
   "revenue": 3088880000,
@@ -8993,7 +8993,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-10-23"
+  "fetched": "2026-11-27"
  },
  "882835": {
   "revenue": 8434600000,
@@ -9360,30 +9360,30 @@
   "fetched": "2026-11-13"
  },
  "91419": {
-  "revenue": 9156900000,
-  "cost_of_revenue": 5617500000,
-  "gross_profit": 3539400000,
-  "operating_income": 826200000,
-  "net_income": 229500000,
-  "cfo": 1909900000,
-  "capex": 321500000,
-  "dna": 331000000,
-  "assets": 16203200000,
-  "equity": 5750800000,
-  "lt_debt": 6544300000,
+  "revenue": 9110000000,
+  "cost_of_revenue": 5569000000,
+  "gross_profit": 3541000000,
+  "operating_income": 818400000,
+  "net_income": 236900000,
+  "cfo": 1857200000,
+  "capex": 345200000,
+  "dna": 310900000,
+  "assets": 16326800000,
+  "equity": 5905400000,
+  "lt_debt": 6545700000,
   "st_debt": 150000000,
-  "cash": 43200000,
-  "shares": 106823183,
-  "debt": 6694300000,
-  "roic": 0.05262887138261073,
+  "cash": 44100000,
+  "shares": 106951351,
+  "debt": 6695700000,
+  "roic": 0.05148809429003743,
   "margin_stability": -0.08405177342786921,
-  "share_growth": 0.0013,
-  "asset_growth": -0.0867,
+  "share_growth": 0.0024,
+  "asset_growth": -0.0738,
   "fscore": 5.0,
   "v": 3,
-  "as_of": "2026-07-31",
+  "as_of": "2026-10-31",
   "stale": false,
-  "fetched": "2026-09-27"
+  "fetched": "2026-11-27"
  },
  "2005951": {
   "revenue": 31484000000,
@@ -9409,7 +9409,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "91440": {
   "revenue": 5265300000,
@@ -9461,7 +9461,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "92122": {
   "revenue": 30175000000,
@@ -9643,7 +9643,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-13"
+  "fetched": "2026-11-27"
  },
  "310764": {
   "revenue": 26300000000,
@@ -9906,30 +9906,30 @@
   "fetched": "2026-11-06"
  },
  "27419": {
-  "revenue": 107705000000,
-  "cost_of_revenue": 76144000000,
+  "revenue": 109502000000,
+  "cost_of_revenue": 76815000000,
   "gross_profit": 20754000000,
-  "operating_income": 6023000000,
-  "net_income": 4392000000,
-  "cfo": 8723000000,
-  "capex": 4267000000,
-  "dna": 3173000000,
-  "assets": 61235000000,
-  "equity": 17843000000,
-  "lt_debt": 14221000000,
+  "operating_income": 6747000000,
+  "net_income": 4914000000,
+  "cfo": 8804000000,
+  "capex": 4647000000,
+  "dna": 3208000000,
+  "assets": 64049000000,
+  "equity": 18367000000,
+  "lt_debt": 14187000000,
   "st_debt": 161000000,
-  "cash": 5411000000,
-  "shares": 454296736,
-  "debt": 14382000000,
-  "roic": 0.17745095845453868,
+  "cash": 4464000000,
+  "shares": 452742139,
+  "debt": 14348000000,
+  "roic": 0.18867048954019328,
   "margin_stability": -0.01613885364509296,
-  "share_growth": -0.0002,
-  "asset_growth": 0.0585,
+  "share_growth": -0.0001,
+  "asset_growth": 0.0676,
   "fscore": 5.0,
   "v": 3,
-  "as_of": "2026-08-01",
+  "as_of": "2026-10-31",
   "stale": false,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "1385157": {
   "revenue": 19885000000,
@@ -10085,7 +10085,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "217346": {
   "revenue": 15448000000,
@@ -10657,7 +10657,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "1035002": {
   "revenue": 153327000000,
@@ -10917,7 +10917,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "1705696": {
   "revenue": 4155600000,
@@ -10969,7 +10969,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "1692819": {
   "revenue": 20588000000,
@@ -11177,7 +11177,7 @@
   "v": 3,
   "as_of": "2026-10-03",
   "stale": false,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "1437107": {
   "revenue": 36115000000,
@@ -11414,30 +11414,30 @@
   "fetched": "2026-11-20"
  },
  "719955": {
-  "revenue": 8005156000,
-  "cost_of_revenue": 4227163000,
-  "gross_profit": 3777993000,
-  "operating_income": 1537433000,
-  "net_income": 1178646000,
-  "cfo": 1609073000,
-  "capex": 265579000,
-  "dna": 230967000,
-  "assets": 5506306000,
-  "equity": 2140914000,
+  "revenue": 8113517000,
+  "cost_of_revenue": 4254517000,
+  "gross_profit": 3859000000,
+  "operating_income": 1595222000,
+  "net_income": 1220200000,
+  "cfo": 1572398000,
+  "capex": 260951000,
+  "dna": 229609000,
+  "assets": 5686748000,
+  "equity": 2202154000,
   "lt_debt": 0,
   "st_debt": 0,
-  "cash": 1028936000,
-  "shares": 117779173,
+  "cash": 991634000,
+  "shares": 117067205,
   "debt": 0,
-  "roic": 1.0922626796573314,
+  "roic": 1.0410611803192016,
   "margin_stability": -0.008548490974060546,
-  "share_growth": -0.0329,
-  "asset_growth": 0.0532,
+  "share_growth": -0.0194,
+  "asset_growth": 0.0707,
   "fscore": 5.0,
   "v": 3,
-  "as_of": "2026-08-02",
+  "as_of": "2026-11-01",
   "stale": false,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "107263": {
   "revenue": 12204000000,
@@ -11492,30 +11492,30 @@
   "fetched": "2026-11-06"
  },
  "1327811": {
-  "revenue": 10155000000,
+  "revenue": 10429000000,
   "cost_of_revenue": 159030000,
-  "gross_profit": 9995970000,
-  "operating_income": 1085000000,
-  "net_income": 1251000000,
-  "cfo": 3081000000,
-  "capex": 237000000,
-  "dna": 227000000,
-  "assets": 15857000000,
-  "equity": 6460000000,
-  "lt_debt": 2989000000,
+  "gross_profit": 10269970000,
+  "operating_income": 1153000000,
+  "net_income": 1236000000,
+  "cfo": 3228000000,
+  "capex": 243000000,
+  "dna": 225000000,
+  "assets": 18129000000,
+  "equity": 6275000000,
+  "lt_debt": 5462000000,
   "st_debt": 999000000,
-  "cash": 661000000,
+  "cash": 2500000000,
   "shares": 220000000,
-  "debt": 3988000000,
-  "roic": 0.08758046388065802,
+  "debt": 6461000000,
+  "roic": 0.08898690894880813,
   "margin_stability": -0.04208663442427767,
   "share_growth": 0.0476,
-  "asset_growth": -0.1171,
+  "asset_growth": 0.0213,
   "fscore": 7.71,
   "v": 3,
-  "as_of": "2026-07-31",
+  "as_of": "2026-10-31",
   "stale": false,
-  "fetched": "2026-10-16"
+  "fetched": "2026-11-27"
  },
  "1174922": {
   "revenue": 7268731000,
@@ -11645,7 +11645,7 @@
   "v": 3,
   "as_of": "2026-10-03",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "1136869": {
   "revenue": 8570400000,
@@ -11931,7 +11931,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "1423689": {
   "revenue": null,
@@ -12295,7 +12295,7 @@
   "v": 3,
   "as_of": "2026-08-01",
   "stale": false,
-  "fetched": "2026-09-27"
+  "fetched": "2026-11-27"
  },
  "1796209": {
   "revenue": 8907000000,
@@ -12376,30 +12376,30 @@
   "fetched": "2026-11-06"
  },
  "1584509": {
-  "revenue": 19845264000,
+  "revenue": 20090009000,
   "cost_of_revenue": 14767570000,
-  "gross_profit": 5077694000,
-  "operating_income": 870704000,
-  "net_income": 382907000,
-  "cfo": 921035000,
-  "capex": 478002000,
-  "dna": 518498000,
-  "assets": 13973937000,
-  "equity": 3394206000,
-  "lt_debt": 6094909000,
+  "gross_profit": 5322439000,
+  "operating_income": 917272000,
+  "net_income": 433707000,
+  "cfo": 989246000,
+  "capex": 488006000,
+  "dna": 533578000,
+  "assets": 13945302000,
+  "equity": 3491590000,
+  "lt_debt": 5197615000,
   "st_debt": 1596942000,
-  "cash": 499425000,
-  "shares": 263625044,
-  "debt": 7691851000,
-  "roic": 0.06497403140111038,
-  "margin_stability": -0.009874727003302315,
-  "share_growth": 0.0029,
-  "asset_growth": 0.052,
-  "fscore": 7.88,
+  "cash": 687845000,
+  "shares": 263425977,
+  "debt": 6794557000,
+  "roic": 0.07549719523307352,
+  "margin_stability": -0.005176569110061035,
+  "share_growth": 0.0019,
+  "asset_growth": 0.0482,
+  "fscore": 9.0,
   "v": 3,
-  "as_of": "2026-07-03",
+  "as_of": "2026-10-02",
   "stale": false,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "7536": {
   "revenue": 38929954000,
@@ -12922,30 +12922,30 @@
   "fetched": "2026-11-06"
  },
  "1531152": {
-  "revenue": 22811630000,
-  "cost_of_revenue": 18649782000,
-  "gross_profit": 4161848000,
-  "operating_income": 856699000,
-  "net_income": 594120000,
-  "cfo": 1113538000,
-  "capex": 755322000,
-  "dna": 302331000,
-  "assets": 7991786000,
-  "equity": 2197432000,
-  "lt_debt": 399245000,
-  "st_debt": 230000000,
-  "cash": 29982000,
-  "shares": 126314692,
-  "debt": 629245000,
-  "roic": 0.24199714663200672,
+  "revenue": 23746958000,
+  "cost_of_revenue": 19574465000,
+  "gross_profit": 4172493000,
+  "operating_income": 952152000,
+  "net_income": 661579000,
+  "cfo": 1324139000,
+  "capex": 792602000,
+  "dna": 311001000,
+  "assets": 8353353000,
+  "equity": 2409539000,
+  "lt_debt": 399318000,
+  "st_debt": 70000000,
+  "cash": 29124000,
+  "shares": 126287049,
+  "debt": 469318000,
+  "roic": 0.2639545810081155,
   "margin_stability": -0.0010202452077574331,
-  "share_growth": -0.0413,
-  "asset_growth": 0.1051,
+  "share_growth": -0.0349,
+  "asset_growth": 0.107,
   "fscore": 8.0,
   "v": 3,
-  "as_of": "2026-08-01",
+  "as_of": "2026-10-31",
   "stale": false,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "1130464": {
   "revenue": 2335100000,
@@ -13130,30 +13130,30 @@
   "fetched": "2026-11-06"
  },
  "1579298": {
-  "revenue": 12216542000,
-  "cost_of_revenue": 6771017000,
-  "gross_profit": 5445525000,
+  "revenue": 12443463000,
+  "cost_of_revenue": 6912792000,
+  "gross_profit": 5530671000,
   "operating_income": null,
-  "net_income": 714183000,
-  "cfo": 1415474000,
-  "capex": 1002936000,
-  "dna": 449908000,
-  "assets": 10043855000,
-  "equity": 2002248000,
-  "lt_debt": 1893411000,
+  "net_income": 715176000,
+  "cfo": 1475209000,
+  "capex": 1170364000,
+  "dna": 469987000,
+  "assets": 10397191000,
+  "equity": 2053215000,
+  "lt_debt": 1889522000,
   "st_debt": 50600000,
-  "cash": 703686000,
-  "shares": 62815195,
-  "debt": 1944011000,
+  "cash": 395236000,
+  "shares": 62530779,
+  "debt": 1940122000,
   "roic": null,
   "margin_stability": null,
-  "share_growth": -0.0035,
-  "asset_growth": 0.0789,
+  "share_growth": -0.0063,
+  "asset_growth": 0.0834,
   "fscore": 7.0,
   "v": 3,
-  "as_of": "2026-08-01",
+  "as_of": "2026-10-31",
   "stale": false,
-  "fetched": "2026-09-27"
+  "fetched": "2026-11-27"
  },
  "908255": {
   "revenue": 14240000000,
@@ -14271,7 +14271,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "25445": {
   "revenue": 1854900000,
@@ -14401,7 +14401,7 @@
   "v": 3,
   "as_of": "2026-07-31",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "1915657": {
   "revenue": 34834000000,
@@ -14453,7 +14453,7 @@
   "v": 3,
   "as_of": "2026-08-01",
   "stale": false,
-  "fetched": "2026-09-27"
+  "fetched": "2026-11-27"
  },
  "1308547": {
   "revenue": 1420867000,
@@ -14638,30 +14638,30 @@
   "fetched": "2026-11-06"
  },
  "67215": {
-  "revenue": 6880050000,
+  "revenue": 7484581000,
   "cost_of_revenue": null,
   "gross_profit": null,
   "operating_income": null,
-  "net_income": 329396000,
-  "cfo": 718107000,
-  "capex": 249436000,
-  "dna": 377594000,
-  "assets": 6540044000,
-  "equity": 2063906000,
-  "lt_debt": 2791336000,
-  "st_debt": 28397000,
-  "cash": 340080000,
-  "shares": 30160957,
-  "debt": 2819733000,
+  "net_income": 319253000,
+  "cfo": 512148000,
+  "capex": 245714000,
+  "dna": 430370000,
+  "assets": 6610658000,
+  "equity": 2067153000,
+  "lt_debt": 2771132000,
+  "st_debt": 47643000,
+  "cash": 202760000,
+  "shares": 29821320,
+  "debt": 2818775000,
   "roic": null,
   "margin_stability": null,
-  "share_growth": 0.0417,
-  "asset_growth": 1.0311,
+  "share_growth": 0.0299,
+  "asset_growth": 0.9883,
   "fscore": 3.38,
   "v": 3,
-  "as_of": "2026-08-01",
+  "as_of": "2026-10-31",
   "stale": false,
-  "fetched": "2026-09-27"
+  "fetched": "2026-11-27"
  },
  "703351": {
   "revenue": 5933800000,
@@ -15649,7 +15649,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "1398659": {
   "revenue": 5344188000,
@@ -15805,7 +15805,7 @@
   "v": 3,
   "as_of": "2026-09-25",
   "stale": false,
-  "fetched": "2026-11-13"
+  "fetched": "2026-11-27"
  },
  "104889": {
   "revenue": 5115552000,
@@ -15857,7 +15857,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "1326380": {
   "revenue": 3550800000,
@@ -15883,7 +15883,7 @@
   "v": 3,
   "as_of": "2026-08-01",
   "stale": false,
-  "fetched": "2026-10-23"
+  "fetched": "2026-11-27"
  },
  "1237831": {
   "revenue": 3139605000,
@@ -16559,7 +16559,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "1111928": {
   "revenue": 1106048000,
@@ -16611,7 +16611,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "216228": {
   "revenue": 5179600000,
@@ -16767,7 +16767,7 @@
   "v": 3,
   "as_of": "2026-10-02",
   "stale": false,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "1867072": {
   "revenue": 14897000000,
@@ -17573,7 +17573,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "1801368": {
   "revenue": 399479000,
@@ -18093,7 +18093,7 @@
   "v": 3,
   "as_of": "2026-07-31",
   "stale": false,
-  "fetched": "2026-10-09"
+  "fetched": "2026-11-27"
  },
  "1757073": {
   "revenue": 2878100000,
@@ -18119,7 +18119,7 @@
   "v": 3,
   "as_of": "2026-10-02",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "1720635": {
   "revenue": 5294900000,
@@ -18899,7 +18899,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "1617406": {
   "revenue": 2533000000,
@@ -20124,56 +20124,56 @@
   "fetched": "2026-11-20"
  },
  "825542": {
-  "revenue": 3483500000,
-  "cost_of_revenue": 2363300000,
-  "gross_profit": 1106000000,
-  "operating_income": 382600000,
-  "net_income": 73900000,
-  "cfo": 369300000,
-  "capex": 106000000,
-  "dna": 62600000,
-  "assets": 3167400000,
-  "equity": -208700000,
-  "lt_debt": 1836300000,
-  "st_debt": 277000000,
-  "cash": 27700000,
-  "shares": 58220274,
-  "debt": 2113300000,
-  "roic": 0.1610389472001705,
-  "margin_stability": -0.09605354549340304,
-  "share_growth": 0.0083,
-  "asset_growth": 0.0248,
-  "fscore": 7.0,
+  "revenue": 3288900000,
+  "cost_of_revenue": 2223400000,
+  "gross_profit": 1063000000,
+  "operating_income": 406700000,
+  "net_income": 103900000,
+  "cfo": 373000000,
+  "capex": 94600000,
+  "dna": 62900000,
+  "assets": 2771000000,
+  "equity": -372400000,
+  "lt_debt": 2026400000,
+  "st_debt": 35500000,
+  "cash": 7400000,
+  "shares": 58224075,
+  "debt": 2061900000,
+  "roic": 0.19100707449022056,
+  "margin_stability": -0.09678584522153251,
+  "share_growth": 0.0039,
+  "asset_growth": 0.0106,
+  "fscore": 6.0,
   "v": 3,
-  "as_of": "2026-06-27",
+  "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "88941": {
-  "revenue": 1089933000,
-  "cost_of_revenue": 527614000,
-  "gross_profit": 562319000,
-  "operating_income": 22389000,
-  "net_income": -33158000,
-  "cfo": 189527000,
-  "capex": 16305000,
+  "revenue": 1330209000,
+  "cost_of_revenue": 609029000,
+  "gross_profit": 721180000,
+  "operating_income": 174386000,
+  "net_income": 255461000,
+  "cfo": 231878000,
+  "capex": 27958000,
   "dna": 29900000,
-  "assets": 1438943000,
-  "equity": 573322000,
-  "lt_debt": 491982000,
-  "st_debt": 0,
-  "cash": 163310000,
-  "shares": 93151168,
-  "debt": 491982000,
-  "roic": 0.019609121568436153,
+  "assets": 1865275000,
+  "equity": 852949000,
+  "lt_debt": 349899000,
+  "st_debt": 143579000,
+  "cash": 251362000,
+  "shares": 93770756,
+  "debt": 493478000,
+  "roic": 0.12580526270130082,
   "margin_stability": -0.4786778932369548,
-  "share_growth": 0.0752,
-  "asset_growth": 0.0049,
+  "share_growth": 0.0133,
+  "asset_growth": 0.3268,
   "fscore": 7.0,
   "v": 3,
-  "as_of": "2026-04-26",
+  "as_of": "2026-10-25",
   "stale": false,
-  "fetched": "2026-10-16"
+  "fetched": "2026-11-27"
  },
  "1957132": {
   "revenue": 7256143000,
@@ -20537,7 +20537,7 @@
   "v": 3,
   "as_of": "2026-06-30",
   "stale": false,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "817720": {
   "revenue": 1198700000,
@@ -21005,7 +21005,7 @@
   "v": 3,
   "as_of": "2026-03-31",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "1289460": {
   "revenue": 6368247000,
@@ -21265,7 +21265,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-13"
+  "fetched": "2026-11-27"
  },
  "1111335": {
   "revenue": 3768000000,
@@ -21629,7 +21629,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-13"
+  "fetched": "2026-11-27"
  },
  "1603923": {
   "revenue": 4689000000,
@@ -22383,7 +22383,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "1823529": {
   "revenue": 1254937000,
@@ -22409,7 +22409,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "1273685": {
   "revenue": null,
@@ -23062,30 +23062,30 @@
   "fetched": "2026-11-06"
  },
  "2011286": {
-  "revenue": 14130000000,
-  "cost_of_revenue": 12682000000,
-  "gross_profit": 1448000000,
-  "operating_income": 596000000,
-  "net_income": 204000000,
-  "cfo": 505000000,
-  "capex": 31000000,
-  "dna": 36000000,
-  "assets": 11199000000,
-  "equity": 4695000000,
-  "lt_debt": 3825000000,
-  "st_debt": 54000000,
-  "cash": 459000000,
-  "shares": 244506413,
-  "debt": 3879000000,
-  "roic": 0.05802094886013555,
-  "margin_stability": -0.011663158731669046,
-  "share_growth": 0.0048,
-  "asset_growth": -0.0516,
-  "fscore": 8.0,
+  "revenue": 13825000000,
+  "cost_of_revenue": 12412000000,
+  "gross_profit": 1413000000,
+  "operating_income": 648000000,
+  "net_income": 338000000,
+  "cfo": 627000000,
+  "capex": 44000000,
+  "dna": 33000000,
+  "assets": 11162000000,
+  "equity": 4879000000,
+  "lt_debt": 3531000000,
+  "st_debt": 53000000,
+  "cash": 521000000,
+  "shares": 244825698,
+  "debt": 3584000000,
+  "roic": 0.06445731553764794,
+  "margin_stability": -0.014206270262790395,
+  "share_growth": 0.005,
+  "asset_growth": -0.026,
+  "fscore": 7.0,
   "v": 3,
-  "as_of": "2026-07-03",
+  "as_of": "2026-10-02",
   "stale": false,
-  "fetched": "2026-09-27"
+  "fetched": "2026-11-27"
  },
  "821026": {
   "revenue": 11094890000,
@@ -23371,7 +23371,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-13"
+  "fetched": "2026-11-27"
  },
  "1817358": {
   "revenue": 6191455000,
@@ -23631,7 +23631,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-13"
+  "fetched": "2026-11-27"
  },
  "933974": {
   "revenue": 621703000,
@@ -23657,7 +23657,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "8947": {
   "revenue": 1746265000,
@@ -24518,56 +24518,56 @@
   "fetched": "2026-11-06"
  },
  "907471": {
-  "revenue": 825757000,
+  "revenue": 822164000,
   "cost_of_revenue": null,
   "gross_profit": null,
   "operating_income": null,
-  "net_income": 175848000,
-  "cfo": 696867000,
-  "capex": 13260000,
-  "dna": 51212000,
-  "assets": 7314373000,
-  "equity": 850901000,
-  "lt_debt": 33533000,
-  "st_debt": 167500000,
-  "cash": 149412000,
-  "shares": 20773362,
-  "debt": 201033000,
+  "net_income": 175672000,
+  "cfo": 544376000,
+  "capex": 13145000,
+  "dna": 9600000,
+  "assets": 7253677000,
+  "equity": 820161000,
+  "lt_debt": 33559000,
+  "st_debt": 334500000,
+  "cash": 162398000,
+  "shares": 20700354,
+  "debt": 368059000,
   "roic": null,
   "margin_stability": null,
-  "share_growth": -0.0878,
-  "asset_growth": 0.0117,
-  "fscore": 7.71,
+  "share_growth": -0.0734,
+  "asset_growth": 0.0113,
+  "fscore": 6.43,
   "v": 3,
-  "as_of": "2026-06-30",
+  "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "861842": {
-  "revenue": 58815000,
+  "revenue": 58518000,
   "cost_of_revenue": null,
   "gross_profit": null,
   "operating_income": null,
-  "net_income": 347239000,
-  "cfo": 541184000,
-  "capex": 6941000,
-  "dna": 6361000,
-  "assets": 24652819000,
-  "equity": 3046614000,
-  "lt_debt": 119136000,
+  "net_income": 364762000,
+  "cfo": 472586000,
+  "capex": 7717000,
+  "dna": 6467000,
+  "assets": 25572501000,
+  "equity": 3056745000,
+  "lt_debt": 65011000,
   "st_debt": 0,
   "cash": 600290000,
-  "shares": 66713820,
-  "debt": 119136000,
+  "shares": 65900263,
+  "debt": 65011000,
   "roic": null,
   "margin_stability": null,
-  "share_growth": -0.0344,
-  "asset_growth": 0.0392,
+  "share_growth": -0.0314,
+  "asset_growth": 0.0622,
   "fscore": 7.71,
   "v": 3,
-  "as_of": "2026-06-30",
+  "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-10-23"
+  "fetched": "2026-11-27"
  },
  "1067294": {
   "revenue": 3318714000,
@@ -24726,30 +24726,30 @@
   "fetched": "2026-11-20"
  },
  "887733": {
-  "revenue": 3084065000,
-  "cost_of_revenue": 2080431000,
-  "gross_profit": 1003634000,
-  "operating_income": 249913000,
-  "net_income": 166312000,
-  "cfo": 390321000,
-  "capex": 44689000,
-  "dna": 81808000,
-  "assets": 3789953000,
-  "equity": 1745670000,
-  "lt_debt": 1193058000,
-  "st_debt": 55000,
-  "cash": 996710000,
+  "revenue": 2943300000,
+  "cost_of_revenue": 1933800000,
+  "gross_profit": 1009553000,
+  "operating_income": 285552000,
+  "net_income": 187708000,
+  "cfo": 315579000,
+  "capex": 44811000,
+  "dna": 80678000,
+  "assets": 3742670000,
+  "equity": 1763606000,
+  "lt_debt": 1193525000,
+  "st_debt": 56000,
+  "cash": 1092340000,
   "shares": null,
-  "debt": 1193113000,
-  "roic": 0.10166006633118323,
-  "margin_stability": -0.008809195469402021,
+  "debt": 1193581000,
+  "roic": 0.12096760753026924,
+  "margin_stability": -0.013693201450733149,
   "share_growth": -0.0,
-  "asset_growth": 0.0363,
+  "asset_growth": 0.0323,
   "fscore": 7.88,
   "v": 3,
-  "as_of": "2026-06-27",
+  "as_of": "2026-09-26",
   "stale": false,
-  "fetched": "2026-09-27"
+  "fetched": "2026-11-27"
  },
  "949157": {
   "revenue": 2996200000,
@@ -24808,26 +24808,26 @@
   "cost_of_revenue": null,
   "gross_profit": null,
   "operating_income": null,
-  "net_income": 82835000,
-  "cfo": 77846000,
-  "capex": 6316000,
+  "net_income": 86398000,
+  "cfo": 80692000,
+  "capex": 7040000,
   "dna": 5400000,
-  "assets": 9662184000,
-  "equity": 1021320000,
+  "assets": 9674800000,
+  "equity": 1006124000,
   "lt_debt": 2845000000,
   "st_debt": null,
-  "cash": 136098000,
-  "shares": 125698283,
+  "cash": 150292000,
+  "shares": 122666563,
   "debt": 2845000000,
   "roic": null,
   "margin_stability": null,
-  "share_growth": -0.0536,
-  "asset_growth": -0.0032,
+  "share_growth": -0.0694,
+  "asset_growth": -0.0106,
   "fscore": 7.71,
   "v": 3,
-  "as_of": "2026-06-30",
+  "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "726854": {
   "revenue": 74288000,
@@ -24882,30 +24882,30 @@
   "fetched": "2026-11-06"
  },
  "827876": {
-  "revenue": 766314000,
-  "cost_of_revenue": 360051000,
+  "revenue": 0,
+  "cost_of_revenue": 342307000,
   "gross_profit": 2951429,
-  "operating_income": -893798000,
-  "net_income": -997821000,
-  "cfo": -528706000,
-  "capex": 91295000,
-  "dna": 441554000,
-  "assets": 2702199000,
-  "equity": 761283000,
-  "lt_debt": 1780011000,
+  "operating_income": -883481000,
+  "net_income": -987092000,
+  "cfo": -468400000,
+  "capex": 318263000,
+  "dna": 428173000,
+  "assets": 5249898000,
+  "equity": 785955000,
+  "lt_debt": 3988869000,
   "st_debt": 531169,
-  "cash": 202601000,
-  "shares": 256817073,
-  "debt": 1780542169,
-  "roic": -0.30185239591716956,
+  "cash": 204759000,
+  "shares": 260509745,
+  "debt": 3989400169,
+  "roic": -0.1527043659498591,
   "margin_stability": -0.3861803499517547,
-  "share_growth": -0.0863,
-  "asset_growth": -0.1288,
-  "fscore": 4.0,
+  "share_growth": 0.0193,
+  "asset_growth": 0.649,
+  "fscore": 2.25,
   "v": 3,
-  "as_of": "2026-06-30",
+  "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-09-27"
+  "fetched": "2026-11-27"
  },
  "1385280": {
   "revenue": 3217400000,
@@ -25087,7 +25087,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-10-23"
+  "fetched": "2026-11-27"
  },
  "21535": {
   "revenue": 569307000,
@@ -25607,7 +25607,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "730464": {
   "revenue": 2003331000,
@@ -25737,7 +25737,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "1569345": {
   "revenue": 872882000,
@@ -26023,7 +26023,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "1669811": {
   "revenue": 787200000,
@@ -26413,7 +26413,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-13"
+  "fetched": "2026-11-27"
  },
  "890564": {
   "revenue": 3986800000,
@@ -26621,7 +26621,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "6955": {
   "revenue": 652300000,
@@ -27245,7 +27245,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "69891": {
   "revenue": 1180699000,
@@ -27297,7 +27297,7 @@
   "v": 3,
   "as_of": "2026-10-10",
   "stale": false,
-  "fetched": "2026-11-13"
+  "fetched": "2026-11-27"
  },
  "37785": {
   "revenue": 2814900000,
@@ -27661,7 +27661,7 @@
   "v": 3,
   "as_of": "2026-07-31",
   "stale": false,
-  "fetched": "2026-09-27"
+  "fetched": "2026-11-27"
  },
  "1192448": {
   "revenue": 690332000,
@@ -27739,7 +27739,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-13"
+  "fetched": "2026-11-27"
  },
  "1771515": {
   "revenue": 4752671000,
@@ -27895,7 +27895,7 @@
   "v": 3,
   "as_of": "2026-06-30",
   "stale": false,
-  "fetched": "2026-11-13"
+  "fetched": "2026-11-27"
  },
  "42582": {
   "revenue": 17693000000,
@@ -28051,7 +28051,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-13"
+  "fetched": "2026-11-27"
  },
  "1834622": {
   "revenue": 1183103000,
@@ -28129,7 +28129,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "731012": {
   "revenue": 1879860000,
@@ -28519,7 +28519,7 @@
   "v": 3,
   "as_of": "2025-09-30",
   "stale": false,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "46250": {
   "revenue": 1139482000,
@@ -28753,7 +28753,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "1609550": {
   "revenue": 880936000,
@@ -28779,7 +28779,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "1679049": {
   "revenue": 1543844000,
@@ -29094,30 +29094,30 @@
   "fetched": "2026-11-06"
  },
  "785956": {
-  "revenue": 1524797000,
-  "cost_of_revenue": 1048244000,
-  "gross_profit": 476553000,
-  "operating_income": 60181000,
-  "net_income": 49273000,
-  "cfo": 166872000,
-  "capex": 74872000,
-  "dna": 75550000,
-  "assets": 1355885000,
-  "equity": 892077000,
-  "lt_debt": 28000000,
+  "revenue": 1520571000,
+  "cost_of_revenue": 1037369000,
+  "gross_profit": 483202000,
+  "operating_income": 93613000,
+  "net_income": 71480000,
+  "cfo": 170153000,
+  "capex": 70889000,
+  "dna": 76132000,
+  "assets": 1346145000,
+  "equity": 911657000,
+  "lt_debt": 0,
   "st_debt": 29000000,
-  "cash": 63099000,
-  "shares": 18681608,
-  "debt": 57000000,
-  "roic": 0.053661592048561024,
-  "margin_stability": -0.010926213689135768,
-  "share_growth": -0.0404,
-  "asset_growth": -0.0411,
-  "fscore": 6.0,
+  "cash": 90253000,
+  "shares": 18650946,
+  "debt": 29000000,
+  "roic": 0.08696369019901129,
+  "margin_stability": -0.010915012157000227,
+  "share_growth": -0.0358,
+  "asset_growth": -0.0256,
+  "fscore": 7.0,
   "v": 3,
-  "as_of": "2026-06-27",
+  "as_of": "2026-09-26",
   "stale": false,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "745308": {
   "revenue": 542949000,
@@ -29507,7 +29507,7 @@
   "v": 3,
   "as_of": "2026-08-01",
   "stale": false,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "1760965": {
   "revenue": 3453307000,
@@ -29689,7 +29689,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-13"
+  "fetched": "2026-11-27"
  },
  "1845257": {
   "revenue": 1676889000,
@@ -29767,7 +29767,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-13"
+  "fetched": "2026-11-27"
  },
  "886163": {
   "revenue": 253827000,
@@ -30836,30 +30836,30 @@
   "fetched": "2026-11-06"
  },
  "799167": {
-  "revenue": 857647000,
+  "revenue": 860408000,
   "cost_of_revenue": null,
   "gross_profit": null,
-  "operating_income": 15828000,
-  "net_income": 12644000,
-  "cfo": 84838000,
+  "operating_income": 16154000,
+  "net_income": 13327000,
+  "cfo": 88867000,
   "capex": null,
-  "dna": 100383000,
-  "assets": 955485000,
-  "equity": 765962000,
+  "dna": 99394000,
+  "assets": 955966000,
+  "equity": 764164000,
   "lt_debt": 7886000,
   "st_debt": 19346000,
-  "cash": 103980000,
+  "cash": 91503000,
   "shares": 81661669,
   "debt": 27232000,
-  "roic": 0.01814257980830337,
+  "roic": 0.018233730013016276,
   "margin_stability": -0.0377241105459397,
   "share_growth": 0.0017,
-  "asset_growth": -0.0366,
+  "asset_growth": -0.0202,
   "fscore": 6.75,
   "v": 3,
-  "as_of": "2026-06-30",
+  "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-10-23"
+  "fetched": "2026-11-27"
  },
  "66004": {
   "revenue": 212255000,
@@ -31665,7 +31665,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "814453": {
   "revenue": 7313000000,
@@ -31717,7 +31717,7 @@
   "v": 3,
   "as_of": "2026-06-30",
   "stale": false,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "1423221": {
   "revenue": 1837641000,
@@ -31795,7 +31795,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "1821825": {
   "revenue": 6099000000,
@@ -32523,7 +32523,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "810136": {
   "revenue": 866824000,
@@ -33329,7 +33329,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "890926": {
   "revenue": 1965919000,
@@ -33644,30 +33644,30 @@
   "fetched": "2026-11-20"
  },
  "1718227": {
-  "revenue": 3477932000,
-  "cost_of_revenue": 2929829000,
-  "gross_profit": 548103000,
-  "operating_income": 297947000,
-  "net_income": 142510000,
-  "cfo": 352844000,
-  "capex": 177284000,
-  "dna": 168400000,
-  "assets": 3612008000,
-  "equity": 1040736000,
-  "lt_debt": 1744666000,
-  "st_debt": 41500000,
-  "cash": 94547000,
+  "revenue": 3674112000,
+  "cost_of_revenue": 3115328000,
+  "gross_profit": 558784000,
+  "operating_income": 300982000,
+  "net_income": 142148000,
+  "cfo": 343951000,
+  "capex": 182129000,
+  "dna": 169900000,
+  "assets": 3917501000,
+  "equity": 1126579000,
+  "lt_debt": 1911902000,
+  "st_debt": 41394000,
+  "cash": 132887000,
   "shares": null,
-  "debt": 1786166000,
-  "roic": 0.08614478352922662,
-  "margin_stability": -0.01911504085043619,
+  "debt": 1953296000,
+  "roic": 0.08068433940009256,
+  "margin_stability": -0.020057527479923665,
   "share_growth": -0.5139,
-  "asset_growth": 0.2345,
-  "fscore": 5.62,
+  "asset_growth": 0.2095,
+  "fscore": 6.75,
   "v": 3,
-  "as_of": "2026-06-30",
+  "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "912562": {
   "revenue": 1614092000,
@@ -34395,7 +34395,7 @@
   "v": 3,
   "as_of": null,
   "stale": true,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "90896": {
   "revenue": 2715158000,
@@ -34606,30 +34606,30 @@
   "fetched": "2026-11-06"
  },
  "913760": {
-  "revenue": 157707200000,
+  "revenue": 162443300000,
   "cost_of_revenue": 25902700000,
-  "gross_profit": 5675300000,
+  "gross_profit": 5933500000,
   "operating_income": -50000000,
-  "net_income": 526900000,
-  "cfo": 3857900000,
-  "capex": 73200000,
-  "dna": 100100000,
-  "assets": 54046000000,
-  "equity": 2844000000,
+  "net_income": 525400000,
+  "cfo": 420900000,
+  "capex": 73700000,
+  "dna": 104900000,
+  "assets": 58066400000,
+  "equity": 2934300000,
   "lt_debt": 186700000,
   "st_debt": 408500000,
-  "cash": 2194300000,
-  "shares": 120616735,
+  "cash": 2444800000,
+  "shares": 121565067,
   "debt": 595200000,
-  "roic": -0.031729456181219376,
+  "roic": -0.03641559878307366,
   "margin_stability": -0.00016007610860474555,
-  "share_growth": 1.3122,
-  "asset_growth": 0.5773,
-  "fscore": 4.5,
+  "share_growth": 1.3269,
+  "asset_growth": 0.2827,
+  "fscore": 5.62,
   "v": 3,
-  "as_of": "2026-06-30",
+  "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "1314727": {
   "revenue": 1546890000,
@@ -35279,7 +35279,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "97134": {
   "revenue": 1235800000,
@@ -35331,7 +35331,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-13"
+  "fetched": "2026-11-27"
  },
  "77543": {
   "revenue": 6254126000,
@@ -35487,7 +35487,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "357301": {
   "revenue": null,
@@ -35825,7 +35825,7 @@
   "v": 3,
   "as_of": "2026-07-31",
   "stale": false,
-  "fetched": "2026-09-27"
+  "fetched": "2026-11-27"
  },
  "82020": {
   "revenue": 381087000,
@@ -36345,7 +36345,7 @@
   "v": 3,
   "as_of": "2026-08-01",
   "stale": false,
-  "fetched": "2026-10-09"
+  "fetched": "2026-11-27"
  },
  "1525221": {
   "revenue": 1615644000,
@@ -36475,7 +36475,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "1990354": {
   "revenue": 1262710000,
@@ -37437,7 +37437,7 @@
   "v": 3,
   "as_of": "2026-07-31",
   "stale": false,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "2969": {
   "revenue": 12990900000,
@@ -37697,7 +37697,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "764180": {
   "revenue": 23517000000,
@@ -37853,7 +37853,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "5272": {
   "revenue": 27728000000,
@@ -37905,7 +37905,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-20"
+  "fetched": "2026-11-27"
  },
  "1410636": {
   "revenue": 5321000000,
@@ -38009,7 +38009,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "820313": {
   "revenue": 33046900000,
@@ -38035,33 +38035,33 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-06"
+  "fetched": "2026-11-27"
  },
  "6281": {
-  "revenue": 13881744000,
-  "cost_of_revenue": 4747609000,
-  "gross_profit": 9134135000,
-  "operating_income": 4934886000,
-  "net_income": 4135004000,
-  "cfo": 5545325000,
-  "capex": 607830000,
-  "dna": 420776000,
-  "assets": 48424417000,
-  "equity": 33550897000,
-  "lt_debt": 6771624000,
-  "st_debt": 1344855000,
-  "cash": 2165870000,
-  "shares": 484565465,
-  "debt": 8116479000,
-  "roic": 0.09869395713672284,
-  "margin_stability": -0.03336639685060061,
-  "share_growth": -0.015,
-  "asset_growth": 0.0048,
-  "fscore": 8.0,
+  "revenue": 15179047000,
+  "cost_of_revenue": 4954009000,
+  "gross_profit": 10225038000,
+  "operating_income": 5858189000,
+  "net_income": 4997425000,
+  "cfo": 6185545000,
+  "capex": 732910000,
+  "dna": 422637000,
+  "assets": 51526674000,
+  "equity": 33908669000,
+  "lt_debt": 9743889000,
+  "st_debt": 1343021000,
+  "cash": 4898454000,
+  "shares": 482676413,
+  "debt": 11086910000,
+  "roic": 0.11541898103667034,
+  "margin_stability": -0.056612777888318776,
+  "share_growth": -0.0143,
+  "asset_growth": 0.0736,
+  "fscore": 7.0,
   "v": 3,
-  "as_of": "2026-08-01",
+  "as_of": "2026-10-31",
   "stale": false,
-  "fetched": "2026-09-27"
+  "fetched": "2026-11-27"
  },
  "315293": {
   "revenue": 17681000000,
@@ -38454,30 +38454,30 @@
   "fetched": "2026-11-20"
  },
  "769397": {
-  "revenue": 7790000000,
-  "cost_of_revenue": 682000000,
-  "gross_profit": 7108000000,
-  "operating_income": 2041000000,
-  "net_income": 1642000000,
-  "cfo": 2896000000,
-  "capex": 57000000,
-  "dna": 201000000,
-  "assets": 12983000000,
-  "equity": 3383000000,
-  "lt_debt": 2500000000,
-  "st_debt": 994000000,
-  "cash": 4098000000,
-  "shares": 209000000,
-  "debt": 3494000000,
-  "roic": 0.5802051097517092,
+  "revenue": 8097000000,
+  "cost_of_revenue": 721000000,
+  "gross_profit": 7376000000,
+  "operating_income": 2122000000,
+  "net_income": 1862000000,
+  "cfo": 2975000000,
+  "capex": 61000000,
+  "dna": 240000000,
+  "assets": 14539000000,
+  "equity": 3819000000,
+  "lt_debt": 3476000000,
+  "st_debt": 993000000,
+  "cash": 1677000000,
+  "shares": 208000000,
+  "debt": 4469000000,
+  "roic": 0.25357434578732413,
   "margin_stability": -0.02920955982708232,
-  "share_growth": -0.0188,
-  "asset_growth": 0.1959,
+  "share_growth": -0.0189,
+  "asset_growth": 0.2984,
   "fscore": 8.0,
   "v": 3,
-  "as_of": "2026-07-31",
+  "as_of": "2026-10-31",
   "stale": false,
-  "fetched": "2026-09-27"
+  "fetched": "2026-11-27"
  },
  "2090312": {
   "revenue": 1847000000,
@@ -38555,7 +38555,7 @@
   "v": 3,
   "as_of": "2026-09-30",
   "stale": false,
-  "fetched": "2026-11-13"
+  "fetched": "2026-11-27"
  },
  "2105139": {
   "revenue": null,
@@ -38686,5 +38686,31 @@
   "as_of": "2026-09-30",
   "stale": false,
   "fetched": "2026-11-20"
+ },
+ "1834488": {
+  "revenue": 537216000,
+  "cost_of_revenue": 129541000,
+  "gross_profit": 407675000,
+  "operating_income": 54983000,
+  "net_income": -12173000,
+  "cfo": 98121000,
+  "capex": 22553000,
+  "dna": 44715000,
+  "assets": 1363332000,
+  "equity": 768262000,
+  "lt_debt": 391557000,
+  "st_debt": 4000000,
+  "cash": 92480000,
+  "shares": 176719518,
+  "debt": 395557000,
+  "roic": 0.04054418816079691,
+  "margin_stability": -0.04137229324634971,
+  "share_growth": -0.0516,
+  "asset_growth": -0.025,
+  "fscore": 4.0,
+  "v": 3,
+  "as_of": "2026-09-30",
+  "stale": false,
+  "fetched": "2026-11-27"
  }
 }

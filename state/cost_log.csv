@@ -6237,3 +6237,14 @@ macro_reason_2,claude-opus-5-5,784,11203,12721,0,0,True,False,0.1454,2026-11-20,
 macro_critic,claude-sonnet-5-5,11396,5018,11866,0,0,False,False,0.10264,2026-11-20,macro
 watch_news,claude-haiku-4-5-20251001,5202,893,0,0,0,False,False,0.00967,2026-11-27,watch
 watch_escalation,claude-sonnet-5-5,2957,489,0,0,0,False,False,0.0108,2026-11-27,watch
+macro_extract,gemini-3.8-flash@paid,13153,480,0,0,0,False,True,0.00515,2026-11-27,macro
+macro_extract,gemini-3.8-flash@paid,12749,835,0,0,0,False,True,0.00591,2026-11-27,macro
+macro_extract,gemini-3.8-flash@paid,8868,262,0,0,0,False,True,0.00332,2026-11-27,macro
+macro_extract,gemini-3.8-flash@paid,10059,733,0,0,0,False,True,0.00485,2026-11-27,macro
+macro_extract,gemini-3.8-flash@paid,8369,441,0,0,0,False,True,0.00361,2026-11-27,macro
+macro_gather,claude-haiku-4-5-20251001,2574,2999,50207,0,5,False,False,0.13033,2026-11-27,macro
+macro_reason_3,gemini-3.8-flash@paid,11770,8473,0,0,0,False,True,0.02471,2026-11-27,macro
+macro_reason_4,xai:grok-4.3,9993,2067,0,0,0,False,False,0.01766,2026-11-27,macro
+macro_reason_2,claude-opus-5-5,784,9247,13205,0,0,True,False,0.12705,2026-11-27,macro
+macro_reason_1,claude-sonnet-5,782,13925,13205,0,0,True,False,0.08691,2026-11-27,macro
+macro_critic,claude-sonnet-5-5,12979,5354,12350,0,0,False,False,0.11037,2026-11-27,macro

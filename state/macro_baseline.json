@@ -1,5 +1,5 @@
 {
- "date": "2026-11-20",
+ "date": "2026-11-27",
  "facts": {
   "SEP_FEDTARMD_2026": 4.1,
   "SEP_FEDTARMD_2027": 4.1,
@@ -23,8 +23,8 @@
  "dff": 3.88,
  "fred": {
   "PCEPILFE": {
-   "latest": 3.12,
-   "z": -0.61
+   "latest": 3.26,
+   "z": -0.47
   },
   "CPIAUCSL": {
    "latest": 4.08,
@@ -47,68 +47,68 @@
    "z": -0.12
   },
   "IC4WSA": {
-   "latest": 197750.0,
-   "z": -1.74
+   "latest": 196000.0,
+   "z": -1.88
   },
   "DFF": {
    "latest": 3.88,
    "z": 0.02
   },
   "DGS2": {
-   "latest": 4.76,
-   "z": 0.89
+   "latest": 4.61,
+   "z": 0.74
   },
   "DGS10": {
-   "latest": 5.04,
-   "z": 1.36
+   "latest": 4.85,
+   "z": 1.14
   },
   "T10Y2Y": {
-   "latest": 0.29,
-   "z": 0.49
+   "latest": 0.25,
+   "z": 0.41
   },
   "BAMLH0A0HYM2": {
-   "latest": 3.52,
-   "z": 1.32
+   "latest": 3.77,
+   "z": 2.01
   },
   "NFCI": {
-   "latest": -0.48,
-   "z": -0.65
+   "latest": -0.44,
+   "z": -0.43
   },
   "DCOILWTICO": {
-   "latest": 89.53,
-   "z": 0.7
+   "latest": 82.24,
+   "z": 0.18
   },
   "DCOILBRENTEU": {
-   "latest": 92.94,
-   "z": 0.45
+   "latest": 91.8,
+   "z": 0.38
   },
   "DTWEXBGS": {
-   "latest": 122.65,
-   "z": 0.45
+   "latest": 123.6,
+   "z": 0.73
   },
   "MORTGAGE30US": {
-   "latest": 7.28,
-   "z": 0.99
+   "latest": 7.21,
+   "z": 0.92
   },
   "PERMIT": {
-   "latest": 1295.0,
-   "z": -1.54
+   "latest": 1297.0,
+   "z": -1.53
   },
   "TOTLL": {
-   "latest": 7.48,
-   "z": 0.52
+   "latest": 7.5,
+   "z": 0.53
   },
   "DHHNGSP": {
-   "latest": 3.1,
-   "z": -0.28
+   "latest": 3.3,
+   "z": -0.17
   },
   "PCOPPUSDM": {
    "latest": 14473.06,
    "z": 2.7
   },
   "GASREGW": {
-   "latest": 3.81,
-   "z": 0.57
+   "latest": 3.64,
+   "z": 0.23
   },
   "PFOODINDEXM": {
    "latest": 137.11,
@@ -123,48 +123,48 @@
    "z": 0.52
   },
   "PSAVERT": {
-   "latest": 3.8,
-   "z": -1.23
+   "latest": 4.1,
+   "z": -0.95
   },
   "CP": {
-   "latest": 26.61,
-   "z": 1.23
+   "latest": 23.08,
+   "z": 1.87
   },
   "T10YIE": {
    "latest": 2.15,
    "z": -1.36
   },
   "A191RL1Q225SBEA": {
-   "latest": 3.4,
-   "z": 0.45
+   "latest": 4.3,
+   "z": 0.96
   },
   "GDPNOW": {
-   "latest": 3.21,
-   "z": 0.4
+   "latest": 2.9,
+   "z": 0.25
   },
   "INDPRO": {
-   "latest": 2.15,
-   "z": 1.0
+   "latest": 1.66,
+   "z": 0.67
   },
   "UMCSENT": {
    "latest": 48.0,
    "z": -1.63
   },
   "VIXCLS": {
-   "latest": 28.44,
-   "z": 1.84
+   "latest": 26.8,
+   "z": 1.55
   },
   "OVXCLS": {
-   "latest": 50.67,
-   "z": 0.58
+   "latest": 48.04,
+   "z": 0.38
   },
   "EPUTRADE": {
    "latest": 1400.77,
    "z": 0.17
   },
   "USEPUINDXD": {
-   "latest": 162.28,
-   "z": -0.36
+   "latest": 108.2,
+   "z": -0.78
   },
   "SAHMREALTIME": {
    "latest": 0.0,

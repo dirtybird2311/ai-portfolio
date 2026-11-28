@@ -527,8 +527,8 @@
   "n_flagged": 44
  },
  "catalysts": {
-  "graded": 11,
-  "hit_rate_%": 63.6
+  "graded": 12,
+  "hit_rate_%": 66.7
  },
  "process_errors": {
   "date": "2026-11-14",
@@ -545,52 +545,96 @@
  "macro": {
   "4w": {
    "macro_ic": {
-    "dates": 5,
-    "mean_ic": 0.081,
-    "t": 0.57,
-    "hit_%": 80,
-    "effective_n": 5.0
+    "dates": 6,
+    "mean_ic": 0.095,
+    "t": 0.81,
+    "hit_%": 83,
+    "effective_n": 6.0
    },
    "momentum_rule_ic": {
-    "dates": 5,
-    "mean_ic": -0.184,
-    "t": -3.05,
+    "dates": 6,
+    "mean_ic": -0.253,
+    "t": -2.98,
     "hit_%": 0,
-    "effective_n": 5.0
+    "effective_n": 6.0
    },
    "base_ic": {
-    "dates": 5,
-    "mean_ic": -0.133,
-    "t": -2.22,
-    "hit_%": 40,
-    "effective_n": 5.0
+    "dates": 6,
+    "mean_ic": -0.17,
+    "t": -2.78,
+    "hit_%": 33,
+    "effective_n": 6.0
    },
    "brier": {
-    "p": 0.26886,
-    "base_p": 0.26999,
-    "momentum_p": 0.26809
+    "p": 0.26536,
+    "base_p": 0.26979,
+    "momentum_p": 0.27016
    },
    "macro_vs_base": {
-    "n": 88,
-    "dates": 5,
-    "improvement": 0.00757,
-    "t": 1.26,
-    "upper95": 0.01938,
-    "lower95": -0.00424
+    "n": 99,
+    "dates": 6,
+    "improvement": 0.01144,
+    "t": 1.83,
+    "upper95": 0.02372,
+    "lower95": -0.00083
    },
    "macro_vs_momentum": {
-    "n": 88,
-    "dates": 5,
-    "improvement": 0.00785,
-    "t": 0.95,
-    "upper95": 0.02397,
-    "lower95": -0.00828
+    "n": 99,
+    "dates": 6,
+    "improvement": 0.01477,
+    "t": 1.53,
+    "upper95": 0.03367,
+    "lower95": -0.00414
+   }
+  },
+  "8w": {
+   "macro_ic": {
+    "dates": 2,
+    "mean_ic": -0.202,
+    "t": -10.56,
+    "hit_%": 0,
+    "effective_n": 1.0
+   },
+   "momentum_rule_ic": {
+    "dates": 2,
+    "mean_ic": -0.518,
+    "t": -4667366886547604.0,
+    "hit_%": 0,
+    "effective_n": 1.0
+   },
+   "base_ic": {
+    "dates": 2,
+    "mean_ic": -0.215,
+    "t": -7750084043662114.0,
+    "hit_%": 0,
+    "effective_n": 1.0
+   },
+   "brier": {
+    "p": 0.27985,
+    "base_p": 0.27393,
+    "momentum_p": 0.26127
+   },
+   "macro_vs_base": {
+    "n": 55,
+    "dates": 2,
+    "improvement": -0.0037,
+    "t": -0.71,
+    "upper95": 0.00655,
+    "lower95": -0.01395
+   },
+   "macro_vs_momentum": {
+    "n": 55,
+    "dates": 2,
+    "improvement": -0.01636,
+    "t": -3.13,
+    "upper95": -0.00611,
+    "lower95": -0.02661
    }
   },
   "first_run": "2026-09-26",
   "rule": {
    "verdict": "collecting",
-   "why": "1.8 of 12 months"
+   "why": "2.1 of 12 months"
   }
  },
  "labelers": {
@@ -612,7 +656,7 @@
  },
  "rule": {
   "look": 0,
-  "months": 1.8,
+  "months": 2.1,
   "stat": {
    "dates": 4,
    "mean_ic": 0.129,
@@ -630,6 +674,6 @@
   },
   "promotion_candidates": [],
   "verdict": "collecting",
-  "why": "1.8 months of decisions; first scheduled look at 3 months"
+  "why": "2.1 months of decisions; first scheduled look at 3 months"
  }
 }

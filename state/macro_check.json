@@ -1,184 +1,114 @@
 {
- "date": "2026-11-20",
- "view_date": "2026-11-13",
+ "date": "2026-11-27",
+ "view_date": "2026-11-20",
  "regime": "Reflation (growth up, inflation up)",
  "fed": "on hold",
- "triggers": [
-  "S&P 500 down -8.6% in a week"
- ],
+ "triggers": [],
  "tripwires": [
-  "S&P 500 down -8.6% in a week"
+  "High-yield credit spread is newly unusual (z +1.3 -> +2.0)"
  ],
- "market_risk": "Recession within 12 months: 30% (elevated; typical 23%). S&P 500 10%+ pullback within 3 months: 15% (normal; typical 13%).",
+ "market_risk": "Recession within 12 months: 24% (normal; typical 23%). S&P 500 10%+ pullback within 3 months: 15% (normal; typical 13%).",
  "changes_since_view": [
   {
    "id": "BAMLH0A0HYM2",
    "label": "High-yield credit spread",
    "tier": "core",
-   "at_view": 3.2,
-   "now": 3.52,
-   "as_of": "2026-11-19",
-   "z_change": 0.96,
-   "flags": []
+   "at_view": 3.52,
+   "now": 3.77,
+   "as_of": "2026-11-26",
+   "z_change": 0.69,
+   "flags": [
+    "UNUSUAL (z=+2.0 vs 5-yr history)"
+   ]
   },
   {
-   "id": "PERMIT",
-   "label": "Building permits (thousands, annual rate)",
+   "id": "CP",
+   "label": "Corporate profits YoY %",
    "tier": "driver",
-   "at_view": 1398.0,
-   "now": 1295.0,
-   "as_of": "2026-10-01",
-   "z_change": -0.66,
-   "flags": []
-  },
-  {
-   "id": "GASREGW",
-   "label": "Regular gasoline $/gal",
-   "tier": "driver",
-   "at_view": 4.0,
-   "now": 3.81,
-   "as_of": "2026-11-16",
-   "z_change": -0.39,
-   "flags": []
-  },
-  {
-   "id": "DTWEXBGS",
-   "label": "Trade-weighted dollar index",
-   "tier": "driver",
-   "at_view": 121.88,
-   "now": 122.65,
-   "as_of": "2026-11-13",
-   "z_change": 0.24,
-   "flags": []
-  },
-  {
-   "id": "IR",
-   "label": "Import prices YoY %",
-   "tier": "driver",
-   "at_view": 8.1,
-   "now": 9.23,
-   "as_of": "2026-10-31",
-   "z_change": 0.22,
-   "flags": []
-  },
-  {
-   "id": "IC4WSA",
-   "label": "Initial jobless claims, 4-wk avg",
-   "tier": "core",
-   "at_view": 195250.0,
-   "now": 197750.0,
-   "as_of": "2026-11-14",
-   "z_change": 0.19,
-   "flags": []
-  },
-  {
-   "id": "MORTGAGE30US",
-   "label": "30-yr mortgage rate %",
-   "tier": "driver",
-   "at_view": 7.11,
-   "now": 7.28,
-   "as_of": "2026-11-19",
-   "z_change": 0.18,
-   "flags": []
-  },
-  {
-   "id": "RSAFS",
-   "label": "Retail sales YoY %",
-   "tier": "driver",
-   "at_view": 6.29,
-   "now": 6.82,
-   "as_of": "2026-10-31",
-   "z_change": 0.16,
-   "flags": []
-  },
-  {
-   "id": "NFCI",
-   "label": "Chicago Fed financial conditions (negative = loose)",
-   "tier": "core",
-   "at_view": -0.46,
-   "now": -0.48,
-   "as_of": "2026-11-13",
-   "z_change": -0.12,
-   "flags": []
-  },
-  {
-   "id": "DGS2",
-   "label": "2-yr Treasury yield %",
-   "tier": "core",
-   "at_view": 4.86,
-   "now": 4.76,
-   "as_of": "2026-11-19",
-   "z_change": -0.09,
-   "flags": []
-  },
-  {
-   "id": "OVXCLS",
-   "label": "Oil volatility index (OVX)",
-   "tier": "driver",
-   "at_view": 51.72,
-   "now": 50.67,
-   "as_of": "2026-11-19",
-   "z_change": -0.08,
-   "flags": []
-  },
-  {
-   "id": "DGS10",
-   "label": "10-yr Treasury yield %",
-   "tier": "core",
-   "at_view": 5.1,
-   "now": 5.04,
-   "as_of": "2026-11-19",
-   "z_change": -0.07,
-   "flags": []
-  },
-  {
-   "id": "TOTLL",
-   "label": "Bank loans & leases YoY %",
-   "tier": "driver",
-   "at_view": 7.25,
-   "now": 7.48,
-   "as_of": "2026-11-30",
-   "z_change": 0.07,
-   "flags": []
-  },
-  {
-   "id": "DHHNGSP",
-   "label": "Henry Hub natural gas $/MMBtu",
-   "tier": "driver",
-   "at_view": 3.0,
-   "now": 3.1,
-   "as_of": "2026-11-17",
-   "z_change": 0.06,
-   "flags": []
-  },
-  {
-   "id": "DCOILBRENTEU",
-   "label": "Brent crude oil $/bbl",
-   "tier": "core",
-   "at_view": 92.14,
-   "now": 92.94,
-   "as_of": "2026-11-17",
-   "z_change": 0.05,
-   "flags": []
-  },
-  {
-   "id": "T10Y2Y",
-   "label": "10-yr minus 2-yr spread",
-   "tier": "core",
-   "at_view": 0.27,
-   "now": 0.29,
-   "as_of": "2026-11-20",
-   "z_change": 0.04,
+   "at_view": 26.61,
+   "now": 23.08,
+   "as_of": "2026-07-31",
+   "z_change": 0.64,
    "flags": []
   },
   {
    "id": "DCOILWTICO",
    "label": "WTI crude oil $/bbl",
    "tier": "core",
-   "at_view": 89.62,
-   "now": 89.53,
-   "as_of": "2026-11-17",
-   "z_change": -0.01,
+   "at_view": 89.53,
+   "now": 82.24,
+   "as_of": "2026-11-24",
+   "z_change": -0.52,
+   "flags": []
+  },
+  {
+   "id": "GASREGW",
+   "label": "Regular gasoline $/gal",
+   "tier": "driver",
+   "at_view": 3.81,
+   "now": 3.64,
+   "as_of": "2026-11-23",
+   "z_change": -0.34,
+   "flags": []
+  },
+  {
+   "id": "DTWEXBGS",
+   "label": "Trade-weighted dollar index",
+   "tier": "driver",
+   "at_view": 122.65,
+   "now": 123.6,
+   "as_of": "2026-11-20",
+   "z_change": 0.28,
+   "flags": []
+  },
+  {
+   "id": "PSAVERT",
+   "label": "Personal saving rate %",
+   "tier": "driver",
+   "at_view": 3.8,
+   "now": 4.1,
+   "as_of": "2026-10-01",
+   "z_change": 0.28,
+   "flags": []
+  },
+  {
+   "id": "DGS10",
+   "label": "10-yr Treasury yield %",
+   "tier": "core",
+   "at_view": 5.04,
+   "now": 4.85,
+   "as_of": "2026-11-25",
+   "z_change": -0.22,
+   "flags": []
+  },
+  {
+   "id": "NFCI",
+   "label": "Chicago Fed financial conditions (negative = loose)",
+   "tier": "core",
+   "at_view": -0.48,
+   "now": -0.44,
+   "as_of": "2026-11-20",
+   "z_change": 0.22,
+   "flags": []
+  },
+  {
+   "id": "OVXCLS",
+   "label": "Oil volatility index (OVX)",
+   "tier": "driver",
+   "at_view": 50.67,
+   "now": 48.04,
+   "as_of": "2026-11-25",
+   "z_change": -0.2,
+   "flags": []
+  },
+  {
+   "id": "DGS2",
+   "label": "2-yr Treasury yield %",
+   "tier": "core",
+   "at_view": 4.76,
+   "now": 4.61,
+   "as_of": "2026-11-25",
+   "z_change": -0.15,
    "flags": []
   },
   {
@@ -186,9 +116,79 @@
    "label": "Core PCE inflation YoY %",
    "tier": "core",
    "at_view": 3.12,
-   "now": 3.12,
-   "as_of": "2026-09-30",
-   "z_change": 0.0,
+   "now": 3.26,
+   "as_of": "2026-10-31",
+   "z_change": 0.14,
+   "flags": []
+  },
+  {
+   "id": "IC4WSA",
+   "label": "Initial jobless claims, 4-wk avg",
+   "tier": "core",
+   "at_view": 197750.0,
+   "now": 196000.0,
+   "as_of": "2026-11-21",
+   "z_change": -0.14,
+   "flags": []
+  },
+  {
+   "id": "DHHNGSP",
+   "label": "Henry Hub natural gas $/MMBtu",
+   "tier": "driver",
+   "at_view": 3.1,
+   "now": 3.3,
+   "as_of": "2026-11-24",
+   "z_change": 0.11,
+   "flags": []
+  },
+  {
+   "id": "T10Y2Y",
+   "label": "10-yr minus 2-yr spread",
+   "tier": "core",
+   "at_view": 0.29,
+   "now": 0.25,
+   "as_of": "2026-11-27",
+   "z_change": -0.08,
+   "flags": []
+  },
+  {
+   "id": "DCOILBRENTEU",
+   "label": "Brent crude oil $/bbl",
+   "tier": "core",
+   "at_view": 92.94,
+   "now": 91.8,
+   "as_of": "2026-11-24",
+   "z_change": -0.07,
+   "flags": []
+  },
+  {
+   "id": "MORTGAGE30US",
+   "label": "30-yr mortgage rate %",
+   "tier": "driver",
+   "at_view": 7.28,
+   "now": 7.21,
+   "as_of": "2026-11-25",
+   "z_change": -0.07,
+   "flags": []
+  },
+  {
+   "id": "PERMIT",
+   "label": "Building permits (thousands, annual rate)",
+   "tier": "driver",
+   "at_view": 1295.0,
+   "now": 1297.0,
+   "as_of": "2026-10-01",
+   "z_change": 0.01,
+   "flags": []
+  },
+  {
+   "id": "TOTLL",
+   "label": "Bank loans & leases YoY %",
+   "tier": "driver",
+   "at_view": 7.48,
+   "now": 7.5,
+   "as_of": "2026-11-30",
+   "z_change": 0.01,
    "flags": []
   },
   {
@@ -247,7 +247,7 @@
    "tier": "core",
    "at_view": 3.88,
    "now": 3.88,
-   "as_of": "2026-11-19",
+   "as_of": "2026-11-26",
    "z_change": 0.0,
    "flags": []
   },
@@ -261,7 +261,7 @@
    "z_change": 0.0,
    "flags": [
     "UNUSUAL (z=+2.7 vs 5-yr history)",
-    "STALE (80 days old)"
+    "STALE (87 days old)"
    ]
   },
   {
@@ -273,32 +273,28 @@
    "as_of": "2026-09-01",
    "z_change": 0.0,
    "flags": [
-    "STALE (80 days old)"
+    "STALE (87 days old)"
    ]
   },
   {
-   "id": "PSAVERT",
-   "label": "Personal saving rate %",
+   "id": "IR",
+   "label": "Import prices YoY %",
    "tier": "driver",
-   "at_view": 3.8,
-   "now": 3.8,
-   "as_of": "2026-09-01",
+   "at_view": 9.23,
+   "now": 9.23,
+   "as_of": "2026-10-31",
    "z_change": 0.0,
-   "flags": [
-    "STALE (80 days old)"
-   ]
+   "flags": []
   },
   {
-   "id": "CP",
-   "label": "Corporate profits YoY %",
+   "id": "RSAFS",
+   "label": "Retail sales YoY %",
    "tier": "driver",
-   "at_view": 26.61,
-   "now": 26.61,
-   "as_of": "2026-04-30",
+   "at_view": 6.82,
+   "now": 6.82,
+   "as_of": "2026-10-31",
    "z_change": 0.0,
-   "flags": [
-    "STALE (204 days old)"
-   ]
+   "flags": []
   },
   {
    "id": "EPUTRADE",
@@ -309,7 +305,7 @@
    "as_of": "2026-09-01",
    "z_change": 0.0,
    "flags": [
-    "STALE (80 days old)"
+    "STALE (87 days old)"
    ]
   },
   {
@@ -321,7 +317,7 @@
    "as_of": "2026-09-01",
    "z_change": 0.0,
    "flags": [
-    "STALE (80 days old)"
+    "STALE (87 days old)"
    ]
   },
   {
@@ -333,7 +329,7 @@
    "as_of": "2026-09-01",
    "z_change": 0.0,
    "flags": [
-    "STALE (80 days old)"
+    "STALE (87 days old)"
    ]
   },
   {
@@ -345,7 +341,7 @@
    "as_of": "2026-09-01",
    "z_change": 0.0,
    "flags": [
-    "STALE (80 days old)"
+    "STALE (87 days old)"
    ]
   },
   {
@@ -357,7 +353,7 @@
    "as_of": "2026-09-01",
    "z_change": 0.0,
    "flags": [
-    "STALE (80 days old)"
+    "STALE (87 days old)"
    ]
   }
  ],
