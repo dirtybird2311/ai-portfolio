@@ -1,0 +1,77 @@
+{
+ "date": "2026-11-27",
+ "price_flags": {
+  "PBF": {
+   "move": 0.0,
+   "flags": [
+    "-31% below cost"
+   ]
+  }
+ },
+ "triggers": [],
+ "news_screen": {
+  "ADM": {
+   "status": "ok",
+   "why": "Bioethanol market growth headline is positive for ADM's fuel segment thesis and supports the guidance raise narrative. No signal of credit spread widening (>50bps) or EPS guidance cuts below $5.15."
+  },
+  "ALL": {
+   "status": "watch",
+   "why": "Multiday tech outage adds to list of company disruptions and raises operational risk concerns. However, outages alone don't directly trigger the exit condition (>$2.5B quarterly catastrophe losses). Monitor for impact on underwriting income."
+  },
+  "APA": {
+   "status": "ok",
+   "why": "Multiple analyst upgrades to Strong Buy and momentum-stock inclusions reinforce the positive revision thesis. No headlines suggest WTI below $55/bbl. Rating upgrades align with the forward EPS estimate strength driving the thesis."
+  },
+  "CHRD": {
+   "status": "watch",
+   "why": "No thesis or exit condition provided, so assessment is limited. Headlines mention asset sales and fair value assessment but lack context to evaluate against missing thesis."
+  },
+  "DAR": {
+   "status": "ok",
+   "why": "Valuation assessment headline is neutral-to-positive after recent gains. No signal of EPA RIN mandate reductions or delays. Fuel Ingredients tailwind remains intact."
+  },
+  "DLTR": {
+   "status": "ok",
+   "why": "Strong earnings beat, Black Friday strength, and consumer traffic resilience support the thesis. Multiple headlines confirm upward revisions and positive momentum. No indication of Q3 EPS guidance cut below $0.80."
+  },
+  "DRH": {
+   "status": "ok",
+   "why": "Headline on leverage and hotel value playbooks is neutral and supportive of the existing thesis. No indication of full-year outlook cuts or negative RevPAR guidance."
+  },
+  "DXCM": {
+   "status": "ok",
+   "why": "Market report on wearable healthcare devices positioning DXCM favorably in a growing sector. No indication of operating margin guidance cuts below 20% or refinancing difficulties."
+  },
+  "OXY": {
+   "status": "watch",
+   "why": "No thesis or exit condition provided. Multiple headlines reference strong fundamentals, Berkshire holdings, and analyst rankings, but without defined thesis and exit criteria, assessment is limited."
+  },
+  "PBF": {
+   "status": "ok",
+   "why": "Headlines confirm oversold technical setup and strong analyst estimate agreement supporting turnaround narrative. No signal of WTI below $70/bbl. Refining upside thesis remains supported."
+  },
+  "REGN": {
+   "status": "ok",
+   "why": "52-week high and analyst optimism reinforce positive revision momentum. Sanofi collaboration headline supports pipeline narrative. No FDA complete response letter disclosure for EYLEA HD."
+  },
+  "RS": {
+   "status": "ok",
+   "why": "No direct news on Metals Service Centers Q3 results or revenue trends. Dividend and industrial credit headlines are tangentially relevant but do not trigger the revenue decline exit condition."
+  },
+  "VCTR": {
+   "status": "ok",
+   "why": "Record Q2 results headline supports the operating improvement narrative. No indication of net client outflows in the next quarterly filing. Momentum thesis remains intact."
+  },
+  "XOM": {
+   "status": "watch",
+   "why": "No thesis or exit condition provided. Angola expansion and oil price support headlines are positive for energy sector, but without defined thesis and exit criteria, full assessment is constrained."
+  }
+ },
+ "reviews": {
+  "PBF": {
+   "verdict": "at_risk",
+   "action": "review",
+   "why": "No evidence in the provided material that WTI has fallen below $70, so the exit condition hasn't triggered, and analyst estimate revisions remain positive. However, a 31% loss versus cost and a ~25% four-week drop are unexplained by the headlines, and the oil/margin leg of the thesis is unconfirmed, so WTI levels and refining margins should be checked."
+  }
+ }
+}

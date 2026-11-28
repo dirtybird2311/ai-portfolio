@@ -6235,3 +6235,5 @@ macro_reason_4,xai:grok-4.3,9633,2295,0,0,0,False,False,0.01778,2026-11-20,macro
 macro_reason_1,claude-sonnet-5,782,10812,12721,0,0,True,False,0.07074,2026-11-20,macro
 macro_reason_2,claude-opus-5-5,784,11203,12721,0,0,True,False,0.1454,2026-11-20,macro
 macro_critic,claude-sonnet-5-5,11396,5018,11866,0,0,False,False,0.10264,2026-11-20,macro
+watch_news,claude-haiku-4-5-20251001,5202,893,0,0,0,False,False,0.00967,2026-11-27,watch
+watch_escalation,claude-sonnet-5-5,2957,489,0,0,0,False,False,0.0108,2026-11-27,watch

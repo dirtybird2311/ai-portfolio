@@ -7081,3 +7081,17 @@ date,ticker,headline,model,live,label,source
 2026-11-20,STBA,(daily watch screen),gemma-4-31b-it,False,UNKNOWN,watch
 2026-11-20,VCTR,(daily watch screen),gemma-4-31b-it,False,UNKNOWN,watch
 2026-11-20,XOM,(daily watch screen),gemma-4-31b-it,False,UNKNOWN,watch
+2026-11-27,ADM,(daily watch screen),claude-haiku-4-5-20251001,True,UNKNOWN,watch
+2026-11-27,ALL,(daily watch screen),claude-haiku-4-5-20251001,True,UNKNOWN,watch
+2026-11-27,APA,(daily watch screen),claude-haiku-4-5-20251001,True,UNKNOWN,watch
+2026-11-27,CHRD,(daily watch screen),claude-haiku-4-5-20251001,True,UNKNOWN,watch
+2026-11-27,DAR,(daily watch screen),claude-haiku-4-5-20251001,True,UNKNOWN,watch
+2026-11-27,DLTR,(daily watch screen),claude-haiku-4-5-20251001,True,UNKNOWN,watch
+2026-11-27,DRH,(daily watch screen),claude-haiku-4-5-20251001,True,UNKNOWN,watch
+2026-11-27,DXCM,(daily watch screen),claude-haiku-4-5-20251001,True,UNKNOWN,watch
+2026-11-27,OXY,(daily watch screen),claude-haiku-4-5-20251001,True,UNKNOWN,watch
+2026-11-27,PBF,(daily watch screen),claude-haiku-4-5-20251001,True,UNKNOWN,watch
+2026-11-27,REGN,(daily watch screen),claude-haiku-4-5-20251001,True,UNKNOWN,watch
+2026-11-27,RS,(daily watch screen),claude-haiku-4-5-20251001,True,UNKNOWN,watch
+2026-11-27,VCTR,(daily watch screen),claude-haiku-4-5-20251001,True,UNKNOWN,watch
+2026-11-27,XOM,(daily watch screen),claude-haiku-4-5-20251001,True,UNKNOWN,watch
